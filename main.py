@@ -49,36 +49,10 @@ def setup_directories():
         os.makedirs(DATA_DIR)
         print(f"  - Created directory: {DATA_DIR}")
 
-def download_recent_data(ticker, days=30):
+def check_for_dividend_simple(ticker):
     """
-    Downloads recent stock data (last N days) for dividend detection.
-    """
-    end_date = datetime.now().strftime('%Y-%m-%d')
-    start_date = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
-    
-    try:
-        df = stock_reader.quote.history(
-            symbol=ticker,
-            start=start_date,
-            end=end_date,
-            interval='1D'
-        )
-        time.sleep(2)  # Rate limiting
-        
-        if not df.empty:
-            df['time'] = pd.to_datetime(df['time'])
-            df = df.sort_values(by='time')
-            return df
-        else:
-            return None
-    except Exception as e:
-        print(f"   - ERROR downloading recent data for {ticker}: {e}")
-        return None
-
-def check_for_dividends(ticker, recent_df):
-    """
-    Compare recent data with existing CSV to detect dividend adjustments.
-    Returns True if dividends detected, False otherwise.
+    Simple dividend detection: Get last 30 days from API, compare with same dates from existing file.
+    If prices differ significantly for matching dates from a week ago, it's likely a dividend.
     """
     file_path = os.path.join(DATA_DIR, f"{ticker}.csv")
     
@@ -86,59 +60,77 @@ def check_for_dividends(ticker, recent_df):
         return False  # No existing data to compare
     
     try:
-        # Read existing data
+        # Download last 30 days from API
+        end_date = datetime.now().strftime('%Y-%m-%d')
+        start_date = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+        
+        print(f"   - DEBUG: Checking dividend by downloading {start_date} to {end_date}")
+        api_df = stock_reader.quote.history(
+            symbol=ticker,
+            start=start_date,
+            end=end_date,
+            interval='1D'
+        )
+        time.sleep(2)  # Rate limiting
+        
+        if api_df.empty:
+            print(f"   - DEBUG: No API data for dividend check")
+            return False
+        
+        api_df['time'] = pd.to_datetime(api_df['time'])
+        
+        # Load existing data
         existing_df = pd.read_csv(file_path)
         existing_df['time'] = pd.to_datetime(existing_df['time'])
         
-        # Get last 30 days from existing data for comparison
-        cutoff_date = datetime.now() - timedelta(days=30)
-        existing_recent = existing_df[existing_df['time'] >= cutoff_date].copy()
+        # Get dates from a week ago (more stable than very recent dates)
+        week_ago = datetime.now() - timedelta(days=7)
+        two_weeks_ago = datetime.now() - timedelta(days=14)
         
-        if len(existing_recent) < 5:  # Not enough data for comparison
+        # Filter both datasets to the comparison period
+        api_compare = api_df[(api_df['time'] >= two_weeks_ago) & (api_df['time'] <= week_ago)].copy()
+        existing_compare = existing_df[(existing_df['time'] >= two_weeks_ago) & (existing_df['time'] <= week_ago)].copy()
+        
+        print(f"   - DEBUG: API compare data: {len(api_compare)} rows")
+        print(f"   - DEBUG: Existing compare data: {len(existing_compare)} rows")
+        
+        if len(api_compare) < 3 or len(existing_compare) < 3:
+            print(f"   - DEBUG: Not enough data for comparison")
             return False
         
-        # Merge on date to compare same trading days
-        merged = pd.merge(recent_df, existing_recent, on='time', suffixes=('_new', '_old'))
+        # Merge on matching dates
+        merged = pd.merge(api_compare, existing_compare, on='time', suffixes=('_api', '_existing'))
+        print(f"   - DEBUG: Merged {len(merged)} matching dates")
         
-        if len(merged) < 5:  # Not enough matching dates
+        if len(merged) < 3:
+            print(f"   - DEBUG: Not enough matching dates")
             return False
         
-        # Compare prices for dividend detection
-        ratios = []
-        for col in ['open', 'high', 'low', 'close']:
-            new_col = f"{col}_new"
-            old_col = f"{col}_old"
-            
-            # Skip if any prices are zero or null
-            valid_mask = (merged[new_col] > 0) & (merged[old_col] > 0)
-            valid_data = merged[valid_mask]
-            
-            if len(valid_data) > 0:
-                price_ratios = valid_data[old_col] / valid_data[new_col]
-                ratios.extend(price_ratios.tolist())
+        # Compare close prices - if they're consistently different, it's likely a dividend
+        price_diffs = []
+        for _, row in merged.iterrows():
+            if row['close_existing'] > 0 and row['close_api'] > 0:
+                ratio = row['close_existing'] / row['close_api']
+                price_diffs.append(ratio)
+                print(f"   - DEBUG: Date {row['time'].strftime('%Y-%m-%d')}: existing={row['close_existing']}, api={row['close_api']}, ratio={ratio:.4f}")
         
-        if len(ratios) < 10:  # Need sufficient price comparisons
+        if len(price_diffs) < 3:
             return False
         
-        # Calculate statistics
-        avg_ratio = sum(ratios) / len(ratios)
-        ratio_std = (sum((r - avg_ratio)**2 for r in ratios) / len(ratios))**0.5
-        ratio_cv = ratio_std / avg_ratio if avg_ratio > 0 else 1
+        avg_ratio = sum(price_diffs) / len(price_diffs)
         
-        # Dividend detection criteria
-        is_dividend = (
-            avg_ratio > 1.05 and  # At least 5% price difference
-            ratio_cv < 0.03 and   # Very consistent across all prices
-            len([r for r in ratios if r > 1.02]) >= len(ratios) * 0.8  # 80% of ratios show adjustment
-        )
+        # If average ratio > 1.02 (2% difference), likely dividend
+        is_dividend = avg_ratio > 1.02
         
         if is_dividend:
-            print(f"   - DIVIDEND DETECTED for {ticker}: avg_ratio={avg_ratio:.4f}, cv={ratio_cv:.4f}")
+            print(f"   - DIVIDEND DETECTED for {ticker}: avg_ratio={avg_ratio:.4f}")
+        else:
+            print(f"   - No dividend detected for {ticker}: avg_ratio={avg_ratio:.4f}")
         
         return is_dividend
         
     except Exception as e:
-        print(f"   - Error checking dividends for {ticker}: {e}")
+        print(f"   - ERROR checking dividend for {ticker}: {e}")
         return False
 
 def download_full_data(ticker, start_date, end_date):
@@ -169,6 +161,52 @@ def download_full_data(ticker, start_date, end_date):
         print(f"   - ERROR downloading full data for {ticker}: {e}")
         return None
 
+def update_last_row_and_append_new_data(existing_df, new_df):
+    """
+    Update the last row of existing data and append new data, avoiding duplicates.
+    This handles cases where the last row might be incomplete or needs updating.
+    Returns the combined DataFrame with updated last row and new rows added.
+    """
+    print(f"   - DEBUG: Existing data has {len(existing_df)} rows")
+    print(f"   - DEBUG: New data has {len(new_df)} rows")
+    
+    if existing_df.empty:
+        print(f"   - DEBUG: No existing data, returning new data")
+        return new_df
+    
+    # Find the latest date in existing data
+    latest_date = existing_df['time'].max()
+    print(f"   - DEBUG: Latest existing date: {latest_date.strftime('%Y-%m-%d')}")
+    
+    # Check if new data contains the same date as the last existing row
+    same_date_rows = new_df[new_df['time'] == latest_date].copy()
+    print(f"   - DEBUG: Found {len(same_date_rows)} rows with same date as last existing row")
+    
+    if not same_date_rows.empty:
+        print(f"   - Updating last row for date {latest_date.strftime('%Y-%m-%d')}")
+        # Get the old values for comparison
+        old_row = existing_df[existing_df['time'] == latest_date].iloc[0]
+        new_row = same_date_rows.iloc[0]
+        print(f"   - DEBUG: Old close: {old_row['close']}, New close: {new_row['close']}")
+        # Remove the last row from existing data
+        existing_df = existing_df[existing_df['time'] != latest_date].copy()
+        print(f"   - DEBUG: Removed last row, now have {len(existing_df)} existing rows")
+        # The updated data for that date will be included in new_rows below
+    
+    # Filter new data to include dates from the latest existing date onwards
+    new_rows = new_df[new_df['time'] >= latest_date].copy()
+    print(f"   - DEBUG: Filtered to {len(new_rows)} new rows to add")
+    
+    if not new_rows.empty:
+        print(f"   - Adding {len(new_rows)} rows (including any updated last row)")
+        combined = pd.concat([existing_df, new_rows], ignore_index=True)
+        result = combined.sort_values(by='time')
+        print(f"   - DEBUG: Final result has {len(result)} rows")
+        return result
+    else:
+        print(f"   - No new data to add")
+        return existing_df
+
 def append_new_data(existing_df, new_df):
     """
     Append new data to existing DataFrame, avoiding duplicates.
@@ -193,60 +231,60 @@ def append_new_data(existing_df, new_df):
 
 def download_stock_data(ticker, start_date, end_date):
     """
-    Smart data fetching with dividend detection and incremental updates.
+    Smart data fetching with dividend detection and last row validation.
     """
     print(f"\n-> Processing ticker: {ticker}")
     
     file_path = os.path.join(DATA_DIR, f"{ticker}.csv")
     
-    # Step 1: Download recent data for dividend check
-    recent_df = download_recent_data(ticker, days=30)
-    if recent_df is None:
-        print(f"   - Could not download recent data for {ticker}")
-        return None
-    
-    # Step 2: Check for dividends if existing data exists
     if os.path.exists(file_path):
-        if check_for_dividends(ticker, recent_df):
-            # Step 3a: Dividend detected - delete old file and download full history
-            print(f"   - Removing old data due to dividend adjustment")
-            os.remove(file_path)
+        # Step 1: Check for dividend
+        if check_for_dividend_simple(ticker):
+            # Dividend detected - download full history from start_date
+            print(f"   - Dividend detected, downloading full history from {start_date}")
             return download_full_data(ticker, start_date, end_date)
         else:
-            # Step 3b: No dividend - load existing data and append new records
-            print(f"   - No dividend detected, updating with new data")
+            # Step 2: No dividend - load existing data and update last row + append new records
+            print(f"   - No dividend, loading existing data from {file_path}")
             existing_df = pd.read_csv(file_path)
             existing_df['time'] = pd.to_datetime(existing_df['time'])
             
             # Get latest date from existing data
             latest_date = existing_df['time'].max()
-            tomorrow_str = (latest_date + timedelta(days=1)).strftime('%Y-%m-%d')
+            print(f"   - DEBUG: Existing data has {len(existing_df)} rows, latest date: {latest_date.strftime('%Y-%m-%d')}")
+            
+            # Download data from the last date to today to check for updates and get new data
+            last_date_str = latest_date.strftime('%Y-%m-%d')
             today_str = datetime.now().strftime('%Y-%m-%d')
             
-            # Download only new data from tomorrow to today
-            if tomorrow_str <= today_str:
-                print(f"   - Fetching new data from {tomorrow_str} to {today_str}")
-                new_df = stock_reader.quote.history(
-                    symbol=ticker,
-                    start=tomorrow_str,
-                    end=today_str,
-                    interval='1D'
-                )
-                time.sleep(2)  # Rate limiting
-                
-                if not new_df.empty:
-                    new_df['time'] = pd.to_datetime(new_df['time'])
-                    new_df.insert(0, 'ticker', ticker)
-                    return append_new_data(existing_df, new_df)
-                else:
-                    print(f"   - No new data available")
+            # Download data starting from the last existing date (to update it) to today
+            if last_date_str <= today_str:
+                print(f"   - Fetching data from {last_date_str} to {today_str} (including last row update)")
+                try:
+                    new_df = stock_reader.quote.history(
+                        symbol=ticker,
+                        start=last_date_str,
+                        end=today_str,
+                        interval='1D'
+                    )
+                    time.sleep(2)  # Rate limiting
+                    
+                    if not new_df.empty:
+                        new_df['time'] = pd.to_datetime(new_df['time'])
+                        new_df.insert(0, 'ticker', ticker)
+                        return update_last_row_and_append_new_data(existing_df, new_df)
+                    else:
+                        print(f"   - No new data available from API")
+                        return existing_df
+                except Exception as e:
+                    print(f"   - ERROR downloading update data for {ticker}: {e}")
                     return existing_df
             else:
                 print(f"   - Data is already up to date")
                 return existing_df
     else:
-        # Step 4: No existing data - download full history
-        print(f"   - No existing data found")
+        # No existing data - download full history
+        print(f"   - No existing data found, downloading full history")
         return download_full_data(ticker, start_date, end_date)
 
 # REMOVED: reformat_time_column_for_weekly_data is no longer needed
