@@ -1,0 +1,73 @@
+name: "AIPriceAction Daily Report"
+
+on:
+  # Allows you to run this workflow manually from the Actions tab on GitHub
+  workflow_dispatch:
+
+  # Sets up a scheduled run
+  schedule:
+    - cron: "30 4 * * *"
+    # Runs at 8:30 UTC, which is 3:30 PM in Vietnam (ICT), after the market closes.
+    # If we download at 3:00PM then the volume & price may not correct.
+    # Format is: Minute Hour Day(month) Month Day(week)
+    - cron: "30 8 * * *"
+
+# Grant write permissions to the GITHUB_TOKEN to allow the workflow to commit and push changes.
+permissions:
+  contents: write
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    name: Generate Daily Market Report
+
+    steps:
+      # Step 1: Check out the repository code so the workflow can access it.
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Step 2: Set up the specific version of Python you are using.
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12
+
+      # Step 3: Install the required Python libraries from your requirements file.
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Step 4: Create market data directory if needed
+      - name: Setup market data directory
+        run: |
+          # Create directory if it doesn't exist to prevent errors on the first run.
+          mkdir -p market_data
+
+      # Step 5: Run the main Python script to generate the new files.
+      - name: Run data pipeline and generate report
+        run: |
+          python main.py
+
+      # Step 6: Commit and push the updated report, data, and charts to the repository.
+      - name: Commit and push changes
+        run: |
+          # Configure git with the details of the last commit's author to keep authorship consistent.
+          git config user.name "$(git log -n 1 --pretty=format:%an)"
+          git config user.email "$(git log -n 1 --pretty=format:%ae)"
+
+          # Add all new/changed files to the staging area.
+          git add .
+
+          # Check if there are any changes to commit. If not, exit successfully.
+          # This prevents the workflow from failing on days when the market is closed (no new data).
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit. Exiting."
+            exit 0
+          fi
+
+          # Create a new commit with the updated data
+          git commit -m "Daily market data update $(date +%Y-%m-%d)"
+
+          # Push the changes to the repository
+          git push

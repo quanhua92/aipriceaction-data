@@ -1,0 +1,171 @@
+{
+    "BAN_LE": [
+        "MWG",
+        "PNJ",
+        "FRT",
+        "DGW"
+    ],
+    "BAO_HIEM": [
+        "BVH",
+        "PVI",
+        "BIC"
+    ],
+    "BAT_DONG_SAN": [
+        "VHM",
+        "VIC",
+        "VRE",
+        "KDH",
+        "SSH",
+        "NVL",
+        "NLG",
+        "PDR",
+        "TCH",
+        "HDC"
+    ],
+    "BAT_DONG_SAN_KCN": [
+        "BCM",
+        "KBC",
+        "IDC",
+        "VGC",
+        "SIP"
+    ],
+    "CAO_SU": [
+        "GVR",
+        "PHR",
+        "DRC",
+        "DPR"
+    ],
+    "CHUNG_KHOAN": [
+        "SSI",
+        "VND",
+        "VCI",
+        "HCM",
+        "SHS",
+        "MBS",
+        "BSI",
+        "FTS",
+        "VIX",
+        "CTS"
+    ],
+    "CONG_NGHE": [
+        "VGI",
+        "FPT",
+        "FOX",
+        "CMG",
+        "SGT"
+    ],
+    "DAU_KHI": [
+        "GAS",
+        "BSR",
+        "PLX",
+        "PVS"
+    ],
+    "DAU_TU_CONG": [
+        "VCG",
+        "HHV",
+        "C4G"
+    ],
+    "DET_MAY": [
+        "VGT",
+        "MSH",
+        "TNG"
+    ],
+    "HANG_KHONG": [
+        "ACV",
+        "VJC",
+        "HVN",
+        "SCS"
+    ],
+    "HOA_CHAT": [
+        "DGC",
+        "DCM",
+        "DPM"
+    ],
+    "KHAI_KHOANG": [
+        "CST",
+        "VPG"
+    ],
+    "NANG_LUONG": [
+        "POW",
+        "HDG",
+        "NT2"
+    ],
+    "NGAN_HANG": [
+        "VCB",
+        "BID",
+        "CTG",
+        "VPB",
+        "MBB",
+        "ACB",
+        "TCB",
+        "LPB",
+        "HDB",
+        "STB",
+        "VIB",
+        "TPB",
+        "SHB"
+    ],
+    "NHUA": [
+        "NTP",
+        "BMP",
+        "AAA"
+    ],
+    "NONG_NGHIEP": [
+        "HAG",
+        "DBC",
+        "PAN"
+    ],
+    "OTHERS": [
+        "VEA",
+        "GEX",
+        "VCS"
+    ],
+    "PENNY": [
+        "IPA",
+        "FIT",
+        "CSC"
+    ],
+    "SUC_KHOE": [
+        "DHG",
+        "IMP",
+        "DVN"
+    ],
+    "THEP": [
+        "HPG",
+        "HSG",
+        "NKG"
+    ],
+    "THUC_PHAM": [
+        "VNM",
+        "MCH",
+        "MSN",
+        "SAB",
+        "QNS",
+        "KDC"
+    ],
+    "THUY_SAN": [
+        "VHC",
+        "MPC",
+        "ANV"
+    ],
+    "VAN_TAI": [
+        "GMD",
+        "PVT",
+        "VTP",
+        "HAH"
+    ],
+    "VLXD": [
+        "HT1",
+        "VLB"
+    ],
+    "XAY_DUNG": [
+        "HUT",
+        "CTD",
+        "CII"
+    ],
+    "XAY_LAP_DIEN": [
+        "CTR",
+        "PC1",
+        "TV2"
+    ]
+}
