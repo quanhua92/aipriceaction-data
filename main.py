@@ -564,7 +564,7 @@ def main():
     print(f"--- Using data period: {START_DATE} to {END_DATE} ---")
     
     setup_directories()
-    vpa_analyses = parse_vpa_analysis(VPA_ANALYSIS_FILENAME)
+    # vpa_analyses = parse_vpa_analysis(VPA_ANALYSIS_FILENAME)
 
     try:
         with open('ticker_group.json', 'r', encoding='utf-8') as f:
@@ -606,8 +606,8 @@ def main():
             }
             master_report_data.append(report_entry)
             
-    if master_report_data:
-        generate_master_report(master_report_data, vpa_analyses, ticker_groups, ticker_to_group_map, START_DATE, END_DATE)
+    # if master_report_data:
+    #     generate_master_report(master_report_data, vpa_analyses, ticker_groups, ticker_to_group_map, START_DATE, END_DATE)
 
     print("\n--- AIPriceAction Data Pipeline: FINISHED ---")
 
