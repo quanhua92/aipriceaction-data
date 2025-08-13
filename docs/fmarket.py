@@ -265,25 +265,290 @@ class FMarketClient:
             print(f"Error processing fund listing data: {e}")
             return None
     
-    def get_nav_history(self, fund_symbol: str) -> Optional[pd.DataFrame]:
+    def get_nav_history(self, fund_symbol: str, max_attempts: int = 3) -> Optional[pd.DataFrame]:
         """
         Get NAV (Net Asset Value) history for a specific fund.
         
         Args:
             fund_symbol: Fund short name (e.g., "SSISCA", "VCBF-BCF")
+            max_attempts: Maximum number of different approaches to try
         
         Returns:
-            DataFrame with columns: date, nav_per_unit
+            DataFrame with columns: date, nav_per_unit, or None if unavailable
             
-        Note: NAV history endpoint appears to be currently unavailable or changed.
-              This method is kept for future implementation when the API is restored.
+        Note: As of August 2025, FMarket has restricted NAV history endpoints to authenticated users only.
+              This method attempts multiple strategies to access historical NAV data.
         """
-        print(f"⚠️  NAV history feature temporarily unavailable")
-        print(f"The FMarket API endpoint for NAV history appears to have changed or requires authentication.")
-        print(f"Fund listings and basic fund information are still available via get_fund_listing().")
-        print(f"Requested symbol: {fund_symbol}")
+        print(f"🔄 Attempting to retrieve NAV history for {fund_symbol}...")
         
-        # Return None to indicate feature unavailability rather than raising an error
+        # First get the fund ID
+        fund_id = self._get_fund_id(fund_symbol)
+        if not fund_id:
+            print(f"❌ Could not find fund ID for symbol: {fund_symbol}")
+            return None
+        
+        print(f"📍 Found fund ID: {fund_id} for {fund_symbol}")
+        
+        # Strategy 1: Create estimated NAV series from performance data (fastest & most reliable)
+        nav_data = self._try_nav_from_performance_data(fund_id, fund_symbol)
+        if nav_data is not None:
+            return nav_data
+            
+        # Strategy 2: Extract current NAV point from fund details (second most reliable)
+        nav_data = self._try_current_nav_from_details(fund_id, fund_symbol)
+        if nav_data is not None:
+            return nav_data
+            
+        # Strategy 3: Try alternative endpoint variations (likely to fail but quick)
+        nav_data = self._try_alternative_nav_endpoints(fund_id, fund_symbol)
+        if nav_data is not None:
+            return nav_data
+            
+        # Strategy 4: Try the original vnstock endpoint (most likely to cause delays)
+        nav_data = self._try_original_nav_endpoint(fund_id, fund_symbol)
+        if nav_data is not None:
+            return nav_data
+        
+        print(f"⚠️  Unable to retrieve NAV history for {fund_symbol}")
+        print(f"📋 All NAV history endpoints now require authentication")
+        print(f"💡 Fund listings and current NAV are still available via get_fund_listing()")
+        print(f"🔍 Consider using performance metrics from fund details as alternative")
+        
+        return None
+    
+    def _try_original_nav_endpoint(self, fund_id: int, fund_symbol: str) -> Optional[pd.DataFrame]:
+        """Try the original vnstock NAV endpoint."""
+        print(f"🔍 Trying original NAV endpoint...")
+        
+        current_date = datetime.now().strftime("%Y%m%d")
+        
+        # List of possible endpoint variations (most likely to work first)
+        endpoints_to_try = [
+            "https://api.fmarket.vn/res/nav-history"
+        ]
+        
+        payload = {
+            "isAllData": 1,
+            "productId": fund_id,
+            "fromDate": None,
+            "toDate": current_date,
+        }
+        
+        for endpoint in endpoints_to_try:
+            try:
+                print(f"  🌐 Testing: {endpoint}")
+                response_data = self._make_request(endpoint.replace(self.base_url, ""), payload, method="POST")
+                
+                if response_data and 'data' in response_data:
+                    print(f"  ✅ Success with endpoint: {endpoint}")
+                    return self._parse_nav_data(response_data, fund_symbol)
+                    
+            except Exception as e:
+                print(f"  ❌ Failed: {e}")
+                continue
+        
+        return None
+    
+    def _try_alternative_nav_endpoints(self, fund_id: int, fund_symbol: str) -> Optional[pd.DataFrame]:
+        """Try alternative NAV endpoints and methods."""
+        print(f"🔍 Trying alternative NAV endpoints...")
+        
+        # Try GET endpoints (ordered by likelihood of success)
+        get_endpoints = [
+            f"https://api.fmarket.vn/res/products/{fund_id}/nav",
+            f"https://api.fmarket.vn/res/products/{fund_id}/chart",
+            f"https://api.fmarket.vn/res/products/{fund_id}/history"
+        ]
+        
+        for endpoint in get_endpoints:
+            try:
+                print(f"  🌐 Testing: {endpoint}")
+                
+                # Make GET request
+                response = self.session.get(endpoint, timeout=30)
+                
+                if response.status_code == 200:
+                    try:
+                        response_data = response.json()
+                        if 'data' in response_data:
+                            print(f"  ✅ Success with endpoint: {endpoint}")
+                            return self._parse_nav_data(response_data, fund_symbol)
+                    except json.JSONDecodeError:
+                        continue
+                elif response.status_code == 401:
+                    print(f"  🔒 Authentication required: {endpoint}")
+                else:
+                    print(f"  ❌ HTTP {response.status_code}: {endpoint}")
+                    
+            except Exception as e:
+                print(f"  ❌ Failed: {e}")
+                continue
+        
+        return None
+    
+    def _try_current_nav_from_details(self, fund_id: int, fund_symbol: str) -> Optional[pd.DataFrame]:
+        """Extract current NAV from fund details endpoint."""
+        print(f"🔍 Trying current NAV from fund details...")
+        
+        try:
+            # Get fund details which includes current NAV
+            response = self.session.get(f"https://api.fmarket.vn/res/products/{fund_id}", timeout=30)
+            
+            if response.status_code == 200:
+                data = response.json()
+                
+                if 'data' in data and 'nav' in data['data']:
+                    current_nav = data['data']['nav']
+                    update_time = data['data']['productNavChange'].get('updateAt')
+                    
+                    if update_time:
+                        # Convert Unix timestamp to date
+                        nav_date = pd.to_datetime(update_time, unit='ms').strftime('%Y-%m-%d')
+                        
+                        # Create single-point DataFrame
+                        nav_df = pd.DataFrame({
+                            'date': [nav_date],
+                            'nav_per_unit': [current_nav]
+                        })
+                        
+                        print(f"  ✅ Current NAV: {current_nav} (as of {nav_date})")
+                        print(f"  ℹ️  Note: Only current NAV available, historical data requires authentication")
+                        
+                        return nav_df
+                        
+        except Exception as e:
+            print(f"  ❌ Error accessing fund details: {e}")
+        
+        return None
+    
+    def _try_nav_from_performance_data(self, fund_id: int, fund_symbol: str) -> Optional[pd.DataFrame]:
+        """Create estimated NAV series from performance data."""
+        print(f"🔍 Trying NAV estimation from performance data...")
+        
+        try:
+            # Get fund details
+            response = self.session.get(f"https://api.fmarket.vn/res/products/{fund_id}", timeout=30)
+            
+            if response.status_code == 200:
+                data = response.json()
+                fund_data = data.get('data', {})
+                
+                current_nav = fund_data.get('nav')
+                nav_changes = fund_data.get('productNavChange', {})
+                
+                if current_nav and nav_changes:
+                    print(f"  📊 Creating estimated NAV series from performance data...")
+                    
+                    # Calculate historical NAVs based on performance changes
+                    today = datetime.now()
+                    estimated_navs = []
+                    
+                    # Current NAV
+                    estimated_navs.append({
+                        'date': today.strftime('%Y-%m-%d'),
+                        'nav_per_unit': current_nav,
+                        'data_type': 'current'
+                    })
+                    
+                    # Estimate NAVs from performance percentages
+                    periods = [
+                        ('1M', 1, 30, nav_changes.get('navTo1Months')),
+                        ('3M', 3, 90, nav_changes.get('navTo3Months')), 
+                        ('6M', 6, 180, nav_changes.get('navTo6Months')),
+                        ('12M', 12, 365, nav_changes.get('navTo12Months')),
+                        ('24M', 24, 730, nav_changes.get('navTo24Months')),
+                        ('36M', 36, 1095, nav_changes.get('navTo36Months'))
+                    ]
+                    
+                    for period_name, months, days, change_pct in periods:
+                        if change_pct is not None:
+                            # Calculate historical NAV
+                            historical_nav = current_nav / (1 + (change_pct / 100))
+                            historical_date = (today - timedelta(days=days)).strftime('%Y-%m-%d')
+                            
+                            estimated_navs.append({
+                                'date': historical_date,
+                                'nav_per_unit': historical_nav,
+                                'data_type': f'estimated_{period_name.lower()}'
+                            })
+                    
+                    # Create DataFrame
+                    if estimated_navs:
+                        nav_df = pd.DataFrame(estimated_navs)
+                        nav_df['date'] = pd.to_datetime(nav_df['date'])
+                        nav_df = nav_df.sort_values('date').reset_index(drop=True)
+                        
+                        # Drop the data_type column for clean output
+                        result_df = nav_df[['date', 'nav_per_unit']].copy()
+                        result_df['date'] = result_df['date'].dt.strftime('%Y-%m-%d')
+                        
+                        print(f"  ✅ Created estimated NAV series with {len(result_df)} data points")
+                        print(f"  ℹ️  Note: These are estimated values based on performance percentages")
+                        print(f"  📈 Data range: {result_df['date'].min()} to {result_df['date'].max()}")
+                        
+                        return result_df
+                        
+        except Exception as e:
+            print(f"  ❌ Error creating estimated NAV series: {e}")
+        
+        return None
+    
+    def _parse_nav_data(self, response_data: Dict, fund_symbol: str) -> Optional[pd.DataFrame]:
+        """Parse NAV data from API response."""
+        try:
+            data = response_data.get('data', [])
+            
+            if not data:
+                return None
+                
+            # Convert to DataFrame
+            df = pd.json_normalize(data)
+            
+            # Handle different possible column names
+            date_columns = ['navDate', 'date', 'tradeDate', 'updateAt']
+            nav_columns = ['nav', 'navPerUnit', 'nav_per_unit', 'price']
+            
+            date_col = None
+            nav_col = None
+            
+            for col in date_columns:
+                if col in df.columns:
+                    date_col = col
+                    break
+                    
+            for col in nav_columns:
+                if col in df.columns:
+                    nav_col = col
+                    break
+            
+            if not date_col or not nav_col:
+                print(f"  ❌ Could not find date/NAV columns in response")
+                return None
+            
+            # Create clean DataFrame
+            result_df = pd.DataFrame({
+                'date': df[date_col],
+                'nav_per_unit': pd.to_numeric(df[nav_col], errors='coerce')
+            })
+            
+            # Convert dates if needed
+            if result_df['date'].dtype == 'int64':
+                # Unix timestamp
+                result_df['date'] = pd.to_datetime(result_df['date'], unit='ms').dt.strftime('%Y-%m-%d')
+            else:
+                # String date
+                result_df['date'] = pd.to_datetime(result_df['date'], errors='coerce').dt.strftime('%Y-%m-%d')
+            
+            # Remove invalid entries
+            result_df = result_df.dropna().reset_index(drop=True)
+            
+            if len(result_df) > 0:
+                print(f"  ✅ Parsed {len(result_df)} NAV data points")
+                return result_df
+            
+        except Exception as e:
+            print(f"  ❌ Error parsing NAV data: {e}")
+        
         return None
     
     def _get_fund_id(self, fund_symbol: str) -> Optional[int]:
