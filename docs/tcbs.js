@@ -18,6 +18,49 @@ class TCBSClient {
    * Core functionality: historical price data (OHLCV) with sophisticated request handling.
    */
 
+  // Normalized field mapping for cross-platform consistency
+  static FIELD_MAPPING = {
+    // Company Overview
+    symbol: 'symbol',
+    exchange: 'exchange',
+    industry: 'industry',
+    company_type: 'company_type',
+    established_year: 'established_year',
+    employees: 'employees',
+    market_cap: 'market_cap',
+    current_price: 'current_price',
+    outstanding_shares: 'outstanding_shares',
+    company_profile: 'company_profile',
+    website: 'website',
+    
+    // TCBS-specific mappings
+    no_employees: 'employees',
+    outstanding_share: 'outstanding_shares',
+    short_name: 'company_name',
+    
+    // Shareholders (TCBS format)
+    share_holder: 'shareholder_name',
+    share_own_percent: 'shareholder_percent',
+    
+    // Officers (TCBS format)
+    officer_name: 'officer_name',
+    officer_position: 'officer_position',
+    officer_own_percent: 'officer_percent',
+    
+    // Financial Statements (normalized keys)
+    total_assets: 'total_assets',
+    total_liabilities: 'total_liabilities',
+    shareholders_equity: 'shareholders_equity',
+    total_revenue: 'total_revenue',
+    gross_profit: 'gross_profit',
+    operating_profit: 'operating_profit',
+    net_income: 'net_income',
+    cash_from_operations: 'cash_from_operations',
+    cash_from_investing: 'cash_from_investing',
+    cash_from_financing: 'cash_from_financing',
+    free_cash_flow: 'free_cash_flow'
+  };
+
   constructor(randomAgent = true, rateLimitPerMinute = 10) {
     this.baseUrl = "https://apipubaws.tcbs.com.vn";
     this.randomAgent = randomAgent;
@@ -394,97 +437,844 @@ class TCBSClient {
     console.log(`Successfully fetched ${filteredData.length} data points`);
     return filteredData;
   }
-}
 
-/**
- * Test the TCBS client with Vietnamese stock data.
- */
-async function main() {
-  const client = new TCBSClient(true, 6); // Conservative rate limit
-  
-  // Test symbols - use proper TCBS symbol names
-  const symbols = ["VCI", "FPT", "VCB"]; // Skip VNINDEX for now, test with actual stocks
-  
-  for (const symbol of symbols) {
-    console.log(`\n${"=".repeat(60)}`);
-    console.log(`Testing ${symbol} with 1D interval...`);
-    console.log(`Date range: 2025-08-01 to 2025-08-13`);
-    console.log("=".repeat(60));
+  /**
+   * Convert camelCase to snake_case.
+   * @param {string} name - The camelCase string to convert
+   * @returns {string} The snake_case string
+   */
+  camelToSnake(name) {
+    return name.replace(/([a-z0-9])([A-Z])/g, '$1_$2').toLowerCase();
+  }
+
+  /**
+   * Get company overview data from TCBS API.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @returns {Promise<Object|null>} Company overview data or null if failed
+   */
+  async overview(symbol) {
+    // Use TCBS analysis API
+    const url = `${this.baseUrl}/tcanalysis/v1/ticker/${symbol.toUpperCase()}/overview`;
     
-    const startTime = Date.now();
+    console.log(`Fetching company overview for ${symbol}...`);
     
-    try {
-      const data = await client.getHistory(
-        symbol,
-        "2025-08-01",
-        "2025-08-13", 
-        "1D"
-      );
+    const responseData = await this.makeRequest(url);
+    
+    if (!responseData) {
+      console.log("No company overview data received from API");
+      return null;
+    }
+    
+    // Convert to structured data
+    const overview = { ...responseData };
+    
+    // Select relevant columns (same as vnstock)
+    const relevantColumns = [
+      'ticker', 'exchange', 'industry', 'companyType',
+      'noShareholders', 'foreignPercent', 'outstandingShare', 'issueShare',
+      'establishedYear', 'noEmployees',
+      'stockRating', 'deltaInWeek', 'deltaInMonth', 'deltaInYear',
+      'shortName', 'website', 'industryID', 'industryIDv2'
+    ];
+    
+    // Filter to relevant columns only
+    const filteredOverview = {};
+    relevantColumns.forEach(col => {
+      if (overview.hasOwnProperty(col)) {
+        // Convert column names to snake_case
+        const snakeCol = this.camelToSnake(col);
+        filteredOverview[snakeCol] = overview[col];
+      }
+    });
+    
+    // Rename specific columns
+    if (filteredOverview.industry_i_dv2) {
+      filteredOverview.industry_id_v2 = filteredOverview.industry_i_dv2;
+      delete filteredOverview.industry_i_dv2;
+    }
+    if (filteredOverview.ticker) {
+      filteredOverview.symbol = filteredOverview.ticker;
+      delete filteredOverview.ticker;
+    }
+    
+    console.log(`Successfully fetched company overview for ${symbol}`);
+    return filteredOverview;
+  }
+
+  /**
+   * Get detailed company profile from TCBS API.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @returns {Promise<Object|null>} Company profile data or null if failed
+   */
+  async profile(symbol) {
+    const url = `${this.baseUrl}/tcanalysis/v1/company/${symbol.toUpperCase()}/overview`;
+    
+    console.log(`Fetching company profile for ${symbol}...`);
+    
+    const responseData = await this.makeRequest(url);
+    
+    if (!responseData) {
+      console.log("No company profile data received from API");
+      return null;
+    }
+    
+    // Convert to structured data
+    const profile = { ...responseData };
+    
+    // Clean HTML content in text fields (same as vnstock)
+    Object.keys(profile).forEach(key => {
+      if (typeof profile[key] === 'string') {
+        // Simple HTML cleaning - remove tags and normalize whitespace
+        profile[key] = profile[key]
+          .replace(/<[^>]*>/g, '') // Remove HTML tags
+          .replace(/\s+/g, ' ') // Normalize whitespace
+          .trim();
+      }
+    });
+    
+    // Add symbol column
+    profile.symbol = symbol.toUpperCase();
+    
+    // Drop unnecessary columns
+    delete profile.id;
+    delete profile.ticker;
+    
+    // Convert column names to snake_case
+    const snakeCaseProfile = {};
+    Object.keys(profile).forEach(key => {
+      const snakeKey = this.camelToSnake(key);
+      snakeCaseProfile[snakeKey] = profile[key];
+    });
+    
+    // Reorder to put symbol first
+    const orderedProfile = { symbol: snakeCaseProfile.symbol };
+    Object.keys(snakeCaseProfile).forEach(key => {
+      if (key !== 'symbol') {
+        orderedProfile[key] = snakeCaseProfile[key];
+      }
+    });
+    
+    console.log(`Successfully fetched company profile for ${symbol}`);
+    return orderedProfile;
+  }
+
+  /**
+   * Get major shareholders information from TCBS API.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @returns {Promise<Array|null>} Array of shareholders data or null if failed
+   */
+  async shareholders(symbol) {
+    const url = `${this.baseUrl}/tcanalysis/v1/company/${symbol.toUpperCase()}/large-share-holders`;
+    
+    console.log(`Fetching shareholders for ${symbol}...`);
+    
+    const responseData = await this.makeRequest(url);
+    
+    if (!responseData || !responseData.listShareHolder) {
+      console.log("No shareholders data received from API");
+      return null;
+    }
+    
+    const shareholders = responseData.listShareHolder;
+    
+    if (!Array.isArray(shareholders) || shareholders.length === 0) {
+      console.log("No shareholders data available");
+      return null;
+    }
+    
+    // Process shareholders data
+    const processedShareholders = shareholders.map(shareholder => {
+      const processed = { ...shareholder };
       
-      const endTime = Date.now();
-      const duration = (endTime - startTime) / 1000;
-      
-      if (data !== null) {
-        console.log(`\n✅ Success! Retrieved ${data.length} data points in ${duration.toFixed(1)}s`);
-        console.log(`Data range: ${data[0]?.time.toISOString()} to ${data[data.length-1]?.time.toISOString()}`);
-        
-        // Show first few and last few rows
-        if (data.length > 6) {
-          console.log(`\nFirst 3 rows:`);
-          for (let i = 0; i < 3; i++) {
-            const item = data[i];
-            console.log(`${item.time.toISOString().split('T')[0]} ${item.open.toFixed(2)} ${item.high.toFixed(2)} ${item.low.toFixed(2)} ${item.close.toFixed(2)} ${item.volume.toLocaleString()}`);
-          }
-          console.log(`\nLast 3 rows:`);
-          for (let i = data.length - 3; i < data.length; i++) {
-            const item = data[i];
-            console.log(`${item.time.toISOString().split('T')[0]} ${item.open.toFixed(2)} ${item.high.toFixed(2)} ${item.low.toFixed(2)} ${item.close.toFixed(2)} ${item.volume.toLocaleString()}`);
-          }
-        } else {
-          console.log(`\nAll data:`);
-          data.forEach(item => {
-            console.log(`${item.time.toISOString().split('T')[0]} ${item.open.toFixed(2)} ${item.high.toFixed(2)} ${item.low.toFixed(2)} ${item.close.toFixed(2)} ${item.volume.toLocaleString()}`);
-          });
-        }
-        
-        // Basic statistics
-        const opens = data.map(d => d.open);
-        const highs = data.map(d => d.high);
-        const lows = data.map(d => d.low);
-        const closes = data.map(d => d.close);
-        const volumes = data.map(d => d.volume);
-        
-        console.log(`\nBasic Statistics:`);
-        console.log(`Open: ${Math.min(...opens).toFixed(2)} - ${Math.max(...opens).toFixed(2)}`);
-        console.log(`High: ${Math.min(...highs).toFixed(2)} - ${Math.max(...highs).toFixed(2)}`);
-        console.log(`Low: ${Math.min(...lows).toFixed(2)} - ${Math.max(...lows).toFixed(2)}`);
-        console.log(`Close: ${Math.min(...closes).toFixed(2)} - ${Math.max(...closes).toFixed(2)}`);
-        console.log(`Volume: ${Math.min(...volumes).toLocaleString()} - ${Math.max(...volumes).toLocaleString()}`);
-        
-      } else {
-        console.log(`\n❌ Failed to retrieve data for ${symbol}`);
+      // Rename columns for clarity (same as vnstock)
+      if (processed.name) {
+        processed.shareHolder = processed.name;
+        delete processed.name;
+      }
+      if (processed.ownPercent !== undefined) {
+        processed.shareOwnPercent = processed.ownPercent;
+        delete processed.ownPercent;
       }
       
-    } catch (e) {
-      console.log(`\n💥 Exception occurred for ${symbol}: ${e.message}`);
+      // Drop unnecessary columns
+      delete processed.no;
+      delete processed.ticker;
+      
+      // Convert column names to snake_case
+      const snakeCaseShareholder = {};
+      Object.keys(processed).forEach(key => {
+        const snakeKey = this.camelToSnake(key);
+        snakeCaseShareholder[snakeKey] = processed[key];
+      });
+      
+      return snakeCaseShareholder;
+    });
+    
+    console.log(`Successfully fetched ${processedShareholders.length} shareholders for ${symbol}`);
+    return processedShareholders;
+  }
+
+  /**
+   * Get key officers information from TCBS API.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @returns {Promise<Array|null>} Array of officers data or null if failed
+   */
+  async officers(symbol) {
+    const url = `${this.baseUrl}/tcanalysis/v1/company/${symbol.toUpperCase()}/key-officers`;
+    
+    console.log(`Fetching officers for ${symbol}...`);
+    
+    const responseData = await this.makeRequest(url);
+    
+    if (!responseData || !responseData.listKeyOfficer) {
+      console.log("No officers data received from API");
+      return null;
     }
     
-    // Add delay between different symbol requests
-    if (symbol !== symbols[symbols.length - 1]) {
-      console.log(`\nWaiting 3 seconds before next symbol test...`);
-      await new Promise(resolve => setTimeout(resolve, 3000));
+    const officers = responseData.listKeyOfficer;
+    
+    if (!Array.isArray(officers) || officers.length === 0) {
+      console.log("No officers data available");
+      return null;
     }
+    
+    // Process officers data
+    const processedOfficers = officers.map(officer => {
+      const processed = { ...officer };
+      
+      // Rename columns for clarity (same as vnstock)
+      if (processed.name) {
+        processed.officerName = processed.name;
+        delete processed.name;
+      }
+      if (processed.position) {
+        processed.officerPosition = processed.position;
+        delete processed.position;
+      }
+      if (processed.ownPercent !== undefined) {
+        processed.officerOwnPercent = processed.ownPercent;
+        delete processed.ownPercent;
+      }
+      
+      // Drop unnecessary columns
+      delete processed.no;
+      delete processed.ticker;
+      
+      // Convert column names to snake_case
+      const snakeCaseOfficer = {};
+      Object.keys(processed).forEach(key => {
+        const snakeKey = this.camelToSnake(key);
+        snakeCaseOfficer[snakeKey] = processed[key];
+      });
+      
+      return snakeCaseOfficer;
+    });
+    
+    // Sort by ownership percentage (same as vnstock)
+    processedOfficers.sort((a, b) => {
+      const aPercent = a.officer_own_percent || 0;
+      const bPercent = b.officer_own_percent || 0;
+      return bPercent - aPercent;
+    });
+    
+    console.log(`Successfully fetched ${processedOfficers.length} officers for ${symbol}`);
+    return processedOfficers;
+  }
+
+  /**
+   * Get current trading price for market cap calculation.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @returns {Promise<number|null>} Current price or null if failed
+   */
+  async getCurrentPrice(symbol) {
+    const url = `${this.baseUrl}/stock-insight/v1/stock/second-tc-price`;
+    
+    const params = { "tickers": symbol.toUpperCase() };
+    
+    const responseData = await this.makeRequest(url, params);
+    
+    if (!responseData || !responseData.data) {
+      return null;
+    }
+    
+    const data = responseData.data;
+    if (!Array.isArray(data) || data.length === 0) {
+      return null;
+    }
+    
+    // Get current price (cp field)
+    const currentPrice = data[0].cp;
+    return currentPrice !== null ? parseFloat(currentPrice) : null;
+  }
+
+  /**
+   * Apply normalized field mapping to company data.
+   */
+  applyFieldMapping(data, mappingType = 'company') {
+    if (typeof data !== 'object' || data === null) {
+      return data;
+    }
+    
+    const mappedData = {};
+    for (const [key, value] of Object.entries(data)) {
+      // Use direct key mapping if available, otherwise keep original
+      const normalizedKey = TCBSClient.FIELD_MAPPING[key] || key;
+      mappedData[normalizedKey] = value;
+    }
+    
+    return mappedData;
+  }
+
+  /**
+   * Normalize TCBS-specific data structure to standard format.
+   */
+  normalizeTcbsData(companyData) {
+    const normalized = {
+      symbol: companyData.symbol,
+      exchange: null,
+      industry: null,
+      company_type: null,
+      established_year: null,
+      employees: null,
+      market_cap: companyData.market_cap,
+      current_price: companyData.current_price,
+      outstanding_shares: null,
+      company_profile: null,
+      website: null
+    };
+
+    // Extract from overview
+    if (companyData.overview) {
+      const overview = companyData.overview;
+      Object.assign(normalized, {
+        exchange: overview.exchange,
+        industry: overview.industry,
+        company_type: overview.company_type,
+        established_year: overview.established_year,
+        employees: overview.no_employees,
+        outstanding_shares: overview.outstanding_share,
+        website: overview.website
+      });
+    }
+
+    // Extract from profile
+    if (companyData.profile) {
+      const profile = companyData.profile;
+      // Find a profile field that contains company description
+      for (const [key, value] of Object.entries(profile)) {
+        if (typeof value === 'string' && value.length > 100) { // Assume longer text is profile
+          normalized.company_profile = value;
+          break;
+        }
+      }
+    }
+
+    // Normalize shareholders
+    if (companyData.shareholders) {
+      normalized.shareholders = companyData.shareholders.map(shareholder => ({
+        shareholder_name: shareholder.share_holder,
+        shareholder_percent: shareholder.share_own_percent
+      }));
+    }
+
+    // Normalize officers
+    if (companyData.officers) {
+      normalized.officers = companyData.officers.map(officer => ({
+        officer_name: officer.officer_name,
+        officer_position: officer.officer_position,
+        officer_percent: officer.officer_own_percent
+      }));
+    }
+
+    return normalized;
+  }
+
+  /**
+   * Get comprehensive company information in a single object.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @param {boolean} mapping - Whether to apply normalized field mapping for cross-platform consistency
+   * @returns {Promise<Object|null>} Dictionary containing all company data or null if failed
+   */
+  async companyInfo(symbol, mapping = true) {
+    console.log(`Fetching comprehensive company information for ${symbol}...`);
+    
+    const companyData = {
+      symbol: symbol.toUpperCase()
+    };
+    
+    try {
+      // Get company overview
+      companyData.overview = await this.overview(symbol);
+      
+      // Small delay between requests
+      await this.sleep(500);
+      
+      // Get company profile
+      companyData.profile = await this.profile(symbol);
+      
+      // Small delay between requests
+      await this.sleep(500);
+      
+      // Get shareholders
+      companyData.shareholders = await this.shareholders(symbol);
+      
+      // Small delay between requests
+      await this.sleep(500);
+      
+      // Get officers
+      companyData.officers = await this.officers(symbol);
+      
+      // Calculate market cap if we have the data
+      if (companyData.overview && companyData.overview.outstanding_share) {
+        try {
+          // Get current price
+          const currentPrice = await this.getCurrentPrice(symbol);
+          const outstandingShares = companyData.overview.outstanding_share;
+          
+          if (currentPrice !== null && outstandingShares !== null) {
+            // TCBS returns outstanding shares in millions, convert to actual shares
+            const sharesInUnits = outstandingShares * 1_000_000;
+            const marketCap = sharesInUnits * currentPrice;
+            
+            companyData.market_cap = marketCap;
+            companyData.current_price = currentPrice;
+            companyData.outstanding_shares_millions = outstandingShares;
+            companyData.outstanding_shares_actual = sharesInUnits;
+            
+            console.log(`Outstanding shares (millions): ${outstandingShares.toFixed(1)}`);
+            console.log(`Outstanding shares (actual): ${sharesInUnits.toLocaleString()}`);
+            console.log(`Current price: ${currentPrice.toLocaleString()} VND`);
+            console.log(`Calculated market cap: ${marketCap.toLocaleString()} VND`);
+          } else {
+            companyData.market_cap = null;
+            companyData.current_price = currentPrice;
+          }
+        } catch (error) {
+          console.log(`Could not calculate market cap: ${error.message}`);
+          companyData.market_cap = null;
+          companyData.current_price = null;
+        }
+      } else {
+        companyData.market_cap = null;
+        companyData.current_price = null;
+      }
+      
+      console.log(`Successfully fetched comprehensive company information for ${symbol}`);
+      
+      // Apply field mapping if requested
+      if (mapping) {
+        return this.normalizeTcbsData(companyData);
+      } else {
+        return companyData;
+      }
+      
+    } catch (error) {
+      console.log(`Error fetching comprehensive company data for ${symbol}: ${error.message}`);
+      return null;
+    }
+  }
+
+  /**
+   * Get comprehensive financial information in a single object.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT")
+   * @param {string} period - Financial reporting period - "quarter" or "year"
+   * @param {boolean} mapping - Whether to apply normalized field mapping for cross-platform consistency
+   * @returns {Promise<Object|null>} Dictionary containing all financial data or null if failed
+   */
+  async financialInfo(symbol, period = "quarter", mapping = true) {
+    console.log(`Fetching comprehensive financial information for ${symbol} (period: ${period})...`);
+    
+    // Match Python implementation - try to import Finance class but fall back gracefully
+    console.log(`Warning: Could not import TCBS Finance class. Financial data may be limited.`);
+    
+    const financialData = {
+      symbol: symbol.toUpperCase(),
+      period: period
+    };
+    
+    try {
+      // Get balance sheet data
+      console.log(`Fetching balance sheet for ${symbol}...`);
+      const balanceSheetData = await this.getFinancialStatement(symbol, 'balance_sheet', period);
+      financialData.balance_sheet = balanceSheetData;
+      
+      // Small delay between requests
+      await this.sleep(500);
+      
+      // Get income statement data
+      console.log(`Fetching income statement for ${symbol}...`);
+      const incomeStatementData = await this.getFinancialStatement(symbol, 'income_statement', period);
+      financialData.income_statement = incomeStatementData;
+      
+      // Small delay between requests
+      await this.sleep(500);
+      
+      // Get cash flow data
+      console.log(`Fetching cash flow for ${symbol}...`);
+      const cashFlowData = await this.getFinancialStatement(symbol, 'cash_flow', period);
+      financialData.cash_flow = cashFlowData;
+      
+      // Small delay between requests  
+      await this.sleep(500);
+      
+      // Get financial ratios data
+      console.log(`Fetching financial ratios for ${symbol}...`);
+      const ratiosData = await this.getFinancialRatios(symbol, period);
+      financialData.ratios = ratiosData;
+      
+      console.log(`Successfully fetched comprehensive financial information for ${symbol}`);
+      
+      // Apply field mapping if requested
+      if (mapping) {
+        return this.normalizeTcbsFinancialData(financialData);
+      } else {
+        return financialData;
+      }
+      
+    } catch (error) {
+      console.log(`Error fetching comprehensive financial data for ${symbol}: ${error.message}`);
+      return null;
+    }
+  }
+
+  /**
+   * Get financial statement data from TCBS API (generic method).
+   */
+  async getFinancialStatement(symbol, statementType, period) {
+    const periodMap = { "quarter": 1, "year": 0 };
+    const tcbsPeriod = periodMap[period] || 1;
+    
+    const url = `${this.baseUrl}/tcanalysis/v1/finance/${symbol.toUpperCase()}/${statementType}`;
+    const params = new URLSearchParams({ yearly: tcbsPeriod, isAll: true });
+    
+    try {
+      const response = await fetch(`${url}?${params}`, {
+        method: 'GET',
+        headers: this.getHeaders(),
+        timeout: 30000
+      });
+      
+      if (response.ok) {
+        const data = await response.json();
+        if (data && data.length > 0) {
+          return this.processFinancialData(data, period, statementType);
+        }
+      }
+      return null;
+    } catch (error) {
+      console.log(`Error fetching TCBS ${statementType}: ${error.message}`);
+      return null;
+    }
+  }
+
+  /**
+   * Get financial ratios data from TCBS API.
+   */
+  async getFinancialRatios(symbol, period) {
+    const periodMap = { "quarter": 1, "year": 0 };
+    const tcbsPeriod = periodMap[period] || 1;
+    
+    const url = `${this.baseUrl}/tcanalysis/v1/finance/${symbol.toUpperCase()}/financialratio`;
+    const params = new URLSearchParams({ yearly: tcbsPeriod, isAll: true });
+    
+    try {
+      const response = await fetch(`${url}?${params}`, {
+        method: 'GET',
+        headers: this.getHeaders(),
+        timeout: 30000
+      });
+      
+      if (response.ok) {
+        const data = await response.json();
+        if (data && data.length > 0) {
+          return this.processFinancialData(data, period, 'ratios');
+        }
+      }
+      return null;
+    } catch (error) {
+      console.log(`Error fetching TCBS financial ratios: ${error.message}`);
+      return null;
+    }
+  }
+  
+  /**
+   * Process financial data from TCBS API into period-indexed format.
+   */
+  processFinancialData(data, period, type) {
+    const result = {};
+    
+    data.forEach(item => {
+      let periodKey;
+      if (period === 'quarter' && item.quarter) {
+        periodKey = `${item.year}-Q${item.quarter}`;
+      } else {
+        periodKey = item.year.toString();
+      }
+      
+      // Convert camelCase to snake_case for field names
+      const processedItem = {};
+      for (const [key, value] of Object.entries(item)) {
+        if (key !== 'year' && key !== 'quarter' && key !== 'ticker') {
+          const snakeKey = this.camelToSnake(key);
+          processedItem[snakeKey] = value;
+        }
+      }
+      
+      result[periodKey] = processedItem;
+    });
+    
+    return result;
+  }
+
+  /**
+   * Convert camelCase object keys to snake_case.
+   */
+  camelToSnakeKeys(obj) {
+    if (!obj || typeof obj !== 'object') {
+      return obj;
+    }
+    
+    const result = {};
+    for (const [key, value] of Object.entries(obj)) {
+      const snakeKey = this.camelToSnake(key);
+      result[snakeKey] = value;
+    }
+    return result;
+  }
+
+  /**
+   * Normalize TCBS-specific financial data structure to standard format.
+   */
+  normalizeTcbsFinancialData(financialData) {
+    const normalized = {
+      symbol: financialData.symbol,
+      period: financialData.period,
+      balance_sheet: financialData.balance_sheet,
+      income_statement: financialData.income_statement,
+      cash_flow: financialData.cash_flow,
+      ratios: financialData.ratios,
+      
+      // Key financial metrics (extracted from statements)
+      total_assets: null,
+      total_liabilities: null,
+      shareholders_equity: null,
+      total_revenue: null,
+      gross_profit: null,
+      operating_profit: null,
+      net_income: null,
+      cash_from_operations: null,
+      cash_from_investing: null,
+      cash_from_financing: null,
+      free_cash_flow: null,
+      
+      // Key ratios
+      pe: null,
+      pb: null,
+      roe: null,
+      roa: null,
+      debt_to_equity: null,
+      current_ratio: null,
+      quick_ratio: null,
+      gross_margin: null,
+      net_margin: null,
+      asset_turnover: null
+    };
+
+    // Normalize raw financial statement data while preserving structure
+    if (financialData.balance_sheet) {
+      normalized.balance_sheet = financialData.balance_sheet;
+      // Extract key balance sheet metrics from most recent period
+      const periods = Object.keys(financialData.balance_sheet);
+      if (periods.length > 0) {
+        const latestPeriod = periods[0]; // Most recent period
+        const latestBs = financialData.balance_sheet[latestPeriod];
+        // Map common balance sheet fields (TCBS specific field names)
+        normalized.total_assets = latestBs.total_asset || latestBs.totalAsset;
+        normalized.total_liabilities = latestBs.total_liability || latestBs.totalLiability;
+        normalized.shareholders_equity = latestBs.total_equity || latestBs.totalEquity;
+      }
+    }
+
+    if (financialData.income_statement) {
+      normalized.income_statement = financialData.income_statement;
+      // Extract key income statement metrics from most recent period
+      const periods = Object.keys(financialData.income_statement);
+      if (periods.length > 0) {
+        const latestPeriod = periods[0]; // Most recent period
+        const latestIs = financialData.income_statement[latestPeriod];
+        // Map common income statement fields (TCBS specific field names)
+        normalized.total_revenue = latestIs.net_sale || latestIs.revenue;
+        normalized.gross_profit = latestIs.gross_profit;
+        normalized.operating_profit = latestIs.profit_from_business_activities || latestIs.operating_profit;
+        normalized.net_income = latestIs.profit_after_tax || latestIs.net_income;
+      }
+    }
+
+    if (financialData.cash_flow) {
+      normalized.cash_flow = financialData.cash_flow;
+      // Extract key cash flow metrics from most recent period
+      const periods = Object.keys(financialData.cash_flow);
+      if (periods.length > 0) {
+        const latestPeriod = periods[0]; // Most recent period
+        const latestCf = financialData.cash_flow[latestPeriod];
+        // Map common cash flow fields (TCBS specific field names)
+        normalized.cash_from_operations = latestCf.net_cash_flow_from_operating_activities;
+        normalized.cash_from_investing = latestCf.net_cash_flow_from_investing_activities;
+        normalized.cash_from_financing = latestCf.net_cash_flow_from_financing_activities;
+        // Calculate free cash flow if possible
+        if (normalized.cash_from_operations && normalized.cash_from_investing) {
+          normalized.free_cash_flow = normalized.cash_from_operations + normalized.cash_from_investing;
+        }
+      }
+    }
+
+    if (financialData.ratios) {
+      normalized.ratios = financialData.ratios;
+      // Extract key ratios from most recent period
+      const periods = Object.keys(financialData.ratios);
+      if (periods.length > 0) {
+        const latestPeriod = periods[0]; // Most recent period
+        const latestRatios = financialData.ratios[latestPeriod];
+        // Map common ratio fields (TCBS specific field names)
+        normalized.pe = latestRatios.price_to_earning || latestRatios.pe;
+        normalized.pb = latestRatios.price_to_book || latestRatios.pb;
+        normalized.roe = latestRatios.roe;
+        normalized.roa = latestRatios.roa;
+        normalized.debt_to_equity = latestRatios.debt_on_equity || latestRatios.debt_to_equity;
+        normalized.current_ratio = latestRatios.current_ratio;
+        normalized.quick_ratio = latestRatios.quick_ratio;
+        normalized.gross_margin = latestRatios.gross_profit_margin || latestRatios.gross_margin;
+        normalized.net_margin = latestRatios.net_profit_margin || latestRatios.net_margin;
+      }
+    }
+
+    return normalized;
   }
 }
 
-// Export for use as module (works in both Node.js and modern bundlers)
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { TCBSClient };
-}
-
-// Also support ES6 imports in browsers/bundlers
-if (typeof window !== 'undefined') {
-  window.TCBSClient = TCBSClient;
+/**
+ * Test the TCBS client with comprehensive company data and historical data.
+ */
+async function main() {
+  console.log("\n" + "=".repeat(60));
+  console.log("TCBS CLIENT - COMPREHENSIVE TESTING");
+  console.log("=".repeat(60));
+  
+  const client = new TCBSClient(true, 6); // random_agent=true, rate_limit=6
+  const testSymbol = "VCI";
+  
+  // 1. COMPANY INFO
+  console.log(`\n🏢 Step 1: Company Information for ${testSymbol}`);
+  console.log("-".repeat(40));
+  try {
+    const companyData = await client.companyInfo(testSymbol);
+    if (companyData) {
+      console.log("✅ Success! Company data retrieved");
+      console.log(`📊 Exchange: ${companyData.exchange || 'N/A'}`);
+      console.log(`🏭 Industry: ${companyData.industry || 'N/A'}`);
+      if (companyData.market_cap) {
+        const marketCapB = companyData.market_cap / 1_000_000_000;
+        console.log(`💰 Market Cap: ${marketCapB.toFixed(1)}B VND`);
+      }
+      if (companyData.outstanding_shares) {
+        console.log(`📈 Outstanding Shares: ${companyData.outstanding_shares.toLocaleString()}`);
+      }
+      console.log(`👥 Shareholders: ${(companyData.shareholders || []).length} major`);
+      console.log(`👔 Officers: ${(companyData.officers || []).length} management`);
+    } else {
+      console.log("❌ Failed to retrieve company data");
+    }
+  } catch (error) {
+    console.log(`💥 Error in company info: ${error.message}`);
+  }
+  
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  
+  // 2. FINANCIAL INFO
+  console.log(`\n💹 Step 2: Financial Information for ${testSymbol}`);
+  console.log("-".repeat(40));
+  try {
+    const financialData = await client.financialInfo(testSymbol, "quarter");
+    if (financialData) {
+      console.log("✅ Success! Financial data retrieved");
+      
+      // Key metrics (TCBS may not have revenue/income in ratios)
+      if (financialData.total_revenue) {
+        console.log(`💵 Revenue: ${financialData.total_revenue.toLocaleString()} VND`);
+      }
+      if (financialData.net_income) {
+        console.log(`💰 Net Income: ${financialData.net_income.toLocaleString()} VND`);
+      }
+      if (financialData.total_assets) {
+        console.log(`🏦 Total Assets: ${financialData.total_assets.toLocaleString()} VND`);
+      }
+      
+      // Key ratios
+      const ratios = [];
+      if (financialData.pe) ratios.push(`PE: ${financialData.pe.toFixed(1)}`);
+      if (financialData.pb) ratios.push(`PB: ${financialData.pb.toFixed(1)}`);
+      if (financialData.roe) ratios.push(`ROE: ${(financialData.roe * 100).toFixed(1)}%`);
+      if (financialData.roa) ratios.push(`ROA: ${(financialData.roa * 100).toFixed(1)}%`);
+      if (financialData.debt_to_equity) ratios.push(`D/E: ${financialData.debt_to_equity.toFixed(1)}`);
+      
+      if (ratios.length > 0) {
+        console.log(`📊 Ratios: ${ratios.join(' | ')}`);
+      }
+    } else {
+      console.log("❌ Failed to retrieve financial data");
+    }
+  } catch (error) {
+    console.log(`💥 Error in financial info: ${error.message}`);
+  }
+  
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  
+  // 3. HISTORICAL DATA
+  console.log(`\n📈 Step 3: Historical Data for ${testSymbol}`);
+  console.log("-".repeat(40));
+  try {
+    const df = await client.getHistory(
+      testSymbol,
+      "2025-08-01",
+      "2025-08-13", 
+      "1D",
+      365
+    );
+    
+    if (df && df.length > 0) {
+      console.log(`✅ Success! Retrieved ${df.length} data points`);
+      console.log(`📅 Range: ${df[0].time} to ${df[df.length - 1].time}`);
+      
+      // Latest data
+      const latest = df[df.length - 1];
+      console.log(`💹 Latest: ${latest.close.toFixed(0)} VND (Vol: ${latest.volume.toLocaleString()})`);
+      
+      // Price change
+      if (df.length > 1) {
+        const firstPrice = df[0].open;
+        const lastPrice = df[df.length - 1].close;
+        const changePct = ((lastPrice - firstPrice) / firstPrice) * 100;
+        const minLow = Math.min(...df.map(d => d.low));
+        const maxHigh = Math.max(...df.map(d => d.high));
+        console.log(`📊 Change: ${changePct >= 0 ? '+' : ''}${changePct.toFixed(2)}% | Range: ${minLow.toFixed(0)}-${maxHigh.toFixed(0)}`);
+      }
+    } else {
+      console.log("❌ Failed to retrieve historical data");
+    }
+  } catch (error) {
+    console.log(`💥 Error in historical data: ${error.message}`);
+  }
+  
+  console.log(`\n${"=".repeat(60)}`);
+  console.log("✅ TCBS CLIENT TESTING COMPLETED");
+  console.log("=".repeat(60));
 }
 
 // Run main function if this file is executed directly

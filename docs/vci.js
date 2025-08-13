@@ -22,6 +22,63 @@ class VCIClient {
    * - Request timing and retry strategies
    */
 
+  // Normalized field mapping for cross-platform consistency
+  static FIELD_MAPPING = {
+    // Company Overview
+    symbol: 'symbol',
+    exchange: 'exchange',
+    industry: 'industry',
+    company_type: 'company_type',
+    established_year: 'established_year',
+    employees: 'employees',
+    market_cap: 'market_cap',
+    current_price: 'current_price',
+    outstanding_shares: 'outstanding_shares',
+    issue_shares: 'issue_shares',
+    company_profile: 'company_profile',
+    website: 'website',
+    
+    // Price Info
+    match_price: 'current_price',
+    price_change: 'price_change',
+    percent_price_change: 'percent_price_change',
+    total_volume: 'volume',
+    high_52w: 'high_52w',
+    low_52w: 'low_52w',
+    
+    // Financial Ratios
+    pe_ratio: 'pe',
+    pb_ratio: 'pb',
+    roe: 'roe',
+    roa: 'roa',
+    eps: 'eps',
+    revenue: 'revenue',
+    net_profit: 'net_profit',
+    dividend: 'dividend',
+    
+    // Shareholders (VCI format)
+    shareholder_name: 'name',
+    shareholder_percent: 'percentage',
+    
+    // Officers (VCI format)
+    officer_name: 'fullName',
+    officer_position: 'positionName',
+    officer_percent: 'percentage',
+    
+    // Financial Statements (normalized keys)
+    total_assets: 'total_assets',
+    total_liabilities: 'total_liabilities',
+    shareholders_equity: 'shareholders_equity',
+    total_revenue: 'total_revenue',
+    gross_profit: 'gross_profit',
+    operating_profit: 'operating_profit',
+    net_income: 'net_income',
+    cash_from_operations: 'cash_from_operations',
+    cash_from_investing: 'cash_from_investing',
+    cash_from_financing: 'cash_from_financing',
+    free_cash_flow: 'free_cash_flow'
+  };
+
   constructor(randomAgent = true, rateLimitPerMinute = 10) {
     this.baseUrl = "https://trading.vietcap.com.vn/api/";
     this.randomAgent = randomAgent;
@@ -358,97 +415,1373 @@ class VCIClient {
     console.log(`Successfully fetched ${filteredData.length} data points`);
     return filteredData;
   }
-}
 
-/**
- * Test the VCI client with VNINDEX data across different intervals.
- */
-async function main() {
-  const client = new VCIClient(true, 6); // Conservative rate limit
-  
-  // Test intervals
-  const intervals = ["1D", "1H", "1m"];
-  
-  for (const interval of intervals) {
-    console.log(`\n${"=".repeat(60)}`);
-    console.log(`Testing VNINDEX with ${interval} interval...`);
-    console.log(`Date range: 2025-08-01 to 2025-08-13`);
-    console.log("=".repeat(60));
+  /**
+   * Get company overview data using VCI GraphQL endpoint (same as vnstock).
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCB", "VCI")
+   * @returns {Promise<Object|null>} Object with comprehensive company information
+   */
+  async overview(symbol) {
+    // Use the same GraphQL endpoint as vnstock
+    const url = this.baseUrl.replace('/api/', '/data-mt/') + 'graphql';
     
-    const startTime = Date.now();
+    // The EXACT same GraphQL query used by vnstock
+    const graphqlQuery = `query Query($ticker: String!, $lang: String!) {
+  AnalysisReportFiles(ticker: $ticker, langCode: $lang) {
+    date
+    description
+    link
+    name
+    __typename
+  }
+  News(ticker: $ticker, langCode: $lang) {
+    id
+    organCode
+    ticker
+    newsTitle
+    newsSubTitle
+    friendlySubTitle
+    newsImageUrl
+    newsSourceLink
+    createdAt
+    publicDate
+    updatedAt
+    langCode
+    newsId
+    newsShortContent
+    newsFullContent
+    closePrice
+    referencePrice
+    floorPrice
+    ceilingPrice
+    percentPriceChange
+    __typename
+  }
+  TickerPriceInfo(ticker: $ticker) {
+    financialRatio {
+      yearReport
+      lengthReport
+      updateDate
+      revenue
+      revenueGrowth
+      netProfit
+      netProfitGrowth
+      ebitMargin
+      roe
+      roic
+      roa
+      pe
+      pb
+      eps
+      currentRatio
+      cashRatio
+      quickRatio
+      interestCoverage
+      ae
+      fae
+      netProfitMargin
+      grossMargin
+      ev
+      issueShare
+      ps
+      pcf
+      bvps
+      evPerEbitda
+      at
+      fat
+      acp
+      dso
+      dpo
+      epsTTM
+      charterCapital
+      RTQ4
+      charterCapitalRatio
+      RTQ10
+      dividend
+      ebitda
+      ebit
+      le
+      de
+      ccc
+      RTQ17
+      __typename
+    }
+    ticker
+    exchange
+    ev
+    ceilingPrice
+    floorPrice
+    referencePrice
+    openPrice
+    matchPrice
+    closePrice
+    priceChange
+    percentPriceChange
+    highestPrice
+    lowestPrice
+    totalVolume
+    highestPrice1Year
+    lowestPrice1Year
+    percentLowestPriceChange1Year
+    percentHighestPriceChange1Year
+    foreignTotalVolume
+    foreignTotalRoom
+    averageMatchVolume2Week
+    foreignHoldingRoom
+    currentHoldingRatio
+    maxHoldingRatio
+    __typename
+  }
+  Subsidiary(ticker: $ticker) {
+    id
+    organCode
+    subOrganCode
+    percentage
+    subOrListingInfo {
+      enOrganName
+      organName
+      __typename
+    }
+    __typename
+  }
+  Affiliate(ticker: $ticker) {
+    id
+    organCode
+    subOrganCode
+    percentage
+    subOrListingInfo {
+      enOrganName
+      organName
+      __typename
+    }
+    __typename
+  }
+  CompanyListingInfo(ticker: $ticker) {
+    id
+    issueShare
+    en_History
+    history
+    en_CompanyProfile
+    companyProfile
+    icbName3
+    enIcbName3
+    icbName2
+    enIcbName2
+    icbName4
+    enIcbName4
+    financialRatio {
+      id
+      ticker
+      issueShare
+      charterCapital
+      __typename
+    }
+    __typename
+  }
+  OrganizationManagers(ticker: $ticker) {
+    id
+    ticker
+    fullName
+    positionName
+    positionShortName
+    en_PositionName
+    en_PositionShortName
+    updateDate
+    percentage
+    quantity
+    __typename
+  }
+  OrganizationShareHolders(ticker: $ticker) {
+    id
+    ticker
+    ownerFullName
+    en_OwnerFullName
+    quantity
+    percentage
+    updateDate
+    __typename
+  }
+  OrganizationResignedManagers(ticker: $ticker) {
+    id
+    ticker
+    fullName
+    positionName
+    positionShortName
+    en_PositionName
+    en_PositionShortName
+    updateDate
+    percentage
+    quantity
+    __typename
+  }
+  OrganizationEvents(ticker: $ticker) {
+    id
+    organCode
+    ticker
+    eventTitle
+    en_EventTitle
+    publicDate
+    issueDate
+    sourceUrl
+    eventListCode
+    ratio
+    value
+    recordDate
+    exrightDate
+    eventListName
+    en_EventListName
+    __typename
+  }
+}`;
+    
+    const payload = {
+      query: graphqlQuery,
+      variables: { ticker: symbol.toUpperCase(), lang: "vi" }
+    };
+    
+    console.log(`Fetching company overview for ${symbol}...`);
+    
+    const responseData = await this.makeRequest(url, payload);
+    
+    if (!responseData || !responseData.data) {
+      console.log("No company data received from API");
+      return null;
+    }
+    
+    if (!responseData.data || !responseData.data.CompanyListingInfo) {
+      console.log("No CompanyListingInfo found in response");
+      return null;
+    }
+    
+    // Extract company listing info (same as vnstock)
+    const companyData = responseData.data.CompanyListingInfo;
+    
+    // Flatten the nested structure
+    const overviewData = {
+      symbol: symbol.toUpperCase(),
+      issueShare: companyData.issueShare || 'N/A',
+      companyProfile: companyData.companyProfile || 'N/A',
+      en_CompanyProfile: companyData.en_CompanyProfile || 'N/A',
+      history: companyData.history || 'N/A',
+      en_History: companyData.en_History || 'N/A',
+      icbName2: companyData.icbName2 || 'N/A',
+      enIcbName2: companyData.enIcbName2 || 'N/A',
+      icbName3: companyData.icbName3 || 'N/A',
+      enIcbName3: companyData.enIcbName3 || 'N/A',
+      icbName4: companyData.icbName4 || 'N/A',
+      enIcbName4: companyData.enIcbName4 || 'N/A'
+    };
+    
+    // Financial ratio data from company listing
+    if (companyData.financialRatio) {
+      overviewData.charterCapital = companyData.financialRatio.charterCapital || 'N/A';
+    }
+    
+    console.log(`Successfully fetched company overview for ${symbol}`);
+    return overviewData;
+  }
+
+  /**
+   * Get financial ratio summary using VCI GraphQL endpoint (same as vnstock).
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCB", "VCI")
+   * @returns {Promise<Array|null>} Array with comprehensive financial ratios
+   */
+  async ratioSummary(symbol) {
+    // Use the same GraphQL approach as overview method
+    const url = this.baseUrl.replace('/api/', '/data-mt/') + 'graphql';
+    
+    // Same GraphQL query as overview (reuse the comprehensive query)
+    const graphqlQuery = `query Query($ticker: String!, $lang: String!) {
+  TickerPriceInfo(ticker: $ticker) {
+    financialRatio {
+      yearReport
+      lengthReport
+      updateDate
+      revenue
+      revenueGrowth
+      netProfit
+      netProfitGrowth
+      ebitMargin
+      roe
+      roic
+      roa
+      pe
+      pb
+      eps
+      currentRatio
+      cashRatio
+      quickRatio
+      interestCoverage
+      ae
+      fae
+      netProfitMargin
+      grossMargin
+      ev
+      issueShare
+      ps
+      pcf
+      bvps
+      evPerEbitda
+      at
+      fat
+      acp
+      dso
+      dpo
+      epsTTM
+      charterCapital
+      RTQ4
+      charterCapitalRatio
+      RTQ10
+      dividend
+      ebitda
+      ebit
+      le
+      de
+      ccc
+      RTQ17
+      __typename
+    }
+    ticker
+    exchange
+    ev
+    ceilingPrice
+    floorPrice
+    referencePrice
+    openPrice
+    matchPrice
+    closePrice
+    priceChange
+    percentPriceChange
+    highestPrice
+    lowestPrice
+    totalVolume
+    __typename
+  }
+}`;
+    
+    const payload = {
+      query: graphqlQuery,
+      variables: { ticker: symbol.toUpperCase(), lang: "vi" }
+    };
+    
+    console.log(`Fetching financial ratios for ${symbol}...`);
+    
+    const responseData = await this.makeRequest(url, payload);
+    
+    if (!responseData || !responseData.data) {
+      console.log("No financial ratio data received from API");
+      return null;
+    }
+    
+    if (!responseData.data || !responseData.data.TickerPriceInfo) {
+      console.log("No TickerPriceInfo found in response");
+      return null;
+    }
+    
+    // Extract financial ratio data (same as vnstock)
+    const tickerInfo = responseData.data.TickerPriceInfo;
+    if (!tickerInfo || !tickerInfo.financialRatio) {
+      console.log("No financial ratios available for this symbol");
+      return null;
+    }
+    
+    const financialRatios = tickerInfo.financialRatio;
+    
+    // Convert to array format (same as vnstock)
+    const ratioData = [];
+    for (const [key, value] of Object.entries(financialRatios)) {
+      if (key !== "__typename" && value !== null && value !== 'N/A') {
+        ratioData.push({
+          symbol: symbol.toUpperCase(),
+          ratio_name: key,
+          value: value
+        });
+      }
+    }
+    
+    if (ratioData.length === 0) {
+      console.log("No valid financial ratios found");
+      return null;
+    }
+    
+    console.log(`Successfully fetched ${ratioData.length} financial ratios for ${symbol}`);
+    return ratioData;
+  }
+
+  /**
+   * Apply normalized field mapping to company data.
+   */
+  applyFieldMapping(data, mappingType = 'company') {
+    if (typeof data !== 'object' || data === null) {
+      return data;
+    }
+    
+    const mappedData = {};
+    for (const [key, value] of Object.entries(data)) {
+      // Use direct key mapping if available, otherwise keep original
+      const normalizedKey = VCIClient.FIELD_MAPPING[key] || key;
+      mappedData[normalizedKey] = value;
+    }
+    
+    return mappedData;
+  }
+
+  /**
+   * Normalize VCI-specific data structure to standard format.
+   */
+  normalizeVciData(companyData) {
+    const normalized = {
+      symbol: companyData.symbol,
+      exchange: null,
+      industry: null,
+      company_type: null,
+      established_year: null,
+      employees: null,
+      market_cap: companyData.market_cap,
+      current_price: companyData.current_price,
+      outstanding_shares: companyData.issue_shares,
+      company_profile: null,
+      website: null
+    };
+
+    // Extract from CompanyListingInfo
+    if (companyData.CompanyListingInfo) {
+      const listingInfo = companyData.CompanyListingInfo;
+      Object.assign(normalized, {
+        industry: listingInfo.icbName3,
+        company_profile: listingInfo.companyProfile,
+        outstanding_shares: listingInfo.issueShare
+      });
+    }
+
+    // Extract from TickerPriceInfo
+    if (companyData.TickerPriceInfo) {
+      const priceInfo = companyData.TickerPriceInfo;
+      Object.assign(normalized, {
+        exchange: priceInfo.exchange,
+        current_price: priceInfo.matchPrice,
+        price_change: priceInfo.priceChange,
+        percent_price_change: priceInfo.percentPriceChange,
+        volume: priceInfo.totalVolume,
+        high_52w: priceInfo.highestPrice1Year,
+        low_52w: priceInfo.lowestPrice1Year
+      });
+
+      // Extract financial ratios
+      if (priceInfo.financialRatio) {
+        const ratios = priceInfo.financialRatio;
+        Object.assign(normalized, {
+          pe: ratios.pe,
+          pb: ratios.pb,
+          roe: ratios.roe,
+          roa: ratios.roa,
+          eps: ratios.eps,
+          revenue: ratios.revenue,
+          net_profit: ratios.netProfit,
+          dividend: ratios.dividend
+        });
+      }
+    }
+
+    // Normalize shareholders
+    if (companyData.OrganizationShareHolders) {
+      normalized.shareholders = companyData.OrganizationShareHolders.map(shareholder => ({
+        shareholder_name: shareholder.ownerFullName,
+        shareholder_percent: shareholder.percentage
+      }));
+    }
+
+    // Normalize officers
+    if (companyData.OrganizationManagers) {
+      normalized.officers = companyData.OrganizationManagers.map(manager => ({
+        officer_name: manager.fullName,
+        officer_position: manager.positionName,
+        officer_percent: manager.percentage
+      }));
+    }
+
+    return normalized;
+  }
+
+  /**
+   * Get comprehensive company information in a single object (same as vnstock approach).
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCB", "VCI")
+   * @param {boolean} mapping - Whether to apply normalized field mapping for cross-platform consistency
+   * @returns {Promise<Object|null>} Object containing all company data: overview, ratios, price info, shareholders, managers, etc.
+   */
+  async companyInfo(symbol, mapping = true) {
+    const url = this.baseUrl.replace('/api/', '/data-mt/') + 'graphql';
+    
+    // Complete GraphQL query that fetches ALL company data at once
+    const graphqlQuery = `query Query($ticker: String!, $lang: String!) {
+  AnalysisReportFiles(ticker: $ticker, langCode: $lang) {
+    date
+    description
+    link
+    name
+    __typename
+  }
+  News(ticker: $ticker, langCode: $lang) {
+    id
+    organCode
+    ticker
+    newsTitle
+    newsSubTitle
+    friendlySubTitle
+    newsImageUrl
+    newsSourceLink
+    createdAt
+    publicDate
+    updatedAt
+    langCode
+    newsId
+    newsShortContent
+    newsFullContent
+    closePrice
+    referencePrice
+    floorPrice
+    ceilingPrice
+    percentPriceChange
+    __typename
+  }
+  TickerPriceInfo(ticker: $ticker) {
+    financialRatio {
+      yearReport
+      lengthReport
+      updateDate
+      revenue
+      revenueGrowth
+      netProfit
+      netProfitGrowth
+      ebitMargin
+      roe
+      roic
+      roa
+      pe
+      pb
+      eps
+      currentRatio
+      cashRatio
+      quickRatio
+      interestCoverage
+      ae
+      fae
+      netProfitMargin
+      grossMargin
+      ev
+      issueShare
+      ps
+      pcf
+      bvps
+      evPerEbitda
+      at
+      fat
+      acp
+      dso
+      dpo
+      epsTTM
+      charterCapital
+      RTQ4
+      charterCapitalRatio
+      RTQ10
+      dividend
+      ebitda
+      ebit
+      le
+      de
+      ccc
+      RTQ17
+      __typename
+    }
+    ticker
+    exchange
+    ev
+    ceilingPrice
+    floorPrice
+    referencePrice
+    openPrice
+    matchPrice
+    closePrice
+    priceChange
+    percentPriceChange
+    highestPrice
+    lowestPrice
+    totalVolume
+    highestPrice1Year
+    lowestPrice1Year
+    percentLowestPriceChange1Year
+    percentHighestPriceChange1Year
+    foreignTotalVolume
+    foreignTotalRoom
+    averageMatchVolume2Week
+    foreignHoldingRoom
+    currentHoldingRatio
+    maxHoldingRatio
+    __typename
+  }
+  Subsidiary(ticker: $ticker) {
+    id
+    organCode
+    subOrganCode
+    percentage
+    subOrListingInfo {
+      enOrganName
+      organName
+      __typename
+    }
+    __typename
+  }
+  Affiliate(ticker: $ticker) {
+    id
+    organCode
+    subOrganCode
+    percentage
+    subOrListingInfo {
+      enOrganName
+      organName
+      __typename
+    }
+    __typename
+  }
+  CompanyListingInfo(ticker: $ticker) {
+    id
+    issueShare
+    en_History
+    history
+    en_CompanyProfile
+    companyProfile
+    icbName3
+    enIcbName3
+    icbName2
+    enIcbName2
+    icbName4
+    enIcbName4
+    financialRatio {
+      id
+      ticker
+      issueShare
+      charterCapital
+      __typename
+    }
+    __typename
+  }
+  OrganizationManagers(ticker: $ticker) {
+    id
+    ticker
+    fullName
+    positionName
+    positionShortName
+    en_PositionName
+    en_PositionShortName
+    updateDate
+    percentage
+    quantity
+    __typename
+  }
+  OrganizationShareHolders(ticker: $ticker) {
+    id
+    ticker
+    ownerFullName
+    en_OwnerFullName
+    quantity
+    percentage
+    updateDate
+    __typename
+  }
+  OrganizationResignedManagers(ticker: $ticker) {
+    id
+    ticker
+    fullName
+    positionName
+    positionShortName
+    en_PositionName
+    en_PositionShortName
+    updateDate
+    percentage
+    quantity
+    __typename
+  }
+  OrganizationEvents(ticker: $ticker) {
+    id
+    organCode
+    ticker
+    eventTitle
+    en_EventTitle
+    publicDate
+    issueDate
+    sourceUrl
+    eventListCode
+    ratio
+    value
+    recordDate
+    exrightDate
+    eventListName
+    en_EventListName
+    __typename
+  }
+}`;
+    
+    const payload = {
+      query: graphqlQuery,
+      variables: { ticker: symbol.toUpperCase(), lang: "vi" }
+    };
+    
+    console.log(`Fetching comprehensive company information for ${symbol}...`);
+    
+    const responseData = await this.makeRequest(url, payload);
+    
+    if (!responseData || !responseData.data) {
+      console.log("No company data received from API");
+      return null;
+    }
+    
+    // Return the complete data structure
+    const companyData = responseData.data;
+    
+    // Add symbol to the root level for convenience
+    companyData.symbol = symbol.toUpperCase();
+    
+    // Calculate market cap if we have the required data
+    try {
+      const tickerPriceInfo = companyData.TickerPriceInfo;
+      const companyListingInfo = companyData.CompanyListingInfo;
+      
+      if (tickerPriceInfo && companyListingInfo) {
+        const currentPrice = tickerPriceInfo.matchPrice;
+        const issueShares = companyListingInfo.issueShare;
+        
+        if (currentPrice !== null && currentPrice !== undefined && 
+            issueShares !== null && issueShares !== undefined) {
+          // VCI returns actual share counts (not millions like TCBS)
+          const marketCap = issueShares * currentPrice;
+          companyData.market_cap = marketCap;
+          companyData.current_price = currentPrice;
+          companyData.issue_shares = issueShares;
+          
+          console.log(`Issue shares: ${issueShares.toLocaleString()}`);
+          console.log(`Current price: ${currentPrice.toLocaleString()} VND`);
+          console.log(`Calculated market cap: ${marketCap.toLocaleString()} VND`);
+        } else {
+          companyData.market_cap = null;
+          companyData.current_price = currentPrice;
+          companyData.issue_shares = issueShares;
+        }
+      } else {
+        companyData.market_cap = null;
+        companyData.current_price = null;
+        companyData.issue_shares = null;
+      }
+    } catch (error) {
+      console.log(`Could not calculate market cap: ${error.message}`);
+      companyData.market_cap = null;
+      companyData.current_price = null;
+      companyData.issue_shares = null;
+    }
+    
+    console.log(`Successfully fetched comprehensive company information for ${symbol}`);
+    
+    // Apply field mapping if requested
+    if (mapping) {
+      return this.normalizeVciData(companyData);
+    } else {
+      return companyData;
+    }
+  }
+
+  /**
+   * Get comprehensive financial information in a single object.
+   * 
+   * @param {string} symbol - Stock symbol (e.g., "VCI", "FPT") 
+   * @param {string} period - Financial reporting period - "quarter" or "year"
+   * @param {boolean} mapping - Whether to apply normalized field mapping for cross-platform consistency
+   * @returns {Promise<Object|null>} Dictionary containing all financial data or null if failed
+   */
+  async financialInfo(symbol, period = "quarter", mapping = true) {
+    console.log(`Fetching comprehensive financial information for ${symbol} (period: ${period})...`);
+    
+    const financialData = {
+      symbol: symbol.toUpperCase(),
+      period: period
+    };
     
     try {
-      const data = await client.getHistory(
-        "VNINDEX",
-        "2025-08-01",
-        "2025-08-13", 
-        interval
-      );
+      // Get comprehensive financial ratios using VCI GraphQL API
+      console.log(`Fetching financial ratios for ${symbol}...`);
+      const ratiosData = await this.getVciFinancialRatios(symbol, period);
       
-      const endTime = Date.now();
-      const duration = (endTime - startTime) / 1000;
-      
-      if (data !== null) {
-        console.log(`\n✅ Success! Retrieved ${data.length} data points in ${duration.toFixed(1)}s`);
-        console.log(`Data range: ${data[0]?.time.toISOString()} to ${data[data.length-1]?.time.toISOString()}`);
+      if (ratiosData && ratiosData.length > 0) {
+        financialData.ratios = ratiosData;
         
-        // Show first few and last few rows
-        if (data.length > 10) {
-          console.log(`\nFirst 3 rows:`);
-          for (let i = 0; i < 3; i++) {
-            const item = data[i];
-            console.log(`${item.time.toISOString().split('T')[0]} ${item.open.toFixed(2)} ${item.high.toFixed(2)} ${item.low.toFixed(2)} ${item.close.toFixed(2)} ${item.volume.toLocaleString()}`);
-          }
-          console.log(`\nLast 3 rows:`);
-          for (let i = data.length - 3; i < data.length; i++) {
-            const item = data[i];
-            console.log(`${item.time.toISOString().split('T')[0]} ${item.open.toFixed(2)} ${item.high.toFixed(2)} ${item.low.toFixed(2)} ${item.close.toFixed(2)} ${item.volume.toLocaleString()}`);
-          }
-        } else {
-          console.log(`\nAll data:`);
-          data.forEach(item => {
-            console.log(`${item.time.toISOString().split('T')[0]} ${item.open.toFixed(2)} ${item.high.toFixed(2)} ${item.low.toFixed(2)} ${item.close.toFixed(2)} ${item.volume.toLocaleString()}`);
-          });
-        }
+        // Extract balance sheet data from ratios (BSA codes)
+        console.log(`Extracting balance sheet for ${symbol}...`);
+        const balanceSheetData = this.extractBalanceSheetFromRatios(ratiosData);
+        financialData.balance_sheet = balanceSheetData;
         
-        // Basic statistics
-        const opens = data.map(d => d.open);
-        const highs = data.map(d => d.high);
-        const lows = data.map(d => d.low);
-        const closes = data.map(d => d.close);
-        const volumes = data.map(d => d.volume);
+        // Extract income statement data from ratios (ISA, ISB codes)
+        console.log(`Extracting income statement for ${symbol}...`);
+        const incomeStatementData = this.extractIncomeStatementFromRatios(ratiosData);
+        financialData.income_statement = incomeStatementData;
         
-        console.log(`\nBasic Statistics:`);
-        console.log(`Open: ${Math.min(...opens).toFixed(2)} - ${Math.max(...opens).toFixed(2)}`);
-        console.log(`High: ${Math.min(...highs).toFixed(2)} - ${Math.max(...highs).toFixed(2)}`);
-        console.log(`Low: ${Math.min(...lows).toFixed(2)} - ${Math.max(...lows).toFixed(2)}`);
-        console.log(`Close: ${Math.min(...closes).toFixed(2)} - ${Math.max(...closes).toFixed(2)}`);
-        console.log(`Volume: ${Math.min(...volumes).toLocaleString()} - ${Math.max(...volumes).toLocaleString()}`);
-        
+        // Extract cash flow data from ratios (CFA, CFB, CFS codes)
+        console.log(`Extracting cash flow for ${symbol}...`);
+        const cashFlowData = this.extractCashFlowFromRatios(ratiosData);
+        financialData.cash_flow = cashFlowData;
       } else {
-        console.log(`\n❌ Failed to retrieve ${interval} data`);
+        financialData.balance_sheet = null;
+        financialData.income_statement = null;
+        financialData.cash_flow = null;
+        financialData.ratios = null;
       }
       
-    } catch (e) {
-      console.log(`\n💥 Exception occurred for ${interval}: ${e.message}`);
+      console.log(`Successfully fetched comprehensive financial information for ${symbol}`);
+      
+      // Apply field mapping if requested
+      if (mapping) {
+        return this.normalizeVciFinancialData(financialData);
+      } else {
+        return financialData;
+      }
+      
+    } catch (error) {
+      console.log(`Error fetching comprehensive financial data for ${symbol}: ${error.message}`);
+      return null;
     }
+  }
+
+  /**
+   * Get VCI financial ratios using GraphQL API.
+   */
+  async getVciFinancialRatios(symbol, period) {
+    const periodMap = { "quarter": "Q", "year": "Y" };
+    const vciPeriod = periodMap[period] || "Q";
     
-    // Add delay between different interval requests
-    if (interval !== intervals[intervals.length - 1]) {
-      console.log(`\nWaiting 3 seconds before next interval test...`);
-      await new Promise(resolve => setTimeout(resolve, 3000));
+    const graphqlQuery = `fragment Ratios on CompanyFinancialRatio {
+  ticker
+  yearReport
+  lengthReport
+  updateDate
+  revenue
+  revenueGrowth
+  netProfit
+  netProfitGrowth
+  ebitMargin
+  roe
+  roic
+  roa
+  pe
+  pb
+  eps
+  currentRatio
+  cashRatio
+  quickRatio
+  interestCoverage
+  ae
+  netProfitMargin
+  grossMargin
+  ev
+  issueShare
+  ps
+  pcf
+  bvps
+  evPerEbitda
+  BSA1
+  BSA2
+  BSA5
+  BSA8
+  BSA10
+  BSA159
+  BSA16
+  BSA22
+  BSA23
+  BSA24
+  BSA162
+  BSA27
+  BSA29
+  BSA43
+  BSA46
+  BSA50
+  BSA209
+  BSA53
+  BSA54
+  BSA55
+  BSA56
+  BSA58
+  BSA67
+  BSA71
+  BSA173
+  BSA78
+  BSA79
+  BSA80
+  BSA175
+  BSA86
+  BSA90
+  BSA96
+  CFA21
+  CFA22
+  at
+  fat
+  acp
+  dso
+  dpo
+  ccc
+  de
+  le
+  ebitda
+  ebit
+  dividend
+  RTQ10
+  charterCapitalRatio
+  RTQ4
+  epsTTM
+  charterCapital
+  fae
+  RTQ17
+  CFA26
+  CFA6
+  CFA9
+  BSA85
+  CFA36
+  BSB98
+  BSB101
+  BSA89
+  CFA34
+  CFA14
+  ISB34
+  ISB27
+  ISA23
+  ISS152
+  ISA102
+  CFA27
+  CFA12
+  CFA28
+  BSA18
+  BSB102
+  BSB110
+  BSB108
+  CFA23
+  ISB41
+  BSB103
+  BSA40
+  BSB99
+  CFA16
+  CFA18
+  CFA3
+  ISB30
+  BSA33
+  ISB29
+  CFS200
+  ISA2
+  CFA24
+  BSB105
+  CFA37
+  ISS141
+  BSA95
+  CFA10
+  ISA4
+  BSA82
+  CFA25
+  BSB111
+  ISI64
+  BSB117
+  ISA20
+  CFA19
+  ISA6
+  ISA3
+  BSB100
+  ISB31
+  ISB38
+  ISB26
+  BSA210
+  CFA20
+  CFA35
+  ISA17
+  ISS148
+  BSB115
+  ISA9
+  CFA4
+  ISA7
+  CFA5
+  ISA22
+  CFA8
+  CFA33
+  CFA29
+  BSA30
+  BSA84
+  BSA44
+  BSB107
+  ISB37
+  ISA8
+  BSB109
+  ISA19
+  ISB36
+  ISA13
+  ISA1
+  BSB121
+  ISA14
+  BSB112
+  ISA21
+  ISA10
+  CFA11
+  ISA12
+  BSA15
+  BSB104
+  BSA92
+  BSB106
+  BSA94
+  ISA18
+  CFA17
+  ISI87
+  BSB114
+  ISA15
+  BSB116
+  ISB28
+  BSB97
+  CFA15
+  ISA11
+  ISB33
+  BSA47
+  ISB40
+  ISB39
+  CFA7
+  CFA13
+  ISS146
+  ISB25
+  BSA45
+  BSB118
+  CFA1
+  CFS191
+  ISB35
+  CFB65
+  CFA31
+  BSB113
+  ISB32
+  ISA16
+  CFS210
+  BSA48
+  BSA36
+  ISI97
+  CFA30
+  CFA2
+  CFB80
+  CFA38
+  CFA32
+  ISA5
+  BSA49
+  CFB64
+  __typename
+}
+
+query Query($ticker: String!, $period: String!) {
+  CompanyFinancialRatio(ticker: $ticker, period: $period) {
+    ratio {
+      ...Ratios
+      __typename
     }
+    period
+    __typename
+  }
+}`;
+    
+    const payload = {
+      query: graphqlQuery,
+      variables: {
+        ticker: symbol.toUpperCase(),
+        period: vciPeriod
+      }
+    };
+    
+    try {
+      const response = await this.makeRequest("https://trading.vietcap.com.vn/data-mt/graphql", payload);
+      if (response && response.data && response.data.CompanyFinancialRatio) {
+        const ratiosData = response.data.CompanyFinancialRatio.ratio;
+        if (ratiosData && ratiosData.length > 0) {
+          return ratiosData;
+        }
+      }
+      return null;
+    } catch (error) {
+      console.log(`Error fetching VCI financial ratios: ${error.message}`);
+      return null;
+    }
+  }
+  
+  /**
+   * Extract balance sheet data from VCI ratios (BSA codes).
+   */
+  extractBalanceSheetFromRatios(ratiosData) {
+    if (!ratiosData || ratiosData.length === 0) return null;
+    
+    const balanceSheetData = ratiosData.map(item => {
+      const bsItem = { ticker: item.ticker, yearReport: item.yearReport, lengthReport: item.lengthReport };
+      Object.keys(item).forEach(key => {
+        if (key.startsWith('BSA')) {
+          bsItem[key] = item[key];
+        }
+      });
+      return bsItem;
+    });
+    
+    return balanceSheetData;
+  }
+  
+  /**
+   * Extract income statement data from VCI ratios (ISA, ISB codes).
+   */
+  extractIncomeStatementFromRatios(ratiosData) {
+    if (!ratiosData || ratiosData.length === 0) return null;
+    
+    const incomeStatementData = ratiosData.map(item => {
+      const isItem = { ticker: item.ticker, yearReport: item.yearReport, lengthReport: item.lengthReport };
+      Object.keys(item).forEach(key => {
+        if (key.startsWith('ISA') || key.startsWith('ISB') || key.startsWith('ISS') || key.startsWith('ISI') || 
+            ['revenue', 'netProfit', 'grossMargin', 'netProfitMargin'].includes(key)) {
+          isItem[key] = item[key];
+        }
+      });
+      return isItem;
+    });
+    
+    return incomeStatementData;
+  }
+  
+  /**
+   * Extract cash flow data from VCI ratios (CFA, CFB, CFS codes).
+   */
+  extractCashFlowFromRatios(ratiosData) {
+    if (!ratiosData || ratiosData.length === 0) return null;
+    
+    const cashFlowData = ratiosData.map(item => {
+      const cfItem = { ticker: item.ticker, yearReport: item.yearReport, lengthReport: item.lengthReport };
+      Object.keys(item).forEach(key => {
+        if (key.startsWith('CFA') || key.startsWith('CFB') || key.startsWith('CFS')) {
+          cfItem[key] = item[key];
+        }
+      });
+      return cfItem;
+    });
+    
+    
+    return cashFlowData;
+  }
+  
+  /**
+   * Normalize VCI-specific financial data structure to standard format.
+   */
+  normalizeVciFinancialData(financialData) {
+    const normalized = {
+      symbol: financialData.symbol,
+      period: financialData.period,
+      balance_sheet: null,
+      income_statement: null,
+      cash_flow: null,
+      ratios: null,
+      
+      // Key financial metrics (extracted from statements)
+      total_assets: null,
+      total_liabilities: null,
+      shareholders_equity: null,
+      total_revenue: null,
+      gross_profit: null,
+      operating_profit: null,
+      net_income: null,
+      cash_from_operations: null,
+      cash_from_investing: null,
+      cash_from_financing: null,
+      free_cash_flow: null,
+      
+      // Key ratios
+      pe: null,
+      pb: null,
+      roe: null,
+      roa: null,
+      debt_to_equity: null,
+      current_ratio: null,
+      quick_ratio: null,
+      gross_margin: null,
+      net_margin: null,
+      asset_turnover: null
+    };
+
+    // Normalize raw financial statement data while preserving structure
+    if (financialData.balance_sheet && Array.isArray(financialData.balance_sheet) && financialData.balance_sheet.length > 0) {
+      normalized.balance_sheet = financialData.balance_sheet;
+      // Extract key balance sheet metrics from most recent period
+      const latestBs = financialData.balance_sheet[0];
+      // Map common balance sheet fields (VCI specific field names)
+      normalized.total_assets = latestBs['Total assets'] || latestBs['Total Assets'];
+      normalized.total_liabilities = latestBs['Total liabilities'] || latestBs['Total Liabilities'];
+      normalized.shareholders_equity = latestBs['Shareholders\' equity'] || latestBs['Total Equity'];
+    }
+
+    if (financialData.income_statement && Array.isArray(financialData.income_statement) && financialData.income_statement.length > 0) {
+      normalized.income_statement = financialData.income_statement;
+      // Extract key income statement metrics from most recent period
+      const latestIs = financialData.income_statement[0];
+      // Map common income statement fields (VCI specific field names)
+      normalized.total_revenue = latestIs['Net sales'] || latestIs['Revenue'];
+      normalized.gross_profit = latestIs['Gross profit'];
+      normalized.operating_profit = latestIs['Profit from business activities'] || latestIs['Operating Income'];
+      normalized.net_income = latestIs['Profit after tax'] || latestIs['Net Income'];
+    }
+
+    if (financialData.cash_flow && Array.isArray(financialData.cash_flow) && financialData.cash_flow.length > 0) {
+      normalized.cash_flow = financialData.cash_flow;
+      // Extract key cash flow metrics from most recent period
+      const latestCf = financialData.cash_flow[0];
+      // Map common cash flow fields (VCI specific field names)
+      normalized.cash_from_operations = latestCf['Net cash flows from operating activities'];
+      normalized.cash_from_investing = latestCf['Net cash flows from investing activities'];
+      normalized.cash_from_financing = latestCf['Net cash flows from financing activities'];
+      // Calculate free cash flow if possible
+      if (normalized.cash_from_operations && normalized.cash_from_investing) {
+        normalized.free_cash_flow = normalized.cash_from_operations + normalized.cash_from_investing;
+      }
+    }
+
+    if (financialData.ratios && Array.isArray(financialData.ratios) && financialData.ratios.length > 0) {
+      normalized.ratios = financialData.ratios;
+      // Extract key ratios from most recent period
+      const latestRatios = financialData.ratios[0];
+      // Map common ratio fields (VCI actual field names from API)
+      normalized.pe = latestRatios.pe;
+      normalized.pb = latestRatios.pb;
+      normalized.roe = latestRatios.roe;
+      normalized.roa = latestRatios.roa;
+      normalized.debt_to_equity = latestRatios.de;
+      normalized.current_ratio = latestRatios.currentRatio;
+      normalized.quick_ratio = latestRatios.quickRatio;
+      normalized.gross_margin = latestRatios.grossMargin;
+      normalized.net_margin = latestRatios.netProfitMargin;
+      
+      // Extract key financial metrics from ratios data
+      normalized.total_revenue = latestRatios.revenue;
+      normalized.net_income = latestRatios.netProfit;
+      normalized.total_assets = latestRatios.BSA1;  // Total assets from balance sheet code
+      normalized.shareholders_equity = latestRatios.ae;  // Average equity
+    }
+
+    return normalized;
   }
 }
 
-// Export for use as module (works in both Node.js and modern bundlers)
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { VCIClient };
-}
-
-// Also support ES6 imports in browsers/bundlers
-if (typeof window !== 'undefined') {
-  window.VCIClient = VCIClient;
+/**
+ * Test the VCI client with comprehensive company data and historical data.
+ */
+async function main() {
+  console.log("\n" + "=".repeat(60));
+  console.log("VCI CLIENT - COMPREHENSIVE TESTING");
+  console.log("=".repeat(60));
+  
+  const client = new VCIClient(true, 6); // random_agent=true, rate_limit=6
+  const testSymbol = "VCI";
+  
+  // 1. COMPANY INFO
+  console.log(`\n🏢 Step 1: Company Information for ${testSymbol}`);
+  console.log("-".repeat(40));
+  try {
+    const companyData = await client.companyInfo(testSymbol);
+    if (companyData) {
+      console.log("✅ Success! Company data retrieved");
+      console.log(`📊 Exchange: ${companyData.exchange || 'N/A'}`);
+      console.log(`🏭 Industry: ${companyData.industry || 'N/A'}`);
+      if (companyData.market_cap) {
+        const marketCapB = companyData.market_cap / 1_000_000_000;
+        console.log(`💰 Market Cap: ${marketCapB.toFixed(1)}B VND`);
+      }
+      if (companyData.outstanding_shares) {
+        console.log(`📈 Outstanding Shares: ${companyData.outstanding_shares.toLocaleString()}`);
+      }
+      console.log(`👥 Shareholders: ${(companyData.shareholders || []).length} major`);
+      console.log(`👔 Officers: ${(companyData.officers || []).length} management`);
+    } else {
+      console.log("❌ Failed to retrieve company data");
+    }
+  } catch (error) {
+    console.log(`💥 Error in company info: ${error.message}`);
+  }
+  
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  
+  // 2. FINANCIAL INFO
+  console.log(`\n💹 Step 2: Financial Information for ${testSymbol}`);
+  console.log("-".repeat(40));
+  try {
+    const financialData = await client.financialInfo(testSymbol, "quarter");
+    if (financialData) {
+      console.log("✅ Success! Financial data retrieved");
+      
+      // Key metrics
+      if (financialData.total_revenue) {
+        console.log(`💵 Revenue: ${financialData.total_revenue.toLocaleString()} VND`);
+      }
+      if (financialData.net_income) {
+        console.log(`💰 Net Income: ${financialData.net_income.toLocaleString()} VND`);
+      }
+      if (financialData.total_assets) {
+        console.log(`🏦 Total Assets: ${financialData.total_assets.toLocaleString()} VND`);
+      }
+      
+      // Key ratios
+      const ratios = [];
+      if (financialData.pe) ratios.push(`PE: ${financialData.pe.toFixed(1)}`);
+      if (financialData.pb) ratios.push(`PB: ${financialData.pb.toFixed(1)}`);
+      if (financialData.roe) ratios.push(`ROE: ${(financialData.roe * 100).toFixed(1)}%`);
+      if (financialData.roa) ratios.push(`ROA: ${(financialData.roa * 100).toFixed(1)}%`);
+      
+      if (ratios.length > 0) {
+        console.log(`📊 Ratios: ${ratios.join(' | ')}`);
+      }
+    } else {
+      console.log("❌ Failed to retrieve financial data");
+    }
+  } catch (error) {
+    console.log(`💥 Error in financial info: ${error.message}`);
+  }
+  
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  
+  // 3. HISTORICAL DATA
+  console.log(`\n📈 Step 3: Historical Data for ${testSymbol}`);
+  console.log("-".repeat(40));
+  try {
+    const df = await client.getHistory(
+      testSymbol,
+      "2025-08-01",
+      "2025-08-13", 
+      "1D",
+      19
+    );
+    
+    if (df && df.length > 0) {
+      console.log(`✅ Success! Retrieved ${df.length} data points`);
+      console.log(`📅 Range: ${df[0].time} to ${df[df.length - 1].time}`);
+      
+      // Latest data
+      const latest = df[df.length - 1];
+      console.log(`💹 Latest: ${latest.close.toFixed(0)} VND (Vol: ${latest.volume.toLocaleString()})`);
+      
+      // Price change
+      if (df.length > 1) {
+        const firstPrice = df[0].open;
+        const lastPrice = df[df.length - 1].close;
+        const changePct = ((lastPrice - firstPrice) / firstPrice) * 100;
+        const minLow = Math.min(...df.map(d => d.low));
+        const maxHigh = Math.max(...df.map(d => d.high));
+        console.log(`📊 Change: ${changePct >= 0 ? '+' : ''}${changePct.toFixed(2)}% | Range: ${minLow.toFixed(0)}-${maxHigh.toFixed(0)}`);
+      }
+    } else {
+      console.log("❌ Failed to retrieve historical data");
+    }
+  } catch (error) {
+    console.log(`💥 Error in historical data: ${error.message}`);
+  }
+  
+  console.log(`\n${"=".repeat(60)}`);
+  console.log("✅ VCI CLIENT TESTING COMPLETED");
+  console.log("=".repeat(60));
 }
 
 // Run main function if this file is executed directly
