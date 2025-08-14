@@ -19,6 +19,10 @@ import argparse
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Union
 import sys
+import re
+import html
+import math
+import glob
 
 # Add docs directory to path for imports
 sys.path.append(os.path.join(os.path.dirname(__file__), 'docs'))
@@ -121,9 +125,28 @@ def is_cache_valid(file_path: str, cache_days: int = CACHE_DAYS) -> bool:
         print(f"   - Error checking cache: {e}")
         return False
 
+def clean_nan_values(obj):
+    """
+    Recursively clean NaN values from data structures, replacing them with None.
+    
+    Args:
+        obj: Object to clean (dict, list, or primitive)
+        
+    Returns:
+        Cleaned object with NaN values replaced by None
+    """
+    if isinstance(obj, dict):
+        return {k: clean_nan_values(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [clean_nan_values(item) for item in obj]
+    elif isinstance(obj, float) and math.isnan(obj):
+        return None
+    else:
+        return obj
+
 def save_json_with_timestamp(data: Dict, file_path: str):
     """
-    Save data to JSON file with created_at timestamp.
+    Save data to JSON file with created_at timestamp, ensuring valid JSON output.
     
     Args:
         data: Data to save
@@ -131,10 +154,56 @@ def save_json_with_timestamp(data: Dict, file_path: str):
     """
     data['created_at'] = datetime.now().isoformat()
     
+    # Clean NaN values to ensure valid JSON
+    cleaned_data = clean_nan_values(data)
+    
     with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(cleaned_data, f, ensure_ascii=False, indent=2)
     
     print(f"   - Saved: {os.path.basename(file_path)}")
+
+def extract_company_name_from_profile(company_profile: str) -> Optional[str]:
+    """
+    Extract company name from HTML company profile.
+    
+    Args:
+        company_profile: HTML content containing company information
+        
+    Returns:
+        Extracted company name or None if not found
+    """
+    if not company_profile:
+        return None
+    
+    # Remove HTML tags and get text content
+    text = re.sub(r'<[^>]+>', '', company_profile)
+    
+    # Decode HTML entities (e.g., &ocirc; -> ô, &aacute; -> á)
+    text = html.unescape(text)
+    
+    # Clean up whitespace characters like &nbsp;
+    text = re.sub(r'&nbsp;|\xa0', ' ', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    
+    # Look for patterns like "Công ty Cổ phần [Name] (TICKER)" and banks
+    patterns = [
+        (r'Ngân hàng ([^(]+)\s*\([^)]+\)', 'Ngân hàng {}'),           # "Ngân hàng [Type] (TICKER)"
+        (r'Công ty Cổ phần ([^(]+)\s*\([^)]+\)', 'Công ty Cổ phần {}'), # "Công ty Cổ phần [Name] (AAA)"
+        (r'Công ty TNHH ([^(]+)\s*\([^)]+\)', 'Công ty TNHH {}'),     # "Công ty TNHH [Name] (AAA)"
+        (r'Ngân hàng ([^.]+)', 'Ngân hàng {}'),                       # "Ngân hàng [Type]"
+        (r'Công ty Cổ phần ([^.]+)', 'Công ty Cổ phần {}'),          # "Công ty Cổ phần [Name]"
+        (r'Công ty TNHH ([^.]+)', 'Công ty TNHH {}'),                 # "Công ty TNHH [Name]"
+    ]
+    
+    for pattern, template in patterns:
+        match = re.search(pattern, text)
+        if match:
+            company_name = match.group(1).strip()
+            # Clean up any extra whitespace
+            company_name = re.sub(r'\s+', ' ', company_name)
+            return template.format(company_name)
+    
+    return None
 
 def extract_curated_data(company_data: Dict, financial_data: Dict, ticker: str) -> Dict:
     """
@@ -204,7 +273,12 @@ def extract_curated_data(company_data: Dict, financial_data: Dict, ticker: str) 
     # Extract from company data
     if company_data:
         curated['data_source'] = company_data.get('data_source', 'unknown')
-        curated['company_name'] = company_data.get('company_name') or company_data.get('short_name')
+        # Try direct fields first, then extract from company_profile
+        curated['company_name'] = (
+            company_data.get('company_name') or 
+            company_data.get('short_name') or
+            extract_company_name_from_profile(company_data.get('company_profile'))
+        )
         curated['exchange'] = company_data.get('exchange')
         curated['industry'] = company_data.get('industry')
         curated['company_profile'] = company_data.get('company_profile')
@@ -389,13 +463,66 @@ def process_ticker(ticker: str, vci_client: VCIClient, tcbs_client: TCBSClient, 
         print(f"   - ❌ No data available for {ticker}")
         return preferred_client
 
+def rewrite_json_files():
+    """
+    Rewrite all JSON files in the company_data directory to fix NaN values and ensure valid JSON.
+    """
+    print("🔧 Rewriting JSON files to fix NaN values...")
+    setup_directories()
+    
+    # Find all JSON files in the data directory
+    json_pattern = os.path.join(DATA_DIR, "*.json")
+    json_files = glob.glob(json_pattern)
+    
+    if not json_files:
+        print(f"   - No JSON files found in {DATA_DIR}/")
+        return
+    
+    print(f"   - Found {len(json_files)} JSON files to process")
+    
+    processed = 0
+    errors = 0
+    
+    for file_path in json_files:
+        try:
+            print(f"   - Processing: {os.path.basename(file_path)}")
+            
+            # Read the existing file
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+            # Clean NaN values
+            cleaned_data = clean_nan_values(data)
+            
+            # Write back with proper JSON formatting
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(cleaned_data, f, ensure_ascii=False, indent=2)
+            
+            processed += 1
+            
+        except Exception as e:
+            print(f"   - ❌ Error processing {os.path.basename(file_path)}: {e}")
+            errors += 1
+    
+    print(f"\n✅ JSON rewrite completed:")
+    print(f"   - Processed: {processed} files")
+    print(f"   - Errors: {errors} files")
+    if errors == 0:
+        print("   - All files now contain valid JSON without NaN values")
+
 def main():
     """Main function to orchestrate the data collection."""
     parser = argparse.ArgumentParser(description="AIPriceAction Company Information Collector")
     parser.add_argument('--test', action='store_true', help=f"Test mode: process only first {TEST_MODE_COUNT} tickers")
     parser.add_argument('--force', action='store_true', help="Force refresh all data (ignore cache)")
     parser.add_argument('--tickers', nargs='+', help="Process specific tickers only")
+    parser.add_argument('--rewrite-json', action='store_true', help="Rewrite all existing JSON files to fix NaN values and ensure valid JSON")
     args = parser.parse_args()
+    
+    # Handle --rewrite-json option
+    if getattr(args, 'rewrite_json', False):
+        rewrite_json_files()
+        return
     
     start_time = time.time()
     print("🚀 AIPriceAction Company Information Collector: START")
