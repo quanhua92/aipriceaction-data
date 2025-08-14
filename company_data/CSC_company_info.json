@@ -1,0 +1,237 @@
+{
+  "symbol": "CSC",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1012271894400,
+  "current_price": 24600,
+  "outstanding_shares": 41149264,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n COTANA (CSC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH X&acirc;y dựng Th&agrave;nh Nam được th&agrave;nh lập ng&agrave;y 01/06/1993.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực đầu tư dự &aacute;n, kinh doanh bất động sản với địa b&agrave;n kinh doanh tại cả 3 miền tr&ecirc;n to&agrave;n quốc. C&aacute;c dự &aacute;n đ&atilde; ho&agrave;n th&agrave;nh của c&ocirc;ng ty bao gồm: T&ograve;a nh&agrave; Hud Tower - L&ecirc; Văn Lương, H&agrave; Nội với tổng đầu tư 160 tỷ đồng; Khu đ&ocirc; thị mới Đặng X&aacute;, Gia L&acirc;m, H&agrave; Nội với tổng gi&aacute; trị 100 tỷ đồng; K&yacute; t&uacute;c x&aacute; Trường Cao đăng x&acirc;y dựng số 1, H&agrave; Đ&ocirc;ng với tổng gi&aacute; trị dự &aacute;n 23 tỷ đồng...</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.01652893,
+  "volume": 187804,
+  "high_52w": 28182,
+  "low_52w": 15546,
+  "pe": 59.6903725341,
+  "pb": 1.7087467682,
+  "roe": 0.0279449508,
+  "roa": 0.00743873,
+  "eps": 154.35578152746547,
+  "revenue": 249553852855,
+  "net_profit": 6351626804,
+  "dividend": 0.0406504065,
+  "shareholders": [
+    {
+      "shareholder_name": "Đào Ngọc Thanh",
+      "shareholder_percent": 0.29409999
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Mai Dung",
+      "shareholder_percent": 0.1027
+    },
+    {
+      "shareholder_name": "Đào Thu Thủy",
+      "shareholder_percent": 0.0522
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Cúc",
+      "shareholder_percent": 0.0428
+    },
+    {
+      "shareholder_name": "TRẦN VĂN NĂM",
+      "shareholder_percent": 0.0386
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương",
+      "shareholder_percent": 0.03145
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán EVS",
+      "shareholder_percent": 0.02263
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Kiên",
+      "shareholder_percent": 0.01987
+    },
+    {
+      "shareholder_name": "Vũ Thị Luyến",
+      "shareholder_percent": 0.018414
+    },
+    {
+      "shareholder_name": "Đoàn Văn Tuấn",
+      "shareholder_percent": 0.013491
+    },
+    {
+      "shareholder_name": "Đinh Thị Minh Hằng",
+      "shareholder_percent": 0.0127
+    },
+    {
+      "shareholder_name": "Phạm Cao Sơn",
+      "shareholder_percent": 0.007902
+    },
+    {
+      "shareholder_name": "Nguyễn Đỗ Đức Lâm",
+      "shareholder_percent": 0.007451
+    },
+    {
+      "shareholder_name": "Đỗ Văn Bình",
+      "shareholder_percent": 0.007349
+    },
+    {
+      "shareholder_name": "Ngô Văn Minh",
+      "shareholder_percent": 0.004706
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Trang",
+      "shareholder_percent": 0.004642
+    },
+    {
+      "shareholder_name": "Hán Công Khanh",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Hoàng Việt Hùng",
+      "shareholder_percent": 0.0016008
+    },
+    {
+      "shareholder_name": "Đinh Văn Nghiệp",
+      "shareholder_percent": 0.00078
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Lân",
+      "shareholder_percent": 0.00078
+    },
+    {
+      "shareholder_name": "Đinh Thị Ngọc Minh",
+      "shareholder_percent": 0.00078
+    },
+    {
+      "shareholder_name": "Nguyễn Đỗ Lăng",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Diệp",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "TRẦN TRỌNG ĐẠI",
+      "shareholder_percent": 0.000496
+    },
+    {
+      "shareholder_name": "Bùi Minh Trường",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Thái Bình",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trần Thị Hải Yến",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trần Đình Ngọc",
+      "shareholder_percent": 0.00025
+    },
+    {
+      "shareholder_name": "Trần Quang Quyền",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Bùi Đình Toản",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Ngô Nguyên Hải",
+      "shareholder_percent": 0.0001506
+    },
+    {
+      "shareholder_name": "Phạm Thị Thu",
+      "shareholder_percent": 0.00013
+    },
+    {
+      "shareholder_name": "Nguyễn Hải Yến",
+      "shareholder_percent": 3.3e-05
+    },
+    {
+      "shareholder_name": "Trần Hoàng Hiệp",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán MB",
+      "shareholder_percent": 4e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đào Ngọc Thanh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.29409999
+    },
+    {
+      "officer_name": "Đào Thu Thủy",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0522
+    },
+    {
+      "officer_name": "TRẦN VĂN NĂM",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0386
+    },
+    {
+      "officer_name": "Đoàn Văn Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.013491
+    },
+    {
+      "officer_name": "Đinh Thị Minh Hằng",
+      "officer_position": "Giám đốc Tài chính/Phó Tổng Giám đốc",
+      "officer_percent": 0.0127
+    },
+    {
+      "officer_name": "Hán Công Khanh",
+      "officer_position": "Trưởng Ban kiểm soát/Trưởng phòng",
+      "officer_percent": 0.0038
+    },
+    {
+      "officer_name": "Nguyễn Đỗ Lăng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000597
+    },
+    {
+      "officer_name": "TRẦN TRỌNG ĐẠI",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.000496
+    },
+    {
+      "officer_name": "Trần Quang Quyền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Hải Yến",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.3e-05
+    },
+    {
+      "officer_name": "Lê Đình Đạo",
+      "officer_position": "Phó Tổng Giám đốc Đầu tư",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thị Thanh Lam",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:34.326518"
+}

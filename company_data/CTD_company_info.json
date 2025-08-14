@@ -1,0 +1,412 @@
+{
+  "symbol": "CTD",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 8611923989100,
+  "current_price": 83100,
+  "outstanding_shares": 103633261,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần X&acirc;y dựng Coteccons (CTD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần X&acirc;y dựng Cotec được th&agrave;nh lập&nbsp;v&agrave;o năm 2004. C&ocirc;ng ty&nbsp;hoạt động&nbsp;trong lĩnh vực thi c&ocirc;ng, x&acirc;y lắp c&aacute;c c&ocirc;ng tr&igrave;nh d&acirc;n dụng, c&ocirc;ng nghiệp,&nbsp;cơ sở hạ tầng. C&ocirc;ng ty đ&atilde; tham gia thi c&ocirc;ng c&aacute;c c&ocirc;ng tr&igrave;nh lớn như: Nh&agrave; m&aacute;y bia S&agrave;i G&ograve;n - Củ Chi, trung t&acirc;m hội chợ triển l&atilde;m S&agrave;i G&ograve;n, Khu nghỉ dưỡng v&agrave; kh&aacute;ch sạn cao cấp Nam Hải Resort, Life Resort Quy Nhơn, Life Resort Hội An, Sanctuary Hồ Tr&agrave;m Resort, c&ocirc;ng tr&igrave;nh Khu căn hộ cao cấp Avalon, Khu căn hộ c&ocirc;ng vi&ecirc;n Nguyễn Du, The Manor TP HCM, The Manor H&agrave; Nội, Chung cư cao cấp Everrich, chung cư cao cấp River Garden, cao ốc văn ph&ograve;ng Center Point, cao ốc văn ph&ograve;ng Gemadept... Hiện tại c&ocirc;ng ty đang triển khai g&oacute;p vốn c&ugrave;ng một số đối t&aacute;c để thực hiện c&aacute;c dự &aacute;n đầu tư kinh doanh bất động sản như The Ocean Villas (Đ&agrave; Nẵng), Khu căn hộ cao cấp BOTANIC II, Khu phức hợp Saigon Airport Plaza, Khu căn hộ phức hợp tại quận 2 v&agrave; quận B&igrave;nh Thạnh, Khu du lịch Quảng Trọng. CTD được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2009.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.00483676,
+  "volume": 1631177,
+  "high_52w": 97800,
+  "low_52w": 56452,
+  "pe": 18.4183409938,
+  "pb": 0.9404811332,
+  "roe": 0.0514151378,
+  "roa": 0.0169232245,
+  "eps": 1934.4871115269686,
+  "revenue": 8350715108201,
+  "net_profit": 196215054805,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Kustocem Pte Ltd",
+      "shareholder_percent": 0.179
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Kinh Doanh Và Đầu Tư Thành Công",
+      "shareholder_percent": 0.142
+    },
+    {
+      "shareholder_name": "The 8th Pte., Ltd.",
+      "shareholder_percent": 0.106
+    },
+    {
+      "shareholder_name": "Indochina Capital Vietnam Holdings Ltd.",
+      "shareholder_percent": 0.0693593507
+    },
+    {
+      "shareholder_name": "The Ton Poh Fund",
+      "shareholder_percent": 0.0432
+    },
+    {
+      "shareholder_name": "Red River Holding",
+      "shareholder_percent": 0.0428796384
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Dương",
+      "shareholder_percent": 0.042
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương mại Ánh Sáng",
+      "shareholder_percent": 0.0361764501
+    },
+    {
+      "shareholder_name": "Preston Pacific Limited",
+      "shareholder_percent": 0.0351
+    },
+    {
+      "shareholder_name": "Vietnam Dragon Fund Limited",
+      "shareholder_percent": 0.0346796753
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.02541789
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0245
+    },
+    {
+      "shareholder_name": "Vinacapital Vietnam Opportunity Fund Ltd.",
+      "shareholder_percent": 0.0243
+    },
+    {
+      "shareholder_name": "Kitmc Vietnam Growth Fund",
+      "shareholder_percent": 0.0215
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư Xây dựng và Phát triển Tân Việt",
+      "shareholder_percent": 0.0212242387
+    },
+    {
+      "shareholder_name": "Talgat  Turumbayev",
+      "shareholder_percent": 0.02121685
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0197482949
+    },
+    {
+      "shareholder_name": "Tmam Vietnam Equity Mother Fund",
+      "shareholder_percent": 0.0191
+    },
+    {
+      "shareholder_name": "Bolat  Duisenov",
+      "shareholder_percent": 0.01630074
+    },
+    {
+      "shareholder_name": "Trần Quang Quân",
+      "shareholder_percent": 0.0149
+    },
+    {
+      "shareholder_name": "Nguyễn Sỹ Công",
+      "shareholder_percent": 0.0149
+    },
+    {
+      "shareholder_name": "PXP Vietnam Emerging Equity Fund",
+      "shareholder_percent": 0.0114548109
+    },
+    {
+      "shareholder_name": "Phan Huy Vĩnh",
+      "shareholder_percent": 0.0106
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0104
+    },
+    {
+      "shareholder_name": "Vietnam Property Fund Limited",
+      "shareholder_percent": 0.0095981781
+    },
+    {
+      "shareholder_name": "Trần Quang Tuấn",
+      "shareholder_percent": 0.0095
+    },
+    {
+      "shareholder_name": "Vũ Thị Hồng Hạnh",
+      "shareholder_percent": 0.008
+    },
+    {
+      "shareholder_name": "Dragon Capital Vietnam Fund",
+      "shareholder_percent": 0.0057799458
+    },
+    {
+      "shareholder_name": "Hà Tiểu Anh",
+      "shareholder_percent": 0.0055741
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.004865096
+    },
+    {
+      "shareholder_name": "Mekong Portfolio Investments Limited",
+      "shareholder_percent": 0.0043233995
+    },
+    {
+      "shareholder_name": "Huỳnh Hồng Mai",
+      "shareholder_percent": 0.0034756357
+    },
+    {
+      "shareholder_name": "Lê Miên Thụy",
+      "shareholder_percent": 0.0034
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phúc Long",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Đạo",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Từ Đại Phúc",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Nguyễn Trình Thuỳ Trang",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Nguyễn Chí Thiện",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "Võ Hoàng Lâm",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Trần Văn Chính",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Võ Thanh Liêm",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Trần Ngọc Hải",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Hồ Văn Chí Thành",
+      "shareholder_percent": 0.0017459917
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "KIM PMAA Vietnam Securities Investment Trust 1(Equity)",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đua",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Huyền Nga",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Đặng Hoài Nam",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn  Ngọc Lân",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Cao Thị Mai Lê",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ VinaCapital",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Kitmc Worldwide China Vietnam Fund",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Võ Thanh Cang",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam Fund II",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Phạm Quân Lực",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Văn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hoàng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Cảnh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Vân",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đinh Thị Hồng Thắm",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Vũ Duy Lam",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 8.651e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 8.022e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 7.86446e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Bích Ngọc",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 4.54828e-05
+    },
+    {
+      "shareholder_name": "Công đoàn Cơ sở Công ty Cổ phần Xây dựng Coteccons",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Hà Giang Anh",
+      "shareholder_percent": 2.6e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Talgat  Turumbayev",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.02121685
+    },
+    {
+      "officer_name": "Bolat  Duisenov",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.01630074
+    },
+    {
+      "officer_name": "Võ Hoàng Lâm",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Võ Thanh Liêm",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0019
+    },
+    {
+      "officer_name": "Trần Văn Chính",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0019
+    },
+    {
+      "officer_name": "Nguyễn  Ngọc Lân",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Cao Thị Mai Lê",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Phạm Quân Lực",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Trần Văn  Thức",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Anh Vũ",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chris  Senekki",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Yerkin Tatishev",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan  Hữu Duy Quốc",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Ngọc Hiến",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Quỳnh Giao",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Thức",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tran Tri Gia Nguyen",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Herwig Guido H. Van Hove",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tống Văn Nga",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tan Ching Tiong",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:46.032509"
+}

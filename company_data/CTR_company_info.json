@@ -1,0 +1,190 @@
+{
+  "symbol": "CTR",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 10809465565500,
+  "current_price": 94500,
+  "outstanding_shares": 114385879,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Cổ phần C&ocirc;ng tr&igrave;nh Viettel (CTR), một c&ocirc;ng ty con của Tập đo&agrave;n Viễn th&ocirc;ng qu&acirc;n đội - Viettel Group, l&agrave; c&ocirc;ng ty lớn trong lĩnh vực x&acirc;y dựng. C&ocirc;ng ty v&agrave; c&aacute;c c&ocirc;ng ty&nbsp;trực thuộc chủ yếu l&agrave; tham gia v&agrave;o x&acirc;y dựng cơ sở hạ tầng viễn th&ocirc;ng. CTR ch&iacute;nh thức hoạt động dưới h&igrave;nh thức c&ocirc;ng ty cổ phần từ năm 2010.&nbsp;Tại thị trường trong nước, c&ocirc;ng ty đ&atilde; tiến h&agrave;nh thi c&ocirc;ng gần 50% tổng số dự &aacute;n viễn th&ocirc;ng được ph&acirc;n c&ocirc;ng từ Viettel Group v&agrave; c&oacute; kế hoạch mở rộng kinh doanh của m&igrave;nh tại lĩnh vực x&acirc;y dựng d&acirc;n dụng v&agrave; chế tạo cơ kh&iacute;. Ng&agrave;y 23/02/2022, CTR ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.00316456,
+  "volume": 705581,
+  "high_52w": 139600,
+  "low_52w": 73900,
+  "pe": 19.1769043332,
+  "pb": 5.4253077887,
+  "roe": 0.2984856213,
+  "roa": 0.0768596999,
+  "eps": 1267.499019944586,
+  "revenue": 3235913721663,
+  "net_profit": 144983989528,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp - Viễn thông Quân đội",
+      "shareholder_percent": 0.6566
+    },
+    {
+      "shareholder_name": "Đoàn Hồng Việt",
+      "shareholder_percent": 0.04995
+    },
+    {
+      "shareholder_name": "Dương Quốc Chính",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "HOÀNG CÔNG VĨNH",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Đặng Thị Quỳnh",
+      "shareholder_percent": 0.00201
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Nhiên",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Bùi Thế Hùng",
+      "shareholder_percent": 0.00106
+    },
+    {
+      "shareholder_name": "Nguyễn Thái Hưng",
+      "shareholder_percent": 0.00061
+    },
+    {
+      "shareholder_name": "Lê Hữu Hiền",
+      "shareholder_percent": 0.00061
+    },
+    {
+      "shareholder_name": "Đào Thu Hiền",
+      "shareholder_percent": 0.0005621
+    },
+    {
+      "shareholder_name": "Bùi Duy Bảo",
+      "shareholder_percent": 0.0004384
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Dũng",
+      "shareholder_percent": 0.0002816
+    },
+    {
+      "shareholder_name": "Nguyễn Giang Sơn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Phạm Đình Trường",
+      "shareholder_percent": 0.0001778
+    },
+    {
+      "shareholder_name": "Đỗ Mạnh Hùng",
+      "shareholder_percent": 0.0001184
+    },
+    {
+      "shareholder_name": "Đặng Thị Kim Hoa",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Nam",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Tất Trường",
+      "shareholder_percent": 7.27e-05
+    },
+    {
+      "shareholder_name": "Ngô Quang Tuệ",
+      "shareholder_percent": 4.4e-05
+    },
+    {
+      "shareholder_name": "Đặng Văn Chung",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Hùng",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Mai",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Bùi Thế Hùng",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00106
+    },
+    {
+      "officer_name": "Lê Hữu Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00061
+    },
+    {
+      "officer_name": "Nguyễn Thái Hưng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.00061
+    },
+    {
+      "officer_name": "Đào Thu Hiền",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.0005621
+    },
+    {
+      "officer_name": "Bùi Duy Bảo",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0004384
+    },
+    {
+      "officer_name": "Nguyễn Huy Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0002816
+    },
+    {
+      "officer_name": "Phạm Đình Trường",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0001778
+    },
+    {
+      "officer_name": "Nguyễn Thanh Nam",
+      "officer_position": "Thành viên Hội đồng Quản trị/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Tất Trường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 7.27e-05
+    },
+    {
+      "officer_name": "Ngô Quang Tuệ",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 4.4e-05
+    },
+    {
+      "officer_name": "Mai Thị Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Hồng Quân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nghiêm Phương Nhi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Ánh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:53.890773"
+}

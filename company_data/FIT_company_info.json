@@ -1,0 +1,150 @@
+{
+  "symbol": "FIT",
+  "exchange": "HOSE",
+  "industry": "Dược phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1811843071220,
+  "current_price": 5330,
+  "outstanding_shares": 339933034,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n F.I.T (FIT) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư F.I.T được th&agrave;nh lập&nbsp;v&agrave;o năm 2007. Tập đo&agrave;n F.I.T hoạt động ch&iacute;nh trong lĩnh vực tư vấn&nbsp;đầu tư&nbsp;v&agrave; trực tiếp tham gia đầu tư&nbsp;cổ phiếu, tr&aacute;i phiếu, đầu tư v&agrave;o c&ocirc;ng ty con, c&ocirc;ng ty li&ecirc;n kết,&nbsp;đầu tư ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản. FIT tham gia&nbsp;v&agrave;o c&aacute;c lĩnh vực&nbsp;dược phẩm, trang thiết bị y tế, thực phẩm, ng&agrave;nh h&agrave;ng ti&ecirc;u d&ugrave;ng, n&ocirc;ng nghiệp th&ocirc;ng qua hệ thống c&aacute;c c&ocirc;ng ty con v&agrave; c&ocirc;ng ty li&ecirc;n kết trực thuộc. FIT được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</div>\r\n",
+  "website": null,
+  "price_change": -80,
+  "percent_price_change": -0.01478743,
+  "volume": 2806259,
+  "high_52w": 5590,
+  "low_52w": 3840,
+  "pe": 31.1183725833,
+  "pb": 0.4691398233,
+  "roe": 0.0151253314,
+  "roa": 0.0073703678,
+  "eps": 38.15237599414948,
+  "revenue": 546004314659,
+  "net_profit": 12969252926,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư JJK Holdings",
+      "shareholder_percent": 0.304
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại và Phát triển Nông nghiệp VP",
+      "shareholder_percent": 0.0416
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư và Phát triển Nghệ An",
+      "shareholder_percent": 0.0415
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư và Phát triển Nông sản Hưng Yên",
+      "shareholder_percent": 0.0393
+    },
+    {
+      "shareholder_name": "Nguyễn  Quang  Huy",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Phan Trung Phương",
+      "shareholder_percent": 0.0005579968
+    },
+    {
+      "shareholder_name": "Ninh Thị Phương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Nguyệt",
+      "shareholder_percent": 5.59e-05
+    },
+    {
+      "shareholder_name": "Hoàng Minh Tâm",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Dương Minh Tú",
+      "shareholder_percent": 2.78998e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Nga",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Vũ Anh Trọng",
+      "shareholder_percent": 6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn  Quang  Huy",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "Nguyễn Thị Minh Nguyệt",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 5.59e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Nga",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Bùi Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Minh Sáng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thế Cao",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Thúy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cao Trọng Hoan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Sang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Xuân Vũ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Hồng Hạnh",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kiều Hữu Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Văn Khá",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:51.921194"
+}

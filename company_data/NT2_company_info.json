@@ -1,0 +1,221 @@
+{
+  "symbol": "NT2",
+  "exchange": "HOSE",
+  "industry": "Sản xuất & Phân phối Điện",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 6376454042350,
+  "current_price": 22150,
+  "outstanding_shares": 287876029,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Điện lực Dầu kh&iacute; Nhơn Trạch 2 (NT2) được th&agrave;nh lập năm 2007 để thực hiện đầu tư x&acirc;y dựng dự &aacute;n Nh&agrave; m&aacute;y&nbsp;Nhiệt&nbsp;điện&nbsp;Nhơn Trạch 2 tại Khu C&ocirc;ng nghiệp &Ocirc;ng K&egrave;o, ấp 3, x&atilde; Phước Kh&aacute;nh, huyện Nhơn Trạch, Đồng Nai. Nh&agrave; m&aacute;y điện Nhơn Trạch 2 với c&ocirc;ng suất thiết kế 750MW đi v&agrave;o hoạt động từ năm 2011. Trong năm 2017, Nh&agrave; m&aacute;y ho&agrave;n th&agrave;nh c&ocirc;ng t&aacute;c đại tu v&agrave; n&acirc;ng c&ocirc;ng suất&nbsp;l&ecirc;n 774MW. NT2 được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 06/2015.</div>\r\n",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.01336303,
+  "volume": 2679089,
+  "high_52w": 22850,
+  "low_52w": 16000,
+  "pe": 13.2269790532,
+  "pb": 1.4850233127,
+  "roe": 0.1162114415,
+  "roa": 0.0547856781,
+  "eps": 1133.2920233938617,
+  "revenue": 2081257647143,
+  "net_profit": 326247607392,
+  "dividend": 0.0451467269,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP",
+      "shareholder_percent": 0.593749
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đại chúng Việt Nam",
+      "shareholder_percent": 0.1028038
+    },
+    {
+      "shareholder_name": "Công ty TNHH Phát Triển Công Nghệ",
+      "shareholder_percent": 0.0827
+    },
+    {
+      "shareholder_name": "Samarang Ucits - Samarang Asian Prosperity",
+      "shareholder_percent": 0.05
+    },
+    {
+      "shareholder_name": "Apollo Asia Fund",
+      "shareholder_percent": 0.0328
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.0233644993
+    },
+    {
+      "shareholder_name": "Tập đoàn Điện lực Việt Nam",
+      "shareholder_percent": 0.0233644993
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0175420661
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.0167904958
+    },
+    {
+      "shareholder_name": "Panah Master Fund",
+      "shareholder_percent": 0.0167
+    },
+    {
+      "shareholder_name": "Tổng Công ty IDICO - CTCP",
+      "shareholder_percent": 0.0140187
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0136
+    },
+    {
+      "shareholder_name": "TCT Cơ điện Xây dựng Nông nghiệp và Thủy lợi",
+      "shareholder_percent": 0.0093458
+    },
+    {
+      "shareholder_name": "Tổng Công ty Sông Đà",
+      "shareholder_percent": 0.0093458
+    },
+    {
+      "shareholder_name": "Tổng Công ty Xây dựng số 1 - CTCP",
+      "shareholder_percent": 0.0093458
+    },
+    {
+      "shareholder_name": "Tổng Công ty Cơ khí Xây dựng - CTCP",
+      "shareholder_percent": 0.00700935
+    },
+    {
+      "shareholder_name": "Đặng Thị Ngọc Bích",
+      "shareholder_percent": 0.0056
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.0041
+    },
+    {
+      "shareholder_name": "Tổng Công ty Cổ phần Sông Hồng",
+      "shareholder_percent": 0.0036507
+    },
+    {
+      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+      "shareholder_percent": 0.0007556955
+    },
+    {
+      "shareholder_name": "Hoàng Xuân Quốc",
+      "shareholder_percent": 0.00065
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 0.0001806333
+    },
+    {
+      "shareholder_name": "Ngô Đức Nhân",
+      "shareholder_percent": 0.0001796
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Minh",
+      "shareholder_percent": 0.0001773
+    },
+    {
+      "shareholder_name": "Uông Ngọc Hải",
+      "shareholder_percent": 0.0001465
+    },
+    {
+      "shareholder_name": "Lê Tự Hiểu",
+      "shareholder_percent": 6.02365e-05
+    },
+    {
+      "shareholder_name": "Hồ Xuân Lan",
+      "shareholder_percent": 5.73e-05
+    },
+    {
+      "shareholder_name": "Lê Quý Dương",
+      "shareholder_percent": 4.56337e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hương",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Phạm Cương",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 1e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Ngô Đức Nhân",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001796
+    },
+    {
+      "officer_name": "Nguyễn Hữu Minh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0001773
+    },
+    {
+      "officer_name": "Uông Ngọc Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0001465
+    },
+    {
+      "officer_name": "Hồ Xuân Lan",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 5.73e-05
+    },
+    {
+      "officer_name": "Nguyễn Công Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Ngọc Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Thúy Lan",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hà",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Quốc Hùng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Việt An",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Quyền",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Quang Mẫn",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Kỳ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:01:36.995622"
+}

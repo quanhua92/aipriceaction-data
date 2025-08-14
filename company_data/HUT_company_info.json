@@ -1,0 +1,338 @@
+{
+  "symbol": "HUT",
+  "exchange": "HNX",
+  "industry": "Ô tô và phụ tùng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 18117992889500,
+  "current_price": 20300,
+  "outstanding_shares": 892511965,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Tasco (HUT) tiền th&acirc;n&nbsp;l&agrave; Đội cầu Nam H&agrave; được th&agrave;nh lập năm 1971,&nbsp;cung cấp một bộ dịch vụ &ocirc; t&ocirc; to&agrave;n diện v&agrave; cơ sở hạ tầng giao th&ocirc;ng th&ocirc;ng minh. HUT c&oacute; mối quan hệ hợp t&aacute;c chặt chẽ với 14 thương hiệu &ocirc; t&ocirc; nổi tiếng v&agrave; mạng lưới ph&acirc;n phối lớn nhất với hơn 90 showroom tr&ecirc;n to&agrave;n quốc. C&ocirc;ng ty cung cấp một loạt c&aacute;c dịch vụ vận tải th&ocirc;ng minh như thu ph&iacute; điện tử (ETC), th&ocirc;ng qua mạng lưới trạm rộng khắp, chiếm 70% thị phần. Tasco mong muốn n&acirc;ng cao trải nghiệm của kh&aacute;ch h&agrave;ng v&agrave; tận dụng c&aacute;c cơ hội mới nổi tr&ecirc;n thị trường &ocirc; t&ocirc; v&agrave; vận tải th&ocirc;ng minh của Việt Nam. Ng&agrave;y 04/04/2008, HUT ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 1800,
+  "percent_price_change": 0.0972973,
+  "volume": 17060887,
+  "high_52w": 20300,
+  "low_52w": 10622,
+  "pe": 115.9487644641,
+  "pb": 2.0876307072,
+  "roe": 0.0184910556,
+  "roa": 0.0054089211,
+  "eps": 5.228410852919676,
+  "revenue": 8323067459645,
+  "net_profit": 5599703093,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Phạm Quang Dũng",
+      "shareholder_percent": 0.0746
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Quân",
+      "shareholder_percent": 0.0504
+    },
+    {
+      "shareholder_name": "Đinh Thị Nhung",
+      "shareholder_percent": 0.0504
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dũng",
+      "shareholder_percent": 0.0504
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Quang",
+      "shareholder_percent": 0.0504
+    },
+    {
+      "shareholder_name": "Vũ Thái Xuyên",
+      "shareholder_percent": 0.0498
+    },
+    {
+      "shareholder_name": "Công ty TNHH Windstar Resources",
+      "shareholder_percent": 0.0488
+    },
+    {
+      "shareholder_name": "Lucerne Enterprise Ltd",
+      "shareholder_percent": 0.0403131557
+    },
+    {
+      "shareholder_name": "Asean Small Cap Fund",
+      "shareholder_percent": 0.0339909588
+    },
+    {
+      "shareholder_name": "Phạm Văn Lương",
+      "shareholder_percent": 0.03371
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0239
+    },
+    {
+      "shareholder_name": "Vũ Quang Lâm",
+      "shareholder_percent": 0.01899
+    },
+    {
+      "shareholder_name": "Lê Quản Cần",
+      "shareholder_percent": 0.0187
+    },
+    {
+      "shareholder_name": "Phạm Thị Nhàn",
+      "shareholder_percent": 0.0163
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Tân",
+      "shareholder_percent": 0.0138
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 0.012
+    },
+    {
+      "shareholder_name": "Cao Văn Hưng",
+      "shareholder_percent": 0.0103813151
+    },
+    {
+      "shareholder_name": "Trần Hải Yến",
+      "shareholder_percent": 0.0083
+    },
+    {
+      "shareholder_name": "Phạm Thị Chi",
+      "shareholder_percent": 0.0078
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư SGI",
+      "shareholder_percent": 0.0077878749
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương",
+      "shareholder_percent": 0.0077878749
+    },
+    {
+      "shareholder_name": "Phạm Hồng Điệp",
+      "shareholder_percent": 0.00364
+    },
+    {
+      "shareholder_name": "Trương Văn Thinh",
+      "shareholder_percent": 0.00308
+    },
+    {
+      "shareholder_name": "Trịnh Xuân Nam",
+      "shareholder_percent": 0.00267
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Hùng",
+      "shareholder_percent": 0.00265
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dưỡng",
+      "shareholder_percent": 0.0021
+    },
+    {
+      "shareholder_name": "Đỗ Kim Định",
+      "shareholder_percent": 0.0020397534
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Rồng Việt",
+      "shareholder_percent": 0.001465678
+    },
+    {
+      "shareholder_name": "Hoàng Hà Phương",
+      "shareholder_percent": 0.00117
+    },
+    {
+      "shareholder_name": "Công ty TNHH Sản xuất và Xây dựng Thi Sách",
+      "shareholder_percent": 0.0010692752
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ VinaCapital",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Trần Xuân Lưỡng",
+      "shareholder_percent": 0.0007943632
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Tổng hợp Hà Nội",
+      "shareholder_percent": 0.0004984239
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Bảo hiểm Quân đội",
+      "shareholder_percent": 0.0003660301
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư CMC",
+      "shareholder_percent": 0.0003582422
+    },
+    {
+      "shareholder_name": "Hà Thanh Bình",
+      "shareholder_percent": 0.0001317708
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đông",
+      "shareholder_percent": 0.0001216855
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Thịnh VinaCapital",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Bùi Trọng Tĩnh",
+      "shareholder_percent": 7.78787e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán EuroCapital",
+      "shareholder_percent": 7.78787e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Bất động sản Hà Tây - TKV",
+      "shareholder_percent": 7.78787e-05
+    },
+    {
+      "shareholder_name": "Trần Ngọc Thăng",
+      "shareholder_percent": 7.00908e-05
+    },
+    {
+      "shareholder_name": "Hồ Trọng Vinh",
+      "shareholder_percent": 4.82848e-05
+    },
+    {
+      "shareholder_name": "Hoàng Việt Cường",
+      "shareholder_percent": 4.67272e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Công nghiệp Hoàng Mai",
+      "shareholder_percent": 4.28333e-05
+    },
+    {
+      "shareholder_name": "Ngô Đại Yến",
+      "shareholder_percent": 4.16339e-05
+    },
+    {
+      "shareholder_name": "Đậu Thanh Tùng",
+      "shareholder_percent": 3.89393e-05
+    },
+    {
+      "shareholder_name": "Phạm Đức Minh",
+      "shareholder_percent": 3.36e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đoàn",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Phạm Huy Hoàng",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thuý Vinh",
+      "shareholder_percent": 1.43296e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Minh",
+      "shareholder_percent": 1.12e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hải Hà",
+      "shareholder_percent": 1.12e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VNDIRECT",
+      "shareholder_percent": 1.05292e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán FPT",
+      "shareholder_percent": 1.5653e-06
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán ACB",
+      "shareholder_percent": 1.1681e-06
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 7.164e-07
+    },
+    {
+      "shareholder_name": "Vũ Khánh Din",
+      "shareholder_percent": 1e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Quang Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0746
+    },
+    {
+      "officer_name": "Trần Hải Yến",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0083
+    },
+    {
+      "officer_name": "Phạm Thị Chi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0078
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Hùng",
+      "officer_position": "Giám đốc Kinh doanh",
+      "officer_percent": 0.00265
+    },
+    {
+      "officer_name": "Trần Thị Thanh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Vũ Khánh Din",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 1e-07
+    },
+    {
+      "officer_name": "Nguyễn Viết Tân",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Khuất Trung Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Kim Ngân",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Ngọc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thanh Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Dĩnh Siêu",
+      "officer_position": "Phó tổng giám đốc Phát triển nhà",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Dương Thụ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Huy Tuấn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:28.973952"
+}

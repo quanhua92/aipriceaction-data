@@ -1,0 +1,222 @@
+{
+  "symbol": "VRE",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 68583702174500,
+  "current_price": 29450,
+  "outstanding_shares": 2328818410,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Vincom Retail (VRE) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Vincom Retail được th&agrave;nh lập v&agrave;o năm 2012.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực cho thu&ecirc; c&aacute;c trung t&acirc;m thương mại b&aacute;n lẻ v&agrave; c&aacute;c dịch vụ li&ecirc;n quan, cũng như đầu tư ph&aacute;t triển v&agrave; kinh doanh c&aacute;c loại h&igrave;nh bất động sản. Vincom l&agrave; thương hiệu bất động sản b&aacute;n lẻ h&agrave;ng đầu Việt Nam, giữ vị thế số 1 tại thị trường Việt Nam về mạng lưới v&agrave; độ phủ&nbsp;với 88&nbsp;trung t&acirc;m thương mại tại 48&nbsp;tỉnh th&agrave;nh, được ph&aacute;t triển theo bốn m&ocirc; h&igrave;nh sản phẩm: Vincom Center, Vincom Mega Mall, Vincom Plaza v&agrave; Vincom+.&nbsp;VRE được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối năm 2017.&nbsp;</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 7522241,
+  "high_52w": 31000,
+  "low_52w": 16100,
+  "pe": 15.200779958,
+  "pb": 1.5094821526,
+  "roe": 0.1034689096,
+  "roa": 0.0791122599,
+  "eps": 542.7324773555832,
+  "revenue": 2142630000000,
+  "net_profit": 1233261000000,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Kinh Doanh Thương Mại Sado",
+      "shareholder_percent": 0.405
+    },
+    {
+      "shareholder_name": "Tập đoàn Vingroup - Công ty CP",
+      "shareholder_percent": 0.1837
+    },
+    {
+      "shareholder_name": "WP Investments III B.V.",
+      "shareholder_percent": 0.0489
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0278
+    },
+    {
+      "shareholder_name": "RWC Emerging Equities",
+      "shareholder_percent": 0.0204
+    },
+    {
+      "shareholder_name": "Credit Suisse Singapore Branch",
+      "shareholder_percent": 0.0163
+    },
+    {
+      "shareholder_name": "APG Emerging Markets",
+      "shareholder_percent": 0.0093
+    },
+    {
+      "shareholder_name": "RWC Global Emerging Markets",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "AI MEHWAR Emerging Markets",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "RWC Emerging Markets SRI",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "SIIT International Equities",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "RWC Frontier Markets",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "SIT Emerging Equities",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "VFM Emerging Markets",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "RWC Global Emerging Equities",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "SEI Global Emerging Markets",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "UBS Emerging Markets",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Tutman Global Emerging Markets",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "RWC Next Generation Emerging Markets",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "SEI Emerging Markets",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 7.61729e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 5.20794e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 1.90898e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Trường Thịnh",
+      "shareholder_percent": 2.14e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Phương",
+      "shareholder_percent": 3e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thu Phương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-08
+    },
+    {
+      "officer_name": "Nguyễn  Bảo Hạnh",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thu Hương",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Hoàng Việt",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Bảo Hạnh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Hoàng Việt",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Duy Khánh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Thái Thị Thanh Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Mai Lan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thanh Tâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Anh Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Mai Hoa",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thế Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Sanjay Vinayak",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Fong, Ming Huang Ernest",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Ngọc Hà",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Quỳnh Trang",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm  Thị Thu Hiền",
+      "officer_position": "Phó Tổng Giám đốc Kinh doanh và Marketing",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:13:07.530078"
+}

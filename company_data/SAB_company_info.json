@@ -1,0 +1,161 @@
+{
+  "symbol": "SAB",
+  "exchange": "HOSE",
+  "industry": "Bia và đồ uống",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 61498865737400,
+  "current_price": 47950,
+  "outstanding_shares": 1282562372,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng c&ocirc;ng ty cổ phần Bia &ndash; Rượu &ndash; Nước giải kh&aacute;t S&agrave;i G&ograve;n (SAB) c&oacute; tiền th&acirc;n l&agrave; một xưởng bia nhỏ do người Ph&aacute;p th&agrave;nh lập v&agrave;o năm 1875. SABECO hoạt động ch&iacute;nh trong ng&agrave;nh sản xuất bia v&agrave; c&aacute;c loại nước giải kh&aacute;t. SABECO hiện&nbsp;c&oacute; 26 nh&agrave; m&aacute;y với tổng c&ocirc;ng suất sản xuất đạt tr&ecirc;n 2,4&nbsp;tỷ l&iacute;t bia/năm.&nbsp;SABECO sở hữu&nbsp;c&ocirc;ng nghệ sản xuất hiện đại, nhập khẩu từ c&aacute;c h&atilde;ng sản xuất thiết bị chuy&ecirc;n d&ugrave;ng cho ng&agrave;nh bia h&agrave;ng đầu thế giới tại Ch&acirc;u &Acirc;u như Krones AG, KHS... Sản phẩm bia của SABECO được xuất khấu tới hơn 30&nbsp;nước tr&ecirc;n thế giới. SAB ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối năm 2016.</div>\r\n",
+  "website": null,
+  "price_change": -350,
+  "percent_price_change": -0.00724638,
+  "volume": 1235295,
+  "high_52w": 53388,
+  "low_52w": 39039,
+  "pe": 15.0541911032,
+  "pb": 2.8771955966,
+  "roe": 0.1744713322,
+  "roa": 0.1252264667,
+  "eps": 941.4720842020773,
+  "revenue": 6867333006980,
+  "net_profit": 1207496669486,
+  "dividend": 0.1042752868,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Vietnam Beverage",
+      "shareholder_percent": 0.535869
+    },
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.36
+    },
+    {
+      "shareholder_name": "Able Win Gain Limited",
+      "shareholder_percent": 0.0393
+    },
+    {
+      "shareholder_name": "Heineken Asia Pacific Pte. Ltd.",
+      "shareholder_percent": 0.0039
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 4.19317e-05
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 2.10516e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 1.43463e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 1.11028e-05
+    },
+    {
+      "shareholder_name": "Chung Trí Dũng",
+      "shareholder_percent": 4.5e-06
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng Hạnh",
+      "shareholder_percent": 3.7e-06
+    },
+    {
+      "shareholder_name": "Trần Nguyên Trung",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Nam",
+      "shareholder_percent": 2.8e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Minh",
+      "shareholder_percent": 2.5e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Khánh",
+      "shareholder_percent": 1.9e-06
+    },
+    {
+      "shareholder_name": "Bùi Ngọc Hạnh",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Lê Hồng Xanh",
+      "shareholder_percent": 1.6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Nguyên Trung",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Venus Teoh Kim Wei",
+      "officer_position": "Phó Tổng Giám đốc Marketing/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "NEO GIM SIONG BENNETT",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Minh Châu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê  Thanh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tiến Vỵ",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Koh Poh Tiong",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Kim Nga",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Michael Chye Hin Fah",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Pramoad Phornprapha",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Melvyn Ng Kuan Ngee",
+      "officer_position": "Phó Tổng Giám đốc Kinh doanh",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Teo Hong Keng",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc/Phó Tổng Giám đốc Tài chính - Kế toán",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lâm Du An",
+      "officer_position": "Phó Tổng Giám đốc/Phó Tổng Giám đốc Sản xuất",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:10:02.133198"
+}

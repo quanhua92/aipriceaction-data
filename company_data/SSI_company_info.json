@@ -1,0 +1,306 @@
+{
+  "symbol": "SSI",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 72539498986500,
+  "current_price": 36750,
+  "outstanding_shares": 1973863918,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n SSI (SSI) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Chứng kho&aacute;n S&agrave;i G&ograve;n&nbsp;được th&agrave;nh lập v&agrave;o năm 1999.&nbsp;SSI chuy&ecirc;n cung cấp dịch vụ m&ocirc;i giới, tư vấn v&agrave; đầu tư t&agrave;i ch&iacute;nh, chứng kho&aacute;n với mạng lưới hoạt động rộng tại những th&agrave;nh phố lớn như H&agrave; Nội,&nbsp;Th&agrave;nh phố&nbsp;Hồ Ch&iacute; Minh, Hải Ph&ograve;ng, Nha Trang, Vũng T&agrave;u.&nbsp;C&ocirc;ng ty&nbsp;đ&atilde; cung cấp dịch vụ cho c&aacute;c nh&agrave; đầu tư trong nước v&agrave;&nbsp;nhiều nh&agrave; đầu tư nước ngo&agrave;i danh tiếng với c&aacute;c&nbsp;kh&aacute;ch h&agrave;ng ti&ecirc;u biểu&nbsp;như&nbsp;C&ocirc;ng ty&nbsp;bao gồm Morgan Stanley, HSBC, Vinamilk,&nbsp;Credit Suisse, BIDV, ANZ, Prudential VN, Deutsche Bank. Trong năm 2024, C&ocirc;ng ty xếp ở vị tr&iacute; 2 với 9.18% thị phần m&ocirc;i giới cổ phiếu ni&ecirc;m yết tại HOSE, vị tr&iacute; thứ 4 với 6.95% thị phần m&ocirc;i giới cổ phiếu ni&ecirc;m yết tại HNX v&agrave;&nbsp;vị tr&iacute; thứ 2 với 6.67% thị phần m&ocirc;i giới cổ phiếu đăng k&yacute; giao dịch tr&ecirc;n thị trường UPCOM. Tr&ecirc;n thị trường ph&aacute;i sinh, SSI đứng vị tr&iacute; thứ 6 thị phần m&ocirc;i giới chứng kho&aacute;n ph&aacute;i sinh với 3.58%.&nbsp;Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 1.667,43 tỷ đồng, tăng 11.% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 81.32%, tăng 18.19%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 2.563,13 tỷ đồng, tăng 2.09% v&agrave; đ&oacute;ng g&oacute;p 48.9 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 3.543,53 tỷ đồng, tăng 24.4%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 11.39%, tăng 1.28%. Cổ phiếu của C&ocirc;ng ty được ni&ecirc;m yết tr&ecirc;n s&agrave;n HNX v&agrave;o năm 2006&nbsp;v&agrave; chuyển sang s&agrave;n HOSE từ năm 2007.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 67849372,
+  "high_52w": 37950,
+  "low_52w": 20600,
+  "pe": 23.2926808705,
+  "pb": 2.5451241015,
+  "roe": 0.1138306539,
+  "roa": 0.038461853,
+  "eps": 491.6680580140972,
+  "revenue": 2993036323811,
+  "net_profit": 969506698143,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Daiwa Securities Group Inc",
+      "shareholder_percent": 0.1526
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Ndh",
+      "shareholder_percent": 0.08364
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0395
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bất Động Sản Sài Gòn Đan Linh",
+      "shareholder_percent": 0.03879
+    },
+    {
+      "shareholder_name": "En Fund L.P",
+      "shareholder_percent": 0.03565
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0262
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Đường Mặt Trời",
+      "shareholder_percent": 0.0258216079
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.023
+    },
+    {
+      "shareholder_name": "Veil Holdings Limited",
+      "shareholder_percent": 0.0092
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Hưng",
+      "shareholder_percent": 0.0082
+    },
+    {
+      "shareholder_name": "Beira Limited",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "Venner Group Limited",
+      "shareholder_percent": 0.00601
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hùng",
+      "shareholder_percent": 0.00541
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.00509
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.0031
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.0028
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.00251
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Khánh",
+      "shareholder_percent": 0.00241
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hà",
+      "shareholder_percent": 0.00224
+    },
+    {
+      "shareholder_name": "Greystanes Limited Company",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Geaystanes Limited",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng TVAM",
+      "shareholder_percent": 0.0017472731
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Nam",
+      "shareholder_percent": 0.00167
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Nguyễn Sài Gòn",
+      "shareholder_percent": 0.00166
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.00156
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 2",
+      "shareholder_percent": 0.0014477406
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNFIN LEAD",
+      "shareholder_percent": 0.001195421
+    },
+    {
+      "shareholder_name": "Quena Ltd",
+      "shareholder_percent": 0.00112
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.00108
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thông",
+      "shareholder_percent": 0.00083
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Long",
+      "shareholder_percent": 0.00081
+    },
+    {
+      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Balestrand Limited",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Vietnam Co-Investment Fund",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Bùi Quang Nghiêm",
+      "shareholder_percent": 0.00052
+    },
+    {
+      "shareholder_name": "Lê Cẩm Bình",
+      "shareholder_percent": 0.00041
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0003441065
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Khải",
+      "shareholder_percent": 0.00031
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Phạm Viết Muôn",
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Hoàng Thị Minh Thủy",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Ngô Văn Điểm",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Đặng Phong Lưu",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.0001146644
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hải Anh",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hiển",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 6.05755e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Cường",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Hồ Thị Hương Trà",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Hoàng Thị Khánh Duyên",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 2.4961e-05
+    },
+    {
+      "shareholder_name": "Trần Quang Việt",
+      "shareholder_percent": 8e-06
+    },
+    {
+      "shareholder_name": "Hoàng Nguyễn Quang Huy",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 1.6974e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Duy Hưng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0082
+    },
+    {
+      "officer_name": "Nguyễn Duy Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00241
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Hà",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.00224
+    },
+    {
+      "officer_name": "Nguyễn Hồng Nam",
+      "officer_position": "Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00167
+    },
+    {
+      "officer_name": "Nguyễn Kim Long",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.00081
+    },
+    {
+      "officer_name": "Nguyễn Văn Khải",
+      "officer_position": "Phó Tổng Giám Đốc Khối Quản lý quỹ",
+      "officer_percent": 0.00031
+    },
+    {
+      "officer_name": "Phạm Viết Muôn",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00028
+    },
+    {
+      "officer_name": "Ngô Văn Điểm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00015
+    },
+    {
+      "officer_name": "Hoàng Thị Minh Thủy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00015
+    },
+    {
+      "officer_name": "Hironori Oka",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:10:58.843094"
+}

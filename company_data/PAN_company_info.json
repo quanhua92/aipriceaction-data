@@ -1,0 +1,255 @@
+{
+  "symbol": "PAN",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 7462163010000,
+  "current_price": 34500,
+  "outstanding_shares": 216294580,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n PAN (PAN) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Xuy&ecirc;n Th&aacute;i B&igrave;nh, được th&agrave;nh lập v&agrave;o năm 1998. C&ocirc;ng ty nắm giữ cổ phần chi phối tại những c&ocirc;ng ty c&oacute; c&aacute;c uy t&iacute;n trong lĩnh vực n&ocirc;ng nghiệp, thủy sản, thực phẩm v&agrave; ph&acirc;n phối. Th&ocirc;ng qua c&aacute;c c&ocirc;ng ty con v&agrave; c&ocirc;ng ty li&ecirc;n kết, PAN cung cấp c&aacute;c sản phẩm về n&ocirc;ng nghiệp v&agrave; thực phẩm như giống c&acirc;y trồng, thủy hải sản, thực phẩm tiện lợi, thực phẩm h&agrave;ng ng&agrave;y, c&aacute;c sản phẩm n&ocirc;ng dược, khử tr&ugrave;ng, v&agrave; kiểm so&aacute;t dịch hại. Cổ phiếu của C&ocirc;ng ty (PAN) được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010. <!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p></p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -400,
+  "percent_price_change": -0.01146132,
+  "volume": 4203665,
+  "high_52w": 35600,
+  "low_52w": 20400,
+  "pe": 10.5978260577,
+  "pb": 1.3713262534,
+  "roe": 0.1331096037,
+  "roa": 0.0288914423,
+  "eps": 670.152706609429,
+  "revenue": 4227449966050,
+  "net_profit": 139991382109,
+  "dividend": 0.0144927536,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.1273
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Ndh",
+      "shareholder_percent": 0.1141
+    },
+    {
+      "shareholder_name": "Công ty TNHH Ndh Việt Nam",
+      "shareholder_percent": 0.1076857642
+    },
+    {
+      "shareholder_name": "The Asian Entrepreneur Legacy (TAEL)",
+      "shareholder_percent": 0.0970968977
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần PAN Farm",
+      "shareholder_percent": 0.0711
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Csc Việt Nam",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Government Of Singapore",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0449
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bất Động Sản Sài Gòn Đan Linh",
+      "shareholder_percent": 0.0277
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Nguyễn Sài Gòn",
+      "shareholder_percent": 0.0176
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Đường Mặt Trời",
+      "shareholder_percent": 0.0161
+    },
+    {
+      "shareholder_name": "Bùi Thanh Vân",
+      "shareholder_percent": 0.0081184697
+    },
+    {
+      "shareholder_name": "Quỹ tầm nhìn SSI",
+      "shareholder_percent": 0.0063290387
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Khải",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Trà My",
+      "shareholder_percent": 0.0046448
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Hải",
+      "shareholder_percent": 0.0022061
+    },
+    {
+      "shareholder_name": "Hà Thị Thanh Vân",
+      "shareholder_percent": 0.0021542
+    },
+    {
+      "shareholder_name": "Michael Louis Rosen",
+      "shareholder_percent": 0.00145
+    },
+    {
+      "shareholder_name": "Đoàn Thị Hồng Thúy",
+      "shareholder_percent": 0.0013807
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Khánh",
+      "shareholder_percent": 0.0012043
+    },
+    {
+      "shareholder_name": "Lê Thị Lệ Hằng",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Trần Đình Long",
+      "shareholder_percent": 0.0008997
+    },
+    {
+      "shareholder_name": "Nguyễn Vũ Thùy Hương",
+      "shareholder_percent": 0.0007424
+    },
+    {
+      "shareholder_name": "Phạm Thị Gái",
+      "shareholder_percent": 0.000733
+    },
+    {
+      "shareholder_name": "Vũ Thị Lan Anh",
+      "shareholder_percent": 0.0005263
+    },
+    {
+      "shareholder_name": "Trần Anh Phượng",
+      "shareholder_percent": 0.00044
+    },
+    {
+      "shareholder_name": "Vũ Thị Ngân",
+      "shareholder_percent": 0.0004233631
+    },
+    {
+      "shareholder_name": "Nguyễn Tùng Phong",
+      "shareholder_percent": 0.0003493
+    },
+    {
+      "shareholder_name": "Andbanc Investments Sif-Vietnam Value And Income Portfolio",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Đặng Kim Sơn",
+      "shareholder_percent": 0.000299
+    },
+    {
+      "shareholder_name": "Phạm Viết Muôn",
+      "shareholder_percent": 0.0002693
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Hưng",
+      "shareholder_percent": 0.0002527
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tuấn",
+      "shareholder_percent": 0.0002514
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hà",
+      "shareholder_percent": 0.0002292
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Anh",
+      "shareholder_percent": 0.0001664
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng Nhung",
+      "shareholder_percent": 0.0001378
+    },
+    {
+      "shareholder_name": "Trương Thị Đông Hà",
+      "shareholder_percent": 0.0001082462
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Tuân",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Mai Hương",
+      "shareholder_percent": 3.84875e-05
+    },
+    {
+      "shareholder_name": "Phạm Hải Long",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Nga",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Tạ Thị Ngũ Linh",
+      "shareholder_percent": 1.2027e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Duy Hưng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.005869
+    },
+    {
+      "officer_name": "Nguyễn Thị Trà My",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0046448
+    },
+    {
+      "officer_name": "Hà Thị Thanh Vân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0021542
+    },
+    {
+      "officer_name": "Nguyễn Duy Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0012043
+    },
+    {
+      "officer_name": "Nguyễn Vũ Thùy Hương",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0007424
+    },
+    {
+      "officer_name": "Đặng Kim Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.000299
+    },
+    {
+      "officer_name": "Phạm Viết Muôn",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0002693
+    },
+    {
+      "officer_name": "Nguyễn Anh Tuấn",
+      "officer_position": "Người phụ trách quản trị công ty/Trưởng phòng Tài chính - Kế toán/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0002514
+    },
+    {
+      "officer_name": "Văn Thị Ngọc Ánh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Manabu Ueda",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Michael Sgn Beng Hock",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:01:53.253742"
+}

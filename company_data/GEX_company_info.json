@@ -1,0 +1,331 @@
+{
+  "symbol": "GEX",
+  "exchange": "HOSE",
+  "industry": "Điện tử & Thiết bị điện",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 50534341088000,
+  "current_price": 56000,
+  "outstanding_shares": 902398948,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Được th&agrave;nh lập từ năm 1990, C&ocirc;ng ty Cổ phần Tập đo&agrave;n Gelex (GEX) l&agrave; doanh nghiệp h&agrave;ng đầu của Việt Nam trong lĩnh vực chế tạo Thiết bị đo điện. C&aacute;c&nbsp;hoạt&nbsp;động&nbsp;ch&iacute;nh của Gelex bao gồm: (i) sản xuất thiết bị điện, (ii) x&acirc;y dựng v&agrave; lắp đặt m&aacute;y biến &aacute;p điện &aacute;p cao, (iii) kinh doanh bất động sản. Năm 2010 Gelex được cổ phần h&oacute;a v&agrave; ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. Gelex sở hữu&nbsp;c&aacute;c thương&nbsp;hiệu c&oacute; uy t&iacute;n như GELEX, CADIVI, THIBIDI, HEM, VIHEM, VINAKIP. Gelex đ&atilde; x&acirc;y dựng được một mạng lưới kh&aacute;ch h&agrave;ng rộng lớn bao gồm c&aacute;c tập đo&agrave;n lớn như: EVN, PetroVietnam, Vinacomin, Vicem, VNSteel, Vinaconex. GEX ch&iacute;nh thức được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ Ng&agrave;y 18/01/2018.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -2800,
+  "percent_price_change": -0.04761905,
+  "volume": 33070420,
+  "high_52w": 61700,
+  "low_52w": 15981,
+  "pe": 32.0910666669,
+  "pb": 3.4587909469,
+  "roe": 0.1113928781,
+  "roa": 0.0281826943,
+  "eps": 737.32499906128,
+  "revenue": 10200378726078,
+  "net_profit": 665361303487,
+  "dividend": 0.0178571429,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Văn Tuấn",
+      "shareholder_percent": 0.23630001
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Nước sạch và Môi trường ECO & MORE",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần MHC",
+      "shareholder_percent": 0.0463
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Quản Lý Quỹ Ngân Hàng Thương Mại Cổ phần Công Thương Việt Nam",
+      "shareholder_percent": 0.0461
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư ICAPITAL",
+      "shareholder_percent": 0.0377
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0374
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VIX",
+      "shareholder_percent": 0.0352
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Vietcap",
+      "shareholder_percent": 0.0324
+    },
+    {
+      "shareholder_name": "Đào Thị Lơ",
+      "shareholder_percent": 0.0307224
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư MB",
+      "shareholder_percent": 0.028
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.018887
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.014717
+    },
+    {
+      "shareholder_name": "Nguyễn Hoa Cương",
+      "shareholder_percent": 0.0131
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.011126
+    },
+    {
+      "shareholder_name": "Công ty TNHH Vlcc",
+      "shareholder_percent": 0.0105
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0098
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0074
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.0074
+    },
+    {
+      "shareholder_name": "Idris Ltd",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.005015
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Hiền",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Lương Thanh Tùng",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Đỏ",
+      "shareholder_percent": 0.0028
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Tiếu",
+      "shareholder_percent": 0.0021993
+    },
+    {
+      "shareholder_name": "Võ Anh Linh",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Ngọc",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Nguyễn Bích Hà",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Liên Hương",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Venner Group Limited",
+      "shareholder_percent": 0.001174
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Đậu Minh Lâm",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Lê Bá Thọ",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Kitmc Worldwide China Vietnam Fund",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam Fund II",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000432
+    },
+    {
+      "shareholder_name": "Balestrand Limited",
+      "shareholder_percent": 0.000329
+    },
+    {
+      "shareholder_name": "Lê Tuấn Anh",
+      "shareholder_percent": 0.00032
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 0.0003021476
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 0.0002951322
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 0.00028409
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Long",
+      "shareholder_percent": 0.0002713
+    },
+    {
+      "shareholder_name": "Veil Holdings Limited",
+      "shareholder_percent": 0.000235
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Vinh",
+      "shareholder_percent": 0.00021
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Thắng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Xuân Thanh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương",
+      "shareholder_percent": 0.0001616
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.00015827
+    },
+    {
+      "shareholder_name": "Phạm Tuấn Anh",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Lê Việt Hà",
+      "shareholder_percent": 0.0001233
+    },
+    {
+      "shareholder_name": "Bùi Đăng Khoa",
+      "shareholder_percent": 0.0001233
+    },
+    {
+      "shareholder_name": "Đỗ Văn Chính",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phạm Thị Mỹ Hà",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Hoàng Hưng",
+      "shareholder_percent": 3.99e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu MB",
+      "shareholder_percent": 4.3e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Tuấn",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.23630001
+    },
+    {
+      "officer_name": "Nguyễn Hoa Cương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0131
+    },
+    {
+      "officer_name": "Lương Thanh Tùng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Nguyễn Trọng Hiền",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Nguyễn Trọng Tiếu",
+      "officer_position": "Giám đốc điều hành/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0021993
+    },
+    {
+      "officer_name": "Võ Anh Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Đậu Minh Lâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0001616
+    },
+    {
+      "officer_name": "Phạm Tuấn Anh",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0.00014
+    },
+    {
+      "officer_name": "Lê Việt Hà",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.0001233
+    },
+    {
+      "officer_name": "Lê Thị Hiền",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tào  Hải Nhân",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Việt",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Phương",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Việt Trung",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:52:23.859813"
+}

@@ -1,0 +1,201 @@
+{
+  "symbol": "NVL",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 35979428726100,
+  "current_price": 18450,
+  "outstanding_shares": 1950104538,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Đầu tư Địa ốc Nova (Novaland) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại&nbsp;Th&agrave;nh Nhơn,&nbsp;được th&agrave;nh lập năm 1992. Hoạt&nbsp;động ch&iacute;nh của&nbsp;Novaland l&agrave; đầu tư, thi c&ocirc;ng x&acirc;y dựng v&agrave; kinh doanh bất&nbsp;động sản.&nbsp;Tập đo&agrave;n đ&atilde; v&agrave; đang triển khai hơn 40 dự &aacute;n nh&agrave;&nbsp;ở v&agrave;&nbsp;hơn 5&nbsp;dự&nbsp;&aacute;n&nbsp;bất&nbsp;động sản du lịch nghỉ dưỡng&nbsp;tại c&aacute;c vị tr&iacute; chiến lược của hầu hết c&aacute;c quận, huyện tại Th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave; c&aacute;c tỉnh l&acirc;n cận. Novaland được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) v&agrave;o th&aacute;ng 12/2016.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -50,
+  "percent_price_change": -0.0027027,
+  "volume": 36577437,
+  "high_52w": 19300,
+  "low_52w": 7880,
+  "pe": 217.2781675985,
+  "pb": 0.920711245,
+  "roe": 0.0044556461,
+  "roa": 0.00070223,
+  "eps": -82.33993142781969,
+  "revenue": 1936653018314,
+  "net_profit": -160571473936,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "BÙI THÀNH NHƠN",
+      "shareholder_percent": 0.4962
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Novagroup",
+      "shareholder_percent": 0.17194
+    },
+    {
+      "shareholder_name": "Công ty CP Diamond Properties",
+      "shareholder_percent": 0.08483
+    },
+    {
+      "shareholder_name": "Bùi Thành Nhơn",
+      "shareholder_percent": 0.0496208
+    },
+    {
+      "shareholder_name": "Nguyễn Như Pho",
+      "shareholder_percent": 0.0418
+    },
+    {
+      "shareholder_name": "Bùi Cao Nhật Quân",
+      "shareholder_percent": 0.03862
+    },
+    {
+      "shareholder_name": "Thái Ngọc Quý",
+      "shareholder_percent": 0.0374
+    },
+    {
+      "shareholder_name": "Cao Thị Ngọc Sương",
+      "shareholder_percent": 0.02591
+    },
+    {
+      "shareholder_name": "Lê Thanh Liêm",
+      "shareholder_percent": 0.0246
+    },
+    {
+      "shareholder_name": "Bùi Xuân Huy",
+      "shareholder_percent": 0.017333
+    },
+    {
+      "shareholder_name": "Nguyễn Hiếu Liêm",
+      "shareholder_percent": 0.01154
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0102
+    },
+    {
+      "shareholder_name": "Bùi Cao Ngọc Quỳnh",
+      "shareholder_percent": 0.00397
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Vân",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Hoàng Thu Châu",
+      "shareholder_percent": 0.0020815
+    },
+    {
+      "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Tập Đoàn Đầu Tư Địa Ốc No Va",
+      "shareholder_percent": 0.00202
+    },
+    {
+      "shareholder_name": "Phan Lê Hòa",
+      "shareholder_percent": 0.00056
+    },
+    {
+      "shareholder_name": "Võ Thị Cao Ly",
+      "shareholder_percent": 0.00034106
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Xuân Dung",
+      "shareholder_percent": 0.00033
+    },
+    {
+      "shareholder_name": "Huỳnh Minh Lâm",
+      "shareholder_percent": 0.00031088
+    },
+    {
+      "shareholder_name": "Phan Thành Huy",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 6.67068e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 3.53384e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Thanh",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Dương Thị Thu Thủy",
+      "shareholder_percent": 1.109e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Huyên",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Lệ Thu",
+      "shareholder_percent": 8e-06
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 7.22e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Dũng",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Cao Trần Duy Nam",
+      "shareholder_percent": 6.5e-06
+    },
+    {
+      "shareholder_name": "Phạm Tiến Vân",
+      "shareholder_percent": 5.1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Bùi Thành Nhơn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0496208
+    },
+    {
+      "officer_name": "Bùi Xuân Huy",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.017333
+    },
+    {
+      "officer_name": "Hoàng Thu Châu",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.00293
+    },
+    {
+      "officer_name": "Hoàng Thu Châu",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0020815
+    },
+    {
+      "officer_name": "Nguyễn Thị Xuân Dung",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.00033
+    },
+    {
+      "officer_name": "Huỳnh Minh Lâm",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00031088
+    },
+    {
+      "officer_name": "Phạm Tiến Vân",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 5.1e-06
+    },
+    {
+      "officer_name": "Lê Quốc Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Mỹ Hạnh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:01:48.224360"
+}

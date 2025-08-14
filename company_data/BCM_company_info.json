@@ -1,0 +1,190 @@
+{
+  "symbol": "BCM",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 73485000000000,
+  "current_price": 71000,
+  "outstanding_shares": 1035000000,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Tổng C&ocirc;ng ty Đầu tư v&agrave; Ph&aacute;t triển C&ocirc;ng nghiệp (BCM) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Thương Nghiệp Tổng Hợp Bến C&aacute;t (Becamex), được th&agrave;nh lập&nbsp;v&agrave;o năm 1976. Tổng c&ocirc;ng ty hoạt động trong lĩnh vực đầu tư ph&aacute;t triển c&ocirc;ng nghiệp - đ&ocirc; thị, x&acirc;y dựng d&acirc;n dụng - c&ocirc;ng nghiệp - giao th&ocirc;ng. BCM&nbsp;mang đến cho c&aacute;c nh&agrave; đầu tư m&ocirc; h&igrave;nh c&ocirc;ng nghiệp h&oacute;a ti&ecirc;n tiến th&ocirc;ng qua Khu c&ocirc;ng nghiệp Khoa học v&agrave; C&ocirc;ng nghệ (Science and Technology Industrial Park &ndash; STIP) 21 KCN, hiện diện tại 15 tỉnh th&agrave;nh cả nước, với mạng lưới 26 doanh nghiệp th&agrave;nh vi&ecirc;n trong nhiều lĩnh vực (Y tế, gi&aacute;o dục, viễn th&ocirc;ng, năng lượng, hạ tầng&hellip;). BCM được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối th&aacute;ng 07/2020.</div>\r\n",
+  "website": null,
+  "price_change": -500,
+  "percent_price_change": -0.00699301,
+  "volume": 845721,
+  "high_52w": 82400,
+  "low_52w": 49800,
+  "pe": 20.2988783951,
+  "pb": 3.4996164349,
+  "roe": 0.1817599141,
+  "roa": 0.0630101585,
+  "eps": 1416.6821808560387,
+  "revenue": 2524449424900,
+  "net_profit": 1466266057186,
+  "dividend": 0.014084507,
+  "shareholders": [
+    {
+      "shareholder_name": "Ủy Ban Nhân Dân Tỉnh Bình Dương",
+      "shareholder_percent": 0.954401
+    },
+    {
+      "shareholder_name": "NGUYỄN VĂN HÙNG",
+      "shareholder_percent": 0.0060087
+    },
+    {
+      "shareholder_name": "Nguyễn Phú Thịnh",
+      "shareholder_percent": 0.0011676
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Thuận",
+      "shareholder_percent": 0.0010657
+    },
+    {
+      "shareholder_name": "Giang Quốc Dũng",
+      "shareholder_percent": 0.00058
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Nhàn",
+      "shareholder_percent": 0.000555
+    },
+    {
+      "shareholder_name": "Quảng Văn Viết Cương",
+      "shareholder_percent": 0.0005195
+    },
+    {
+      "shareholder_name": "Nguyễn Danh Tùng",
+      "shareholder_percent": 0.0005098
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hiền Phúc",
+      "shareholder_percent": 0.00041
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thanh Huy",
+      "shareholder_percent": 0.000371
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Long",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "HỒ HỒNG THẠCH",
+      "shareholder_percent": 0.0001332
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Lợi",
+      "shareholder_percent": 0.000103
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thùy Dương",
+      "shareholder_percent": 8.55e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh An",
+      "shareholder_percent": 5.52e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Hồng Minh",
+      "shareholder_percent": 5.4e-05
+    },
+    {
+      "shareholder_name": "Trần Ngọc Yến",
+      "shareholder_percent": 4.83e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Yến Trúc",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàn Vũ",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Phan Thị Mỹ Kim",
+      "shareholder_percent": 1.14e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hòa",
+      "shareholder_percent": 8.41e-06
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Quế Anh",
+      "shareholder_percent": 3e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "NGUYỄN VĂN HÙNG",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0060087
+    },
+    {
+      "officer_name": "Nguyễn Phú Thịnh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0011676
+    },
+    {
+      "officer_name": "Phạm Ngọc Thuận",
+      "officer_position": "Phụ trách Công bố thông tin/Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0010657
+    },
+    {
+      "officer_name": "Giang Quốc Dũng",
+      "officer_position": "Người phụ trách quản trị công ty/Phó Tổng Giám đốc",
+      "officer_percent": 0.00058
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Nhàn",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.000555
+    },
+    {
+      "officer_name": "Quảng Văn Viết Cương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0005195
+    },
+    {
+      "officer_name": "Nguyễn Danh Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0005098
+    },
+    {
+      "officer_name": "Nguyễn Văn Hiền Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00041
+    },
+    {
+      "officer_name": "Nguyễn Văn Thanh Huy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000371
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Dương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 8.55e-05
+    },
+    {
+      "officer_name": "Nguyễn Hoàn Vũ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Huỳnh Thị Quế Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Nguyễn Văn Hoàng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Vĩnh Thành",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:42:30.040818"
+}

@@ -1,0 +1,298 @@
+{
+  "symbol": "HDC",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 6608051490300,
+  "current_price": 37050,
+  "outstanding_shares": 178354966,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Ph&aacute;t triển Nh&agrave; B&agrave; Rịa Vũng T&agrave;u (HDC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Ph&aacute;t triển Nh&agrave; Tỉnh B&agrave; Rịa - Vũng T&agrave;u, được&nbsp;th&agrave;nh lập v&agrave;o năm 1990. C&ocirc;ng ty hoạt&nbsp;động chủ yếu trong lĩnh vực đầu tư kinh doanh bất động sản, sản xuất vật liệu x&acirc;y dựng, c&aacute;c dịch vụ du lịch v&agrave; bất động sản kh&aacute;c. HDC&nbsp;ch&iacute;nh thức chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần từ năm 2001.&nbsp;C&ocirc;ng ty&nbsp;hiện đang c&oacute; quỹ đất khoảng 400ha tại th&agrave;nh phố Vũng T&agrave;u. Một số dự &aacute;n ti&ecirc;u biểu của C&ocirc;ng ty như: Khu nh&agrave; ở Sao Mai Bến Đ&igrave;nh, Khu nh&agrave; ở G&ograve; Sao - Quận 12, th&agrave;nh phố Hồ Ch&iacute; Minh, Chung cư B&igrave;nh Gi&atilde; Resident, Chung cư B&igrave;nh An, Chung cư L&ocirc; A - 199 Nam Kỳ Khởi Nghĩa, Chung cư L&ocirc;&nbsp;B - 199 Nam Kỳ Khởi Nghĩa, Chung cư B&igrave;nh An. HDC&nbsp;được ni&ecirc;m&nbsp;yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.00536913,
+  "volume": 5770933,
+  "high_52w": 38300,
+  "low_52w": 20700,
+  "pe": 76.9320624469,
+  "pb": 2.8461587428,
+  "roe": 0.0378170045,
+  "roa": 0.0175746357,
+  "eps": 324.4576892521176,
+  "revenue": 80226382464,
+  "net_profit": 57868640135,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Đoàn Hữu Thuận",
+      "shareholder_percent": 0.0985
+    },
+    {
+      "shareholder_name": "Asean Deep Value Fund",
+      "shareholder_percent": 0.0392
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Ngân hàng Công thương Việt Nam",
+      "shareholder_percent": 0.0382
+    },
+    {
+      "shareholder_name": "Trần Minh Chính",
+      "shareholder_percent": 0.03716
+    },
+    {
+      "shareholder_name": "Lê Viết Liên",
+      "shareholder_percent": 0.0368
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hà",
+      "shareholder_percent": 0.0337
+    },
+    {
+      "shareholder_name": "Đoàn Hữu Hà Vinh",
+      "shareholder_percent": 0.0218
+    },
+    {
+      "shareholder_name": "Phan Văn Minh",
+      "shareholder_percent": 0.0209282043
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xây lắp Thừa Thiên Huế",
+      "shareholder_percent": 0.0136
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hương",
+      "shareholder_percent": 0.0133
+    },
+    {
+      "shareholder_name": "Nguyễn Tú Quỳnh",
+      "shareholder_percent": 0.0111
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VNDIRECT",
+      "shareholder_percent": 0.01088507
+    },
+    {
+      "shareholder_name": "Đoàn Hữu Hà An",
+      "shareholder_percent": 0.0102
+    },
+    {
+      "shareholder_name": "Credit Suise (Hong Kong) Limited",
+      "shareholder_percent": 0.00775055
+    },
+    {
+      "shareholder_name": "Bùi Thị Thịnh",
+      "shareholder_percent": 0.0064
+    },
+    {
+      "shareholder_name": "Trần Văn Tấn",
+      "shareholder_percent": 0.0061789431
+    },
+    {
+      "shareholder_name": "Lâm Hoàng Lộc",
+      "shareholder_percent": 0.005956
+    },
+    {
+      "shareholder_name": "Đặng Ngọc Cẩm Hằng",
+      "shareholder_percent": 0.0056
+    },
+    {
+      "shareholder_name": "Hoàng Phạm Tuấn Anh",
+      "shareholder_percent": 0.00455
+    },
+    {
+      "shareholder_name": "DƯƠNG NGỌC THANH",
+      "shareholder_percent": 0.0029384
+    },
+    {
+      "shareholder_name": "Hồ Viết Thới",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Lưu",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Dương Thị Ngọc",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Lê Quỳnh Hoa",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Đạt",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Thùy",
+      "shareholder_percent": 0.00112
+    },
+    {
+      "shareholder_name": "Bùi Duy Chinh",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Lương Thị Phương",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Duy",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Đoàn Hữu Hải",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Bùi Thị Việt",
+      "shareholder_percent": 0.00086
+    },
+    {
+      "shareholder_name": "Hồ Diên Tiếu",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Phan Thị Thanh Huyền",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Mai Thị Tuyết Lan",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Lê Quý Định",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Bạch Trọng Định",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Hoàng Chung Kiên",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Công Đoàn Công ty Cổ Phần Phát Triển Nhà Bà Rịa Vũng Tàu",
+      "shareholder_percent": 0.000369
+    },
+    {
+      "shareholder_name": "Đào Thị Lan Hương",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Đoàn Thị Hồng Mai",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Hồng Dương",
+      "shareholder_percent": 0.0002043974
+    },
+    {
+      "shareholder_name": "Phan Đình Hiệp",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phạm Văn Bảy",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Bùi Thị Yến",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Trần Trung Hiếu",
+      "shareholder_percent": 3.7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Thiên Trúc",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Nhung",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Hoàng Thanh Hải",
+      "shareholder_percent": 1e-07
+    },
+    {
+      "shareholder_name": "Lucerne Enterprise Ltd",
+      "shareholder_percent": 3e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đoàn Hữu Thuận",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0985
+    },
+    {
+      "officer_name": "Lê Viết Liên",
+      "officer_position": "Tổng Giám đốc điều hành/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0368
+    },
+    {
+      "officer_name": "Đoàn Hữu Hà Vinh",
+      "officer_position": "Thành viên Ban đại diện Quỹ/Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0218
+    },
+    {
+      "officer_name": "Bùi Thị Thịnh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0064
+    },
+    {
+      "officer_name": "Nguyễn Quang Đạt",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Lê Quỳnh Hoa",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Nguyễn Đình Duy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0011
+    },
+    {
+      "officer_name": "Hồ Diên Tiếu",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Phan Thị Thanh Huyền",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Lê Quý Định",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Hoàng Chung Kiên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Phan Văn Thắng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quốc Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:03.987125"
+}

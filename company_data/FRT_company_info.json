@@ -1,0 +1,196 @@
+{
+  "symbol": "FRT",
+  "exchange": "HOSE",
+  "industry": "Bán lẻ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 20191122049800,
+  "current_price": 148200,
+  "outstanding_shares": 136242389,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ Phần B&aacute;n Lẻ Kỹ Thuật Số FPT (FRT)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH b&aacute;n lẻ FPT,&nbsp;được th&agrave;nh lập v&agrave;o năm 2007. C&ocirc;ng ty hoạt động trong lĩnh vưc ph&acirc;n phối&nbsp;b&aacute;n lẻ sản phẩm điện thoại, laptop, m&aacute;y t&iacute;nh bảng, phụ kiện&nbsp;v&agrave; c&aacute;c sản phẩm&nbsp;điện tử&nbsp;kh&aacute;c. FRT ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2012. T&iacute;nh đến thời điểm hiện tại, FPT Shop l&agrave; chuỗi b&aacute;n lẻ lớn thứ hai tr&ecirc;n thị trường b&aacute;n lẻ h&agrave;ng c&ocirc;ng nghệ, FPT Long Ch&acirc;u l&agrave; chuỗi b&aacute;n lẻ dược phẩm c&oacute; số lượng&nbsp;nh&agrave; thuốc lớn nhất Việt Nam.&nbsp;FRT được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối th&aacute;ng 04/2018.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -1800,
+  "percent_price_change": -0.012,
+  "volume": 772395,
+  "high_52w": 167520,
+  "low_52w": 96880,
+  "pe": 46.8572870658,
+  "pb": 8.8047941121,
+  "roe": 0.2486797878,
+  "roa": 0.033009223,
+  "eps": 696.7492821698845,
+  "revenue": 11425724005809,
+  "net_profit": 118657646451,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần FPT",
+      "shareholder_percent": 0.4654
+    },
+    {
+      "shareholder_name": "Dragon Capital",
+      "shareholder_percent": 0.2
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ VinaCapital",
+      "shareholder_percent": 0.15
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.049177
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.0478
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.012811
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.012463
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.01182
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.011018
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.006655
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.005566
+    },
+    {
+      "shareholder_name": "Nguyễn Bạch Điệp",
+      "shareholder_percent": 0.0049506
+    },
+    {
+      "shareholder_name": "Trịnh Hoa Giang",
+      "shareholder_percent": 0.0029248
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Anh",
+      "shareholder_percent": 0.0018228
+    },
+    {
+      "shareholder_name": "Vietnam Co-Investment Fund",
+      "shareholder_percent": 0.001393
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000881
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.00084
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.00025
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.00022
+    },
+    {
+      "shareholder_name": "Danang Investments Limited",
+      "shareholder_percent": 0.00022
+    },
+    {
+      "shareholder_name": "Vũ Thanh Huyền",
+      "shareholder_percent": 1.3e-05
+    },
+    {
+      "shareholder_name": "Asia Value Investment Limited",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Bạch Dương",
+      "shareholder_percent": 5.5e-07
+    },
+    {
+      "shareholder_name": "Vietnam Investment Property Holdings Limited",
+      "shareholder_percent": 4e-07
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 1e-07
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 1e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Bạch Điệp",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0049506
+    },
+    {
+      "officer_name": "Trịnh Hoa Giang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0029248
+    },
+    {
+      "officer_name": "Nguyễn Việt Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0018228
+    },
+    {
+      "officer_name": "Lê Hồng Việt",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Huyền",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Hùng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần  Khương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Nga",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Duy Hoàng Nam",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Thị Minh Huệ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đắc Việt Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Trung Kiên",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:52:05.706493"
+}

@@ -1,0 +1,194 @@
+{
+  "symbol": "FTS",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 14284832902050,
+  "current_price": 42450,
+  "outstanding_shares": 336509609,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n FPT (FTS) được th&agrave;nh lập với vốn điều lệ ban đầu 200 tỷ đồng theo&nbsp;theo giấy ph&eacute;p số 59/UBCK-GP của Uỷ ban Chứng kho&aacute;n Nh&agrave; nước v&agrave;o ng&agrave;y 13/07/2007. FTS kinh doanh tất cả c&aacute;c loại sản phẩm v&agrave; dịch vụ chứng kho&aacute;n li&ecirc;n quan, bao gồm: M&ocirc;i giới chứng kho&aacute;n, tư vấn đầu tư chứng kho&aacute;n, giao dịch độc quyền, lưu k&yacute; chứng kho&aacute;n, bảo l&atilde;nh ph&aacute;t h&agrave;nh chứng kho&aacute;n, tư vấn t&agrave;i ch&iacute;nh doanh nghiệp. Trong năm 2024, C&ocirc;ng ty đứng vị tr&iacute; thứ 9 với 3% thị phần m&ocirc;i giới cổ phiếu ni&ecirc;m yết tại HNX v&agrave;&nbsp;đứng vị tr&iacute; thứ 7 với 3.67% thị phần m&ocirc;i giới cổ phiếu đăng k&yacute; giao dịch tr&ecirc;n thị trường UPCOM. Tr&ecirc;n thị trường ph&aacute;i sinh, FTS đứng vị tr&iacute; thứ 10 thị phần m&ocirc;i giới chứng kho&aacute;n ph&aacute;i sinh với 2.06%.&nbsp;Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 250,44 tỷ đồng, giảm 15.79% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 161.5%, tăng 38.53%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 244,58 tỷ đồng, tăng 60.57% v&agrave; đ&oacute;ng g&oacute;p 32.95% tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 663,17 tỷ đồng, tăng 22.37%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 14.62%, tăng 1.89%.FTS được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ đầu năm 2017.</div>\r\n",
+  "website": null,
+  "price_change": 850,
+  "percent_price_change": 0.02043269,
+  "volume": 12321851,
+  "high_52w": 46850,
+  "low_52w": 31413,
+  "pe": 31.4927733365,
+  "pb": 3.4716899969,
+  "roe": 0.1094478934,
+  "roa": 0.0448774283,
+  "eps": 174.94089975564623,
+  "revenue": 239142567744,
+  "net_profit": 60616673458,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "SBI Financial Services Company Limited",
+      "shareholder_percent": 0.233
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần FPT",
+      "shareholder_percent": 0.1758
+    },
+    {
+      "shareholder_name": "Phạm Thanh Hào",
+      "shareholder_percent": 0.0487
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thúy",
+      "shareholder_percent": 0.03052
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh",
+      "shareholder_percent": 0.01909
+    },
+    {
+      "shareholder_name": "Nguyễn Điệp Tùng",
+      "shareholder_percent": 0.0178
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư FPT",
+      "shareholder_percent": 0.0149
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Trung",
+      "shareholder_percent": 0.0141
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hương",
+      "shareholder_percent": 0.0031
+    },
+    {
+      "shareholder_name": "ĐỖ SƠN GIANG",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "NGUYỄN VĂN DŨNG",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Thành",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Trịnh Thanh Hằng",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Phương",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương",
+      "shareholder_percent": 0.0005455
+    },
+    {
+      "shareholder_name": "Ngô Thị Thanh Nga",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Khoa",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trịnh Hữu Thắng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Huyền",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thái Anh",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Việt Nga",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Ngô Thị Minh Huệ",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Hương",
+      "shareholder_percent": 2e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Điệp Tùng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0178
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hương",
+      "officer_position": "Phó Tổng Giám đốc/Kế toán trưởng",
+      "officer_percent": 0.0031
+    },
+    {
+      "officer_name": "ĐỖ SƠN GIANG",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "NGUYỄN VĂN DŨNG",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Nguyễn Khắc Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Trịnh Thanh Hằng",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0005455
+    },
+    {
+      "officer_name": "Nguyễn Thị Thái Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Đỗ Thị Hương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 2e-07
+    },
+    {
+      "officer_name": "Eiichiro So",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Taro Ueno",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thùy Trang",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hà My",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Nghĩa",
+      "officer_position": "Giám đốc Chi nhánh Đà Nẵng",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:52:10.532008"
+}

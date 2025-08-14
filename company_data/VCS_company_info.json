@@ -1,0 +1,167 @@
+{
+  "symbol": "VCS",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 8160000000000,
+  "current_price": 51000,
+  "outstanding_shares": 160000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần VICOSTONE (VCS)&nbsp;th&agrave;nh lập năm 2002 với tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Đ&aacute; ốp l&aacute;t cao cấp VINACONEX. Năm 2005 c&ocirc;ng ty chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần.&nbsp;Sau nhiều lần đổi t&ecirc;n, hiện tại C&ocirc;ng ty c&oacute; t&ecirc;n giao dịch ch&iacute;nh thức l&agrave; &quot;C&ocirc;ng ty Cổ phần VICOSTONE&quot;. Hoạt động ch&iacute;nh của c&ocirc;ng ty hiện tại l&agrave; sản xuất v&agrave; kinh doanh đ&aacute; ốp l&aacute;t nh&acirc;n tạo gốc thạch anh, ngo&agrave;i ra c&ocirc;ng ty c&ograve;n sản xuất, kinh doanh c&aacute;c loại vật liệu x&acirc;y dựng; Khai th&aacute;c, chế biến c&aacute;c loại kho&aacute;ng sản; Kinh doanh dịch vụ vận tải h&agrave;ng ho&aacute;.... VICOSTONE hiện đang sở hữu 2 d&acirc;y chuyền sản xuất đ&aacute; nh&acirc;n tạo Breton, l&agrave; đầu mối xuất khẩu cho tập đo&agrave;n Phượng Ho&agrave;ng Xanh A&amp;A gồm 5 d&acirc;y chuyền với tổng c&ocirc;ng suất 2,5 triệu m2/năm. Sản phẩm đ&aacute; thạch anh thương hiệu VICOSTONE đ&atilde; được xuất khẩu đến 40 Quốc gia tại 5 Ch&acirc;u lục. Vicostone được đ&aacute;nh gi&aacute; c&oacute; t&iacute;nh cạnh tranh cao về số lượng v&agrave; t&iacute;nh độc đ&aacute;o của c&aacute;c mẫu m&atilde; thiết kế so với c&aacute;c thương hiệu đ&aacute; nh&acirc;n tạo lớn kh&aacute;c. Hiện Vicostone đ&atilde; c&oacute; cơ sở tại Mỹ v&agrave; Canada với hệ thống ph&acirc;n phối trực tiếp khắp c&aacute;c bang lớn. Ng&agrave;y 17/12/2007, VCS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.00584795,
+  "volume": 351516,
+  "high_52w": 65137,
+  "low_52w": 36776,
+  "pe": 11.2425296034,
+  "pb": 1.5913271589,
+  "roe": 0.1400016415,
+  "roa": 0.1119241045,
+  "eps": 1313.11018891875,
+  "revenue": 1124251778791,
+  "net_profit": 210097630227,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Phượng Hoàng Xanh A&A",
+      "shareholder_percent": 0.8415
+    },
+    {
+      "shareholder_name": "Phạm Thị Thanh Hương",
+      "shareholder_percent": 0.0451
+    },
+    {
+      "shareholder_name": "Ninh Quốc Cường",
+      "shareholder_percent": 0.0418
+    },
+    {
+      "shareholder_name": "Hồ Xuân Năng",
+      "shareholder_percent": 0.0374
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.0138041762
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A",
+      "shareholder_percent": 0.01103789
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.01071713
+    },
+    {
+      "shareholder_name": "Quỹ tầm nhìn SSI",
+      "shareholder_percent": 0.0088696159
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Sài Gòn",
+      "shareholder_percent": 0.0050000706
+    },
+    {
+      "shareholder_name": "Phạm Trí Dũng",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Lưu",
+      "shareholder_percent": 0.0011624207
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân An",
+      "shareholder_percent": 0.000635
+    },
+    {
+      "shareholder_name": "Lương Xuân Mẫn",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Dương Văn Trường",
+      "shareholder_percent": 0.0001839646
+    },
+    {
+      "shareholder_name": "Nguyễn Như Nguyên",
+      "shareholder_percent": 0.000168021
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoàn",
+      "shareholder_percent": 0.0001676908
+    },
+    {
+      "shareholder_name": "Phạm Anh Tuấn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Chí Công",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 8.751e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 7.73196e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hồ Xuân Năng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0374
+    },
+    {
+      "officer_name": "Phạm Trí Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0022
+    },
+    {
+      "officer_name": "Lưu Công An",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0013
+    },
+    {
+      "officer_name": "Phạm Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Chí Công",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Phạm Thị Bích Thủy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đồng Quang Thức",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Nga",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Diệu Thúy Ngọc",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Lan Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Hưng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:11:43.739217"
+}

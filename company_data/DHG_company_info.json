@@ -1,0 +1,335 @@
+{
+  "symbol": "DHG",
+  "exchange": "HOSE",
+  "industry": "Dược phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 13414546884600,
+  "current_price": 102600,
+  "outstanding_shares": 130746071,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Dược Hậu Giang (DHG) c&oacute; tiền th&acirc;n&nbsp;l&agrave; X&iacute; nghiệp&nbsp;quốc doanh&nbsp;Dược phẩm 2/9 trực thuộc Sở Y tế khu T&acirc;y Nam Bộ,&nbsp;được th&agrave;nh lập v&agrave;o năm 1974. C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong lĩnh vực sản&nbsp;xuất v&agrave; kinh doanh dược phẩm, vật tư, trang thiết bị, dụng cụ y tế, thực phẩm chức năng v&agrave; dược&nbsp;mỹ phẩm, v&agrave; cung cấp dịch vụ chăm s&oacute;c sức khỏe. DHG ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2004.&nbsp;DHG l&agrave; c&ocirc;ng ty&nbsp;Dược Generic lớn nhất Việt Nam giữ vững vị tr&iacute; dẫn đầu về&nbsp;doanh thu v&agrave;&nbsp;thị phần, Top 3&nbsp;doanh nghiệp dược c&oacute; thị phần lớn nhất Ng&agrave;nh Dược Việt Nam. C&ocirc;ng ty c&oacute; hệ thống ph&acirc;n phối s&acirc;u rộng v&agrave; lớn nhất cả nước, với 34&nbsp;chi nh&aacute;nh ph&acirc;n phối h&agrave;ng h&oacute;a tr&ecirc;n khắp cả nước từ th&agrave;nh thị đến n&ocirc;ng th&ocirc;n. DHG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2006.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -800,
+  "percent_price_change": -0.00773694,
+  "volume": 18462,
+  "high_52w": 104468,
+  "low_52w": 82102,
+  "pe": 15.5187851359,
+  "pb": 3.5412842546,
+  "roe": 0.2076236644,
+  "roa": 0.1473646995,
+  "eps": 1811.8698585367051,
+  "revenue": 1368781191853,
+  "net_profit": 236894865167,
+  "dividend": 0.0974658869,
+  "shareholders": [
+    {
+      "shareholder_name": "TAISHO PHARMACEUTICAL CO., LTD.",
+      "shareholder_percent": 0.5101
+    },
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.4331
+    },
+    {
+      "shareholder_name": "FTIF - Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0283
+    },
+    {
+      "shareholder_name": "Deutsche Bank AG & Deutsche Asset Management (Asia) Ltd.",
+      "shareholder_percent": 0.01162811
+    },
+    {
+      "shareholder_name": "Korea Investment Trust Management Company",
+      "shareholder_percent": 0.01155246
+    },
+    {
+      "shareholder_name": "Dragon Capital",
+      "shareholder_percent": 0.01075332
+    },
+    {
+      "shareholder_name": "Công Ty TNHH VinaCapital Corporate Finance Việt Nam",
+      "shareholder_percent": 0.00947073
+    },
+    {
+      "shareholder_name": "Vietnam Equity Holding",
+      "shareholder_percent": 0.00885179
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Emerging Markets Small Cap Fund",
+      "shareholder_percent": 0.0082
+    },
+    {
+      "shareholder_name": "Citgroup Global Markets Limited",
+      "shareholder_percent": 0.00706139
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Chứng khoán Y tế Bản Việt",
+      "shareholder_percent": 0.00621026
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.00552416
+    },
+    {
+      "shareholder_name": "Sgam Vietnam Opportunities Fund",
+      "shareholder_percent": 0.00550684
+    },
+    {
+      "shareholder_name": "JF Vietnam Opportunities Fund",
+      "shareholder_percent": 0.00505897
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.0044018
+    },
+    {
+      "shareholder_name": "Templeton Global Investment Trust - Templeton Emerging Markets Small Cap Fund",
+      "shareholder_percent": 0.00400978
+    },
+    {
+      "shareholder_name": "Fullerton",
+      "shareholder_percent": 0.00395811
+    },
+    {
+      "shareholder_name": "Deutsche Bank & UBS AG London",
+      "shareholder_percent": 0.00387893
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Mirae Asset Maps Opportunity",
+      "shareholder_percent": 0.00336341
+    },
+    {
+      "shareholder_name": "PCA International Funds SPC",
+      "shareholder_percent": 0.00303461
+    },
+    {
+      "shareholder_name": "Amundi Vietnam Opportunities Fund",
+      "shareholder_percent": 0.00229968
+    },
+    {
+      "shareholder_name": "PHEIM AIZAWA TRUST",
+      "shareholder_percent": 0.0022887
+    },
+    {
+      "shareholder_name": "Asia Value Investment Limited",
+      "shareholder_percent": 0.0022511502
+    },
+    {
+      "shareholder_name": "UBS AG London Branch",
+      "shareholder_percent": 0.00215444
+    },
+    {
+      "shareholder_name": "Vietnam Emerging Equity Fund Limited",
+      "shareholder_percent": 0.00210035
+    },
+    {
+      "shareholder_name": "Công Đoàn Công ty Cổ Phần Dược Hậu Giang",
+      "shareholder_percent": 0.0021
+    },
+    {
+      "shareholder_name": "Vietnam Ventures Limited",
+      "shareholder_percent": 0.00198659
+    },
+    {
+      "shareholder_name": "Croesus Global Equity Limited",
+      "shareholder_percent": 0.0018838
+    },
+    {
+      "shareholder_name": "Lionglobal Vietnam Fund",
+      "shareholder_percent": 0.00177158
+    },
+    {
+      "shareholder_name": "Aizawa Securities Company Limited",
+      "shareholder_percent": 0.00159044
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam Fund I",
+      "shareholder_percent": 0.00153246
+    },
+    {
+      "shareholder_name": "Lê Minh Hồng",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Nguyễn Như Song",
+      "shareholder_percent": 0.0010527829
+    },
+    {
+      "shareholder_name": "Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Loan",
+      "shareholder_percent": 0.0006025054
+    },
+    {
+      "shareholder_name": "Trần Thị Ánh Như",
+      "shareholder_percent": 0.0005471121
+    },
+    {
+      "shareholder_name": "Phạm Hữu Lập",
+      "shareholder_percent": 0.0002560559
+    },
+    {
+      "shareholder_name": "Nguyễn Sĩ Trung Kỳ",
+      "shareholder_percent": 0.0002553427
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "La Ngọc Vân",
+      "shareholder_percent": 0.0001881715
+    },
+    {
+      "shareholder_name": "Phạm Thị Việt Nga",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Hà Mỹ Dung",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lâm Diệu Phi",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Frontier Markets Equity (Master) Fund, Ltd.",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đàm Mạnh Cường",
+      "shareholder_percent": 3.45057e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Diệp",
+      "shareholder_percent": 2.432e-05
+    },
+    {
+      "shareholder_name": "Lê Chánh Đạo",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Kim Tươi",
+      "shareholder_percent": 1.4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Nam",
+      "shareholder_percent": 1.26e-05
+    },
+    {
+      "shareholder_name": "Trần Quốc Hưng",
+      "shareholder_percent": 9.9e-06
+    },
+    {
+      "shareholder_name": "Hồ Bửu Huân",
+      "shareholder_percent": 7.11e-06
+    },
+    {
+      "shareholder_name": "Phạm Việt Thắng",
+      "shareholder_percent": 6.684e-06
+    },
+    {
+      "shareholder_name": "Đinh Đức Minh",
+      "shareholder_percent": 1.495e-07
+    },
+    {
+      "shareholder_name": "Dương Kim Loan",
+      "shareholder_percent": 7e-08
+    },
+    {
+      "shareholder_name": "Đoàn Đình Tuấn Huy",
+      "shareholder_percent": 7e-08
+    },
+    {
+      "shareholder_name": "Đoàn Đình Duy Khương",
+      "shareholder_percent": 5e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Ngọc Diệp",
+      "officer_position": "Phó Tổng Giám đốc/Giám đốc Sản xuất",
+      "officer_percent": 2.432e-05
+    },
+    {
+      "officer_name": "Hồ Bửu Huân",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 7.11e-06
+    },
+    {
+      "officer_name": "Dương Kim Loan",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 7e-08
+    },
+    {
+      "officer_name": "Đoàn Đình Duy Khương",
+      "officer_position": "Phụ trách Công bố thông tin/Tổng Giám đốc điều hành/Thành viên Hội đồng Quản trị",
+      "officer_percent": 5e-08
+    },
+    {
+      "officer_name": "Jun Kuroda",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Maki Kamijo",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Lê Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tomoyuki Kawata",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Việt Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thị Hương Lan",
+      "officer_position": "Giám đốc Nhân sự",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Hồng Nhung",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Văn Kim Y",
+      "officer_position": "Giám đốc Kỹ thuật",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Thị Phương Loan",
+      "officer_position": "Giám đốc Chất lượng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Masashi Nakaura",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thị Thu Hà",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:26.540332"
+}

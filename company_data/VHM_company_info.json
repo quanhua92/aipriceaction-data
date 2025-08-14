@@ -1,0 +1,202 @@
+{
+  "symbol": "VHM",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 381989316372000,
+  "current_price": 93000,
+  "outstanding_shares": 4107412004,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Vinhomes (VHM) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đ&ocirc; thị BIDV-PP được th&agrave;nh lập năm 2008. C&ocirc;ng ty hoạt động trong lĩnh vực ph&aacute;t triển, chuyển nhượng, vận h&agrave;nh v&agrave; khai th&aacute;c bất động sản nh&agrave; ở phức hợp.&nbsp;VHM l&agrave;&nbsp;doanh nghiệp lớn nhất Việt Nam trong lĩnh vực ph&aacute;t triển v&agrave; chuyển nhượng bất động sản nh&agrave; ở.&nbsp;Hiện nay,&nbsp;Vinhomes đ&atilde; đưa v&agrave;o vận h&agrave;nh 27 khu đ&ocirc; thị tại bảy tỉnh th&agrave;nh tr&ecirc;n cả nước, với hơn 97.200 căn hộ, biệt thự v&agrave; nh&agrave; phố, phục vụ hơn 300.000 cư d&acirc;n,&nbsp;tổng&nbsp;diện t&iacute;ch quỹ đất&nbsp;l&ecirc;n đến hơn 16.800 ha.&nbsp;VHM được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 05/2018.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 5378559,
+  "high_52w": 98500,
+  "low_52w": 36000,
+  "pe": 13.2958911225,
+  "pb": 1.7962179891,
+  "roe": 0.1475127738,
+  "roa": 0.0524474592,
+  "eps": 1838.980115129449,
+  "revenue": 19022223000000,
+  "net_profit": 7553449000000,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Vingroup - Công ty CP",
+      "shareholder_percent": 0.6934
+    },
+    {
+      "shareholder_name": "Government Of Singapore",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Viking Asia Holdings II Pte.Ltd",
+      "shareholder_percent": 0.046
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Kinh Doanh Và Thương Mại P&s",
+      "shareholder_percent": 0.0268
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0117
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.00999725
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 5.401e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 5.157e-05
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 4.762e-05
+    },
+    {
+      "shareholder_name": "Tống Thị Mùi",
+      "shareholder_percent": 1.6e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 1.193e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 9.12e-06
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 6.22e-06
+    },
+    {
+      "shareholder_name": "Trần Kiên Cường",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Phạm Thị Tuyết Mai",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Kiên Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Hồ  Thị Thu Hằng",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị  Giang",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phùng Thị Bích Hồng",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ashish Jaiprakash Shastry",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Quang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Douglas Farrell",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Lê Vân Quỳnh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Duyên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Văn Khương",
+      "officer_position": "Phó Tổng Giám đốc Xây dựng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Diệu Linh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thiếu Hoa",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Nhật Vượng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cao Thị Hà An",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Varun Kapur",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mueen Uddeen",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoang D. Quan",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Thu Thủy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Ngọc Lan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Tiến Công",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Vũ Hưng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thu Hằng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:12:17.364402"
+}

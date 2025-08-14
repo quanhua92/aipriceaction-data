@@ -1,0 +1,407 @@
+{
+  "symbol": "KDC",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 15939347380000,
+  "current_price": 55000,
+  "outstanding_shares": 289806316,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n KIDO&nbsp;(KDC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH X&acirc;y dựng v&agrave; Chế biến thực phẩm Kinh Đ&ocirc; được th&agrave;nh lập v&agrave;o năm 1993. C&ocirc;ng ty hoạt động&nbsp;ch&iacute;nh trong lĩnh vực sản xuất, chế biến v&agrave; kinh doanh ph&acirc;n phối c&aacute;c mặt h&agrave;ng thực phẩm ti&ecirc;u d&ugrave;ng như dầu ăn, kem, nước giải kh&aacute;t. KDC ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2002. KDC hiện đang sở hữu&nbsp;Nh&agrave; m&aacute;y sản xuất c&aacute;c loại b&aacute;nh từ bột với quy m&ocirc; 19.044 tấn sản phẩm/ năm; 01 nh&agrave; m&aacute;y sản xuất b&aacute;nh bao với diện t&iacute;ch 22.716 m2; 04 nh&agrave; m&aacute;y dầu ăn ở Nghệ An, B&agrave; Rịa- Vũng T&agrave;u, Nh&agrave; B&egrave;,... C&ocirc;ng ty&nbsp;đ&atilde; ph&aacute;t&nbsp;triển một&nbsp;mạng lưới ph&acirc;n phối b&aacute;n lẻ&nbsp;rộng khắp cả nước&nbsp;với 15 kho trung chuyển, 405 nh&agrave; ph&acirc;n phối, đại l&yacute;, 450.000 điểm b&aacute;n lẻ ng&agrave;nh h&agrave;ng kh&ocirc;, 120.000 điểm b&aacute;n lẻ ng&agrave;nh h&agrave;ng lạnh, hơn 4.600 điểm b&aacute;n tại si&ecirc;u thị, cửa h&agrave;ng tiện lợi,&nbsp;hơn 10.000 điểm b&aacute;n ng&agrave;nh hấp v&agrave; hơn 300 cửa h&agrave;ng miniBAO. KDC được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phồ Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.00542495,
+  "volume": 406195,
+  "high_52w": 60000,
+  "low_52w": 48850,
+  "pe": 181.1813628709,
+  "pb": 2.4029269686,
+  "roe": 0.0132314671,
+  "roa": 0.0066489773,
+  "eps": 474.26951416062303,
+  "revenue": 2078027636127,
+  "net_profit": 137446300690,
+  "dividend": 0.0181818182,
+  "shareholders": [
+    {
+      "shareholder_name": "Trần Lệ Nguyên",
+      "shareholder_percent": 0.1274
+    },
+    {
+      "shareholder_name": "Công Ty Tnhh Một Thành Viên Ppk",
+      "shareholder_percent": 0.086
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư Kinh Đô",
+      "shareholder_percent": 0.082
+    },
+    {
+      "shareholder_name": "Star Pacifica Pte. Ltd",
+      "shareholder_percent": 0.0697506
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Kido",
+      "shareholder_percent": 0.0694
+    },
+    {
+      "shareholder_name": "Liva Holdings Limited",
+      "shareholder_percent": 0.0595
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.05067
+    },
+    {
+      "shareholder_name": "Vương Kim Vy",
+      "shareholder_percent": 0.0493
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Vinh Linh",
+      "shareholder_percent": 0.0485
+    },
+    {
+      "shareholder_name": "VI (Vietnam Investments) Fund III, L.P",
+      "shareholder_percent": 0.0476
+    },
+    {
+      "shareholder_name": "Công ty TNHH Tháp Láng Hạ",
+      "shareholder_percent": 0.0458205507
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Trường Thịnh Phát",
+      "shareholder_percent": 0.0440282502
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư bất động sản An Thịnh Lộc",
+      "shareholder_percent": 0.0415346148
+    },
+    {
+      "shareholder_name": "Dempsey Hill Asia Master Fund",
+      "shareholder_percent": 0.0355394438
+    },
+    {
+      "shareholder_name": "Ezaki Glico Company Limited",
+      "shareholder_percent": 0.0327289648
+    },
+    {
+      "shareholder_name": "Công ty TNHH Kim Gia Hân",
+      "shareholder_percent": 0.0308
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đồng Tâm",
+      "shareholder_percent": 0.0222089404
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.0209552106
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.0188335477
+    },
+    {
+      "shareholder_name": "CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI ĐỒNG TÂM",
+      "shareholder_percent": 0.0171437434
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0167
+    },
+    {
+      "shareholder_name": "Vương Ngọc Xiềm",
+      "shareholder_percent": 0.0158
+    },
+    {
+      "shareholder_name": "Vietnam Ventures Limited",
+      "shareholder_percent": 0.0146615
+    },
+    {
+      "shareholder_name": "Vietnam Investment Property Holdings Limited",
+      "shareholder_percent": 0.0107465594
+    },
+    {
+      "shareholder_name": "Vương Bửu Linh",
+      "shareholder_percent": 0.0095141
+    },
+    {
+      "shareholder_name": "Vina Qsr Limited",
+      "shareholder_percent": 0.0091
+    },
+    {
+      "shareholder_name": "Citgroup Global Markets Limited",
+      "shareholder_percent": 0.0083871556
+    },
+    {
+      "shareholder_name": "Citigroup Global Market Ltd & Citigroup Global Market Financial Products",
+      "shareholder_percent": 0.00686986
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 0.0062380705
+    },
+    {
+      "shareholder_name": "Aranda Investment Pte.Ltd.",
+      "shareholder_percent": 0.005844458
+    },
+    {
+      "shareholder_name": "Wang Ching Hua",
+      "shareholder_percent": 0.0049304
+    },
+    {
+      "shareholder_name": "Seletar Investment Private Limited",
+      "shareholder_percent": 0.00462846
+    },
+    {
+      "shareholder_name": "Trần Vinh Nguyên",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Trần Kim Thành",
+      "shareholder_percent": 0.0030928
+    },
+    {
+      "shareholder_name": "Cô Gia Thọ",
+      "shareholder_percent": 0.0030078991
+    },
+    {
+      "shareholder_name": "Trần Quốc Nguyên",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Allright Assets Limited",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Trần Tiến Hoàng",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Bùi Thanh Tùng",
+      "shareholder_percent": 0.00065
+    },
+    {
+      "shareholder_name": "MAI XUÂN TRẦM",
+      "shareholder_percent": 0.00065
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Oanh",
+      "shareholder_percent": 0.0005328
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Xuân Liễu",
+      "shareholder_percent": 0.00052
+    },
+    {
+      "shareholder_name": "Công ty TNHH Windstar Resources",
+      "shareholder_percent": 0.0005174683
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Luân",
+      "shareholder_percent": 0.0005143
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Quỹ Kim Việt Nam",
+      "shareholder_percent": 0.0004870381
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Huy",
+      "shareholder_percent": 0.0004252403
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thuận",
+      "shareholder_percent": 0.0003206
+    },
+    {
+      "shareholder_name": "Vương Bửu Dinh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Huỳnh Tấn Vũ",
+      "shareholder_percent": 0.0002785876
+    },
+    {
+      "shareholder_name": "Vương Thu Bình",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Tuyết Vân",
+      "shareholder_percent": 0.00018706
+    },
+    {
+      "shareholder_name": "Lê Anh Quân",
+      "shareholder_percent": 0.0001388834
+    },
+    {
+      "shareholder_name": "Ngô Phan Anh Đào",
+      "shareholder_percent": 0.0001164
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0001124941
+    },
+    {
+      "shareholder_name": "Lương Quang Hiển",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Công Hạo",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Lương Quang Hào",
+      "shareholder_percent": 4.49e-05
+    },
+    {
+      "shareholder_name": "Patrick Ho Loke Yin",
+      "shareholder_percent": 4.4361e-05
+    },
+    {
+      "shareholder_name": "Lương Mỹ Duyên",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Gia Huy Chương",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "NGUYỄN ĐỨC TRÍ",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Lê Phụng Hào",
+      "shareholder_percent": 2.13895e-05
+    },
+    {
+      "shareholder_name": "Bùi Quang Đức",
+      "shareholder_percent": 1.9e-05
+    },
+    {
+      "shareholder_name": "Vương Thu Lệ",
+      "shareholder_percent": 1.874e-05
+    },
+    {
+      "shareholder_name": "Vương Ngan Hào",
+      "shareholder_percent": 1.871e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Chi",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "LÊ CAO THUẬN",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Thủy",
+      "shareholder_percent": 5e-07
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần KIDO",
+      "shareholder_percent": 3.662e-07
+    },
+    {
+      "shareholder_name": "Vương Bửu Ngọc",
+      "shareholder_percent": 1.5e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Lệ Nguyên",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.1274
+    },
+    {
+      "officer_name": "Vương Ngọc Xiềm",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0158
+    },
+    {
+      "officer_name": "Vương Bửu Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0095141
+    },
+    {
+      "officer_name": "Wang Ching Hua",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0049304
+    },
+    {
+      "officer_name": "Trần Kim Thành",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0030928
+    },
+    {
+      "officer_name": "Trần Quốc Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0022
+    },
+    {
+      "officer_name": "Trần Tiến Hoàng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Bùi Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00065
+    },
+    {
+      "officer_name": "MAI XUÂN TRẦM",
+      "officer_position": "Phó tổng giám đốc Phát triển Kinh doanh",
+      "officer_percent": 0.00065
+    },
+    {
+      "officer_name": "Nguyễn Thị Oanh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0005328
+    },
+    {
+      "officer_name": "Nguyễn Văn Thuận",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0003206
+    },
+    {
+      "officer_name": "Lương Quang Hiển",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Gia Huy Chương",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Lương Mỹ Duyên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "NGUYỄN ĐỨC TRÍ",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Chi",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Xuân Liễu",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mã Thanh Danh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kelly Yin Hon Wong",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:54:00.510629"
+}

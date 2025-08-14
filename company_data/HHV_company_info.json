@@ -1,0 +1,180 @@
+{
+  "symbol": "HHV",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 7106332920000,
+  "current_price": 15000,
+  "outstanding_shares": 473755528,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Hạ tầng giao th&ocirc;ng Đ&egrave;o Cả (HHV) c&oacute; tiền th&acirc;n l&agrave; Xưởng Thống Nhất được th&agrave;nh lập v&agrave;o năm 1974. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực quản l&yacute;, vận h&agrave;nh, duy tu v&agrave; bảo dưỡng hầm đường bộ Hải V&acirc;n. Ngo&agrave;i ra, C&ocirc;ng ty c&ograve;n được ph&eacute;p cung cấp dịch vụ vận chuyển xe m&aacute;y v&agrave; người đi bộ qua hầm Hải V&acirc;n v&agrave; tham gia sản xuất nhựa đường. Hiện nay, C&ocirc;ng ty đang quản l&yacute; vận h&agrave;nh 03 nh&agrave; m&aacute;y sản xuất nhựa đường tại Đ&agrave; Nẵng, B&igrave;nh Định v&agrave; Long An. Ng&agrave;y 20/01/2022, HHV ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -50,
+  "percent_price_change": -0.00332226,
+  "volume": 20598540,
+  "high_52w": 15500,
+  "low_52w": 9257,
+  "pe": 13.9257859744,
+  "pb": 1.2156527918,
+  "roe": 0.0521631312,
+  "roa": 0.0127407825,
+  "eps": 262.6407038698234,
+  "revenue": 947061532948,
+  "net_profit": 130646154036,
+  "dividend": 0.0333333333,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Quốc Ánh",
+      "shareholder_percent": 0.1764
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Hải Thạch B.O.T",
+      "shareholder_percent": 0.1609
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Hạ tầng Miền Bắc",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Thương Mại Quốc Tế Hà Thành",
+      "shareholder_percent": 0.040515
+    },
+    {
+      "shareholder_name": "Lưu Xuân Thủy",
+      "shareholder_percent": 0.0385
+    },
+    {
+      "shareholder_name": "Phạm Đình Thắng",
+      "shareholder_percent": 0.0325
+    },
+    {
+      "shareholder_name": "Trần Thị Ngoan",
+      "shareholder_percent": 0.0162
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Đèo Cả",
+      "shareholder_percent": 0.0135
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hải Oanh",
+      "shareholder_percent": 0.0059
+    },
+    {
+      "shareholder_name": "HỒ MINH HOÀNG",
+      "shareholder_percent": 0.0058
+    },
+    {
+      "shareholder_name": "Hồ Minh Hoàng",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Trần Thị Hồng Lam",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Cao Bá Giang",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Đông",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Hiền",
+      "shareholder_percent": 0.000235
+    },
+    {
+      "shareholder_name": "Lê Châu Thắng",
+      "shareholder_percent": 9.2e-06
+    },
+    {
+      "shareholder_name": "Võ Ngọc Trung",
+      "shareholder_percent": 8e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hồ Minh Hoàng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0047
+    },
+    {
+      "officer_name": "Nguyễn Quang Huy",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Nguyễn Tấn Đông",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Võ Ngọc Trung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 8e-06
+    },
+    {
+      "officer_name": "Trần Chủng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Văn Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quỳnh Mai",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Ân",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cam Thị Minh Hải",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Mai",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Thế",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Minh Giang",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Cảnh Tỉnh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Trang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Thụy Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:14.998977"
+}

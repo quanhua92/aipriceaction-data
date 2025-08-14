@@ -1,0 +1,195 @@
+{
+  "symbol": "DPR",
+  "exchange": "HOSE",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3692652110000,
+  "current_price": 42500,
+  "outstanding_shares": 86885932,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Cao su Đồng Ph&uacute; (DPR) c&oacute; tiền th&acirc;n l&agrave; Đồn điền Thuận Lợi của C&ocirc;ng ty Michelin &ndash; Ph&aacute;p, được h&igrave;nh th&agrave;nh v&agrave;o năm 1927. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực trồng trọt, khai th&aacute;c,&nbsp;chế biến v&agrave; kinh doanh&nbsp;cao su.&nbsp;DPR&nbsp;ch&iacute;nh thức hoạt động theo h&igrave;nh thức c&ocirc;ng ty cổ phần từ năm 2006. C&ocirc;ng ty&nbsp;hiện c&oacute; 06 n&ocirc;ng trường cao su với tổng diện t&iacute;ch l&agrave; 9.817,86 ha cao su v&agrave; 02 Nh&agrave; m&aacute;y chế biến mủ cao su với tổng c&ocirc;ng suất 22.000 tấn/năm. Sản phẩm cao su của C&ocirc;ng ty được ti&ecirc;u thụ ở c&aacute;c nước ch&acirc;u &Acirc;u (như Ph&aacute;p, Bỉ, H&agrave; Lan, Anh, T&acirc;y Ban Nha, Slovakia, &hellip;) H&agrave;n quốc, Trung quốc, Mỹ, &hellip; th&ocirc;ng qua c&aacute;c kh&aacute;ch h&agrave;ng truyền thống như SMTP (Michelin), Saficalcan (Ph&aacute;p), Tae Young (H&agrave;n Quốc) v&agrave; c&aacute;c c&ocirc;ng ty kh&aacute;c trong nước. DPR được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 500,
+  "percent_price_change": 0.01190476,
+  "volume": 1485381,
+  "high_52w": 53100,
+  "low_52w": 33950,
+  "pe": 14.4966911752,
+  "pb": 1.430378293,
+  "roe": 0.101243108,
+  "roa": 0.0566271263,
+  "eps": 606.5338696832993,
+  "revenue": 201571761055,
+  "net_profit": 52699260557,
+  "dividend": 0.0313647059,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.5524
+    },
+    {
+      "shareholder_name": "Samarang Ucits - Samarang Asian Prosperity",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0496
+    },
+    {
+      "shareholder_name": "FTIF - Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0060344186
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hải",
+      "shareholder_percent": 0.001784
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Bình",
+      "shareholder_percent": 0.00064
+    },
+    {
+      "shareholder_name": "Đặng Gia Anh",
+      "shareholder_percent": 0.00059
+    },
+    {
+      "shareholder_name": "Phạm Phi Điểu",
+      "shareholder_percent": 0.0001587
+    },
+    {
+      "shareholder_name": "Đào Thị Thuyên",
+      "shareholder_percent": 0.00013
+    },
+    {
+      "shareholder_name": "Huỳnh Minh Tâm",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Phạm Văn Hằng",
+      "shareholder_percent": 0.0001121501
+    },
+    {
+      "shareholder_name": "HUỲNH TRỌNG THỦY",
+      "shareholder_percent": 8.06e-05
+    },
+    {
+      "shareholder_name": "Ngô Trường Kỳ",
+      "shareholder_percent": 7.22745e-05
+    },
+    {
+      "shareholder_name": "Hoàng Đình Huy",
+      "shareholder_percent": 6.23056e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Luyện",
+      "shareholder_percent": 6.23056e-05
+    },
+    {
+      "shareholder_name": "Đinh Thị Phượng",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Tô Phan Trung Thái",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Phạm Phan Phú Cường",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thái",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Kim Thanh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Lệ Thủy",
+      "shareholder_percent": 3.7e-05
+    },
+    {
+      "shareholder_name": "Hồ Cường",
+      "shareholder_percent": 3.68e-05
+    },
+    {
+      "shareholder_name": "Mai Huỳnh Nhật",
+      "shareholder_percent": 3.68e-05
+    },
+    {
+      "shareholder_name": "Hoàng Ngọc Khải",
+      "shareholder_percent": 2.49222e-05
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Huy",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Trần Vĩnh Tuấn",
+      "shareholder_percent": 2.243e-05
+    },
+    {
+      "shareholder_name": "Lưu Minh Tuyến",
+      "shareholder_percent": 7.3e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Phi Điểu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001587
+    },
+    {
+      "officer_name": "Huỳnh Minh Tâm",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.00012
+    },
+    {
+      "officer_name": "HUỲNH TRỌNG THỦY",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 8.06e-05
+    },
+    {
+      "officer_name": "Trần Thị Kim Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Mai Huỳnh Nhật",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 3.68e-05
+    },
+    {
+      "officer_name": "Hồ Cường",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 3.68e-05
+    },
+    {
+      "officer_name": "Phạm Ngọc Huy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 2.3e-05
+    },
+    {
+      "officer_name": "Lưu Minh Tuyến",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7.3e-06
+    },
+    {
+      "officer_name": "Trần Thị Thu Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Văn Hà",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thanh Tâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:37.160213"
+}

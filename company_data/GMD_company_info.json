@@ -1,0 +1,427 @@
+{
+  "symbol": "GMD",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 25589711618100,
+  "current_price": 60900,
+  "outstanding_shares": 420192309,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Gemadept (GMD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đại l&yacute; Li&ecirc;n hiệp Vận chuyển,&nbsp;được th&agrave;nh lập v&agrave;o năm 1990. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực khai th&aacute;c cảng v&agrave; logistics. GMD ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 1993. C&ocirc;ng ty sở hữu hệ thống Cảng v&agrave; hạ tầng Logistics trải d&agrave;i từ Bắc v&agrave;o Nam v&agrave; vươn sang c&aacute;c quốc gia l&acirc;n cận như Singapore, Hong Kong, Trung Quốc, Campuchia... GMD l&agrave; một trong số &iacute;t c&aacute;c c&ocirc;ng ty logistics Việt Nam c&oacute; thể cung cấp dịch vụ logistics trọn g&oacute;i nhờ sở hữu hệ thống dịch vụ kh&eacute;p k&iacute;n, từ cảng biển, kho h&agrave;ng v&agrave; c&aacute;c phương tiện vận tải nằm tại c&aacute;c vị tr&iacute; kinh tế trọng điểm tr&ecirc;n cả ba miền Bắc, Trung, Nam. GMD được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2002.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.00164474,
+  "volume": 3543202,
+  "high_52w": 69322,
+  "low_52w": 40841,
+  "pe": 16.1615243053,
+  "pb": 2.0993397205,
+  "roe": 0.1201270866,
+  "roa": 0.0799168637,
+  "eps": 1005.7794676127687,
+  "revenue": 1496959799265,
+  "net_profit": 422620796841,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công Ty TNHH Ssj Consulting (việt Nam)",
+      "shareholder_percent": 0.0717
+    },
+    {
+      "shareholder_name": "Quỹ ETF DCVFMVN DIAMOND",
+      "shareholder_percent": 0.0543
+    },
+    {
+      "shareholder_name": "Lê Thúy Hương",
+      "shareholder_percent": 0.0496
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0477
+    },
+    {
+      "shareholder_name": "Recollection Private Limited",
+      "shareholder_percent": 0.0459
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0224
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.0200088525
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.0196495214
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0196495214
+    },
+    {
+      "shareholder_name": "Citgroup Global Markets Limited",
+      "shareholder_percent": 0.01960371
+    },
+    {
+      "shareholder_name": "Tmam Vietnam Equity Mother Fund",
+      "shareholder_percent": 0.0188
+    },
+    {
+      "shareholder_name": "Trần Doãn Phi Anh",
+      "shareholder_percent": 0.0183
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng",
+      "shareholder_percent": 0.0177
+    },
+    {
+      "shareholder_name": "Công ty Quản lý quỹ đầu tư Dragon Capital",
+      "shareholder_percent": 0.01372182
+    },
+    {
+      "shareholder_name": "Đỗ Văn Nhân",
+      "shareholder_percent": 0.0079
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0052
+    },
+    {
+      "shareholder_name": "Chu Đức Khang",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Trần Kiều Minh",
+      "shareholder_percent": 0.0037
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Dũng",
+      "shareholder_percent": 0.0037
+    },
+    {
+      "shareholder_name": "Đỗ Công Khanh",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Nguyệt",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Bình",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Vũ Ninh",
+      "shareholder_percent": 0.0028
+    },
+    {
+      "shareholder_name": "Hoàng Thị Thanh",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Phạm Tiến Tịnh",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Đỗ Nhật Tân",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Khánh",
+      "shareholder_percent": 0.0022300195
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Ái Vân",
+      "shareholder_percent": 0.0021
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam Fund II",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Trần Quang Tiến",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Bùi Thị Thu Hương",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Phạm Quốc Long",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Phạm Hồng Hải",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "KIM PMAA Vietnam Securities Investment Trust 1(Equity)",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Đỗ Lộc",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Lê Ngọc Quang",
+      "shareholder_percent": 0.0009023748
+    },
+    {
+      "shareholder_name": "Trần Thị Thủy",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Đỗ Việt Thành",
+      "shareholder_percent": 0.00086
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 0.0008119897
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Tô  Hải",
+      "shareholder_percent": 0.0006457834
+    },
+    {
+      "shareholder_name": "Đỗ Minh Châu",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Lâm Đình Dụ",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Trần Đức Thuận",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Trần Vĩnh Nguyên Bảo",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Khoa Năng Lưu",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Đỗ Văn Minh",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Nga",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Manulife",
+      "shareholder_percent": 0.000418759
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Quỹ Kim Việt Nam",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Lưu Tường Giai",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Dragon Capital Việt Nam",
+      "shareholder_percent": 0.00037025
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Thảo",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Thị Hoàng Bắc",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0002317932
+    },
+    {
+      "shareholder_name": "Kitmc Vietnam Growth Fund",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Chu Thu Thảo",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Cúc",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.0001619938
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Quảng",
+      "shareholder_percent": 0.0001450171
+    },
+    {
+      "shareholder_name": "Bùi Hữu Ánh",
+      "shareholder_percent": 0.0001033253
+    },
+    {
+      "shareholder_name": "Kitmc Worldwide China Vietnam Fund",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lan Hương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đỗ Thị Nga",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Vũ Thị Yên",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 8.41964e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hải",
+      "shareholder_percent": 4.8e-05
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 4.305e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Hồng Hạnh",
+      "shareholder_percent": 2.5e-05
+    },
+    {
+      "shareholder_name": "Chu Đức Trung",
+      "shareholder_percent": 2.4e-05
+    },
+    {
+      "shareholder_name": "Phạm Đình Tánh",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Hưng",
+      "shareholder_percent": 1.35e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Hoàng Hà",
+      "shareholder_percent": 6.7e-07
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 5.16e-08
+    },
+    {
+      "shareholder_name": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+      "shareholder_percent": 8.6e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đỗ Văn Nhân",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0079
+    },
+    {
+      "officer_name": "Chu Đức Khang",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0045
+    },
+    {
+      "officer_name": "Nguyễn Thế Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0037
+    },
+    {
+      "officer_name": "Đỗ Công Khanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0036
+    },
+    {
+      "officer_name": "Nguyễn Minh Nguyệt",
+      "officer_position": "Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 0.0033
+    },
+    {
+      "officer_name": "Nguyễn Thanh Bình",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0032
+    },
+    {
+      "officer_name": "Vũ Ninh",
+      "officer_position": "Người phụ trách quản trị công ty/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0028
+    },
+    {
+      "officer_name": "Bùi Thị Thu Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "Phạm Quốc Long",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "Trần Đức Thuận",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Đỗ Văn Minh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Lưu Tường Giai",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Vũ Thị Hoàng Bắc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Phan Cẩm Ly",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hoàng Ngọc Uyên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bolat Duisenov",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "David Do",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tsuyoshi Kato",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Thu Hiền",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:52:30.374658"
+}

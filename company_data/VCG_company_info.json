@@ -1,0 +1,295 @@
+{
+  "symbol": "VCG",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 17325351404800,
+  "current_price": 26800,
+  "outstanding_shares": 646468336,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Xuất nhập khẩu v&agrave; X&acirc;y dựng Việt Nam (VCG) tiền th&acirc;n l&agrave; C&ocirc;ng ty Dịch vụ v&agrave; X&acirc;y dựng nước ngo&agrave;i, được th&agrave;nh lập&nbsp;năm 1988&nbsp;theo Quyết định số 1118 BXD/TCLĐ của Bộ X&acirc;y dựng. Năm 2006, C&ocirc;ng ty thực hiện cổ phần h&oacute;a với số vốn&nbsp;điều lệ ban&nbsp;đầu l&agrave; 1.500 tỷ&nbsp;đồng. Lĩnh vực hoạt&nbsp;động kinh doanh ch&iacute;nh của c&ocirc;ng ty l&agrave;: X&acirc;y dựng c&aacute;c c&ocirc;ng tr&igrave;nh d&acirc;n dụng, c&ocirc;ng nghiệp, giao th&ocirc;ng, thuỷ lợi, c&aacute;c c&ocirc;ng tr&igrave;nh thuỷ điện; Sản xuất vật liệu x&acirc;y dựng; Đầu tư v&agrave; kinh doanh bất động sản&nbsp;C&ocirc;ng ty l&agrave; một trong những&nbsp;nh&agrave; thầu&nbsp;h&agrave;ng đầu trong lĩnh vực x&acirc;y lắp.&nbsp;Vinaconex l&agrave; một trong những doanh nghiệp hoạt động trong lĩnh vực x&acirc;y lắp c&oacute; mức vốn h&oacute;a thị trường cao nhất. C&ocirc;ng ty c&oacute; lợi thế vừa l&agrave; nh&agrave; thầu vừa l&agrave; đơn vị trực tiếp thi c&ocirc;ng. C&aacute;c c&ocirc;ng tr&igrave;nh trọng điểm quốc gia&nbsp;c&ocirc;ng ty&nbsp;đ&atilde; tham gia như&nbsp;c&ocirc;ng tr&igrave;nh thủy điện Bu&ocirc;n Tur Srah, thủy điện Bu&ocirc;n Kuốp, thủy điện Cửa Đạt, dự&nbsp;&aacute;n nh&agrave; ga T2&nbsp; &ndash;&nbsp; cảng h&agrave;ng kh&ocirc;ng&nbsp;Nội&nbsp;B&agrave;i, Cầu Nhật T&acirc;n, Trung t&acirc;m Hội nghị Quốc Gia, Bảo t&agrave;ng H&agrave; Nội, đường cao tốc&nbsp;L&aacute;ng H&ograve;a Lạc...VCG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2020.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 550,
+  "percent_price_change": 0.02095238,
+  "volume": 20882879,
+  "high_52w": 27450,
+  "low_52w": 15191,
+  "pe": 21.588496715,
+  "pb": 2.1598711344,
+  "roe": 0.0989165566,
+  "roa": 0.0274138089,
+  "eps": 477.53502997399704,
+  "revenue": 4412099422372,
+  "net_profit": 308711276209,
+  "dividend": 0.0597014925,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Pacific Holdings",
+      "shareholder_percent": 0.4514
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0214
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.020205
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.018334
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.014968
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đông Nam Á",
+      "shareholder_percent": 0.00900909
+    },
+    {
+      "shareholder_name": "Jaccar Capital Fund",
+      "shareholder_percent": 0.0072971
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.0045278507
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam",
+      "shareholder_percent": 0.0036485489
+    },
+    {
+      "shareholder_name": "Ngân Hàng Nông Nghiệp Và Phát Triển Nông Thôn Việt Nam",
+      "shareholder_percent": 0.00226393
+    },
+    {
+      "shareholder_name": "Công ty TNHH Sản xuất kinh doanh Xuất nhập khẩu Bình Minh",
+      "shareholder_percent": 0.00226393
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư tài chính, thương mại dịch vụ Fico",
+      "shareholder_percent": 0.00122252
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.00116253
+    },
+    {
+      "shareholder_name": "KITMC Vietnam Growth Fund 2",
+      "shareholder_percent": 0.00093953
+    },
+    {
+      "shareholder_name": "ABN AMRO N.V.London Branch",
+      "shareholder_percent": 0.00084422
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Asean",
+      "shareholder_percent": 0.00074721
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Hòa",
+      "shareholder_percent": 0.0006791776
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Masan",
+      "shareholder_percent": 0.0006048008
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Phương",
+      "shareholder_percent": 0.0005818288
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000501
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000402
+    },
+    {
+      "shareholder_name": "Vũ Quý Hà",
+      "shareholder_percent": 0.0003663031
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.000281
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuân",
+      "shareholder_percent": 0.0001743131
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Điệp",
+      "shareholder_percent": 0.000138
+    },
+    {
+      "shareholder_name": "Mai Long",
+      "shareholder_percent": 0.0001112289
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Tường",
+      "shareholder_percent": 0.0001106833
+    },
+    {
+      "shareholder_name": "Trịnh Hoàng Duy",
+      "shareholder_percent": 0.0001077628
+    },
+    {
+      "shareholder_name": "Tô Ngọc Thành",
+      "shareholder_percent": 9.98391e-05
+    },
+    {
+      "shareholder_name": "Trần Đình Tuấn",
+      "shareholder_percent": 4.19e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thiều Quang",
+      "shareholder_percent": 3.77305e-05
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 3.0563e-05
+    },
+    {
+      "shareholder_name": "Dương Văn Mậu",
+      "shareholder_percent": 2.5e-05
+    },
+    {
+      "shareholder_name": "Phan Minh Tuấn",
+      "shareholder_percent": 2.26392e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hùng",
+      "shareholder_percent": 2.26392e-05
+    },
+    {
+      "shareholder_name": "Hoàng Anh Xuân",
+      "shareholder_percent": 2.26392e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Đồng",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Cù Anh Tuấn",
+      "shareholder_percent": 1.13196e-05
+    },
+    {
+      "shareholder_name": "Phạm Phú Trường",
+      "shareholder_percent": 1.13196e-05
+    },
+    {
+      "shareholder_name": "Khổng Văn Minh",
+      "shareholder_percent": 1.13196e-05
+    },
+    {
+      "shareholder_name": "Vũ Văn Mạnh",
+      "shareholder_percent": 1e-07
+    },
+    {
+      "shareholder_name": "Đoàn Châu Phong",
+      "shareholder_percent": 7.01e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Ngọc Điệp",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000138
+    },
+    {
+      "officer_name": "Nguyễn Thị Quỳnh Trang",
+      "officer_position": "Giám đốc Tài chính/Phó Tổng Giám đốc",
+      "officer_percent": 4.1e-05
+    },
+    {
+      "officer_name": "Dương Văn Mậu",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 2.5e-05
+    },
+    {
+      "officer_name": "Vũ Văn Mạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-07
+    },
+    {
+      "officer_name": "Vũ Nhất",
+      "officer_position": "Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Đông",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Thân Thế Hà",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Việt Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hữu Tới",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Khắc Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Kim Oanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chu Quang Minh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Mạnh Hùng",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thanh Huấn",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thu Hồng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Ngọc Thanh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Doanh Yên",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Huy",
+      "officer_position": "Giám đốc Nhân sự",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Tuấn Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:11:38.472188"
+}

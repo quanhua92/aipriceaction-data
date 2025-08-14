@@ -1,0 +1,277 @@
+{
+  "symbol": "DGC",
+  "exchange": "HOSE",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 40446493959000,
+  "current_price": 106500,
+  "outstanding_shares": 379779286,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n H&oacute;a chất Đức Giang (DGC)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty H&oacute;a chất Đức Giang được th&agrave;nh lập năm 1963. Năm 2004 chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. Phốt pho v&agrave;ng v&agrave; bột giặt, chất tẩy rửa l&agrave; c&aacute;c sản phẩm kinh doanh c&ocirc;t l&otilde;i của C&ocirc;ng ty, mang lại nguồn doanh thu ch&iacute;nh. Ngo&agrave;i ra, C&ocirc;ng ty c&ograve;n sản xuất v&agrave; kinh doanh thương mại nhiều sản phẩm h&oacute;a chất cơ bản kh&aacute;c. Nằm trong chiến lược d&agrave;i hạn, C&ocirc;ng ty c&ograve;n triển khai mở rộng sản xuất sang lĩnh vực h&oacute;a chất n&ocirc;ng nghiệp, ph&acirc;n b&oacute;n. DGC giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 07/2020.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -1400,
+  "percent_price_change": -0.01297498,
+  "volume": 3395610,
+  "high_52w": 119200,
+  "low_52w": 73100,
+  "pe": 12.9796374996,
+  "pb": 2.7260329013,
+  "roe": 0.2228640145,
+  "roa": 0.1870637914,
+  "eps": 2247.4183924561294,
+  "revenue": 2895497270172,
+  "net_profit": 853520990434,
+  "dividend": 0.0281690141,
+  "shareholders": [
+    {
+      "shareholder_name": "Đào Hữu Huyền",
+      "shareholder_percent": 0.1838
+    },
+    {
+      "shareholder_name": "Ngô Thị Ngọc Lan",
+      "shareholder_percent": 0.06636783
+    },
+    {
+      "shareholder_name": "Đào Hữu Kha",
+      "shareholder_percent": 0.05968519
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Lan",
+      "shareholder_percent": 0.03764978
+    },
+    {
+      "shareholder_name": "Đào Hữu Duy Anh",
+      "shareholder_percent": 0.0301144
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.018244
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.01539
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.014868
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.014308
+    },
+    {
+      "shareholder_name": "Đào Hồng Hạnh",
+      "shareholder_percent": 0.013525
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.012376
+    },
+    {
+      "shareholder_name": "Đào Thị Quyên",
+      "shareholder_percent": 0.00571395
+    },
+    {
+      "shareholder_name": "Quách Tiến Nhất",
+      "shareholder_percent": 0.00481943
+    },
+    {
+      "shareholder_name": "Lê Thị Lựu",
+      "shareholder_percent": 0.00452827
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.003819
+    },
+    {
+      "shareholder_name": "Phan Thị Nhung",
+      "shareholder_percent": 0.0035234792
+    },
+    {
+      "shareholder_name": "Bùi Thị Hà Thu",
+      "shareholder_percent": 0.00306759
+    },
+    {
+      "shareholder_name": "Đào Việt Hưng",
+      "shareholder_percent": 0.002890583
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.002307
+    },
+    {
+      "shareholder_name": "Vũ Minh Thuyết",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Đào Thị Huyên",
+      "shareholder_percent": 0.00200803
+    },
+    {
+      "shareholder_name": "Đào Hữu Tu",
+      "shareholder_percent": 0.00195436
+    },
+    {
+      "shareholder_name": "Phạm Văn Hùng",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Đào Thị Mai",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Vũ Nhất Tâm",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Veil Holdings Limited",
+      "shareholder_percent": 0.001169
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Nam",
+      "shareholder_percent": 0.00114767
+    },
+    {
+      "shareholder_name": "Đào Thị Hồng Hiên",
+      "shareholder_percent": 0.00095524
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Huệ",
+      "shareholder_percent": 0.00088545
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000737
+    },
+    {
+      "shareholder_name": "Lưu Bách Đạt",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Đào Thị Huê",
+      "shareholder_percent": 0.0006643
+    },
+    {
+      "shareholder_name": "Lại Cao Hiến",
+      "shareholder_percent": 0.0004083476
+    },
+    {
+      "shareholder_name": "Vũ Văn Ngọ",
+      "shareholder_percent": 0.0003237
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000248
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thất",
+      "shareholder_percent": 0.00022987
+    },
+    {
+      "shareholder_name": "Vũ Quốc Tuấn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Danang Investments Limited",
+      "shareholder_percent": 0.000166
+    },
+    {
+      "shareholder_name": "Quách Trung Kiên",
+      "shareholder_percent": 0.00016585
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.000158
+    },
+    {
+      "shareholder_name": "Phạm Thị Yến",
+      "shareholder_percent": 0.00015034
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Kiên",
+      "shareholder_percent": 0.00013
+    },
+    {
+      "shareholder_name": "Phạm Thị Thoa",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hà Thu",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quách Kiều Hưng",
+      "shareholder_percent": 7.9e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Quang",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Lưu Hoàng Đức",
+      "shareholder_percent": 4.6e-05
+    },
+    {
+      "shareholder_name": "Công Thị Minh Trang",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Hoa",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Vũ Văn Canh",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đào Hữu Huyền",
+      "officer_position": "Phụ trách Công bố thông tin/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1838
+    },
+    {
+      "officer_name": "Đào Hữu Duy Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0301144
+    },
+    {
+      "officer_name": "Phạm Văn Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0019
+    },
+    {
+      "officer_name": "Đào Thị Mai",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Vũ Văn Ngọ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0003237
+    },
+    {
+      "officer_name": "Nguyễn Văn Kiên",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.00013
+    },
+    {
+      "officer_name": "Phạm Thị Thoa",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Văn Quang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Khúc Ngọc Giảng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:15.763758"
+}

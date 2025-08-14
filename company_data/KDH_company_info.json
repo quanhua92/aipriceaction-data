@@ -1,0 +1,459 @@
+{
+  "symbol": "KDH",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 40624179343800,
+  "current_price": 36200,
+  "outstanding_shares": 1122214899,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Kinh doanh nh&agrave; Khang Điền (KDH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Đầu tư v&agrave; Kinh doanh Nh&agrave; Khang Điền&nbsp;được th&agrave;nh lập v&agrave;o năm 2001. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực&nbsp;đầu tư ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản nh&agrave; ở. KDH&nbsp;ch&iacute;nh&nbsp;thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2007. Địa b&agrave;n hoạt động kinh doanh ch&iacute;nh của KDH l&agrave; Th&agrave;nh phố Hồ Ch&iacute; Minh với c&aacute;c dự &aacute;n ti&ecirc;u biểu như c&aacute;c dự &aacute;n&nbsp;nh&agrave; thấp&nbsp;tầng (biệt thự, liền kế)&nbsp;Goldora Villa, Mega Ruby, Mega Village, The Venica, Lucasta v&agrave; dự &aacute;n căn hộ Jamila. KDH được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010.</div>",
+  "website": null,
+  "price_change": 2000,
+  "percent_price_change": 0.05847953,
+  "volume": 12050225,
+  "high_52w": 36550,
+  "low_52w": 22046,
+  "pe": 50.4937346261,
+  "pb": 2.2825049409,
+  "roe": 0.0454985714,
+  "roa": 0.0254960771,
+  "eps": 177.09293930876603,
+  "revenue": 1051812657000,
+  "net_profit": 198736335000,
+  "dividend": 0.0276243094,
+  "shareholders": [
+    {
+      "shareholder_name": "Vinacapital Vietnam Opportunity Fund Ltd.",
+      "shareholder_percent": 0.1391313394
+    },
+    {
+      "shareholder_name": "Công ty CP Đầu Tư Tiên Lộc",
+      "shareholder_percent": 0.1133
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư Tiến Lộc",
+      "shareholder_percent": 0.1113
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Dịch Vụ Tư Vấn Đầu Tư Gam Ma",
+      "shareholder_percent": 0.0876
+    },
+    {
+      "shareholder_name": "Công ty CP Đầu Tư Thương Mại Á Âu",
+      "shareholder_percent": 0.0872
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Limited",
+      "shareholder_percent": 0.0609
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.035531
+    },
+    {
+      "shareholder_name": "Mai Trần Thanh Trang",
+      "shareholder_percent": 0.0283
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0257157
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.022358
+    },
+    {
+      "shareholder_name": "Lý Điền Sơn",
+      "shareholder_percent": 0.017
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0141419586
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.013821
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.013557
+    },
+    {
+      "shareholder_name": "Veil Holdings Limited",
+      "shareholder_percent": 0.012808
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.012
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.008639
+    },
+    {
+      "shareholder_name": "Vietnam Investment Property Limited",
+      "shareholder_percent": 0.0085
+    },
+    {
+      "shareholder_name": "Công ty TNHH Tư Vấn Đầu Tư Quản Lý Tầm Nhìn Mới",
+      "shareholder_percent": 0.0079355
+    },
+    {
+      "shareholder_name": "Viet Nam Property Holding",
+      "shareholder_percent": 0.00714286
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.00612
+    },
+    {
+      "shareholder_name": "Lê Hoàng Sơn",
+      "shareholder_percent": 0.0043
+    },
+    {
+      "shareholder_name": "Lê Hoàng Khởi",
+      "shareholder_percent": 0.0042
+    },
+    {
+      "shareholder_name": "Vương Văn Minh",
+      "shareholder_percent": 0.004
+    },
+    {
+      "shareholder_name": "Nguyễn Thùy Trang",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Longwoods Worldwide Limited",
+      "shareholder_percent": 0.003424
+    },
+    {
+      "shareholder_name": "Trà Thanh Trà",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Cẩm Vân",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.00169
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Cổ tức Năng động VinaCapital",
+      "shareholder_percent": 0.001656
+    },
+    {
+      "shareholder_name": "PCA International Funds SPC",
+      "shareholder_percent": 0.0016442
+    },
+    {
+      "shareholder_name": "Nguyễn Thuỳ Dương",
+      "shareholder_percent": 0.00163
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Kinh tế hiện đại VinaCapital",
+      "shareholder_percent": 0.001622
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.00162
+    },
+    {
+      "shareholder_name": "Nguyễn Trần Cẩm Hiền",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Trương Minh Duy",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Ngô Thị Mai Chi",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam",
+      "shareholder_percent": 0.0009316
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Ân",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.00087302
+    },
+    {
+      "shareholder_name": "Venner Group Limited",
+      "shareholder_percent": 0.000824
+    },
+    {
+      "shareholder_name": "Ngô Thị Thanh Tâm",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.00076
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000715
+    },
+    {
+      "shareholder_name": "Đặng Thị Thuỳ Trang",
+      "shareholder_percent": 0.00069
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.00068
+    },
+    {
+      "shareholder_name": "Lý Tuấn Kiệt",
+      "shareholder_percent": 0.00057
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 0.000549
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.000534
+    },
+    {
+      "shareholder_name": "Lê Quang Minh",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000445
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.000372
+    },
+    {
+      "shareholder_name": "Huỳnh Chí Tâm",
+      "shareholder_percent": 0.00032
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bảo hiểm nhân thọ Generali Việt Nam",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Phạm Thị Thu Thủy",
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hải",
+      "shareholder_percent": 0.0002579365
+    },
+    {
+      "shareholder_name": "Bùi Bá Nghiệp",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Trung Kiên",
+      "shareholder_percent": 0.0001785714
+    },
+    {
+      "shareholder_name": "Bùi Quang Huy",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Tô Quang Tùng",
+      "shareholder_percent": 0.0001587301
+    },
+    {
+      "shareholder_name": "Đoàn Thị Nguyên",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Lý Văn Hùng",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Thùy",
+      "shareholder_percent": 0.0001190476
+    },
+    {
+      "shareholder_name": "Vietnam Co-Investment Fund",
+      "shareholder_percent": 0.000111
+    },
+    {
+      "shareholder_name": "Quỹ ETF VINACAPITAL VN100",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Danang Investments Limited",
+      "shareholder_percent": 9.9e-05
+    },
+    {
+      "shareholder_name": "Vietnam Ventures Limited",
+      "shareholder_percent": 7.8e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 6.1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Ân",
+      "shareholder_percent": 5.6e-05
+    },
+    {
+      "shareholder_name": "Lộ Nguyễn Thúy Phượng",
+      "shareholder_percent": 5.1e-05
+    },
+    {
+      "shareholder_name": "Lý Tuấn Khang",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Đặng Thế Lương",
+      "shareholder_percent": 3.3e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Huyền",
+      "shareholder_percent": 2.61904e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dũng",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Mai Trần Thùy Trang",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Vương Thị Ngọc Anh",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Trần Đức Thắng",
+      "shareholder_percent": 1.74603e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Thuỳ Trang",
+      "shareholder_percent": 1.2e-05
+    },
+    {
+      "shareholder_name": "Trương Thị Sương",
+      "shareholder_percent": 1.1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Phương Nam",
+      "shareholder_percent": 8e-06
+    },
+    {
+      "shareholder_name": "Vương Hoàng Thảo Linh",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bạch Tuyết",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 2e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Mai Trần Thanh Trang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0283
+    },
+    {
+      "officer_name": "Lý Điền Sơn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.017
+    },
+    {
+      "officer_name": "Vương Văn Minh",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0087
+    },
+    {
+      "officer_name": "Lê Hoàng Khởi",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0042
+    },
+    {
+      "officer_name": "Vương Văn Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.004
+    },
+    {
+      "officer_name": "Nguyễn Thùy Trang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0038
+    },
+    {
+      "officer_name": "Nguyễn Thị Cẩm Vân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0026
+    },
+    {
+      "officer_name": "Trương Minh Duy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0011
+    },
+    {
+      "officer_name": "Ngô Thị Mai Chi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Huỳnh Chí Tâm",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0.00032
+    },
+    {
+      "officer_name": "Phạm Thị Thu Thủy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00028
+    },
+    {
+      "officer_name": "Bùi Quang Huy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Lộ Nguyễn Thúy Phượng",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 5.1e-05
+    },
+    {
+      "officer_name": "Đặng Thế Lương",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 3.3e-05
+    },
+    {
+      "officer_name": "Nguyễn Văn Dũng",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 2.3e-05
+    },
+    {
+      "officer_name": "Nguyễn Phương Nam",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 8e-06
+    },
+    {
+      "officer_name": "Vương Hoàng Thảo Linh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 6e-06
+    },
+    {
+      "officer_name": "Lưu Thị Xuân Lai",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Diệu Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:54:06.137089"
+}

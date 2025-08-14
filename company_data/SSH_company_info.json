@@ -1,0 +1,157 @@
+{
+  "symbol": "SSH",
+  "exchange": "UPCOM",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 35700000000000,
+  "current_price": 95200,
+  "outstanding_shares": 375000000,
+  "company_profile": "<p>C&ocirc;ng ty Cổ phần Ph&aacute;t triển Sunshine Homes (SSH),&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần X&acirc;y dựng Sunshine Việt Nam được th&agrave;nh lập, hoạt động chủ yếu trong lĩnh vực kinh doanh, tư vấn v&agrave; cho thu&ecirc; bất động sản, x&acirc;y dựng nh&agrave; ở, hạ tầng x&atilde; hội , lắp đặt hệ thống x&acirc;y dựng.&nbsp;Sunshine Homes đ&atilde; v&agrave; đang ph&aacute;t triển một số dự &aacute;n lơn như&nbsp;Sunshine Center , Sunshine City H&agrave; Nội,&nbsp;Sunshine Diamond River, Sunshine Wonder Villas...Ngo&agrave;i ra,&nbsp;<em>Sunshine Group</em>&nbsp;đ&atilde;&nbsp;lọt &ldquo;Top 10 Doanh nghiệp ti&ecirc;u biểu Ch&acirc;u &Aacute;&rdquo; v&agrave; &ldquo;Top 10 thương hiệu được tin d&ugrave;ng nhất Ch&acirc;u &Aacute; (2019). Ng&agrave;y 04/08/2021, SSH ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n",
+  "website": null,
+  "price_change": -1018,
+  "percent_price_change": -0.01060417,
+  "volume": 24767,
+  "high_52w": 134200,
+  "low_52w": 66000,
+  "pe": 157.7989691,
+  "pb": 6.2585697372,
+  "roe": 0.0389689513,
+  "roa": 0.0164403755,
+  "eps": -667.7623903546666,
+  "revenue": 138124287735,
+  "net_profit": -250410896383,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Đỗ Anh Tuấn",
+      "shareholder_percent": 0.64999998
+    },
+    {
+      "shareholder_name": "Đỗ Văn Trường",
+      "shareholder_percent": 0.06
+    },
+    {
+      "shareholder_name": "Đỗ Thị Định",
+      "shareholder_percent": 0.01795533
+    },
+    {
+      "shareholder_name": "Đỗ Thị Hồng Nhung",
+      "shareholder_percent": 0.01
+    },
+    {
+      "shareholder_name": "Đỗ Văn Bắc",
+      "shareholder_percent": 0.01
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SmartMind",
+      "shareholder_percent": 0.0067
+    },
+    {
+      "shareholder_name": "Bùi Văn Tư",
+      "shareholder_percent": 0.004
+    },
+    {
+      "shareholder_name": "LƯƠNG THÀNH LONG",
+      "shareholder_percent": 0.004
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Đức",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Hạnh",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Trần Đình Phương",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Loan",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hà Anh",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Vũ Lê Hiếu",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Nam Việt",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đỗ Anh Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.64999998
+    },
+    {
+      "officer_name": "Đỗ Thị Định",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.01795533
+    },
+    {
+      "officer_name": "Bùi Văn Tư",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.004
+    },
+    {
+      "officer_name": "LƯƠNG THÀNH LONG",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.004
+    },
+    {
+      "officer_name": "Trần Đình Phương",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.00012
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương Loan",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 8e-05
+    },
+    {
+      "officer_name": "Lê Thị Hoàng Phương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Thuỷ",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Đăng Khoa",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Thị Thu Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Hạnh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:10:52.360298"
+}

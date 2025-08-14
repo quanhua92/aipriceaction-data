@@ -1,0 +1,355 @@
+{
+  "symbol": "NLG",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 17925255401200,
+  "current_price": 46550,
+  "outstanding_shares": 385075304,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty cổ phần Đầu tư Nam Long (NLG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Nam Long&nbsp;được th&agrave;nh lập năm 1992.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh c&aacute;c dự &aacute;n bất động nh&agrave; ở, khu đ&ocirc; thị. NLG chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2005.&nbsp;NLG hiện sở hữu 681ha đất sạch trải khắp c&aacute;c tỉnh miền Nam, chủ yếu tập trung trong c&aacute;c khu đ&ocirc; thị v&agrave; d&acirc;n cư trọng điểm của Th&agrave;nh phố Hồ Ch&iacute; Minh, B&igrave;nh Dương, Cần Thơ, Long An, Đồng Nai&nbsp;v&agrave; Hải Ph&ograve;ng. Một số dự &aacute;n ti&ecirc;u biểu m&agrave; Nam Long tham gia đầu tư, ph&aacute;t triển v&agrave; kinh doanh bất động sản: Khu đ&ocirc; thị Mizuki Park-Q.B&igrave;nh Ch&aacute;nh, Th&agrave;nh phố Hồ Ch&iacute; Minh (26ha), Khu đ&ocirc; thị Kikyo Residences -&nbsp;Quận 9, Th&agrave;nh phố Hồ Ch&iacute; Minh&nbsp;(18ha), Khu đ&ocirc; thị Fuji Residences - Quận 9, Th&agrave;nh phố Hồ Ch&iacute; Minh (5ha), Khu biệt thự Thảo Nguy&ecirc;n S&agrave;i Gòn - District 9,Th&agrave;nh phố Hồ Ch&iacute; Minh (7,7ha), Khu d&acirc;n cư Dalia Garden - Cần Thơ (15ha). NLG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;sở Giao dịch Chứng&nbsp;kho&aacute;n Hồ Ch&iacute; Minh&nbsp;(HOSE) từ năm 2013.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 3000,
+  "percent_price_change": 0.06888634,
+  "volume": 6700904,
+  "high_52w": 46550,
+  "low_52w": 25413,
+  "pe": 27.2427511271,
+  "pb": 1.8537312654,
+  "roe": 0.0686844166,
+  "roa": 0.0224625287,
+  "eps": 257.9483669173446,
+  "revenue": 772555911115,
+  "net_profit": 99329545807,
+  "dividend": 0.0107411386,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Xuân Quang",
+      "shareholder_percent": 0.0947
+    },
+    {
+      "shareholder_name": "Ibeworth Pte. Ltd.",
+      "shareholder_percent": 0.0764
+    },
+    {
+      "shareholder_name": "Công ty Tài Chính Quốc Tế",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0449
+    },
+    {
+      "shareholder_name": "Công Ty Cổ Phần Đầu Tư Thái Bình",
+      "shareholder_percent": 0.0447
+    },
+    {
+      "shareholder_name": "Ctcp Đầu Tư Thái Bình",
+      "shareholder_percent": 0.0447
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.04348
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tư vấn Đầu tư Hướng Việt",
+      "shareholder_percent": 0.0423812148
+    },
+    {
+      "shareholder_name": "Trần Thanh Phong",
+      "shareholder_percent": 0.0408
+    },
+    {
+      "shareholder_name": "Matthews Emerging Asia Fund",
+      "shareholder_percent": 0.0364
+    },
+    {
+      "shareholder_name": "Nam Viet Limited",
+      "shareholder_percent": 0.034
+    },
+    {
+      "shareholder_name": "Lâm Xuân Hoàng Lan",
+      "shareholder_percent": 0.0332999235
+    },
+    {
+      "shareholder_name": "Swift Current Offshore Ltd.",
+      "shareholder_percent": 0.0255410391
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.020957
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Ngọc",
+      "shareholder_percent": 0.0207
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Và Xây Dựng Tây Hồ",
+      "shareholder_percent": 0.0205158772
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hương",
+      "shareholder_percent": 0.0170838818
+    },
+    {
+      "shareholder_name": "Mekong Holdings Inc",
+      "shareholder_percent": 0.0162461323
+    },
+    {
+      "shareholder_name": "Swiftcurrent Partners, L.P",
+      "shareholder_percent": 0.015921916
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0128
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.008734
+    },
+    {
+      "shareholder_name": "Nguyễn Hiệp",
+      "shareholder_percent": 0.0087
+    },
+    {
+      "shareholder_name": "Cao Tấn Thạch",
+      "shareholder_percent": 0.0086
+    },
+    {
+      "shareholder_name": "Matthews Asia Small Companies Fund",
+      "shareholder_percent": 0.0074
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh",
+      "shareholder_percent": 0.0070635358
+    },
+    {
+      "shareholder_name": "Nguyễn Nam",
+      "shareholder_percent": 0.007
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.00496
+    },
+    {
+      "shareholder_name": "Chu Chee Kwang",
+      "shareholder_percent": 0.0041
+    },
+    {
+      "shareholder_name": "Cao Duy Thông",
+      "shareholder_percent": 0.0034
+    },
+    {
+      "shareholder_name": "Đỗ Ngọc Minh",
+      "shareholder_percent": 0.0029
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.002887
+    },
+    {
+      "shareholder_name": "Bùi Đức Khang",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Bất động sản Techcom Việt Nam",
+      "shareholder_percent": 0.00198531
+    },
+    {
+      "shareholder_name": "Ngô Thị Ngọc Liễu",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Châu Quang Phúc",
+      "shareholder_percent": 0.001343
+    },
+    {
+      "shareholder_name": "Matthews Asia ESG Fund",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Trần  Xuân Ngọc",
+      "shareholder_percent": 0.00126
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.001215
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000724
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.000623
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Bản Việt",
+      "shareholder_percent": 0.0005355
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Sơn",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Trần Trương Đoan Thục",
+      "shareholder_percent": 0.00043
+    },
+    {
+      "shareholder_name": "Vương Thị Kim Liên",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Vĩnh Trân",
+      "shareholder_percent": 0.000337305
+    },
+    {
+      "shareholder_name": "Châu Ngọc Ánh Nguyệt",
+      "shareholder_percent": 0.00024
+    },
+    {
+      "shareholder_name": "Lương Thị Kim Thoa",
+      "shareholder_percent": 0.00024
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.00011432
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Đức",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Kenneth Michael Atkinson",
+      "shareholder_percent": 5.61e-05
+    },
+    {
+      "shareholder_name": "Văn Viết Sơn",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 4.018e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Thảo",
+      "shareholder_percent": 3.6e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Huyền",
+      "shareholder_percent": 1.8e-05
+    },
+    {
+      "shareholder_name": "Phạm Đình Huy",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Lưu Tuyền",
+      "shareholder_percent": 5e-07
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Đầu tư Xây dựng Phát triển Nam Khang",
+      "shareholder_percent": 1.2e-07
+    },
+    {
+      "shareholder_name": "Lâm Ngọc Minh",
+      "shareholder_percent": 5e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 2e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
+      "shareholder_percent": 1.2e-08
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tơ",
+      "shareholder_percent": 1e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 1e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Xuân Quang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0947
+    },
+    {
+      "officer_name": "Trần Thanh Phong",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0408
+    },
+    {
+      "officer_name": "Cao Tấn Thạch",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0086
+    },
+    {
+      "officer_name": "Châu Quang Phúc",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.001343
+    },
+    {
+      "officer_name": "Trần  Xuân Ngọc",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.00126
+    },
+    {
+      "officer_name": "Nguyễn Thanh Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Châu Ngọc Ánh Nguyệt",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.00024
+    },
+    {
+      "officer_name": "Nguyễn Quang Đức",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Kenneth Michael Atkinson",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 5.61e-05
+    },
+    {
+      "officer_name": "Phạm Đình Huy",
+      "officer_position": "Giám đốc đầu tư",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Nguyễn Đức Thuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngian Siew Siong",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chad Ryan Ovel",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ziang Tony Ngo",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Joseph Low Kar Yew",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:01:31.501212"
+}

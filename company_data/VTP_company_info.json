@@ -1,0 +1,176 @@
+{
+  "symbol": "VTP",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 13992871525800,
+  "current_price": 114900,
+  "outstanding_shares": 121783042,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Cổ phần Bưu ch&iacute;nh Viettel (VTP) được th&agrave;nh lập v&agrave;o năm 1997. Tổng C&ocirc;ng ty hoạt động trong lĩnh vực&nbsp;(i) Kinh doanh dịch vụ chuyển ph&aacute;t nhanh bưu phẩm, bưu kiện h&agrave;ng h&oacute;a, (ii) Đại l&yacute; kinh doanh dịch vụ ph&aacute;t h&agrave;nh b&aacute;o ch&iacute;, (iii) Kinh doanh thương mại tr&ecirc;n mạng bưu ch&iacute;nh, thương mại điện tử, v&agrave; (iv) Dịch vụ logistic (dịch vụ bốc xếp h&agrave;ng h&oacute;a, dịch vụ kho b&atilde;i v&agrave; lưu giữ h&agrave;ng h&oacute;a). VTP chuyển sang&nbsp;hoạt&nbsp;động theo m&ocirc; h&igrave;nh&nbsp;tổng c&ocirc;ng ty từ năm 2012.&nbsp;VTP hiện đang sở hữu&nbsp;mạng lưới rộng khắp cả nước với&nbsp;63 Chi nh&aacute;nh, 09 ph&ograve;ng ban chức năng, 3 Trung t&acirc;m, 5 C&ocirc;ng ty th&agrave;nh vi&ecirc;n, 3 kho tổng, 63 kho tỉnh tổng diện t&iacute;ch hơn 209.000 m2, 6 trung t&acirc;m khai th&aacute;c, 3.000 bưu cục, cửa h&agrave;ng, 6.000 điểm giao dịch. Ng&agrave;y 12/03/2024,&nbsp;VTP ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Chi Minh (HOSE);</div>\r\n",
+  "website": null,
+  "price_change": -1700,
+  "percent_price_change": -0.01457976,
+  "volume": 872019,
+  "high_52w": 174700,
+  "low_52w": 70156,
+  "pe": 34.4064542413,
+  "pb": 8.3393903309,
+  "roe": 0.2541148236,
+  "roa": 0.0632025055,
+  "eps": 819.2909175893307,
+  "revenue": 4982327214562,
+  "net_profit": 99775740227,
+  "dividend": 0.0130548303,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp - Viễn thông Quân đội",
+      "shareholder_percent": 0.6084
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0163167
+    },
+    {
+      "shareholder_name": "Công Đoàn Cơ Sở Tổng Công ty Cổ Phần Bưu Chính Viettel",
+      "shareholder_percent": 0.0142
+    },
+    {
+      "shareholder_name": "Trần Trung Hưng",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Chu Kim Thoa",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.0015263537
+    },
+    {
+      "shareholder_name": "Lương Ngọc Hải",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Hoàng Sơn",
+      "shareholder_percent": 0.00053
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Tuấn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Nam",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trương Hữu Đức",
+      "shareholder_percent": 0.00017
+    },
+    {
+      "shareholder_name": "Phạm Văn Tuyên",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Long",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Đinh Thanh Sơn",
+      "shareholder_percent": 4.7e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Thanh Thoảng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Cấn Long Giang",
+      "shareholder_percent": 5e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Trung Hưng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Nguyễn Thanh Nam",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Duy Tuấn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Phạm Văn Tuyên",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Long",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 6e-05
+    },
+    {
+      "officer_name": "Đinh Thanh Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 4.7e-05
+    },
+    {
+      "officer_name": "Lê Thị Thanh Thoảng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Công Phú",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Tuấn Anh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thanh Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đắc Luân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Anh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Như Tuynh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nghiêm Phương Nhi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Việt Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:13:12.968891"
+}

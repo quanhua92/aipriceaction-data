@@ -1,0 +1,235 @@
+{
+  "symbol": "PC1",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 9942450963800,
+  "current_price": 27800,
+  "outstanding_shares": 357642121,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Được th&agrave;nh lập v&agrave;o năm 1963, C&ocirc;ng ty Cổ phần Tập đo&agrave;n PC1 (PC1) l&agrave; c&ocirc;ng ty h&agrave;ng đầu trong x&acirc;y dựng c&aacute;c nh&agrave; m&aacute;y điện v&agrave; truyền tải điện. C&ocirc;ng ty tham gia trong 3 lĩnh vực kinh doanh ch&iacute;nh bao gồm: (i) X&acirc;y dựng v&agrave; lắp đặt nh&agrave; m&aacute;y điện v&agrave; đường truyền tải điện (ii) Ph&aacute;t triển c&aacute;c cao ốc thương mại&nbsp;(iii) Sản xuất cấu kiện v&agrave; thiết bị điện. Sau 50 năm hoạt động, c&ocirc;ng ty đ&atilde; trở th&agrave;nh một trong những c&ocirc;ng ty lớn nhất trong lĩnh vực x&acirc;y dựng nh&agrave; m&aacute;y điện v&agrave; truyền tải điện. C&ocirc;ng ty tham gia v&agrave;o nhiều dự &aacute;n trọng điểm quốc gia như giai đoạn 1 v&agrave; giai đoạn 2 của dự &aacute;n đường điện 500KV Bắc Nam; dự &aacute;n đường điện Sơn La - Lai Ch&acirc;u 500KV, trạm biến &aacute;p 500KV Phố Nối, đường điện Sơn La - H&ograve;a B&igrave;nh - Nho Quan 500KV, nh&agrave; m&aacute;y thủy điện Trung Thu. PCC1 cũng đ&atilde; triển khai nhiều dự &aacute;n EPC với vai tr&ograve; nh&agrave; tổng thầu v&agrave; nh&agrave; phụ thầu như (i) EPC - đường điện 110KV Bắc Giang - Quảng Ch&acirc;u, (ii) EPC - đường điện 500KV Nh&agrave; B&egrave; - Metro City.&nbsp;Ng&agrave;y 16/11/2016, c&ocirc;ng ty ch&iacute;nh thức được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -400,
+  "percent_price_change": -0.0141844,
+  "volume": 9676564,
+  "high_52w": 29000,
+  "low_52w": 18400,
+  "pe": 23.5789787544,
+  "pb": 1.7541681878,
+  "roe": 0.075875352,
+  "roa": 0.0196445519,
+  "eps": 386.7435796132078,
+  "revenue": 2934930769167,
+  "net_profit": 138315794096,
+  "dividend": 0.0539568345,
+  "shareholders": [
+    {
+      "shareholder_name": "Trịnh Văn Tuấn",
+      "shareholder_percent": 0.2138207
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VIX",
+      "shareholder_percent": 0.0556
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0414
+    },
+    {
+      "shareholder_name": "Võ Hồng Quang",
+      "shareholder_percent": 0.0188373
+    },
+    {
+      "shareholder_name": "Lê Thị Thoi",
+      "shareholder_percent": 0.0188132
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Đệ",
+      "shareholder_percent": 0.0092283
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hương",
+      "shareholder_percent": 0.00834
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.00502
+    },
+    {
+      "shareholder_name": "Nguyễn Nhật Tân",
+      "shareholder_percent": 0.0045153
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.003772463
+    },
+    {
+      "shareholder_name": "Vũ Ánh Dương",
+      "shareholder_percent": 0.0028866
+    },
+    {
+      "shareholder_name": "Đặng Quốc Tưởng",
+      "shareholder_percent": 0.0019906
+    },
+    {
+      "shareholder_name": "Đặng Văn Nghĩa",
+      "shareholder_percent": 0.00176
+    },
+    {
+      "shareholder_name": "Trần Thị Minh Việt",
+      "shareholder_percent": 0.0012585
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Dung",
+      "shareholder_percent": 0.000847
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Bản Việt",
+      "shareholder_percent": 0.00076398
+    },
+    {
+      "shareholder_name": "Vũ Anh Hiếu",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hải Hà",
+      "shareholder_percent": 0.0004527
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
+      "shareholder_percent": 0.00043936
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hương",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Văn Tứ",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Trung",
+      "shareholder_percent": 0.00019
+    },
+    {
+      "shareholder_name": "Lê Thị Thanh",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Ngọc Dung",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Sáng",
+      "shareholder_percent": 3.02e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Lan Mỹ",
+      "shareholder_percent": 1.74e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Lan Phương",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Vũ",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Liên",
+      "shareholder_percent": 6e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 4e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 1.26e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trịnh Văn Tuấn",
+      "officer_position": "Tổng Giám đốc/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.2138207
+    },
+    {
+      "officer_name": "Võ Hồng Quang",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0188373
+    },
+    {
+      "officer_name": "Nguyễn Minh Đệ",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0092283
+    },
+    {
+      "officer_name": "Nguyễn Nhật Tân",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0045153
+    },
+    {
+      "officer_name": "Vũ Ánh Dương",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0028866
+    },
+    {
+      "officer_name": "Đặng Quốc Tưởng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0019906
+    },
+    {
+      "officer_name": "Trần Thị Minh Việt",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0012585
+    },
+    {
+      "officer_name": "Nguyễn Thị Hải Hà",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0004527
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hương",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Vũ Văn Tứ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Hoàng Văn Sáng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.02e-05
+    },
+    {
+      "officer_name": "Vũ Thị Lan Mỹ",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 1.74e-05
+    },
+    {
+      "officer_name": "Hoàng Văn Cường",
+      "officer_position": "Thành viên Ban kiểm soát/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Lương Việt",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thanh Nghị",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:01:59.153280"
+}

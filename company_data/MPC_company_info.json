@@ -1,0 +1,272 @@
+{
+  "symbol": "MPC",
+  "exchange": "UPCOM",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 6334825140000,
+  "current_price": 15800,
+  "outstanding_shares": 400938300,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Thủy sản Minh Ph&uacute; (MPC) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp cung ứng h&agrave;ng xuất khẩu Minh Ph&uacute;,&nbsp;được&nbsp;th&agrave;nh lập năm 1992. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực chế biến kinh doanh xuất&nbsp;khẩu thủy sản với mặt h&agrave;ng ch&iacute;nh l&agrave; t&ocirc;m đ&ocirc;ng lạnh.&nbsp;MPC ch&iacute;nh thức chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần từ năm 2006.&nbsp;C&ocirc;ng ty l&agrave; doanh nghiệp thủy sản đầu ti&ecirc;n trong nước được c&ocirc;ng nhận ti&ecirc;u chuẩn Global Gap. MPC l&agrave; doanh nghiệp&nbsp;xuất khẩu thủy sản c&oacute; kim ngạch xuất khẩu lớn nhất trong tất cả c&aacute;c doanh nghiệp xuất khẩu thủy sản của&nbsp;Việt Nam. Từ năm những năm&nbsp;2000, C&ocirc;ng ty&nbsp;đ&atilde; vươn l&ecirc;n&nbsp;đứng v&agrave;&nbsp;giữ vững vị tr&iacute; n&agrave;y trong nhiều năm. MPC được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 10/2017.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -99,
+  "percent_price_change": -0.00630573,
+  "volume": 461235,
+  "high_52w": 17400,
+  "low_52w": 8800,
+  "pe": -261.5179015479,
+  "pb": 1.2475672441,
+  "roe": -0.0048270086,
+  "roa": -0.0025057378,
+  "eps": 401.22078004022063,
+  "revenue": 3629253259113,
+  "net_profit": 160864777474,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Mpm Investments Pte., Ltd.",
+      "shareholder_percent": 0.3511
+    },
+    {
+      "shareholder_name": "Chu Thị Bình",
+      "shareholder_percent": 0.17550001
+    },
+    {
+      "shareholder_name": "Lê Văn Quang",
+      "shareholder_percent": 0.16079
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.0713
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Dragon Capital Việt Nam",
+      "shareholder_percent": 0.07127357
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Hồng Thu",
+      "shareholder_percent": 0.0568
+    },
+    {
+      "shareholder_name": "Earls Court Enterprises Limited",
+      "shareholder_percent": 0.0418
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Long Phụng",
+      "shareholder_percent": 0.0409
+    },
+    {
+      "shareholder_name": "Lê Thị Dịu Minh",
+      "shareholder_percent": 0.03274
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Minh Phú",
+      "shareholder_percent": 0.02857143
+    },
+    {
+      "shareholder_name": "Lê Thị Minh Phú",
+      "shareholder_percent": 0.02754
+    },
+    {
+      "shareholder_name": "Lê Thị Minh Ngọc",
+      "shareholder_percent": 0.02752
+    },
+    {
+      "shareholder_name": "Lê Thị Minh Quí",
+      "shareholder_percent": 0.02752
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Huyền",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Chu Văn An",
+      "shareholder_percent": 0.00105
+    },
+    {
+      "shareholder_name": "Chu Hồng Hà",
+      "shareholder_percent": 0.00077
+    },
+    {
+      "shareholder_name": "Bùi Anh Dũng",
+      "shareholder_percent": 0.00073
+    },
+    {
+      "shareholder_name": "Lê Ngọc Anh",
+      "shareholder_percent": 0.00065
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Di",
+      "shareholder_percent": 0.00061
+    },
+    {
+      "shareholder_name": "Thái Hoàng Hùng",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Lê Văn Điệp",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "Lê Thị Thúy",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Huyền Trân",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Lê Văn Tuấn",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Trần Văn Thái",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Toàn",
+      "shareholder_percent": 7.30323e-05
+    },
+    {
+      "shareholder_name": "Đinh Thị Ánh Tuyết",
+      "shareholder_percent": 7.30323e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Liêm",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Ngô Thanh Hà",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Phan Văn Dũng",
+      "shareholder_percent": 4.5426e-05
+    },
+    {
+      "shareholder_name": "Mai Thị Hoàng Minh",
+      "shareholder_percent": 4.38193e-05
+    },
+    {
+      "shareholder_name": "Lưu Minh Trung",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Hương",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Lâm Thị Thúy Kiều",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Anh",
+      "shareholder_percent": 2.19e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Chu Thị Bình",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.17550001
+    },
+    {
+      "officer_name": "Lê Văn Quang",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.16079
+    },
+    {
+      "officer_name": "Lê Thị Dịu Minh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.03274
+    },
+    {
+      "officer_name": "Chu Hồng Hà",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00077
+    },
+    {
+      "officer_name": "Bùi Anh Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.00073
+    },
+    {
+      "officer_name": "Lê Ngọc Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00065
+    },
+    {
+      "officer_name": "Thái Hoàng Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Lê Văn Điệp",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.00018
+    },
+    {
+      "officer_name": "Lưu Minh Trung",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Hương",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Nguyễn Tấn Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 2.19e-06
+    },
+    {
+      "officer_name": "Suzuki Yoshiaki",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Nhân Nghĩa",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Thu Lê",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thanh Lộc",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Cúc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Hạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nagoya Yukata",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tsukahara Keiichi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Khánh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:54:27.988920"
+}

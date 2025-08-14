@@ -1,0 +1,403 @@
+{
+  "symbol": "MWG",
+  "exchange": "HOSE",
+  "industry": "Bán lẻ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 104910246249300,
+  "current_price": 70900,
+  "outstanding_shares": 1479693177,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Thế Giới Di Động (MWG) được th&agrave;nh lập từ&nbsp;th&aacute;ng 03/2004, với tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty TNHH Thế Giới Di Động. C&ocirc;ng ty&nbsp;quản l&yacute; vận h&agrave;nh c&aacute;c chuỗi cửa h&agrave;ng b&aacute;n lẻ Thế Giới Di Động, Điện M&aacute;y Xanh, B&aacute;ch Ho&aacute; Xanh,&nbsp;nh&agrave; thuốc An Khang&nbsp;với mạng lưới 5.750&nbsp;cửa h&agrave;ng tr&ecirc;n to&agrave;n quốc. Chuỗi của h&agrave;ng Thế Giới Di Động được th&agrave;nh lập từ 2004 l&agrave; chuỗi b&aacute;n lẻ thiết bị di động c&oacute; thị phần số 1 Việt Nam với hơn&nbsp;1.021&nbsp;cửa h&agrave;ng. Điện M&aacute;y Xanh ra đời cuối 2010, l&agrave; chuỗi b&aacute;n lẻ c&aacute;c sản phẩm điện tử ti&ecirc;u d&ugrave;ng (điện tử, điện lạnh v&agrave; gia dụng) c&oacute; thị phần số 1 Việt Nam với&nbsp;hơn&nbsp;2.026&nbsp;cửa h&agrave;ng. B&aacute;ch H&oacute;a Xanh ho&agrave;n tất giai đoạn thử nghiệm v&agrave;o cuối năm 2016, l&agrave; chuỗi cửa h&agrave;ng chuy&ecirc;n b&aacute;n lẻ thực phẩm tươi sống (thịt c&aacute;, rau củ, tr&aacute;i c&acirc;y&hellip;) v&agrave; nhu yếu phẩm với hơn&nbsp;1.770&nbsp;cửa h&agrave;ng. MWG&nbsp;ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 07/2014.</div>\r\n",
+  "website": null,
+  "price_change": -1300,
+  "percent_price_change": -0.01800554,
+  "volume": 14374645,
+  "high_52w": 73700,
+  "low_52w": 45100,
+  "pe": 21.4553725284,
+  "pb": 3.5362890781,
+  "roe": 0.1704377974,
+  "roa": 0.0665420054,
+  "eps": 1114.7747353528796,
+  "revenue": 37844160678840,
+  "net_profit": 1648146246704,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Tư Vấn Đầu Tư Thế Giới Bán Lẻ",
+      "shareholder_percent": 0.10492
+    },
+    {
+      "shareholder_name": "Công ty TNHH Tri Tâm",
+      "shareholder_percent": 0.0986
+    },
+    {
+      "shareholder_name": "Nt Asian Discovery Master Fund",
+      "shareholder_percent": 0.0369852
+    },
+    {
+      "shareholder_name": "Arisaig Asia Fund Limited",
+      "shareholder_percent": 0.0345
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Sơn Ban",
+      "shareholder_percent": 0.02262
+    },
+    {
+      "shareholder_name": "Đinh Anh Huân",
+      "shareholder_percent": 0.0222477971
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Tài",
+      "shareholder_percent": 0.02219
+    },
+    {
+      "shareholder_name": "Công ty TNHH Tư Vấn Đầu Tư Trần Huy",
+      "shareholder_percent": 0.022
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.019399
+    },
+    {
+      "shareholder_name": "J.p. Morgan Securties Plc",
+      "shareholder_percent": 0.01887
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.012881
+    },
+    {
+      "shareholder_name": "Arisaig Global Emerging Markets Fund Pte. Ltd",
+      "shareholder_percent": 0.01074
+    },
+    {
+      "shareholder_name": "Dragon Capital Markets Limited",
+      "shareholder_percent": 0.0088
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.008483
+    },
+    {
+      "shareholder_name": "ĐIÊU CHÍNH HẢI TRIỀU",
+      "shareholder_percent": 0.00801
+    },
+    {
+      "shareholder_name": "Trần Huy Thanh Tùng",
+      "shareholder_percent": 0.00752771
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.00702
+    },
+    {
+      "shareholder_name": "Chambers Street Global Fund, Lp",
+      "shareholder_percent": 0.0068
+    },
+    {
+      "shareholder_name": "Trần Kinh Doanh",
+      "shareholder_percent": 0.00653
+    },
+    {
+      "shareholder_name": "Thanachart Securities Public Company Limited",
+      "shareholder_percent": 0.00647
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.006416
+    },
+    {
+      "shareholder_name": "Nojima Corporation",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "KrungThai Xspring Securities Company Limited",
+      "shareholder_percent": 0.005463
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.005152072
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Đoài",
+      "shareholder_percent": 0.00513
+    },
+    {
+      "shareholder_name": "Robert Alan Willett",
+      "shareholder_percent": 0.0047352
+    },
+    {
+      "shareholder_name": "Mercer Qif Fund Public Limited Company",
+      "shareholder_percent": 0.00464
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hương",
+      "shareholder_percent": 0.00454715
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.004185
+    },
+    {
+      "shareholder_name": "Phan Thị Thu Hiền",
+      "shareholder_percent": 0.00396289
+    },
+    {
+      "shareholder_name": "Dempsey Hill Asia Master Fund",
+      "shareholder_percent": 0.0034
+    },
+    {
+      "shareholder_name": "Russell Trust Company Commingled Employee Benefit Funds Trust Russell Emerging Markets Fund",
+      "shareholder_percent": 0.0031
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.002752
+    },
+    {
+      "shareholder_name": "Coeli Sicav I - Frontier Markets Fund",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Đoàn Văn Hiểu Em",
+      "shareholder_percent": 0.00246
+    },
+    {
+      "shareholder_name": "Phạm Văn Trọng",
+      "shareholder_percent": 0.00212
+    },
+    {
+      "shareholder_name": "Idris Ltd",
+      "shareholder_percent": 0.00207
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.00164
+    },
+    {
+      "shareholder_name": "ĐẶNG MINH LƯỢM",
+      "shareholder_percent": 0.00153719
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.001505
+    },
+    {
+      "shareholder_name": "Optis Global Opportunities Fund LTD",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.000984
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000961
+    },
+    {
+      "shareholder_name": "Vũ Đăng Linh",
+      "shareholder_percent": 0.00094
+    },
+    {
+      "shareholder_name": "Lumen Vietnam Fund",
+      "shareholder_percent": 0.00085
+    },
+    {
+      "shareholder_name": "Lý Trần Kim Ngân",
+      "shareholder_percent": 0.00078
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Thảo",
+      "shareholder_percent": 0.00072352
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.0006755482
+    },
+    {
+      "shareholder_name": "Russell Emerging Markets Equity Pool",
+      "shareholder_percent": 0.000626
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.000615
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000575
+    },
+    {
+      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.000365
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Manulife",
+      "shareholder_percent": 0.0003059511
+    },
+    {
+      "shareholder_name": "Venner Group Limited",
+      "shareholder_percent": 0.000274
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 0.0002686182
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Trang",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Hoàng Xuân Thắng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Tâm",
+      "shareholder_percent": 0.00019069
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.0001238601
+    },
+    {
+      "shareholder_name": "Trần Huy Thanh Đại",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trịnh Quang Khải",
+      "shareholder_percent": 9.692e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 9.054e-05
+    },
+    {
+      "shareholder_name": "Arisaig Next Generation Master Fund ICAV",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Balestrand Limited",
+      "shareholder_percent": 8.2e-05
+    },
+    {
+      "shareholder_name": "Hoàng Hữu Hưng",
+      "shareholder_percent": 8.1e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
+      "shareholder_percent": 6.95042e-05
+    },
+    {
+      "shareholder_name": "Danang Investments Limited",
+      "shareholder_percent": 6.8e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 6.56181e-05
+    },
+    {
+      "shareholder_name": "Trần Huy Đông",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 5.963e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Hạnh",
+      "shareholder_percent": 1.989e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Khôi",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 1.988e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Đức Tài",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.02219
+    },
+    {
+      "officer_name": "ĐIÊU CHÍNH HẢI TRIỀU",
+      "officer_position": "Giám đốc Kỹ thuật",
+      "officer_percent": 0.00801
+    },
+    {
+      "officer_name": "Trần Huy Thanh Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00752771
+    },
+    {
+      "officer_name": "Trần Kinh Doanh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00653
+    },
+    {
+      "officer_name": "Robert Alan Willett",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0047352
+    },
+    {
+      "officer_name": "Đoàn Văn Hiểu Em",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00246
+    },
+    {
+      "officer_name": "ĐẶNG MINH LƯỢM",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00153719
+    },
+    {
+      "officer_name": "Vũ Đăng Linh",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.00094
+    },
+    {
+      "officer_name": "Lý Trần Kim Ngân",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00078
+    },
+    {
+      "officer_name": "Lê Thị Thu Trang",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.00023
+    },
+    {
+      "officer_name": "Hoàng Hữu Hưng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 8.1e-05
+    },
+    {
+      "officer_name": "Thomas Lanyi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Thế Vinh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tiến Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Tiến Sĩ",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:54:45.965046"
+}

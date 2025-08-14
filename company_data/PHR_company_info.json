@@ -1,0 +1,207 @@
+{
+  "symbol": "PHR",
+  "exchange": "HOSE",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 8644848832400,
+  "current_price": 63800,
+  "outstanding_shares": 135499198,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Cao su Phước H&ograve;a (PHR) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Đồn điền Cao su Phước H&ograve;a được th&agrave;nh lập sau ng&agrave;y miền Nam ho&agrave;n to&agrave;n giải ph&oacute;ng. C&ocirc;ng ty&nbsp;hoạt động trong lĩnh vực trồng, khai th&aacute;c, chế biến mủ cao su v&agrave; chế biến gỗ cao su.&nbsp;PHR ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2008. C&ocirc;ng ty&nbsp;l&agrave; một trong những c&ocirc;ng ty c&oacute; diện t&iacute;ch cao su lớn của ng&agrave;nh, nằm trong Top 5 đơn vị quản l&yacute; diện t&iacute;ch v&agrave; sản lượng cao su lớn nhất ng&agrave;nh. C&ocirc;ng ty c&oacute; diện t&iacute;ch đất trồng cao su l&agrave; 15.227 ha v&agrave; 3 nh&agrave; m&aacute;y chế biến mủ cao su với tổng c&ocirc;ng suất 27.000 tấn/năm. PHR được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 08/2009.</div>\r\n",
+  "website": null,
+  "price_change": 1000,
+  "percent_price_change": 0.01592357,
+  "volume": 1275540,
+  "high_52w": 69000,
+  "low_52w": 39000,
+  "pe": 17.010630615,
+  "pb": 2.2689136182,
+  "roe": 0.1325199804,
+  "roa": 0.0848294154,
+  "eps": 666.3348115905453,
+  "revenue": 367973217032,
+  "net_profit": 90287832570,
+  "dividend": 0.0206269592,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.6662
+    },
+    {
+      "shareholder_name": "Asia Value Investment Limited",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.034986
+    },
+    {
+      "shareholder_name": "Halley Sicav - Halley Asian Prosperity",
+      "shareholder_percent": 0.0296
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.005751
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tược",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Tuệ Sáng Vinacapital",
+      "shareholder_percent": 0.003176
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.00272
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.00246987
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 0.002442
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Cổ tức Năng động VinaCapital",
+      "shareholder_percent": 0.001435
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bảo hiểm nhân thọ Generali Việt Nam",
+      "shareholder_percent": 0.001348
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Công nghiệp Cao su Miền Nam",
+      "shareholder_percent": 0.0012300123
+    },
+    {
+      "shareholder_name": "Huỳnh Kim Nhựt",
+      "shareholder_percent": 0.00087
+    },
+    {
+      "shareholder_name": "Lê Phi Hùng",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Delta Global Financial Holdings Private Limited",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Công ty TNHH bảo hiểm nhân thọ CHUBB Việt Nam",
+      "shareholder_percent": 0.000618
+    },
+    {
+      "shareholder_name": "Kiwoom Vietnam Tomorrow Securities Master Fund",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Công ty TNHH bảo hiểm Hanwha Life Việt Nam",
+      "shareholder_percent": 0.000411
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ VinaCapital",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Luyện",
+      "shareholder_percent": 0.000221
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 7.74912e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Ngọc",
+      "shareholder_percent": 7.26206e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Thành",
+      "shareholder_percent": 6.37023e-05
+    },
+    {
+      "shareholder_name": "Đặng Đôn Cư",
+      "shareholder_percent": 4.07695e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tân",
+      "shareholder_percent": 4.07695e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Đức",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Hồ Mộng Vân",
+      "shareholder_percent": 1.45241e-05
+    },
+    {
+      "shareholder_name": "Võ Thanh Hải",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Windstar Resources",
+      "shareholder_percent": 3e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Tược",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0032
+    },
+    {
+      "officer_name": "Huỳnh Kim Nhựt",
+      "officer_position": "Phó Tổng Giám đốc/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00087
+    },
+    {
+      "officer_name": "Nguyễn Thành Đức",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Võ Thanh Hải",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Phi Nga",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hoàng Giang",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Phong Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Lam Hồng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Quốc Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Hữu Tín",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:02:10.540476"
+}

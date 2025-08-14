@@ -1,0 +1,289 @@
+{
+  "symbol": "QNS",
+  "exchange": "UPCOM",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 17757405789900,
+  "current_price": 48300,
+  "outstanding_shares": 367648153,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đường Quảng Ng&atilde;i (QNS), tiền th&acirc;n l&agrave; C&ocirc;ng ty Đường Quảng Ng&atilde;i, được cổ phần h&oacute;a v&agrave;o năm 2005. C&ocirc;ng ty chuy&ecirc;n chế biến đường, mật, thực phẩm, đồ uống; sản xuất v&agrave; kinh doanh nước kho&aacute;ng v&agrave; kinh doanh thương mại, dịch vụ tổng hợp v&agrave; hoạt động xuất nhập khẩu. C&ocirc;ng ty l&agrave; doanh nghiệp dẫn đầu trong ph&acirc;n kh&uacute;c sữa đậu n&agrave;nh với thị phần l&agrave; 88,6%. Mỗi năm C&ocirc;ng ty tạo ra hơn 1 triệu sản phẩm sữa đậu n&agrave;nh phục vụ cho người ti&ecirc;u d&ugrave;ng trong nước. Nh&agrave; m&aacute;y sữa đậu n&agrave;nh Vinasoy c&oacute; tổng c&ocirc;ng suất l&agrave; 390 triệu l&iacute;t/năm. Ngo&agrave;i ra, nh&agrave; m&aacute;y Bia Dung Quất của C&ocirc;ng ty c&oacute; c&ocirc;ng suất l&ecirc;n đến 100 triệu l&iacute;t/năm v&agrave; nh&agrave; m&aacute;y đường An Kh&ecirc; c&oacute; c&ocirc;ng suất 10.000 tấn/năm. C&ocirc;ng ty c&oacute; hệ thống ph&acirc;n phối sản phẩm rộng khắp cả nước v&agrave; xuất khẩu c&aacute;c mặt h&agrave;ng b&aacute;nh kẹo, bia v&agrave; nước kho&aacute;ng ra nước ngo&agrave;i. QNS ch&iacute;nh thức được&nbsp;giao dịch tr&ecirc;n thị trường UPCOM từ Ng&agrave;y 20/12/2016.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 224,
+  "percent_price_change": 0.0046473,
+  "volume": 359383,
+  "high_52w": 49100,
+  "low_52w": 40814,
+  "pe": 8.5016490459,
+  "pb": 1.7840247263,
+  "roe": 0.2122464575,
+  "roa": 0.1477581012,
+  "eps": 1485.3335743046696,
+  "revenue": 2967290019650,
+  "net_profit": 546080145182,
+  "dividend": 0.0309763754,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH MTV Thương Mại Thành Phát",
+      "shareholder_percent": 0.15558
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Thương Mại Thành Phát",
+      "shareholder_percent": 0.1511
+    },
+    {
+      "shareholder_name": "Võ Thành Đàng",
+      "shareholder_percent": 0.0934
+    },
+    {
+      "shareholder_name": "Vinacapital Vietnam Opportunity Fund Ltd.",
+      "shareholder_percent": 0.0653844538
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thực Phẩm Dinh Dưỡng Nutifood Bình Dương",
+      "shareholder_percent": 0.0444
+    },
+    {
+      "shareholder_name": "Foremost Worldwide Limited",
+      "shareholder_percent": 0.039282
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thực phẩm Dinh dưỡng NutiFood",
+      "shareholder_percent": 0.036
+    },
+    {
+      "shareholder_name": "Võ Thị Cẩm Nhung",
+      "shareholder_percent": 0.02901492
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Nguyệt",
+      "shareholder_percent": 0.01773969
+    },
+    {
+      "shareholder_name": "Trần Ngọc Phương",
+      "shareholder_percent": 0.0176
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hòe",
+      "shareholder_percent": 0.0145
+    },
+    {
+      "shareholder_name": "Ngô Văn Tụ",
+      "shareholder_percent": 0.0107
+    },
+    {
+      "shareholder_name": "Cao Minh Tuấn",
+      "shareholder_percent": 0.00799
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Tiến",
+      "shareholder_percent": 0.0079
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Quế",
+      "shareholder_percent": 0.0074
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Bình",
+      "shareholder_percent": 0.0073
+    },
+    {
+      "shareholder_name": "Forum One - VinaCapital Vietnam Fund",
+      "shareholder_percent": 0.00565
+    },
+    {
+      "shareholder_name": "Đặng Phú Quý",
+      "shareholder_percent": 0.0054
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.004565
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Công Đoàn Công ty Cổ Phần Đường Quảng Ngãi",
+      "shareholder_percent": 0.0035
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Hồng Mai",
+      "shareholder_percent": 0.00317996
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Tiễn",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Vietnam Investment Property Holdings Limited",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Tường",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tài",
+      "shareholder_percent": 0.00143487
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Ngọc Diệp",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Kiwoom (BVI) One Limited",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Huy",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Chương",
+      "shareholder_percent": 0.00041344
+    },
+    {
+      "shareholder_name": "Ngô Võ Triết",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Nho",
+      "shareholder_percent": 0.00033508
+    },
+    {
+      "shareholder_name": "Hoàng Thị Lệ Hằng",
+      "shareholder_percent": 0.0002448
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Tuệ Sáng Vinacapital",
+      "shareholder_percent": 0.000235
+    },
+    {
+      "shareholder_name": "Tạ Thị Diễm",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Lindisfarne One Ltd",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Ngọc Phong",
+      "shareholder_percent": 0.0001858
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 0.000175
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Nguyên",
+      "shareholder_percent": 0.00017
+    },
+    {
+      "shareholder_name": "Đỗ Thị Minh Hải",
+      "shareholder_percent": 0.00016342
+    },
+    {
+      "shareholder_name": "Đỗ Thị Kim Oanh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đỗ Thị Kim Huệ",
+      "shareholder_percent": 4.077e-05
+    },
+    {
+      "shareholder_name": "Dương Thị Thu Thủy",
+      "shareholder_percent": 2.74e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ VinaCapital",
+      "shareholder_percent": 2.6e-05
+    },
+    {
+      "shareholder_name": "Trần Tấn Huyên",
+      "shareholder_percent": 1.731e-05
+    },
+    {
+      "shareholder_name": "Võ Thị Anh Trâm",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Thủy Ngân",
+      "shareholder_percent": 7.1e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Quế Dương",
+      "shareholder_percent": 5e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Võ Thành Đàng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0934
+    },
+    {
+      "officer_name": "Trần Ngọc Phương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0176
+    },
+    {
+      "officer_name": "Nguyễn Văn Hòe",
+      "officer_position": "Giám đốc Chi nhánh",
+      "officer_percent": 0.0145
+    },
+    {
+      "officer_name": "Ngô Văn Tụ",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0107
+    },
+    {
+      "officer_name": "Nguyễn Hữu Tiến",
+      "officer_position": "Phó Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0079
+    },
+    {
+      "officer_name": "Nguyễn Đình Quế",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0074
+    },
+    {
+      "officer_name": "Nguyễn Thế Bình",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0073
+    },
+    {
+      "officer_name": "Đặng Phú Quý",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0054
+    },
+    {
+      "officer_name": "Nguyễn Đức Tiễn",
+      "officer_position": "Giám đốc Chi nhánh",
+      "officer_percent": 0.0027
+    },
+    {
+      "officer_name": "Huỳnh Thị Ngọc Diệp",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Nguyễn Thành Huy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Nguyễn Văn Đông",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Tuyết Ánh",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:02:53.608477"
+}

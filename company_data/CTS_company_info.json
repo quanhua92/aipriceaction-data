@@ -1,0 +1,143 @@
+{
+  "symbol": "CTS",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 9539300694300,
+  "current_price": 44850,
+  "outstanding_shares": 212693438,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Ng&acirc;n h&agrave;ng C&ocirc;ng thương (CTS) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Chứng kho&aacute;n Ng&acirc;n h&agrave;ng C&ocirc;ng thương Việt Nam được th&agrave;nh lập năm 2000. CTS ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh&nbsp;c&ocirc;ng ty cổ phần từ năm 2009.&nbsp;C&ocirc;ng ty&nbsp;với đầy đủ nghiệp vụ kinh doanh, bao gồm hoạt động m&ocirc;i giới, lưu k&yacute; chứng kho&aacute;n, tư vấn t&agrave;i ch&iacute;nh doanh nghiệp, tự doanh, bảo l&atilde;nh ph&aacute;t h&agrave;nh dưới sự hỗ trợ của C&ocirc;ng ty mẹ l&agrave; Ng&acirc;n h&agrave;ng C&ocirc;ng thương Việt Nam. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 105,19 tỷ đồng, tăng 4.83% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 141.75%, tăng 8.18%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 142,16 tỷ đồng, giảm 32.91% v&agrave; đ&oacute;ng g&oacute;p 21.02 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 287,39 tỷ đồng, tăng 24.48%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 10.77%, tăng 1.14%.&nbsp;Ng&agrave;y 20/06/2017, CTS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute;&nbsp;Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": 2900,
+  "percent_price_change": 0.06912992,
+  "volume": 8324088,
+  "high_52w": 44850,
+  "low_52w": 20769,
+  "pe": 24.2996975233,
+  "pb": 3.8005110141,
+  "roe": 0.1682152124,
+  "roa": 0.0410846801,
+  "eps": 826.2519652016721,
+  "revenue": 578312729348,
+  "net_profit": 175738371133,
+  "dividend": 0.0200668896,
+  "shareholders": [
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
+      "shareholder_percent": 0.75635
+    },
+    {
+      "shareholder_name": "Yurie Vietnam Securities Investment Trust",
+      "shareholder_percent": 0.0583
+    },
+    {
+      "shareholder_name": "Lê Đức Thọ",
+      "shareholder_percent": 0.0560299505
+    },
+    {
+      "shareholder_name": "Chu Mạnh Hiền",
+      "shareholder_percent": 0.00094216
+    },
+    {
+      "shareholder_name": "Nguyễn Thọ Phùng",
+      "shareholder_percent": 6.05268e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thành",
+      "shareholder_percent": 2.78633e-05
+    },
+    {
+      "shareholder_name": "Phan Quốc Huỳnh",
+      "shareholder_percent": 2.53303e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Thủy Ngân",
+      "shareholder_percent": 1.77312e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thúy Hà",
+      "shareholder_percent": 1.26651e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thế Hưng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Hải Sâm",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Thu Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thìn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Đình Tú",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Thái Hoàng Long",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Phúc Vinh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Thị Thu Hiền",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Anh Hào",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Anh Thư",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Ngọc Hiệp",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Thu Hằng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lâm Thị Thu Hường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Linh",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:58.764458"
+}

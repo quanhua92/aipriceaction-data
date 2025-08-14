@@ -1,0 +1,163 @@
+{
+  "symbol": "DGW",
+  "exchange": "HOSE",
+  "industry": "Bán lẻ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 10220319875400,
+  "current_price": 46600,
+  "outstanding_shares": 219320169,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Th&agrave;nh lập năm 2003, C&ocirc;ng ty Cổ phần Thế giới Số (DGW)&nbsp;l&agrave; một trong những c&ocirc;ng ty h&agrave;ng đầu trong lĩnh vực bu&ocirc;n b&aacute;n, sản xuất c&aacute;c thiết bị, linh kiện, phần mềm c&ocirc;ng nghệ th&ocirc;ng tin. C&ocirc;ng ty l&agrave; nh&agrave; ph&acirc;n phối ch&iacute;nh thức l&acirc;u năm của Acer, Dell v&agrave; Toshiba, Logitech, Belkin, Schneider Electric. Năm 2014, C&ocirc;ng ty trở th&agrave;nh nh&agrave; ph&acirc;n phối m&aacute;y in Ricoh- h&atilde;ng cung cấp giải ph&aacute;p in ấn h&agrave;ng đầu tr&ecirc;n thế giới. Hiện tại C&ocirc;ng ty c&oacute; 3 chi nh&aacute;nh tại H&agrave; Nội, Đ&agrave; Nẵng v&agrave; Tp. Hồ Ch&iacute; Minh. C&ocirc;ng ty cũng đ&atilde; ph&aacute;t triển mạng lưới ph&acirc;n phối sang một số nước như L&agrave;o, Campuchia v&agrave; Myanma.<!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p></div>\r\n",
+  "website": null,
+  "price_change": -1550,
+  "percent_price_change": -0.03219107,
+  "volume": 5620374,
+  "high_52w": 49500,
+  "low_52w": 28316,
+  "pe": 21.0295875967,
+  "pb": 3.3091961389,
+  "roe": 0.1619160382,
+  "roa": 0.0594408372,
+  "eps": 528.1348723517546,
+  "revenue": 5871961675342,
+  "net_profit": 115750633398,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Created Future",
+      "shareholder_percent": 0.3173
+    },
+    {
+      "shareholder_name": "PYN Fund Management Ltd",
+      "shareholder_percent": 0.0993484092
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Dkp",
+      "shareholder_percent": 0.0503
+    },
+    {
+      "shareholder_name": "Evli Emerging Frontier Fund",
+      "shareholder_percent": 0.0481
+    },
+    {
+      "shareholder_name": "Hoàng Tùng",
+      "shareholder_percent": 0.0455
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Dhv",
+      "shareholder_percent": 0.0413
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0412
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Toht",
+      "shareholder_percent": 0.0311
+    },
+    {
+      "shareholder_name": "Phan Ngọc Bích Hằng",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Lê Thị Huyền Trâm",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Hoài",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Tô Tiểu Yến",
+      "shareholder_percent": 0.00076
+    },
+    {
+      "shareholder_name": "Tô Tiểu Ngọc",
+      "shareholder_percent": 0.00061
+    },
+    {
+      "shareholder_name": "Vũ Thị Mai Hân",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Lê Khả Tú",
+      "shareholder_percent": 0.00013
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thuận",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Mai Thế Lễ",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Võ Xuân Huy",
+      "shareholder_percent": 2.56057e-05
+    },
+    {
+      "shareholder_name": "Thái Bá Toản",
+      "shareholder_percent": 5e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phan Ngọc Bích Hằng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0045
+    },
+    {
+      "officer_name": "Nguyễn Thu Hoài",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Vũ Thị Mai Hân",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Nguyễn Văn Thuận",
+      "officer_position": "Trưởng phòng Tài chính",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Duy Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Hồng Việt",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Bảo Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tô Hồng Trang",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Kiện Phương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thông",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Thành",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:21.635059"
+}

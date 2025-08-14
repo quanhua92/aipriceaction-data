@@ -1,0 +1,345 @@
+{
+  "symbol": "DBC",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 10358010037750,
+  "current_price": 30950,
+  "outstanding_shares": 334669145,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Dabaco Việt Nam (DBC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty N&ocirc;ng sản H&agrave; Bắc được th&agrave;nh lập v&agrave;o&nbsp;năm 1996. Năm 2005, c&ocirc;ng ty chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần.&nbsp;Tập đo&agrave;n c&oacute; hoạt động kinh doanh trong ng&agrave;nh n&ocirc;ng nghiệp, tham gia v&agrave;o sản xuất v&agrave; b&aacute;n bu&ocirc;n thức ăn chăn nu&ocirc;i, chăn nu&ocirc;i, hợp đồng chăn nu&ocirc;i, chế biến thực phẩm, bao b&igrave;, bất động sản v&agrave; đầu tư x&acirc;y dựng cơ sở hạ tầng.&nbsp;C&ocirc;ng ty&nbsp;l&agrave; một trong những thương hiệu xuất hiện sớm nhất tr&ecirc;n thị trường thức ăn chăn nu&ocirc;i Việt Nam v&agrave; l&agrave; một trong 10 doanh nghiệp sản xuất thức ăn chăn nu&ocirc;i lớn nhất cả nước.&nbsp;C&ocirc;ng ty&nbsp;đang sử dụng một m&ocirc; h&igrave;nh chế biến kh&eacute;p k&iacute;n c&oacute; t&ecirc;n 3F (Farm-Feed-Food) v&agrave; ph&aacute;t triển một số nh&agrave; b&aacute;n lẻ như si&ecirc;u thị v&agrave; cửa h&agrave;ng tạp h&oacute;a. DBC c&ograve;n được biết đến như một nh&agrave; chế biến thực phẩm ch&iacute;nh từ gia cầm, c&aacute; v&agrave; lợn v&agrave; l&agrave; nh&agrave; ph&aacute;t triển c&aacute;c khu đ&ocirc; thị v&agrave; c&aacute;c khu c&ocirc;ng nghiệp vừa v&agrave; nhỏ. Dabaco hiện c&oacute; 6 nh&agrave; m&aacute;y sản xuất thức ăn chăn nu&ocirc;i đang hoạt động, c&oacute; tổng c&ocirc;ng suất thiết kế tr&ecirc;n 1.000.000 tấn/năm, chiếm 60% doanh thu của Tập đo&agrave;n; chủ yếu tập trung tại thị trường Miền Bắc v&agrave; Miền Trung. C&ocirc;ng ty c&oacute; 09 thương hiệu thức ăn chăn nu&ocirc;i gồm: DABACO, TOPFEEDS, NASACO, GROWFEEDS, KHANGTIVINA, KINH BẮC, NUTRECO, SUNSHIHE V&Agrave; S-STAR, mỗi thương hiệu c&oacute; nhiều loại sản phẩm thức ăn cho gia s&uacute;c, gia cầm, thủy cầm ở c&aacute;c giai đoạn sinh trưởng v&agrave; ph&aacute;t triển kh&aacute;c nhau. Ng&agrave;y 26/07/2019, DBC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.0096,
+  "volume": 11040220,
+  "high_52w": 32045,
+  "low_52w": 19088,
+  "pe": 7.5006466268,
+  "pb": 1.572196723,
+  "roe": 0.2229481812,
+  "roa": 0.1095740464,
+  "eps": 1317.2550890208722,
+  "revenue": 3987198852482,
+  "net_profit": 506971328560,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Như So",
+      "shareholder_percent": 0.23890001
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0615
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Vietnam Equity Holding",
+      "shareholder_percent": 0.0483535227
+    },
+    {
+      "shareholder_name": "Fraser Investment Holdings Private Limited",
+      "shareholder_percent": 0.0478
+    },
+    {
+      "shareholder_name": "Andbanc Investments Sif-Vietnam Value And Income Portfolio",
+      "shareholder_percent": 0.0412
+    },
+    {
+      "shareholder_name": "SSIAM SIF - Vietnam Active Value Portfolio",
+      "shareholder_percent": 0.0401
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Anh",
+      "shareholder_percent": 0.0394
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0361
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tân Hòa",
+      "shareholder_percent": 0.0175
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Hiền",
+      "shareholder_percent": 0.0111
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hương",
+      "shareholder_percent": 0.0108
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Tường",
+      "shareholder_percent": 0.0105
+    },
+    {
+      "shareholder_name": "Ssiam Ucits",
+      "shareholder_percent": 0.0098
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Thảo",
+      "shareholder_percent": 0.0093
+    },
+    {
+      "shareholder_name": "Nguyễn Hà Chi",
+      "shareholder_percent": 0.0092
+    },
+    {
+      "shareholder_name": "Công ty TNHH Cao Nguyên",
+      "shareholder_percent": 0.00478149
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Quân",
+      "shareholder_percent": 0.0041296152
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Huệ Minh",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý quỹ SSI",
+      "shareholder_percent": 0.0034
+    },
+    {
+      "shareholder_name": "Nguyễn Khoảng Cách",
+      "shareholder_percent": 0.0013706943
+    },
+    {
+      "shareholder_name": "Tạ Hữu Khôi",
+      "shareholder_percent": 0.000988175
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuấn",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Phạm Văn Học",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Nguyên",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Lê Thị Minh Thu",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Đỗ Viết Quân",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Trần Công Nam",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Hoàng Văn Chung",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuế",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Lĩnh",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.00038142
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Huyền",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lê Minh Tuấn",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Quang",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hồng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Chuyện",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Hồ Sỹ Quý",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trịnh Đức Tới",
+      "shareholder_percent": 0.000159383
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thùy",
+      "shareholder_percent": 0.0001004113
+    },
+    {
+      "shareholder_name": "Bùi Văn Hoan",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Hoàng Nguyên Học",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hường",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đinh Thị Minh Thuận",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Đức",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Toàn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Ngô Huy Tuệ",
+      "shareholder_percent": 3e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Như So",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.23890001
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hương",
+      "officer_position": "Kế toán trưởng/Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0108
+    },
+    {
+      "officer_name": "Nguyễn Thế Tường",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0105
+    },
+    {
+      "officer_name": "Nguyễn Khắc Thảo",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0093
+    },
+    {
+      "officer_name": "Nguyễn Thị Huệ Minh",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0036
+    },
+    {
+      "officer_name": "Lê Quốc Đoàn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "Phạm Văn Học",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Hoàng Văn Chung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Nguyễn Văn Tuế",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Hồ Sỹ Quý",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Thị Bích",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Hoàng Nguyên Học",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hường",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Đinh Thị Minh Thuận",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Bùi Văn Hoan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Sinh Anh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn  Thị Bích",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thế Chinh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:03.681368"
+}

@@ -1,0 +1,165 @@
+{
+  "symbol": "BIC",
+  "exchange": "HOSE",
+  "industry": "Bảo hiểm phi nhân thọ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 5981121645000,
+  "current_price": 51000,
+  "outstanding_shares": 117276895,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Cổ phần Bảo hiểm Ng&acirc;n h&agrave;ng Đầu tư v&agrave; Ph&aacute;t triển Việt Nam (BIC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Li&ecirc;n doanh Bảo hiểm Việt &Uacute;c được th&agrave;nh lập v&agrave;o năm 1999 tr&ecirc;n cơ sở hợp t&aacute;c giữa Ng&acirc;n h&agrave;ng Đầu tư v&agrave; Ph&aacute;t triển Việt Nam (BIDV) v&agrave; C&ocirc;ng ty Bảo hiểm Quốc tế QBE (&Uacute;c). Tổng C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong lĩnh vực kinh doanh bảo hiểm phi nh&acirc;n thọ, t&aacute;i bảo hiểm v&agrave; đầu tư t&agrave;i ch&iacute;nh. Năm 2024, BIC năm trong top 5 thị trường về thị phần doanh thu ph&iacute; bảo hiểm gốc, đồng thời duy tr&igrave; vị tr&iacute; Top 3 nh&agrave; bảo hiểm phi nh&acirc;n thọ c&oacute; tỷ suất sinh lời cao nhất thị trường. BIC l&agrave; c&ocirc;ng ty dẫn đầu thị trường về ph&aacute;t triển k&ecirc;nh Bancassurance v&agrave; c&aacute;c k&ecirc;nh bảo hiểm trực tuyến (E-business). BIC cũng l&agrave; c&ocirc;ng ty bảo hiểm đầu ti&ecirc;n c&oacute; mạng lưới hoạt động tr&ecirc;n cả 03 nước&nbsp;Đ&ocirc;ng Dương.&nbsp;BIC được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 09/2011.</div>\r\n",
+  "website": null,
+  "price_change": 2300,
+  "percent_price_change": 0.04722793,
+  "volume": 344892,
+  "high_52w": 51000,
+  "low_52w": 29500,
+  "pe": 10.8982920243,
+  "pb": 1.9718062744,
+  "roe": 0.1846154954,
+  "roa": 0.0614750638,
+  "eps": 1469.528800152835,
+  "revenue": 1389922301472,
+  "net_profit": 172341774795,
+  "dividend": 0.0196078431,
+  "shareholders": [
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Fairfax Asia Limited",
+      "shareholder_percent": 0.35
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0732
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thường",
+      "shareholder_percent": 0.0026236396
+    },
+    {
+      "shareholder_name": "Phạm Quang Tùng",
+      "shareholder_percent": 0.002157
+    },
+    {
+      "shareholder_name": "Tôn Lâm Tùng",
+      "shareholder_percent": 0.001839473
+    },
+    {
+      "shareholder_name": "Nguyễn Diễm Phương Khanh",
+      "shareholder_percent": 0.000865801
+    },
+    {
+      "shareholder_name": "Đào Chí Cương",
+      "shareholder_percent": 0.0002112029
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Vân",
+      "shareholder_percent": 0.0001443001
+    },
+    {
+      "shareholder_name": "Phạm Đức Hậu",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Cao Cự Trí",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Trần Hoài An",
+      "shareholder_percent": 3e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Hoài An",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Vũ Minh Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Vân Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Việt Dũng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ramaswamy Athappan",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Mai",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Xuân Hoàng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Gobinath Arvind Athappan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Tú",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Quốc Việt",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Trung Tính",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lại Ngân Giang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ravishankar Wickneswaran",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thành Trung",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Osith Ramanathan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Thị Thu Huyền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:42:35.104031"
+}

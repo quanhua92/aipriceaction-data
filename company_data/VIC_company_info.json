@@ -1,0 +1,327 @@
+{
+  "symbol": "VIC",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 443544741076000,
+  "current_price": 116000,
+  "outstanding_shares": 3823661561,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tập đo&agrave;n Vingroup - C&ocirc;ng ty Cổ phần (VIC) c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Cổ phần Thương mại Tổng hợp Việt Nam được th&agrave;nh lập v&agrave;o năm 2002. Tập đo&agrave;n hoạt động trong lĩnh vực bất động sản, du lịch nghỉ dưỡng - vui chơi giải tr&iacute;, b&aacute;n lẻ, c&ocirc;ng nghiệp v&agrave; hạ tầng x&atilde; hội.&nbsp;VIC&nbsp;đ&atilde;&nbsp;đưa v&agrave;o vận h&agrave;nh 27&nbsp;dự &aacute;n với&nbsp;gần 97,200 căn hộ, biệt thự, nh&agrave; phố thương mại&nbsp;được b&agrave;n giao. Về bất động sản b&aacute;n lẻ, Tập đo&agrave;n&nbsp;đ&atilde; ph&aacute;t triển, sở hữu v&agrave; vận h&agrave;nh 80&nbsp;trung t&acirc;m thương mại. Trong lĩnh vực sản xuất &ocirc; t&ocirc;,&nbsp;VinFast l&agrave; thương hiệu &ocirc; t&ocirc; đầu ti&ecirc;n của Việt Nam&nbsp;đạt đẳng cấp chất lượng v&agrave; mọi ti&ecirc;u chuẩn để xuất khẩu sang Hoa Kỳ.&nbsp;Ngo&agrave;i ra, VIC c&ograve;n tham gia đầu tư ph&aacute;t triển hạ tầng x&atilde; hội trong c&aacute;c lĩnh vực y tế, gi&aacute;o dục. VIC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 09/2007.</div>\r\n",
+  "website": null,
+  "price_change": 500,
+  "percent_price_change": 0.004329,
+  "volume": 4117115,
+  "high_52w": 124700,
+  "low_52w": 39700,
+  "pe": 32.4026925203,
+  "pb": 3.0641264087,
+  "roe": 0.0989310292,
+  "roa": 0.0162599509,
+  "eps": -151.94493307824428,
+  "revenue": 46325273000000,
+  "net_profit": -580986000000,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Tập Đoàn Đầu Tư Việt Nam",
+      "shareholder_percent": 0.3249
+    },
+    {
+      "shareholder_name": "Phạm Nhật Vượng",
+      "shareholder_percent": 0.116
+    },
+    {
+      "shareholder_name": "Công Ty Cổ Phần Quản Lý Và Đầu Tư Bất Động Sản Vmi",
+      "shareholder_percent": 0.0628
+    },
+    {
+      "shareholder_name": "SK Investment Vina II Pte. Ltd",
+      "shareholder_percent": 0.0472
+    },
+    {
+      "shareholder_name": "Phạm Thu Hương",
+      "shareholder_percent": 0.044
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư và Phát triển Đường sắt Cao tốc VINSPEED",
+      "shareholder_percent": 0.035
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Dịch vụ Thương mại Tổng hợp Wincommerce",
+      "shareholder_percent": 0.029942
+    },
+    {
+      "shareholder_name": "Phạm Thúy Hằng",
+      "shareholder_percent": 0.02985
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Năng lượng Vinenergo",
+      "shareholder_percent": 0.0272
+    },
+    {
+      "shareholder_name": "Công ty CP Đầu Tư Và Phát Triển Địa Ốc Thành Phố Hoàng Gia",
+      "shareholder_percent": 0.0238
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Vinpearl",
+      "shareholder_percent": 0.0226
+    },
+    {
+      "shareholder_name": "KEB Hana Bank, Co., Ltd.",
+      "shareholder_percent": 0.0164
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Di Chuyển Xanh Và Thông Minh GSM",
+      "shareholder_percent": 0.0133
+    },
+    {
+      "shareholder_name": "Phan Thu Hương",
+      "shareholder_percent": 0.0125279
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Vinpearl Hội An",
+      "shareholder_percent": 0.0073
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0051
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Bất Động Sản Xavinco",
+      "shareholder_percent": 0.0041
+    },
+    {
+      "shareholder_name": "Phạm Hồng Linh",
+      "shareholder_percent": 0.00362
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Thành",
+      "shareholder_percent": 0.003344
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.00236257
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam",
+      "shareholder_percent": 0.00203946
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Xây Dựng Đại An",
+      "shareholder_percent": 0.0017898107
+    },
+    {
+      "shareholder_name": "Phạm Thị Tuyết Mai",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Lê Minh Ngọc",
+      "shareholder_percent": 0.0006526
+    },
+    {
+      "shareholder_name": "Phạm Văn Khương",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Phan Quang Đăng",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Diệu Linh",
+      "shareholder_percent": 0.00024
+    },
+    {
+      "shareholder_name": "Phạm Minh Vũ",
+      "shareholder_percent": 0.00019
+    },
+    {
+      "shareholder_name": "Dương Thị Hoàn",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Quang",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "PCA International Funds SPC",
+      "shareholder_percent": 0.00010834
+    },
+    {
+      "shareholder_name": "Đặng Thanh Thủy",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Bất động sản Techcom Việt Nam",
+      "shareholder_percent": 7.687e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 6.26838e-05
+    },
+    {
+      "shareholder_name": "HOÀNG BẠCH DƯƠNG",
+      "shareholder_percent": 5.40536e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Sơn",
+      "shareholder_percent": 4.5705e-05
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 4.454e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Anh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hiền",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Mai Thu Thủy",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Mai Hương Nội",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Bế Thị Thuần",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Hiền",
+      "shareholder_percent": 1.91449e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 1.4319e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 9.17e-06
+    },
+    {
+      "shareholder_name": "Phạm Thy Thơ",
+      "shareholder_percent": 8.5559e-06
+    },
+    {
+      "shareholder_name": "Trần Anh Tuấn",
+      "shareholder_percent": 2.8704e-06
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Thủy",
+      "shareholder_percent": 2.1272e-06
+    },
+    {
+      "shareholder_name": "Phùng Thu Hằng",
+      "shareholder_percent": 2e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Nhật Vượng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.116
+    },
+    {
+      "officer_name": "Phạm Thu Hương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.044
+    },
+    {
+      "officer_name": "Phạm Thúy Hằng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.02985
+    },
+    {
+      "officer_name": "Phạm Văn Khương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Nguyễn Diệu Linh",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00024
+    },
+    {
+      "officer_name": "Nguyễn Việt Quang",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.00018
+    },
+    {
+      "officer_name": "Dương Thị Hoàn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00018
+    },
+    {
+      "officer_name": "Mai Hương Nội",
+      "officer_position": "Phó Tổng Giám đốc Thường trực",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hiền",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Nguyễn Thế Anh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Chin Michael Jeawuk",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Lan Phương",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thanh Mai",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ahmad Adil",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ronaldo Dy-Liacco Ibasco",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Park Woncheol",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Mai",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Hồng Vân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Thị Nguyệt",
+      "officer_position": "Người phụ trách quản trị công ty/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:12:28.626655"
+}

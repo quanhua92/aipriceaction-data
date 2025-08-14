@@ -1,0 +1,222 @@
+{
+  "symbol": "VCI",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 33962200000000,
+  "current_price": 47000,
+  "outstanding_shares": 722600000,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Vietcap (VCI)&nbsp;được th&agrave;nh lập v&agrave; ch&iacute;nh thức hoạt động v&agrave;o năm 2007. C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong lĩnh vực&nbsp;dịch vụ m&ocirc;i giới chứng kho&aacute;n, ng&acirc;n h&agrave;ng đầu tư v&agrave; dịch vụ nghi&ecirc;n cứu chứng kho&aacute;n. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 729,6 tỷ đồng, tăng 36.28% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 85.79%, giảm 17.47%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 786,94 tỷ đồng, tăng 76.15% v&agrave; đ&oacute;ng g&oacute;p 39.78 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 1.089,34 tỷ đồng, tăng 91.07%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 8.97%, tăng 1.87%.&nbsp;VCI được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2017.</div>",
+  "website": null,
+  "price_change": 1500,
+  "percent_price_change": 0.03296703,
+  "volume": 19406611,
+  "high_52w": 48100,
+  "low_52w": 30727,
+  "pe": 34.2978165164,
+  "pb": 2.7184848708,
+  "roe": 0.0783167552,
+  "roa": 0.0394028821,
+  "eps": 254.50018944090783,
+  "revenue": 1159674866340,
+  "net_profit": 183901836890,
+  "dividend": 0.0212765957,
+  "shareholders": [
+    {
+      "shareholder_name": "Tô  Hải",
+      "shareholder_percent": 0.1787
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0491
+    },
+    {
+      "shareholder_name": "Nguyễn Phan Minh Khôi",
+      "shareholder_percent": 0.04591
+    },
+    {
+      "shareholder_name": "Võ Thị Anh Quân",
+      "shareholder_percent": 0.0458
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tú",
+      "shareholder_percent": 0.0378
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0322
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Phượng",
+      "shareholder_percent": 0.0318
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.0265
+    },
+    {
+      "shareholder_name": "Trương Nguyễn Thiên Kim",
+      "shareholder_percent": 0.0174
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0165
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.01515
+    },
+    {
+      "shareholder_name": "Lưu Công Toại",
+      "shareholder_percent": 0.0125
+    },
+    {
+      "shareholder_name": "Trần Thanh Tân",
+      "shareholder_percent": 0.0125
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lan",
+      "shareholder_percent": 0.0054
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.00389
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.00324
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Bảo",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam Fund II",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Trần Quyết Thắng",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Kitmc Worldwide China Vietnam Fund",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.00111
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Đinh Quang Hoàn",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 2",
+      "shareholder_percent": 0.0006087021
+    },
+    {
+      "shareholder_name": "Đoàn Minh Thiện",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Kitmc Vietnam Growth Fund",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Tô Hồng Hà",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Bùi Vũ Hoàng Tuyên",
+      "shareholder_percent": 9.5e-05
+    },
+    {
+      "shareholder_name": "Đoàn Trần Phương Thảo",
+      "shareholder_percent": 4.8e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Tô  Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.1787
+    },
+    {
+      "officer_name": "Nguyễn Thanh Phượng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0318
+    },
+    {
+      "officer_name": "Nguyễn Quang Bảo",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0032
+    },
+    {
+      "officer_name": "Trần Quyết Thắng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "Đinh Quang Hoàn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Đoàn Minh Thiện",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Bùi Vũ Hoàng Tuyên",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 9.5e-05
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Bảo",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn  Việt Hòa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Lân Trung Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Thị Huyền Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thị Minh Nguyệt",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Phạm Ngọc Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Ngọc Hoài Phương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:39:25.069258"
+}

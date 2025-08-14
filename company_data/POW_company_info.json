@@ -1,0 +1,293 @@
+{
+  "symbol": "POW",
+  "exchange": "HOSE",
+  "industry": "Sản xuất & Phân phối Điện",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 38757974980000,
+  "current_price": 16550,
+  "outstanding_shares": 2341871600,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Điện lực Dầu kh&iacute; Việt Nam (POW)&nbsp;được th&agrave;nh lập v&agrave;o năm&nbsp;2007 theo Quyết định 1468/QĐ-DKVN của Hội đồng quản trị Tập đo&agrave;n Dầu kh&iacute; Quốc gia Việt Nam. Tổng C&ocirc;ng ty&nbsp;hoạt động ch&iacute;nh trong lĩnh vực sản xuất, truyền tải, kinh doanh, xuất nhập khẩu điện năng. Tổng C&ocirc;ng ty ch&iacute;nh thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh&nbsp;c&ocirc;ng ty cổ phần từ th&aacute;ng 07/2018. PV Power đang quản l&yacute; vận h&agrave;nh 7&nbsp;Nh&agrave; m&aacute;y điện với tổng c&ocirc;ng suất lắp đặt l&agrave; 4205&nbsp;MW, gồm điện kh&iacute;, than v&agrave; thủy điện. H&agrave;ng năm PV Power cung cấp l&ecirc;n lưới điện Quốc gia khoảng 21 tỷ Kwh, chiếm 13-15% sản lượng điện thương phẩm Quốc gia, đứng vị tr&iacute; thứ 2 sau Tập đo&agrave;n Điện lực Việt Nam. PV Power được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 03/2018.</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.0247678,
+  "volume": 21061598,
+  "high_52w": 16750,
+  "low_52w": 9920,
+  "pe": 26.5100192036,
+  "pb": 1.1814066529,
+  "roe": 0.0452766994,
+  "roa": 0.0178638721,
+  "eps": 245.41603419461597,
+  "revenue": 9414834690289,
+  "net_profit": 574732840665,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
+      "shareholder_percent": 0.7994
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.02513658
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.012678
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.007082
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.005216
+    },
+    {
+      "shareholder_name": "Vela SPC Ltd",
+      "shareholder_percent": 0.00493
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.004551
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.003547
+    },
+    {
+      "shareholder_name": "Auriga SPC Ltd",
+      "shareholder_percent": 0.00282
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.00282
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Giá trị Bảo Việt",
+      "shareholder_percent": 0.00213504
+    },
+    {
+      "shareholder_name": "Quena Ltd",
+      "shareholder_percent": 0.002007
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.001612
+    },
+    {
+      "shareholder_name": "Danang Investments Limited",
+      "shareholder_percent": 0.00161
+    },
+    {
+      "shareholder_name": "Melodica Ltd",
+      "shareholder_percent": 0.00159
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.001093
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.00041
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 0.0002457906
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 0.0002047935
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Manulife",
+      "shareholder_percent": 0.00017041
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 0.0001579933
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 0.00015799
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 3.80849e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 3.544e-05
+    },
+    {
+      "shareholder_name": "Hồ Công Kỳ",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Vũ Huy An",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Bích",
+      "shareholder_percent": 1.8e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Nghiệp",
+      "shareholder_percent": 1.4e-05
+    },
+    {
+      "shareholder_name": "Phạm Xuân Trường",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Giang",
+      "shareholder_percent": 9.4e-06
+    },
+    {
+      "shareholder_name": "Trương Văn Thục",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Hà",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Phan Đại Thành",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Ngô Văn Chiến",
+      "shareholder_percent": 2.8e-06
+    },
+    {
+      "shareholder_name": "Vũ Thị Ngọc Dung",
+      "shareholder_percent": 2.2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Quý",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Võ Thị Tú Oanh",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Lý Thị Thu Hương",
+      "shareholder_percent": 2e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hồ Công Kỳ",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 2.3e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Bích",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.8e-05
+    },
+    {
+      "officer_name": "Phạm Xuân Trường",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Duy Giang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 9.4e-06
+    },
+    {
+      "officer_name": "Vũ Thị Ngọc Dung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2.2e-06
+    },
+    {
+      "officer_name": "Lý Thị Thu Hương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Vũ Chí Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Thị Thu Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Minh Đạo",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thị Tố Nga",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Yến",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Thị Minh Nguyệt",
+      "officer_position": "Thành viên Ban kiểm soát/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chu Quang Toản",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Kiên",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Ngọc Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Như Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Quốc Hải",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Mạnh Tưởng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Thi",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Minh Nghĩa",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:02:29.976620"
+}

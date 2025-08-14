@@ -1,0 +1,150 @@
+{
+  "symbol": "VLB",
+  "exchange": "UPCOM",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2271005440000,
+  "current_price": 48400,
+  "outstanding_shares": 46921600,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty&nbsp;Cổ phần&nbsp;X&acirc;y dựng v&agrave; Sản xuất Vật liệu X&acirc;y dựng Bi&ecirc;n H&ograve;a (VLB) được th&agrave;nh lập năm 1983 với tiền th&acirc;n l&agrave; X&iacute; nghiệp Khai th&aacute;c Đất Bi&ecirc;n H&ograve;a. C&ocirc;ng ty đ&atilde; c&oacute; kinh nghiệm hơn 30 năm hoạt động trong lĩnh vực khai th&aacute;c, chế biến vật liệu x&acirc;y dựng. Tr&ecirc;n địa b&agrave;n tỉnh Đồng Nai, VLB đang quản l&yacute;, khai th&aacute;c v&agrave; kinh doanh 6 mỏ đ&aacute; v&agrave; hệ thống c&aacute;c bến thủy nội địa c&oacute; c&ocirc;ng suất bốc dỡ đ&aacute; tr&ecirc;n 2 triệu m3 đ&aacute; th&agrave;nh phẩm/năm để cung cấp vật liệu x&acirc;y dựng cho khu vực ph&iacute;a nam. VLB được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 09/2016.</div>\r\n",
+  "website": null,
+  "price_change": 1065,
+  "percent_price_change": 0.02237395,
+  "volume": 114420,
+  "high_52w": 49500,
+  "low_52w": 29991,
+  "pe": 9.0604626939,
+  "pb": 3.1358450898,
+  "roe": 0.3561353041,
+  "roa": 0.2537114046,
+  "eps": 1694.8826561154233,
+  "revenue": 408502695417,
+  "net_profit": 79185866828,
+  "dividend": 0.0410972979,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Công Nghiệp Thực Phẩm Đồng Nai - MTV Công ty TNHH",
+      "shareholder_percent": 0.49
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư KSB",
+      "shareholder_percent": 0.2195
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Hóa An",
+      "shareholder_percent": 0.0805
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Việt",
+      "shareholder_percent": 0.00215
+    },
+    {
+      "shareholder_name": "Phạm Thái Hợp",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Huỳnh Kim Vũ",
+      "shareholder_percent": 0.00128
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dũng",
+      "shareholder_percent": 0.0010377447
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Bình",
+      "shareholder_percent": 0.00085
+    },
+    {
+      "shareholder_name": "Hứa Hồ Điệp",
+      "shareholder_percent": 0.0008391489
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thuận Hiếu",
+      "shareholder_percent": 0.0006306383
+    },
+    {
+      "shareholder_name": "Trần Quốc Triều",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Phạm Quốc Thái",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Huỳnh Xuân Đạo",
+      "shareholder_percent": 0.000323
+    },
+    {
+      "shareholder_name": "Nguyễn Như Thạch",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Nguyễn Hùng Thắng",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Huỳnh Đường Tài",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Hồ Ngọc Liệp",
+      "shareholder_percent": 6.88889e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Xuân Việt",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.00215
+    },
+    {
+      "officer_name": "Huỳnh Kim Vũ",
+      "officer_position": "Giám đốc",
+      "officer_percent": 0.00128
+    },
+    {
+      "officer_name": "Phạm Quốc Thái",
+      "officer_position": "Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Huỳnh Xuân Đạo",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.000323
+    },
+    {
+      "officer_name": "Nguyễn Hùng Thắng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.00011
+    },
+    {
+      "officer_name": "Huỳnh Đường Tài",
+      "officer_position": "Trưởng Ban kiểm soát/Phụ trách Công bố thông tin",
+      "officer_percent": 0.00011
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Trà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Phòng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Trúc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:12:44.279715"
+}

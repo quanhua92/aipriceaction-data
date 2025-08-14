@@ -1,0 +1,282 @@
+{
+  "symbol": "HVN",
+  "exchange": "HOSE",
+  "industry": "Du lịch & Giải trí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 70307015024500,
+  "current_price": 31750,
+  "outstanding_shares": 2214394174,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Tổng C&ocirc;ng ty H&agrave;ng kh&ocirc;ng Việt Nam (HVN) c&oacute; tiền th&acirc;n l&agrave; Cục H&agrave;ng kh&ocirc;ng d&acirc;n dụng, được th&agrave;nh lập v&agrave;o th&aacute;ng 01/1956. Hoạt động sản xuất ch&iacute;nh của Tổng C&ocirc;ng ty l&agrave; cung cấp dịch vụ vận tải h&agrave;ng kh&ocirc;ng. Vietnam Airlines ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần&nbsp;từ năm 2015.&nbsp;Năm 2024,&nbsp;HVN chiếm 30.6% thị phần h&agrave;ng kh&ocirc;ng. Ngo&agrave;i hệ thống kinh doanh trong nước, hiện tại mạng lưới gần 100 đường&nbsp;bay nội địa v&agrave; quốc tế, kết nối với hơn 1.150 điểm đến&nbsp;to&agrave;n cầu.&nbsp;HVN được Ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2019.</div>\r\n",
+  "website": null,
+  "price_change": -650,
+  "percent_price_change": -0.02006173,
+  "volume": 1995200,
+  "high_52w": 34950,
+  "low_52w": 15053,
+  "pe": 8.3909156013,
+  "pb": 0,
+  "roe": 0,
+  "roa": 0.1446618563,
+  "eps": 906.2895389175616,
+  "revenue": 28058368482050,
+  "net_profit": 2822542859962,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Ủy Ban Quản Lý Vốn Nhà Nước Tại Doanh Nghiệp",
+      "shareholder_percent": 0.552
+    },
+    {
+      "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
+      "shareholder_percent": 0.552
+    },
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.3114
+    },
+    {
+      "shareholder_name": "Ana Holdings Inc.",
+      "shareholder_percent": 0.0562
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 0.01044
+    },
+    {
+      "shareholder_name": "Công Đoàn Tổng Công ty Hàng Không Việt Nam",
+      "shareholder_percent": 0.00058
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 0.00013189
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 2.74986e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 2.613e-05
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam",
+      "shareholder_percent": 1.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Bảo",
+      "shareholder_percent": 1.222e-05
+    },
+    {
+      "shareholder_name": "Đặng Ngọc Hòa",
+      "shareholder_percent": 9.8e-06
+    },
+    {
+      "shareholder_name": "Trịnh Ngọc Thành",
+      "shareholder_percent": 9.79e-06
+    },
+    {
+      "shareholder_name": "Tạ Mạnh Hùng",
+      "shareholder_percent": 9.3e-06
+    },
+    {
+      "shareholder_name": "Mai Hữu Thọ",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Lĩnh",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Đặng Anh Tuấn",
+      "shareholder_percent": 8.9e-06
+    },
+    {
+      "shareholder_name": "TRỊNH HỒNG QUANG",
+      "shareholder_percent": 8.9e-06
+    },
+    {
+      "shareholder_name": "Trần Thanh Hiền",
+      "shareholder_percent": 8.9e-06
+    },
+    {
+      "shareholder_name": "LÊ HỒNG HÀ",
+      "shareholder_percent": 8.82e-06
+    },
+    {
+      "shareholder_name": "Lê Trường Giang",
+      "shareholder_percent": 8.59e-06
+    },
+    {
+      "shareholder_name": "Đinh Văn Tuấn",
+      "shareholder_percent": 7.87e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Chiến Thắng",
+      "shareholder_percent": 6.5e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Thủy",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hải",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Minh",
+      "shareholder_percent": 5.2e-06
+    },
+    {
+      "shareholder_name": "Trần Thị Hương",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Dương Trí Thành",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thái Trung",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Hoàng Thanh Quý",
+      "shareholder_percent": 4.7e-06
+    },
+    {
+      "shareholder_name": "Lê Đức Cảnh",
+      "shareholder_percent": 4.24e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Tuất",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Trọng",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Trịnh Hồng Minh",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Thảo",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thiên Kim",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Trần Văn Hữu",
+      "shareholder_percent": 2.26e-06
+    },
+    {
+      "shareholder_name": "Vương Thị Phúc Minh",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Hiếu",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Kim Thị Thu Huyền",
+      "shareholder_percent": 6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đặng Ngọc Hòa",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 9.8e-06
+    },
+    {
+      "officer_name": "Trịnh Ngọc Thành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 9.79e-06
+    },
+    {
+      "officer_name": "Tạ Mạnh Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 9.3e-06
+    },
+    {
+      "officer_name": "Mai Hữu Thọ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 9e-06
+    },
+    {
+      "officer_name": "Nguyễn Hồng Lĩnh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 9e-06
+    },
+    {
+      "officer_name": "Trần Thanh Hiền",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 8.9e-06
+    },
+    {
+      "officer_name": "TRỊNH HỒNG QUANG",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 8.9e-06
+    },
+    {
+      "officer_name": "LÊ HỒNG HÀ",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 8.82e-06
+    },
+    {
+      "officer_name": "Lê Trường Giang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 8.59e-06
+    },
+    {
+      "officer_name": "Đinh Văn Tuấn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7.87e-06
+    },
+    {
+      "officer_name": "Nguyễn Chiến Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 6.5e-06
+    },
+    {
+      "officer_name": "Nguyễn Xuân Thủy",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 6e-06
+    },
+    {
+      "officer_name": "Nguyễn Thái Trung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 5e-06
+    },
+    {
+      "officer_name": "Dương Trí Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 5e-06
+    },
+    {
+      "officer_name": "Nguyễn Thị Thiên Kim",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tùng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tomoji Ishii",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tô Ngọc Giang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:34.730889"
+}

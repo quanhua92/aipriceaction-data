@@ -1,0 +1,245 @@
+{
+  "symbol": "VJC",
+  "exchange": "HOSE",
+  "industry": "Du lịch & Giải trí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 69001283951600,
+  "current_price": 127400,
+  "outstanding_shares": 541611334,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần H&agrave;ng kh&ocirc;ng Vietjet (VJC) l&agrave; h&atilde;ng h&agrave;ng kh&ocirc;ng tư nh&acirc;n đầu ti&ecirc;n của Việt Nam được th&agrave;nh lập năm 2007 với 3 cổ đ&ocirc;ng ch&iacute;nh l&agrave; Tập&nbsp;đo&agrave;n T&amp;C, Sovico Holdings v&agrave; HD&nbsp;Bank. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực vận tải h&agrave;ng kh&ocirc;ng.&nbsp;Vietjet c&oacute; mạng lưới đường bay rộng khắp tới c&aacute;c khu vực Đ&ocirc;ng Nam &Aacute; v&agrave; Đ&ocirc;ng Bắc &Aacute; với 125 đường bay nội địa v&agrave; quốc tế.&nbsp;VJC trở th&agrave;nh h&atilde;ng h&agrave;ng kh&ocirc;ng đầu ti&ecirc;n c&oacute; đường bay kết nối Việt Nam với 5 th&agrave;nh phố lớn nhất của Australia. H&atilde;ng cũng l&agrave; h&atilde;ng bay khai th&aacute;c nhiều đường bay nhất giữa Việt Nam v&agrave; Ấn Độ. VJC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 02/2017.</p>\r\n\r\n<p class=\"MsoNormal\"><!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p>&nbsp;</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.00314961,
+  "volume": 4792002,
+  "high_52w": 131900,
+  "low_52w": 77100,
+  "pe": 37.1619378013,
+  "pb": 3.159719713,
+  "roe": 0.0988804494,
+  "roa": 0.0184594692,
+  "eps": 1102.8048595701853,
+  "revenue": 17885303707141,
+  "net_profit": 652431854112,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Hướng Dương Sunny",
+      "shareholder_percent": 0.2616
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Thảo",
+      "shareholder_percent": 0.0802
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Sovico",
+      "shareholder_percent": 0.0759
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sovico",
+      "shareholder_percent": 0.0759
+    },
+    {
+      "shareholder_name": "Công Ty Cổ Phần Aviation",
+      "shareholder_percent": 0.0592
+    },
+    {
+      "shareholder_name": "Government Of Singapore",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Dynamic & Development",
+      "shareholder_percent": 0.0423
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Phát Triển Thành phố Hồ Chí Minh",
+      "shareholder_percent": 0.0101
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hùng",
+      "shareholder_percent": 0.00989284
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Bắc Hà",
+      "shareholder_percent": 0.0096
+    },
+    {
+      "shareholder_name": "Lưu Đức Khánh",
+      "shareholder_percent": 0.00166991
+    },
+    {
+      "shareholder_name": "Nguyễn Cảnh Sơn",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thịnh",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Đinh Việt Phương",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hà",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Đoàn Thu Hương",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Đỗ Kim Thịnh",
+      "shareholder_percent": 0.00037
+    },
+    {
+      "shareholder_name": "Trần Hoài Nam",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thúy Bình",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Phạm Minh Hà",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bảo Anh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Tâm",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Tô Việt Thắng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Chu Việt Cường",
+      "shareholder_percent": 0.00012555
+    },
+    {
+      "shareholder_name": "Hoàng Mạnh Hà",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Phước Hùng Anh Victor",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Sơn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phạm Văn Đẩu",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 9.535e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 5.048e-05
+    },
+    {
+      "shareholder_name": "Đỗ Xuân Quang",
+      "shareholder_percent": 3.74e-05
+    },
+    {
+      "shareholder_name": "Lê Việt Anh",
+      "shareholder_percent": 3.36e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thị Phương Thảo",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0802
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hùng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00989284
+    },
+    {
+      "officer_name": "Lưu Đức Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00166991
+    },
+    {
+      "officer_name": "Nguyễn Đức Thịnh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Đinh Việt Phương",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hà",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Nguyễn Thị Thúy Bình",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Trần Hoài Nam",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Tô Việt Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Chu Việt Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00012555
+    },
+    {
+      "officer_name": "Hoàng Mạnh Hà",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Thanh Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Đỗ Xuân Quang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 3.74e-05
+    },
+    {
+      "officer_name": "Donal Joseph Boylan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Ngọc Thoa",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Thế Phúc",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Ngọc Yến Phương",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:12:39.247951"
+}

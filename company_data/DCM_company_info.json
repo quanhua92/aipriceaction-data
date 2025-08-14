@@ -1,0 +1,208 @@
+{
+  "symbol": "DCM",
+  "exchange": "HOSE",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 21705400000000,
+  "current_price": 41000,
+  "outstanding_shares": 529400000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Ph&acirc;n b&oacute;n Dầu Kh&iacute; C&agrave; Mau (DCM) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH MTV Ph&acirc;n b&oacute;n Dầu kh&iacute; C&agrave; Mau,&nbsp;được th&agrave;nh lập v&agrave;o năm 2011. C&ocirc;ng ty ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ đầu năm 2015. Sản phẩm của c&ocirc;ng ty bao gồm Đạm Ure hạt đục, ph&acirc;n phối ch&iacute;nh tại khu vực T&acirc;y Nam Bộ, Nam Bộ v&agrave; Đồng Bằng S&ocirc;ng Cửu Long. Sản phẩm ph&acirc;n b&oacute;n của C&ocirc;ng ty c&ograve;n được xuất khẩu sang c&aacute;c thị trường Ch&acirc;u &Aacute;, đặc biệt l&agrave; thị trường Campuchia. C&ocirc;ng ty sở hữu trực tiếp 01 nh&agrave; m&aacute;y sản xuất urea với c&ocirc;ng suất thiết kế 800.000 tấn/năm v&agrave; gi&aacute;n tiếp sở hữu Nh&agrave; m&aacute;y Bao b&igrave;&nbsp;c&oacute; c&ocirc;ng suất thiết kế 20 triệu bao/năm v&agrave; 01 nh&agrave; m&aacute;y sản xuất ph&acirc;n urea humate c&oacute; c&ocirc;ng suất 30.000 tấn/năm th&ocirc;ng qua C&ocirc;ng ty con - C&ocirc;ng ty Cổ phần Bao b&igrave; Dầu kh&iacute; Việt Nam. DCM được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 03/2015.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.00726392,
+  "volume": 5275216,
+  "high_52w": 42100,
+  "low_52w": 23376,
+  "pe": 12.7283256012,
+  "pb": 2.1205146128,
+  "roe": 0.1672875178,
+  "roa": 0.1030450325,
+  "eps": 1519.9728112372497,
+  "revenue": 6252174624432,
+  "net_profit": 804673606269,
+  "dividend": 0.0243902439,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
+      "shareholder_percent": 0.7556
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý Quỹ Ngân hàng TMCP Đại chúng Việt Nam",
+      "shareholder_percent": 0.0843
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ Ngân hàng TMCP Đại chúng Việt nam",
+      "shareholder_percent": 0.0497
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.021723
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.017624
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.009445
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000642
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000506
+    },
+    {
+      "shareholder_name": "Văn Tiến Thanh",
+      "shareholder_percent": 0.0002059
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 0.00017756
+    },
+    {
+      "shareholder_name": "Bùi Minh Tiến",
+      "shareholder_percent": 0.000136
+    },
+    {
+      "shareholder_name": "Hoàng Trọng Dũng",
+      "shareholder_percent": 5.969e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thành",
+      "shareholder_percent": 5.308e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Hạnh",
+      "shareholder_percent": 1.51e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tùng",
+      "shareholder_percent": 9.5e-06
+    },
+    {
+      "shareholder_name": "Đinh Như Cường",
+      "shareholder_percent": 5.5e-06
+    },
+    {
+      "shareholder_name": "Đỗ Minh Đương",
+      "shareholder_percent": 3.8e-06
+    },
+    {
+      "shareholder_name": "Lê Ngọc Minh Trí",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Trần Chí Nguyện",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Lâm Văn Chí",
+      "shareholder_percent": 2.64e-06
+    },
+    {
+      "shareholder_name": "Tô Hồng Ánh",
+      "shareholder_percent": 2.64e-06
+    },
+    {
+      "shareholder_name": "Trần Kim Phượng",
+      "shareholder_percent": 1.8e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Song Yên",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Phan Thị Cẩm Hương",
+      "shareholder_percent": 4e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Văn Tiến Thanh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0002059
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 9.5e-06
+    },
+    {
+      "officer_name": "Đinh Như Cường",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 5.5e-06
+    },
+    {
+      "officer_name": "Đỗ Minh Đương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.8e-06
+    },
+    {
+      "officer_name": "Lê Ngọc Minh Trí",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Phan Thị Cẩm Hương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 4e-07
+    },
+    {
+      "officer_name": "Đỗ Thị Hoa",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Đức Quang",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Ngọc Nguyên",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Bình",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Mỹ",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thành Hưng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Hồng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Minh Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:51:09.810035"
+}

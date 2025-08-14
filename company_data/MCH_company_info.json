@@ -1,0 +1,151 @@
+{
+  "symbol": "MCH",
+  "exchange": "UPCOM",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 121322062672400,
+  "current_price": 114200,
+  "outstanding_shares": 1062364822,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần H&agrave;ng Ti&ecirc;u D&ugrave;ng MaSan (MCH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần C&ocirc;ng nghiệp -&nbsp;Thương mại Masan được th&agrave;nh lập&nbsp;v&agrave;o năm 2000. C&ocirc;ng ty sản xuất v&agrave; kinh doanh c&aacute;c loại thực phẩm v&agrave; đồ uống bao gồm nước mắm, nước tương, tương ớt, m&igrave; ăn liền, ch&aacute;o ăn liền, c&agrave; ph&ecirc; h&ograve;a tan, ngũ cốc dinh dưỡng v&agrave; đồ uống đ&oacute;ng chai với c&aacute;c thương hiệu mạnh như: Omachi, Chinsu, Kokomi, Vinacafe, Wake-up, Tam Th&aacute;i Tử, Nam Ngư, Wake-up 247. C&ocirc;ng ty&nbsp;đ&atilde; x&acirc;y dựng&nbsp;một trong những hệ thống ph&acirc;n phối thực phẩm v&agrave; đồ uống lớn nhất tại Việt Nam&nbsp;với gần 180.000 điểm b&aacute;n lẻ sản phẩm thực phẩm, 160.000&nbsp;điểm b&aacute;n lẻ sản&nbsp;phẩm&nbsp;đồ uống, 3 trung t&acirc;m ph&acirc;n phối tại Miền Nam, Miền Trung v&agrave; Miền Bắc. MCH được giao dịch tr&ecirc;n thị trường UPCOM từ đầu năm 2017.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -1201,
+  "percent_price_change": -0.01045257,
+  "volume": 613506,
+  "high_52w": 179292,
+  "low_52w": 100992,
+  "pe": 12.5995140971,
+  "pb": 7.0950312946,
+  "roe": 0.5009810913,
+  "roa": 0.2153227035,
+  "eps": 1254.7392073950286,
+  "revenue": 6357344195279,
+  "net_profit": 1325889643347,
+  "dividend": 0.0527709127,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH MasanConsumerHoldings",
+      "shareholder_percent": 0.69712
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Masan",
+      "shareholder_percent": 0.568
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Yến",
+      "shareholder_percent": 0.001549
+    },
+    {
+      "shareholder_name": "Phạm Hồng Sơn",
+      "shareholder_percent": 0.000786
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Nguyên",
+      "shareholder_percent": 0.00063
+    },
+    {
+      "shareholder_name": "Lê Trung Thành",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Huỳnh Việt Thăng",
+      "shareholder_percent": 0.000294
+    },
+    {
+      "shareholder_name": "Nguyễn Thiều Quang",
+      "shareholder_percent": 0.000201
+    },
+    {
+      "shareholder_name": "Đinh Kim Nhung",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Phương Bắc",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Seokhee Won",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trương Công Thắng",
+      "shareholder_percent": 0.000181
+    },
+    {
+      "shareholder_name": "Phạm Đình Toại",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Quang",
+      "shareholder_percent": 4.2e-05
+    },
+    {
+      "shareholder_name": "Phan Thị Thúy Hoa",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Quý Định",
+      "shareholder_percent": 2e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Hoàng Yến",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.001549
+    },
+    {
+      "officer_name": "Phạm Hồng Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000786
+    },
+    {
+      "officer_name": "Huỳnh Việt Thăng",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.000294
+    },
+    {
+      "officer_name": "Nguyễn Thiều Quang",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000201
+    },
+    {
+      "officer_name": "Trương Công Thắng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000181
+    },
+    {
+      "officer_name": "Phan Thị Thúy Hoa",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "DANNY LE",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thu Hiền",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Hoàng Yến",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thu Hiền",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:54:23.194043"
+}

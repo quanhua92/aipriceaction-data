@@ -1,0 +1,228 @@
+{
+  "symbol": "PDR",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 21955089008600,
+  "current_price": 24200,
+  "outstanding_shares": 907235083,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Ph&aacute;t triển Bất động sản Ph&aacute;t Đạt (PDR) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần X&acirc;y dựng v&agrave; Kinh doanh nh&agrave; Ph&aacute;t Đạt&nbsp;được&nbsp;th&agrave;nh lập v&agrave;o năm 2004. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư x&acirc;y dựng v&agrave; kinh doanh bất động sản, nh&agrave; ở, kinh doanh dịch vụ khu du lịch, kh&aacute;ch sạn, resort cao cấp. C&ocirc;ng ty đ&atilde; v&agrave; đang tiếp tục mở rộng danh mục đầu tư v&agrave;o nhiều dự &aacute;n Bất động sản tr&ecirc;n địa bản cả nước, hướng đến trở th&agrave;nh một trong những nh&agrave; đầu tư Bất động sản lớn mạnh tại Việt Nam. Một số c&aacute;c c&ocirc;ng tr&igrave;nh m&agrave; c&ocirc;ng ty đ&atilde; v&agrave; đang thực hiện l&agrave;: Dự &aacute;n EverRich 1, 2,3,4; kh&aacute;ch sạn- resort&nbsp;Westin, Spa Cam Ranh. PDR được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 300,
+  "percent_price_change": 0.0125523,
+  "volume": 41299648,
+  "high_52w": 24350,
+  "low_52w": 13935,
+  "pe": 136.9990637507,
+  "pb": 2.0098613278,
+  "roe": 0.0150104631,
+  "roa": 0.0071636629,
+  "eps": 66.26071669293543,
+  "revenue": 19926802911,
+  "net_profit": 64922871675,
+  "dividend": 0.020661157,
+  "shareholders": [
+    {
+      "shareholder_name": "NGUYỄN VĂN ĐẠT",
+      "shareholder_percent": 0.3815
+    },
+    {
+      "shareholder_name": "Công ty TNHH Phát Đạt Holdings",
+      "shareholder_percent": 0.0905
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.0174
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Thư",
+      "shareholder_percent": 0.0068
+    },
+    {
+      "shareholder_name": "Đoàn Viết Đại Từ",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "TRẦN THỊ HƯỜNG",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Lê Quang Phúc",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Ngô Thuý Vân",
+      "shareholder_percent": 0.00075
+    },
+    {
+      "shareholder_name": "Vũ Thành Lê",
+      "shareholder_percent": 0.0004805
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Trí",
+      "shareholder_percent": 0.00026
+    },
+    {
+      "shareholder_name": "Lê Như Đức",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Thảo",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "TRẦN THỊ HOÀI AN",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Công Đoàn Cơ sở Công ty Cổ phần Phát triển Bất động sản Phát Đạt",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Dương Hồng Cẩm",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Sinh",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Trương Ngọc Dũng",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Phan Lê Hoà",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Cổ Thị Thanh Liên",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 7.634e-05
+    },
+    {
+      "shareholder_name": "CÔNG TY TNHH  OMVEST VIETNAM",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Ngô Thúy Vân",
+      "shareholder_percent": 4.9e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Cương",
+      "shareholder_percent": 4.7e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 4.05129e-05
+    },
+    {
+      "shareholder_name": "Tạ Ngọc Thành",
+      "shareholder_percent": 2.97309e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dũng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Phan Tôn Ngọc Tiến",
+      "shareholder_percent": 5e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Liên",
+      "shareholder_percent": 2.2e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Xuân Hạnh",
+      "shareholder_percent": 1e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "NGUYỄN VĂN ĐẠT",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.3815
+    },
+    {
+      "officer_name": "Đoàn Viết Đại Từ",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0025
+    },
+    {
+      "officer_name": "TRẦN THỊ HƯỜNG",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Lê Quang Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0011
+    },
+    {
+      "officer_name": "Nguyễn Đình Trí",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00026
+    },
+    {
+      "officer_name": "TRẦN THỊ HOÀI AN",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Thanh Thảo",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Dương Hồng Cẩm",
+      "officer_position": "Phó Tổng Giám đốc Đầu tư",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Cổ Thị Thanh Liên",
+      "officer_position": "Phó Giám đốc Kiểm toán nội bộ",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Bùi Quang Anh Vũ",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Trọng Gia Vinh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tấn Danh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Khương Văn Mười",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Huy Hân",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Trang",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Minh Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:02:04.225731"
+}

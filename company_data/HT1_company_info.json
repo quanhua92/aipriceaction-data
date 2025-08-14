@@ -1,0 +1,270 @@
+{
+  "symbol": "HT1",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 6487028487000,
+  "current_price": 17000,
+  "outstanding_shares": 381589911,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Xi măng VICEM H&agrave; Ti&ecirc;n (HT1) c&oacute; tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Xi măng H&agrave; Ti&ecirc;n được khởi c&ocirc;ng x&acirc;y dựng từ năm 1960.&nbsp;C&ocirc;ng ty chuy&ecirc;n sản xuất v&agrave; kinh doanh Clinker CPC50, clinker bền sulfat, Xi măng PCB40, Xi măng hỗn hợp PCB40, Xi măng MS-PCB40, Xi măng x&aacute; v&agrave; jumbo. HT1 giữ vị thế&nbsp;l&agrave; đơn vị sản xuất xi măng h&agrave;ng đầu tại thị trường ph&iacute;a Nam Việt Nam. C&ocirc;ng ty c&oacute; 05 đơn vị sản xuất xi măng gồm c&oacute; 02 nh&agrave; m&aacute;y sản xuất clinker, xi măng v&agrave; 03 trạm nghiền xi măng với nhiệm vụ sản xuất, cung cấp v&agrave; ph&acirc;n phối xi măng cho c&aacute;c tỉnh, th&agrave;nh ở ph&iacute;a Nam, Đ&ocirc;ng Nam Bộ, T&acirc;y Nam Bộ, T&acirc;y Nguy&ecirc;n, Duy&ecirc;n hải Nam Trung Bộ đến Mũi C&agrave; Mau. HT1 được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -150,
+  "percent_price_change": -0.00874636,
+  "volume": 1842215,
+  "high_52w": 17450,
+  "low_52w": 9170,
+  "pe": 45.6354018268,
+  "pb": 1.3114554219,
+  "roe": 0.0291326118,
+  "roa": 0.0174342097,
+  "eps": 294.3783211291454,
+  "revenue": 2098265343733,
+  "net_profit": 112331797360,
+  "dividend": 0.0176470588,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Xi măng Việt Nam",
+      "shareholder_percent": 0.7969
+    },
+    {
+      "shareholder_name": "Hoàng Kim Cường",
+      "shareholder_percent": 0.1000252
+    },
+    {
+      "shareholder_name": "Trần Hoàng Việt Anh",
+      "shareholder_percent": 0.0279
+    },
+    {
+      "shareholder_name": "Lê Phương Thúy",
+      "shareholder_percent": 0.027
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán ACB",
+      "shareholder_percent": 0.02375567
+    },
+    {
+      "shareholder_name": "Trần Thị Ngọc Anh",
+      "shareholder_percent": 0.0183
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bảo Hiểm Nhân Thọ Cathay Việt Nam",
+      "shareholder_percent": 0.0112
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Chuyền",
+      "shareholder_percent": 0.00951
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán BIDV",
+      "shareholder_percent": 0.0086
+    },
+    {
+      "shareholder_name": "Galileo - Vietnam Fund",
+      "shareholder_percent": 0.0075
+    },
+    {
+      "shareholder_name": "E.I. Sturdza Funds Public Limited Company",
+      "shareholder_percent": 0.0071
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý quỹ đầu tư chứng khoán Vietcombank",
+      "shareholder_percent": 0.0062
+    },
+    {
+      "shareholder_name": "Trần Phi Hùng",
+      "shareholder_percent": 0.0055
+    },
+    {
+      "shareholder_name": "Lionglobal Vietnam Fund",
+      "shareholder_percent": 0.0054
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Lộc",
+      "shareholder_percent": 0.0044
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tươi",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Đoàn Thị Thanh Vân",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Phương",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Công đoàn Công ty Cổ phần Vận tải Hà Tiên",
+      "shareholder_percent": 0.0011708
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Vietcap",
+      "shareholder_percent": 0.00116264
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Anh",
+      "shareholder_percent": 0.000459
+    },
+    {
+      "shareholder_name": "Đoàn Thị Thảo Loan",
+      "shareholder_percent": 0.000414
+    },
+    {
+      "shareholder_name": "Tô  Hải",
+      "shareholder_percent": 0.000198
+    },
+    {
+      "shareholder_name": "Trần Thị Hồng Thanh",
+      "shareholder_percent": 0.000144
+    },
+    {
+      "shareholder_name": "Mai Văn Yên",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Cái Hồng Thu",
+      "shareholder_percent": 6.94445e-05
+    },
+    {
+      "shareholder_name": "Trần Duy Sơn",
+      "shareholder_percent": 1.08506e-05
+    },
+    {
+      "shareholder_name": "Trần Việt Thắng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Ngô Minh Lãng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Ngô Minh Lăng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Tạ Thị Kim Oanh",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Võ Văn Vân",
+      "shareholder_percent": 9.5e-06
+    },
+    {
+      "shareholder_name": "Vy Thùy Vân",
+      "shareholder_percent": 9.4353e-06
+    },
+    {
+      "shareholder_name": "Lý Tân Huệ",
+      "shareholder_percent": 8.3345e-06
+    },
+    {
+      "shareholder_name": "Phạm Đình Nhật Cường",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Diện",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Phạm Thế Nghĩa",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Dung",
+      "shareholder_percent": 2.3588e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Toán",
+      "shareholder_percent": 1.6e-06
+    },
+    {
+      "shareholder_name": "Mai Thanh Sơn",
+      "shareholder_percent": 1.1888e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Minh",
+      "shareholder_percent": 1.0504e-06
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 1e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Chuyền",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00951
+    },
+    {
+      "officer_name": "Phạm Đình Nhật Cường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 6e-06
+    },
+    {
+      "officer_name": "Trần Thị Bích Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Phúc",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lưu Đình Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Lập",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Cảnh Nguyễn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Quang Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thu Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trung Thị Tâm Thanh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Kiến Phương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Nguyên Quỳnh",
+      "officer_position": "Kế toán trưởng/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Xuân Hiệu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thị Phương Thơ",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:23.996224"
+}

@@ -1,0 +1,318 @@
+{
+  "symbol": "VHC",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 13983431805700,
+  "current_price": 62300,
+  "outstanding_shares": 224453159,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Vĩnh Ho&agrave;n (VHC), c&oacute; tiền th&acirc;n l&agrave; Doanh nghiệp tư nh&acirc;n Vĩnh Ho&agrave;n được th&agrave;nh lập v&agrave;o năm 1997. Năm 2007, VHC&nbsp;ch&iacute;nh thức chuyển đổi m&ocirc; h&igrave;nh kinh doanh sang C&ocirc;ng ty Cổ phần Vĩnh Ho&agrave;n.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực nu&ocirc;i trồng, chế biến xuất khẩu c&aacute; Tra, Basa đ&ocirc;ng lạnh với c&aacute;c sản phẩm ch&iacute;nh l&agrave; c&aacute; tra, basa, l&oacute;c, r&ocirc; phi, fillet mang thương hiệu Vĩnh ho&agrave;n. VHC l&agrave; C&ocirc;ng ty dẫn đầu ng&agrave;nh c&aacute; tra Việt Nam từ năm 2010 đến nay, chiếm thị phần khoảng 15% của to&agrave;n ng&agrave;nh. Sản phẩm của C&ocirc;ng ty đ&atilde; c&oacute; mặt tại c&aacute;c chuỗi b&aacute;n lẻ danh tiếng như Walmart, Target, Trader Joe, v&agrave; Kroger, v&agrave; được ph&acirc;n phối bởi c&aacute;c c&ocirc;ng ty về dịch vụ thực phẩm h&agrave;ng đầu của Mỹ như Sysco, Gordon Food Service, US Foods. VHC đang dẫn đầu trong số lượng c&aacute;c v&ugrave;ng nu&ocirc;i đạt chứng nhận tại Việt Nam với diện t&iacute;ch v&ugrave;ng nu&ocirc;i đạt chứng nhận Aquaculture Stewardship Council (ASC), Best Aquaculture Practices (BAP), Global Good Agricultural Practice (GlobalGAP) lần lượt đạt 180ha, 135ha, v&agrave; 155ha. Ng&agrave;y 24/12/2007, VHC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 2700,
+  "percent_price_change": 0.04530201,
+  "volume": 5129610,
+  "high_52w": 75300,
+  "low_52w": 43750,
+  "pe": 9.7776093376,
+  "pb": 1.4934384611,
+  "roe": 0.16063224,
+  "roa": 0.1135827716,
+  "eps": 2221.3213377495836,
+  "revenue": 3207128261359,
+  "net_profit": 498582591412,
+  "dividend": 0.0321027287,
+  "shareholders": [
+    {
+      "shareholder_name": "Trương Thị Lệ Khanh",
+      "shareholder_percent": 0.4232
+    },
+    {
+      "shareholder_name": "Mitsubishi Corporation",
+      "shareholder_percent": 0.065
+    },
+    {
+      "shareholder_name": "Quỹ Đầu Tư Việt Nam",
+      "shareholder_percent": 0.0498
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Dragon Capital Việt Nam",
+      "shareholder_percent": 0.0498
+    },
+    {
+      "shareholder_name": "Red River Holding",
+      "shareholder_percent": 0.0492
+    },
+    {
+      "shareholder_name": "Lâm Quang Thanh",
+      "shareholder_percent": 0.0457
+    },
+    {
+      "shareholder_name": "Lâm Mẫu Diệp",
+      "shareholder_percent": 0.0447
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.022795
+    },
+    {
+      "shareholder_name": "Võ Phú Đức",
+      "shareholder_percent": 0.01581
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.015504
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.0078
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.006821
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.004544
+    },
+    {
+      "shareholder_name": "Nguyễn Ngô Vi Tâm",
+      "shareholder_percent": 0.0028
+    },
+    {
+      "shareholder_name": "Hà Thị Phương Thủy Hồng Nhung",
+      "shareholder_percent": 0.00193
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Đào",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Trương Tuyết Hoa",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Hồ Thanh Huệ",
+      "shareholder_percent": 0.00123
+    },
+    {
+      "shareholder_name": "Phan Thị Bích Liên",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000916
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.000877
+    },
+    {
+      "shareholder_name": "Vietnam Co-Investment Fund",
+      "shareholder_percent": 0.000824
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000589
+    },
+    {
+      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.00044
+    },
+    {
+      "shareholder_name": "Lê Thị Sáu",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Đặng Văn Viễn",
+      "shareholder_percent": 0.0002315702
+    },
+    {
+      "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Vĩnh Hoàn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Tạ Khánh Toàn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Thị Hoàng Thư",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trương Chí Phước",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Huỳnh Đức Trung",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Vinh",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Trần Minh Hảo",
+      "shareholder_percent": 0.000135492
+    },
+    {
+      "shareholder_name": "Lê Mạnh Đức",
+      "shareholder_percent": 0.0001082204
+    },
+    {
+      "shareholder_name": "Mai Thành Trọng Nhân",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Thị Diệu Thi",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phan Thị Kiều Oanh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Hồng Diễm",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Bảo Anh",
+      "shareholder_percent": 7.1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Nghệ",
+      "shareholder_percent": 5.62746e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 5.60606e-05
+    },
+    {
+      "shareholder_name": "Trương Tuyết Phương",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Văn Thị Thảo",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Thái Quang Vũ",
+      "shareholder_percent": 1.47e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Khánh",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hòa",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Cẩm Tú",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Trương Lệ Quyên",
+      "shareholder_percent": 3.3e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trương Thị Lệ Khanh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.4232
+    },
+    {
+      "officer_name": "Võ Phú Đức",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.01581
+    },
+    {
+      "officer_name": "Nguyễn Ngô Vi Tâm",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0028
+    },
+    {
+      "officer_name": "Hà Thị Phương Thủy Hồng Nhung",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00193
+    },
+    {
+      "officer_name": "Nguyễn Thị Kim Đào",
+      "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc Tài chính",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "Trương Tuyết Hoa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0013
+    },
+    {
+      "officer_name": "Hồ Thanh Huệ",
+      "officer_position": "Giám đốc Sản xuất",
+      "officer_percent": 0.00123
+    },
+    {
+      "officer_name": "Huỳnh Đức Trung",
+      "officer_position": "Giám đốc điều hành dự án",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Quang Vinh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Huỳnh Thị Hồng Diễm",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Phan Thị Kiều Oanh",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Văn Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Cẩm Vân",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Kim Hòa",
+      "officer_position": "Giám đốc Kinh doanh/Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Ngọc Tiên",
+      "officer_position": "Giám đốc khối",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Jason Koo",
+      "officer_position": "Giám đốc Khối Công nghệ thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thị Thương",
+      "officer_position": "Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thái Ly",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:12:10.539499"
+}

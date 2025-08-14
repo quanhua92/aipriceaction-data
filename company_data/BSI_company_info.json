@@ -1,0 +1,151 @@
+{
+  "symbol": "BSI",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 12341906932900,
+  "current_price": 50300,
+  "outstanding_shares": 245365943,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n BIDV (BSI) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Chứng kho&aacute;n Ng&acirc;n h&agrave;ng Đầu tư v&agrave; Ph&aacute;t triển Việt Nam, được th&agrave;nh lập v&agrave;o năm 1999.&nbsp;BSI được Ủy ban Chứng kho&aacute;n Nh&agrave; nước cấp giấy ph&eacute;p hoạt động ở đầy đủ mọi lĩnh vực trong kinh doanh chứng kho&aacute;n: m&ocirc;i giới chứng kho&aacute;n, tự doanh, bảo l&atilde;nh ph&aacute;t h&agrave;nh, lưu k&yacute; chứng kho&aacute;n, tư vấn t&agrave;i ch&iacute;nh v&agrave; đầu tư chứng kho&aacute;n.&nbsp;Trong năm 2024, C&ocirc;ng ty&nbsp;đứng vị tr&iacute; thứ 7 với 3.24% thị phần m&ocirc;i giới cổ phiếu ni&ecirc;m yết tại HNX v&agrave;&nbsp;vị tr&iacute; thứ 10 với 3.07% thị phần m&ocirc;i giới cổ phiếu đăng k&yacute; giao dịch tr&ecirc;n thị trường UPCOM. Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 298,87 tỷ đồng, tăng 4.49% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 99.91%, tăng 11.39%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 239,05 tỷ đồng, giảm 7.08% v&agrave; đ&oacute;ng g&oacute;p 27.63 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 515,69 tỷ đồng, tăng 1.3%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 8.48%, giảm 0.55%.&nbsp;BSI được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) v&agrave;o năm 2011.</div>",
+  "website": null,
+  "price_change": 300,
+  "percent_price_change": 0.006,
+  "volume": 3828873,
+  "high_52w": 53910,
+  "low_52w": 37955,
+  "pe": 35.8593166104,
+  "pb": 2.3660339325,
+  "roe": 0.0675154611,
+  "roa": 0.0282607005,
+  "eps": 415.2970013324139,
+  "revenue": 506431146251,
+  "net_profit": 101899740357,
+  "dividend": 0.0198807157,
+  "shareholders": [
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.5196
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng Khoán Hana",
+      "shareholder_percent": 0.3501
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0206
+    },
+    {
+      "shareholder_name": "Lưu Diễm Cầm",
+      "shareholder_percent": 0.0003385317
+    },
+    {
+      "shareholder_name": "Lê Phương Lan",
+      "shareholder_percent": 0.0002945
+    },
+    {
+      "shareholder_name": "Bùi Thị Hòa",
+      "shareholder_percent": 0.0001156069
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Thanh",
+      "shareholder_percent": 0.0001112369
+    },
+    {
+      "shareholder_name": "Đỗ Huy Hoài",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thắng",
+      "shareholder_percent": 1.04046e-05
+    },
+    {
+      "shareholder_name": "Lê Hồng Nhung",
+      "shareholder_percent": 6.4855e-06
+    },
+    {
+      "shareholder_name": "NGUYỄN THANH HUYỀN",
+      "shareholder_percent": 2e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đỗ Huy Hoài",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 2.2e-05
+    },
+    {
+      "officer_name": "NGUYỄN THANH HUYỀN",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 2e-08
+    },
+    {
+      "officer_name": "Lê Phương Thủy",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Minh Trang",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thanh Bình",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Đào Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương  Hải Đăng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Văn Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Viết Đỉnh",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Duy Viễn",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Thị Phong Lan",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Xuân Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quang Huy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Ngọc Diệp",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Minh  Châu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:43:31.724303"
+}

@@ -1,0 +1,222 @@
+{
+  "symbol": "SGT",
+  "exchange": "HOSE",
+  "industry": "Phần mềm & Dịch vụ Máy tính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2723264731200,
+  "current_price": 18400,
+  "outstanding_shares": 148003518,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần C&ocirc;ng nghệ Viễn th&ocirc;ng S&agrave;i G&ograve;n (SGT)&nbsp;được th&agrave;nh lập năm 2002. SGT&nbsp;l&agrave; th&agrave;nh vi&ecirc;n của nh&oacute;m SaigonInvest - Một trong những c&ocirc;ng ty th&agrave;nh c&ocirc;ng nhất với việc đầu tư v&agrave; quản l&yacute; những lĩnh vực kinh doanh kh&aacute;c nhau tại Việt Nam như: ng&acirc;n h&agrave;ng, đ&agrave;o tạo dạy nghề, kinh doanh dịch vụ c&aacute;c khu c&ocirc;ng nghiệp &amp; khu chế xuất, c&ocirc;ng nghệ th&ocirc;ng tin. S&agrave;i G&ograve;n Telecom cũng cung cấp nhiều dịch vụ gia tăng tr&ecirc;n nền Internet như: E-mail, Hosting, VPN v&agrave; l&agrave; l&agrave; đối t&aacute;c của c&aacute;c h&atilde;ng h&agrave;ng đầu thế giới về CNTT v&agrave; viễn th&ocirc;ng: Cisco, Oracle, Microsoft, IBM, HP, EMC, SUN, Alcatel, Juniper.&nbsp;SGT l&agrave; doanh nghiệp dẫn đầu trong lĩnh vực đầu tư, x&acirc;y dựng v&agrave; kinh doanh cơ sở hạ tầng cao ốc th&ocirc;ng minh, khu c&ocirc;ng nghệ ICT, khu c&ocirc;ng nghiệp CNC (Science Park) v&agrave; thu h&uacute;t được nhiều tập đo&agrave;n sản xuất c&ocirc;ng nghệ cao h&agrave;ng đầu thế giới cũng như c&aacute;c doanh nghiệp lớn của Việt Nam v&agrave;o hoạt động. C&ocirc;ng ty cũng cung cấp dịch vụ Internet, dịch vụ tư vấn v&agrave; lắp đặt c&aacute;c thiết bị th&ocirc;ng tin viễn th&ocirc;ng. C&aacute;c hoạt động kinh doanh kh&aacute;c của c&ocirc;ng ty bao gồm quản l&yacute; v&agrave; vận h&agrave;nh tr&ograve; chơi trực tuyến, ph&acirc;n phối c&aacute;c c&ocirc;ng cụ viễn th&ocirc;ng v&agrave; dịch vụ đ&agrave;o tạo. Ng&agrave;y 18/01/2008, SGT&nbsp;ch&iacute;nh thức giao dịch cổ phiếu tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 1200,
+  "percent_price_change": 0.06976744,
+  "volume": 377822,
+  "high_52w": 22150,
+  "low_52w": 12950,
+  "pe": 5.7562684441,
+  "pb": 1.2496729125,
+  "roe": 0.2396038275,
+  "roa": 0.0603362688,
+  "eps": 23.631823203453806,
+  "revenue": 182113594073,
+  "net_profit": 3497585645,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Phát triển Đô thị Kinh Bắc",
+      "shareholder_percent": 0.2148
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Phát Triển Dtt",
+      "shareholder_percent": 0.1689
+    },
+    {
+      "shareholder_name": "Đặng Thanh Tâm",
+      "shareholder_percent": 0.0679765
+    },
+    {
+      "shareholder_name": "Quỹ Đầu Tư Hạ Tầng Pvi",
+      "shareholder_percent": 0.0676
+    },
+    {
+      "shareholder_name": "Đặng Thị Hoàng Phượng",
+      "shareholder_percent": 0.0504
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Xuân",
+      "shareholder_percent": 0.0503515
+    },
+    {
+      "shareholder_name": "Phạm Thị Lệ",
+      "shareholder_percent": 0.0503185579
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hải",
+      "shareholder_percent": 0.0487
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Sài Gòn",
+      "shareholder_percent": 0.036
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Mỹ phẩm Sài Gòn",
+      "shareholder_percent": 0.0275557737
+    },
+    {
+      "shareholder_name": "Nguyễn Sơn",
+      "shareholder_percent": 0.01597
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Thanh",
+      "shareholder_percent": 0.0148906
+    },
+    {
+      "shareholder_name": "Lê Thị Kim Nhung",
+      "shareholder_percent": 0.011391
+    },
+    {
+      "shareholder_name": "Nguyễn Vĩnh Thọ",
+      "shareholder_percent": 0.0022222491
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý Quỹ PVI",
+      "shareholder_percent": 0.0017
+    },
+    {
+      "shareholder_name": "Tổng Công ty Du lịch Sài Gòn - TNHH MTV",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Lê Nguyễn Hoàng Anh",
+      "shareholder_percent": 0.0005555
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hương",
+      "shareholder_percent": 0.0004444498
+    },
+    {
+      "shareholder_name": "Đặng Nhứt",
+      "shareholder_percent": 0.0004444498
+    },
+    {
+      "shareholder_name": "Huỳnh Ngọc Huy",
+      "shareholder_percent": 0.0004040452
+    },
+    {
+      "shareholder_name": "Hoàng Sĩ Hóa",
+      "shareholder_percent": 0.0003555598
+    },
+    {
+      "shareholder_name": "Đào Hùng Tiến",
+      "shareholder_percent": 0.0003513437
+    },
+    {
+      "shareholder_name": "Ngô Thị Phương Thủy",
+      "shareholder_percent": 0.0002888856
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Tuyên",
+      "shareholder_percent": 0.0002354003
+    },
+    {
+      "shareholder_name": "Nguyễn Đồng",
+      "shareholder_percent": 0.0002229681
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hoàng",
+      "shareholder_percent": 0.0001939417
+    },
+    {
+      "shareholder_name": "Chung Trí Phong",
+      "shareholder_percent": 0.0001777799
+    },
+    {
+      "shareholder_name": "Lê Thị Mỹ Hạnh",
+      "shareholder_percent": 0.0001777799
+    },
+    {
+      "shareholder_name": "Hồ Thị Kim Oanh",
+      "shareholder_percent": 8.74e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Anh",
+      "shareholder_percent": 4.44449e-05
+    },
+    {
+      "shareholder_name": "Sầm Thị Hường",
+      "shareholder_percent": 2.568e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Xuân",
+      "shareholder_percent": 1.10943e-05
+    },
+    {
+      "shareholder_name": "Lê Chí Cường",
+      "shareholder_percent": 1.10943e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Huyền Anh",
+      "shareholder_percent": 2.4323e-06
+    },
+    {
+      "shareholder_name": "Đinh Minh Dũng",
+      "shareholder_percent": 1.35e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đặng Thanh Tâm",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0679765
+    },
+    {
+      "officer_name": "Nguyễn Thị Kim Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0148906
+    },
+    {
+      "officer_name": "Lê Thị Kim Nhung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.011391
+    },
+    {
+      "officer_name": "Lê Nguyễn Hoàng Anh",
+      "officer_position": "Kế toán trưởng/Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0005555
+    },
+    {
+      "officer_name": "Hồ Thị Kim Oanh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 8.74e-05
+    },
+    {
+      "officer_name": "Nguyễn Cẩm Phương",
+      "officer_position": "Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Thái",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Sú Ngọc Bích",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Ngọc Ánh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Thuận",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:10:30.388274"
+}

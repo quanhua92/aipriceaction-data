@@ -1,0 +1,530 @@
+{
+  "symbol": "HPG",
+  "exchange": "HOSE",
+  "industry": "Kim loại",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 215680590525500,
+  "current_price": 28100,
+  "outstanding_shares": 7675465855,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Ho&agrave; Ph&aacute;t (HPG)&nbsp;l&agrave; một trong những Tập đo&agrave;n sản xuất c&ocirc;ng nghiệp&nbsp;đa ng&agrave;nh tại Việt Nam. Khởi đầu từ một C&ocirc;ng ty chuy&ecirc;n bu&ocirc;n b&aacute;n c&aacute;c loại m&aacute;y x&acirc;y dựng từ th&aacute;ng 8/1992, hiện tại&nbsp;Tập đo&agrave;n H&ograve;a Ph&aacute;t hoạt động chủ yếu&nbsp;trong c&aacute;c lĩnh vực gang th&eacute;p, sản phẩm th&eacute;p, điện m&aacute;y gia dụng, n&ocirc;ng nghiệp v&agrave; bất động sản. Trong đ&oacute;, lĩnh vực Th&eacute;p&nbsp; đ&oacute;ng vai tr&ograve; chủ đạo v&agrave; l&agrave; mảng kinh doanh cốt l&otilde;i của tập đo&agrave;n với việc đ&oacute;ng g&oacute;p&nbsp;hơn 90% doanh thu v&agrave; lợi nhuận. HPG hiện l&agrave; nh&agrave; sản xuất th&eacute;p lớn nhất Việt Nam cũng như khu vực Đ&ocirc;ng Nam &Aacute; với c&ocirc;ng suất th&eacute;p th&ocirc; 8.5 triệu tấn/ năm. Năm 2024, c&ocirc;ng ty&nbsp;tiếp tục củng cố vị thế thị phần số 1 cả nước về th&eacute;p d&agrave;i với 38%, v&agrave; l&agrave; doanh nghiệp Việt Nam duy nhất sản xuất được Th&eacute;p cuộn c&aacute;n n&oacute;ng HRC.&nbsp;HPG được ni&ecirc;m yết v&agrave; giao dịch&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)&nbsp;từ năm 2007.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -400,
+  "percent_price_change": -0.01403509,
+  "volume": 79866394,
+  "high_52w": 29100,
+  "low_52w": 17749,
+  "pe": 16.056465998,
+  "pb": 1.7746485267,
+  "roe": 0.1155044147,
+  "roa": 0.059242301,
+  "eps": 554.592367266156,
+  "revenue": 36286185846409,
+  "net_profit": 4256754778395,
+  "dividend": 0.0711743772,
+  "shareholders": [
+    {
+      "shareholder_name": "Trần Đình Long",
+      "shareholder_percent": 0.25799999
+    },
+    {
+      "shareholder_name": "Vũ Thị Hiền",
+      "shareholder_percent": 0.0687901
+    },
+    {
+      "shareholder_name": "Dragon Capital Markets Limited",
+      "shareholder_percent": 0.05881031
+    },
+    {
+      "shareholder_name": "Red River Holding",
+      "shareholder_percent": 0.0395
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.037
+    },
+    {
+      "shareholder_name": "Vinacapital Vietnam Opportunity Fund Ltd.",
+      "shareholder_percent": 0.03634629
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.02799496
+    },
+    {
+      "shareholder_name": "Trần Tuấn Dương",
+      "shareholder_percent": 0.0231329
+    },
+    {
+      "shareholder_name": "BankInvest Private Equity New Markets II K/S",
+      "shareholder_percent": 0.02307001
+    },
+    {
+      "shareholder_name": "Trần Vũ Minh",
+      "shareholder_percent": 0.0229811
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Tuấn",
+      "shareholder_percent": 0.0227
+    },
+    {
+      "shareholder_name": "Employees Provident Fund Board",
+      "shareholder_percent": 0.022
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0214
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Quang",
+      "shareholder_percent": 0.0163
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.014948
+    },
+    {
+      "shareholder_name": "Doãn Gia Cường",
+      "shareholder_percent": 0.0125
+    },
+    {
+      "shareholder_name": "Beira Limited",
+      "shareholder_percent": 0.012
+    },
+    {
+      "shareholder_name": "Penm Iv Germany Gmbh & Co.kg",
+      "shareholder_percent": 0.0118
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 0.00921157
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.008917
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Và Xây Dựng Sao Phương Bắc",
+      "shareholder_percent": 0.0059
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Kỹ Thương",
+      "shareholder_percent": 0.0058142
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.005701
+    },
+    {
+      "shareholder_name": "Chu Quân",
+      "shareholder_percent": 0.0049118757
+    },
+    {
+      "shareholder_name": "Forum One-vcg Partners Vietnam Fund",
+      "shareholder_percent": 0.0047292
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.004729
+    },
+    {
+      "shareholder_name": "Hoàng Quang Việt",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "PXP Vietnam Emerging Equity Fund",
+      "shareholder_percent": 0.00395251
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.003749
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Cáp và vật liệu Viến thông (SACOM)",
+      "shareholder_percent": 0.00371785
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.00361977
+    },
+    {
+      "shareholder_name": "Balestrand Limited",
+      "shareholder_percent": 0.003511
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Thắng",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.003173
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.00254744
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.002415
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán MB",
+      "shareholder_percent": 0.00229232
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.001836
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Tú",
+      "shareholder_percent": 0.0018109
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Duy",
+      "shareholder_percent": 0.0018109
+    },
+    {
+      "shareholder_name": "Phan Thị Thu Lan",
+      "shareholder_percent": 0.0017599
+    },
+    {
+      "shareholder_name": "Vũ Đức Sinh",
+      "shareholder_percent": 0.0015997706
+    },
+    {
+      "shareholder_name": "Vũ Thị Ánh Tuyết",
+      "shareholder_percent": 0.0015008509
+    },
+    {
+      "shareholder_name": "Đào Thị Thanh Phượng",
+      "shareholder_percent": 0.0013049
+    },
+    {
+      "shareholder_name": "Tạ Tuấn Quang",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Trần Bảo Ngọc",
+      "shareholder_percent": 0.0012073
+    },
+    {
+      "shareholder_name": "Trần Ngọc Diệp",
+      "shareholder_percent": 0.0012073
+    },
+    {
+      "shareholder_name": "Trần Gia Bảo",
+      "shareholder_percent": 0.0012073
+    },
+    {
+      "shareholder_name": "Vietnam Investment Property Holdings Limited",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.00119
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.00119
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Minh",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Nguyễn Hà My",
+      "shareholder_percent": 0.0008599
+    },
+    {
+      "shareholder_name": "Greystanes Limited Company",
+      "shareholder_percent": 0.0006491
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương Mại Và Đầu Tư Đại Phong",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Tạ Tiến Dũng",
+      "shareholder_percent": 0.0004297891
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.00034762
+    },
+    {
+      "shareholder_name": "Vietnam Co-Investment Fund",
+      "shareholder_percent": 0.00034
+    },
+    {
+      "shareholder_name": "Draig Ltd",
+      "shareholder_percent": 0.00033
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.000314
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Vân",
+      "shareholder_percent": 0.0003132
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000255
+    },
+    {
+      "shareholder_name": "Veil Holdings Limited",
+      "shareholder_percent": 0.000211
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Hải",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Hoàng Nhật Anh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Đình Tân",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000193
+    },
+    {
+      "shareholder_name": "Hoàng Nhật Minh",
+      "shareholder_percent": 0.000172
+    },
+    {
+      "shareholder_name": "Trần Ánh Tuyết",
+      "shareholder_percent": 0.0001631
+    },
+    {
+      "shareholder_name": "Phạm Thị Thu",
+      "shareholder_percent": 0.0001378054
+    },
+    {
+      "shareholder_name": "Nguyễn Khoa Sơn",
+      "shareholder_percent": 0.0001169
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.00011426
+    },
+    {
+      "shareholder_name": "Venner Group Limited",
+      "shareholder_percent": 0.000114
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.00010759
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thảo Nguyên",
+      "shareholder_percent": 0.0001052
+    },
+    {
+      "shareholder_name": "Tạ Tuấn Dương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Nguyệt",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Tạ Tuấn Tường",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hải Yến",
+      "shareholder_percent": 9.79e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 7.611e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 7.611e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tuyết",
+      "shareholder_percent": 7.24e-05
+    },
+    {
+      "shareholder_name": "Đặng Ngọc Khánh",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Doãn Thị Bích Ngọc",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hảo",
+      "shareholder_percent": 6.52e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 6.058e-05
+    },
+    {
+      "shareholder_name": "Trần Đình Thăng",
+      "shareholder_percent": 5.45e-05
+    },
+    {
+      "shareholder_name": "Trương Ngọc Diệp",
+      "shareholder_percent": 5.43e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hùng",
+      "shareholder_percent": 5.27e-05
+    },
+    {
+      "shareholder_name": "Quena Ltd",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Lý Thị Ngạn",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Tạ Thị Thu Hiền",
+      "shareholder_percent": 3.05627e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 3.042e-05
+    },
+    {
+      "shareholder_name": "Lê Tuấn Anh",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai Lan",
+      "shareholder_percent": 2.5e-05
+    },
+    {
+      "shareholder_name": "Chu Quang Việt",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
+      "shareholder_percent": 1.811e-05
+    },
+    {
+      "shareholder_name": "Kiều Chí Công",
+      "shareholder_percent": 1.3644e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Phương Liên",
+      "shareholder_percent": 4.8e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đạm",
+      "shareholder_percent": 4.7e-06
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Hiền",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Thái  Thị Lộc",
+      "shareholder_percent": 3e-07
+    },
+    {
+      "shareholder_name": "Ngô  Lan Anh",
+      "shareholder_percent": 3e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Vân",
+      "shareholder_percent": 2.06e-07
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Manulife",
+      "shareholder_percent": 3.3e-09
+    },
+    {
+      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+      "shareholder_percent": 1.3e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Đình Long",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.25799999
+    },
+    {
+      "officer_name": "Trần Tuấn Dương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0231329
+    },
+    {
+      "officer_name": "Nguyễn Mạnh Tuấn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0227
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Quang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0163
+    },
+    {
+      "officer_name": "Doãn Gia Cường",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0125
+    },
+    {
+      "officer_name": "Hoàng Quang Việt",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0045
+    },
+    {
+      "officer_name": "Nguyễn Việt Thắng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0032
+    },
+    {
+      "officer_name": "Nguyễn Thị Thảo Nguyên",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001052
+    },
+    {
+      "officer_name": "Trần Thị Thu Hiền",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Ngô  Lan Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-07
+    },
+    {
+      "officer_name": "Thái  Thị Lộc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-07
+    },
+    {
+      "officer_name": "Bùi Thị Hải Vân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Kim Oanh",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Minh Thúy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:48:15.724409"
+}

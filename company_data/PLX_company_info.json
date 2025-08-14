@@ -1,0 +1,287 @@
+{
+  "symbol": "PLX",
+  "exchange": "HOSE",
+  "industry": "Sản xuất Dầu khí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 49167367078000,
+  "current_price": 38000,
+  "outstanding_shares": 1293878081,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tập đo&agrave;n Xăng dầu Việt Nam (PLX) c&oacute; tiền th&acirc;n Tổng C&ocirc;ng ty Xăng Dầu Việt Nam, được th&agrave;nh lập v&agrave;o năm 1995. Lĩnh vực kinh doanh ch&iacute;nh của Petrolimex l&agrave; xuất nhập khẩu v&agrave; kinh doanh xăng dầu, lọc - h&oacute;a dầu, đầu tư. Với mạng lưới ph&acirc;n phối gồm 4.365&nbsp;cửa h&agrave;ng bao gồm&nbsp;trạm b&aacute;n lẻ của Petrolimex v&agrave; c&aacute;c&nbsp;đại l&yacute; tr&ecirc;n to&agrave;n quốc, Petrolimex l&agrave; nh&agrave; cung cấp lớn nhất tất cả c&aacute;c loại sản phẩm xăng dầu tr&ecirc;n thị trường nội địa. B&ecirc;n cạnh đ&oacute;, Petrolimex cũng hoạt động tr&ecirc;n c&aacute;c lĩnh vực kinh doanh kh&aacute;c như bảo hiểm, ng&acirc;n h&agrave;ng, giao th&ocirc;ng vận tải với c&aacute;c thương hiệu như PLC, PGC, PG TANKER, PJJICO. PLX được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2017.</div>\r\n",
+  "website": null,
+  "price_change": -500,
+  "percent_price_change": -0.01298701,
+  "volume": 3549439,
+  "high_52w": 50025,
+  "low_52w": 29947,
+  "pe": 23.8045049825,
+  "pb": 1.9299382758,
+  "roe": 0.0790457152,
+  "roa": 0.0254402689,
+  "eps": 1010.3403003080685,
+  "revenue": 77083481942676,
+  "net_profit": 1283730540279,
+  "dividend": 0.0263157895,
+  "shareholders": [
+    {
+      "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
+      "shareholder_percent": 0.7587
+    },
+    {
+      "shareholder_name": "Ủy Ban Quản Lý Vốn Nhà Nước Tại Doanh Nghiệp",
+      "shareholder_percent": 0.7587
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Eneos Việt Nam",
+      "shareholder_percent": 0.1308
+    },
+    {
+      "shareholder_name": "Jx Nippon Oil & Energy Corporation",
+      "shareholder_percent": 0.08001
+    },
+    {
+      "shareholder_name": "Vũ Lâm",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.00025978
+    },
+    {
+      "shareholder_name": "Bùi Ngọc Bảo",
+      "shareholder_percent": 2.52e-05
+    },
+    {
+      "shareholder_name": "Đinh Thái Hương",
+      "shareholder_percent": 2.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Sơn",
+      "shareholder_percent": 1.787e-05
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 1.71479e-05
+    },
+    {
+      "shareholder_name": "Phạm Đức Thắng",
+      "shareholder_percent": 1.7e-05
+    },
+    {
+      "shareholder_name": "Trần Văn Thịnh",
+      "shareholder_percent": 1.57e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 1.398e-05
+    },
+    {
+      "shareholder_name": "Vũ Khoa Nguyên",
+      "shareholder_percent": 1.2e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 9.0862e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Dũng",
+      "shareholder_percent": 8.7e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Dũng",
+      "shareholder_percent": 6.4e-06
+    },
+    {
+      "shareholder_name": "Đinh Viết Tiến",
+      "shareholder_percent": 6.2e-06
+    },
+    {
+      "shareholder_name": "Hoàng Mai Ninh",
+      "shareholder_percent": 5.4e-06
+    },
+    {
+      "shareholder_name": "Lê Văn Hướng",
+      "shareholder_percent": 5.35e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Hùng",
+      "shareholder_percent": 4.7e-06
+    },
+    {
+      "shareholder_name": "Trần Ngọc Năm",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Đặng Thị Hồng Hà",
+      "shareholder_percent": 2.5e-06
+    },
+    {
+      "shareholder_name": "Đào Nam Hải",
+      "shareholder_percent": 2.4e-06
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Hà",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Tú",
+      "shareholder_percent": 1.8e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Kiên",
+      "shareholder_percent": 1.1e-06
+    },
+    {
+      "shareholder_name": "Lê Thị Kim Huyền",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Hoàng Thị Yến Oanh",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Đặng Hồng Liên",
+      "shareholder_percent": 8.9e-07
+    },
+    {
+      "shareholder_name": "Lê Huy Hiệp",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Vương Thái Dũng",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Trang",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Hà",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Phạm Thị Dung",
+      "shareholder_percent": 3e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thanh Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1.787e-05
+    },
+    {
+      "officer_name": "Nguyễn Anh Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 8.7e-06
+    },
+    {
+      "officer_name": "Nguyễn Quang Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 6.4e-06
+    },
+    {
+      "officer_name": "Hoàng Mai Ninh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 5.4e-06
+    },
+    {
+      "officer_name": "Lê Văn Hướng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 5.35e-06
+    },
+    {
+      "officer_name": "Nguyễn Xuân Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 4.7e-06
+    },
+    {
+      "officer_name": "Trần Ngọc Năm",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Đào Nam Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 2.4e-06
+    },
+    {
+      "officer_name": "Lê Huy Hiệp",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 8e-07
+    },
+    {
+      "officer_name": "Nguyễn Thu Trang",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 8e-07
+    },
+    {
+      "officer_name": "Nguyễn Văn Sự",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Vinh Thanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Toshiya Nakahara",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Sỹ Cường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Bá Tùng",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tống Văn Hải",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Trang Thảo",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương Anh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Kim Ngân",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Quang Tuấn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lưu Văn Tuyển",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Thị Kiều Trang",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Văn Thanh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:02:16.745329"
+}

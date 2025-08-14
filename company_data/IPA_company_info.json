@@ -1,0 +1,98 @@
+{
+  "symbol": "IPA",
+  "exchange": "HNX",
+  "industry": "Tư vấn & Hỗ trợ Kinh doanh",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 4511934852500,
+  "current_price": 21100,
+  "outstanding_shares": 213835775,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Đầu tư I.P.A (IPA), tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty TNHH&nbsp;Đầu tư v&agrave; T&agrave;i ch&iacute;nh IPA, được th&agrave;nh lập năm 1998.&nbsp;Năm 2007,&nbsp;Cổ phần h&oacute;a v&agrave; đổi t&ecirc;n th&agrave;nh C&ocirc;ng ty Cổ phần Tập đo&agrave;n Đầu tư IPA C&ocirc;ng ty hoạt động ch&iacute;nh trong 2 lĩnh vực: (i) Dịch vụ t&agrave;i ch&iacute;nh c&aacute; nh&acirc;n v&agrave; (ii) B&aacute;n điện thương phẩm. Một trong những c&ocirc;ng ty th&agrave;nh vi&ecirc;n ti&ecirc;u biểu c&oacute; thể kể đến C&ocirc;ng ty CP Chứng kho&aacute;n VNDIRECT,c&ocirc;ng ty chứng kho&aacute;n b&aacute;n lẻ thuộc top 4 h&agrave;ng đầu Việt Nam hoạt động trong lĩnh vực dịch vụ t&agrave;i ch&iacute;nh. Trong lĩnh vực điện thương phẩm, IPA sở hữu nh&agrave; m&aacute;y thủy điện Nậm Ph&agrave;ng với c&ocirc;ng suất 36MW tại tỉnh L&agrave;o Cai. H&agrave;ng năm thủy điện Nậm Ph&agrave;ng h&ograve;a v&agrave;o lưới điện quốc gia với c&ocirc;ng suất b&igrave;nh qu&acirc;n 146 triệu KWh/năm. Ngo&agrave;i 2 ng&agrave;nh kinh doanh ch&iacute;nh, C&ocirc;ng ty hiện đang đầu tư v&agrave;o c&aacute;c lĩnh vực: ph&aacute;t triển bất động sản, cung cấp giải ph&aacute;p c&ocirc;ng nghệ v&agrave; chế biến, khai th&aacute;c kho&aacute;ng sản. Năm 2021, IPA ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": -400,
+  "percent_price_change": -0.01860465,
+  "volume": 1239496,
+  "high_52w": 22400,
+  "low_52w": 9100,
+  "pe": 12.0157569992,
+  "pb": 1.0392066537,
+  "roe": 0.0897161441,
+  "roa": 0.0429247242,
+  "eps": 527.3421445826826,
+  "revenue": 84976342053,
+  "net_profit": 112764616177,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Đầu Tư H&H",
+      "shareholder_percent": 0.5545
+    },
+    {
+      "shareholder_name": "Lương Thu Hằng",
+      "shareholder_percent": 0.0525
+    },
+    {
+      "shareholder_name": "Vũ Hiền",
+      "shareholder_percent": 0.0099312
+    },
+    {
+      "shareholder_name": "Phạm Minh Hương",
+      "shareholder_percent": 0.0001515
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Vũ Hiền",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0099312
+    },
+    {
+      "officer_name": "Phạm Minh Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001515
+    },
+    {
+      "officer_name": "Vương Văn Tường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hương",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Nam Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Khánh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hương Thảo",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Thanh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Hoàng Hà",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Kim Ngọc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:49.889497"
+}

@@ -1,0 +1,298 @@
+{
+  "symbol": "CII",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 11978045083550,
+  "current_price": 21850,
+  "outstanding_shares": 548194283,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Đầu tư Hạ tầng Kỹ thuật TP.HCM (CII)&nbsp;được th&agrave;nh lập bởi 03 cổ đ&ocirc;ng s&aacute;ng lập, bao&nbsp;gồm: Quỹ Đầu tư Ph&aacute;t triển Đ&ocirc; thị TP.HCM (HIFU), C&ocirc;ng ty Sản xuất Kinh doanh Thương mại v&agrave; Dịch vụ Xuất nhập khẩu Thanh ni&ecirc;n Xung phong Tp.HCM (VYC), C&ocirc;ng ty cổ phần Đầu tư v&agrave; Dịch vụ TP.HCM (INVESCO). C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư x&acirc;y dựng, khai th&aacute;c, kinh doanh hạ tầng kỹ thuật đ&ocirc; thị theo h&igrave;nh thức hợp đồng x&acirc;y dựng - kinh doanh - chuyển giao (BOT), hợp đồng x&acirc;y dựng - chuyển giao (BT), hợp đồng x&acirc;y dựng - sở hữu - kinh doanh (BOO). C&aacute;c c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu khẳng định năng lực đầu tư, quản l&yacute; v&agrave; vận h&agrave;nh dự &aacute;n của CII c&oacute; thể kể đến l&agrave; dự &aacute;n cầu đường B&igrave;nh Triệu, dự &aacute;n cầu S&agrave;i G&ograve;n 2, dự &aacute;n mở rộng&nbsp;Xa lộ H&agrave; Nội, dự &aacute;n li&ecirc;n tỉnh lộ 25B. CII được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ năm 2006.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 1400,
+  "percent_price_change": 0.06845966,
+  "volume": 12379165,
+  "high_52w": 21850,
+  "low_52w": 9211,
+  "pe": 233.8679337435,
+  "pb": 1.6551683614,
+  "roe": 0.006320149,
+  "roa": 0.0012354322,
+  "eps": 57.182604384052375,
+  "revenue": 776687434371,
+  "net_profit": 35735640802,
+  "dividend": 0.0549199085,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Đầu tư Tài chính Nhà nước Thành phố Hồ Chí Minh",
+      "shareholder_percent": 0.0755
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0694
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Tân Tam Mã",
+      "shareholder_percent": 0.0456
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0388
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Thiên Việt",
+      "shareholder_percent": 0.0302439562
+    },
+    {
+      "shareholder_name": "Viac Limited Partnership",
+      "shareholder_percent": 0.0301
+    },
+    {
+      "shareholder_name": "Vietnam Infrastructure Strategic Ltd",
+      "shareholder_percent": 0.0293099711
+    },
+    {
+      "shareholder_name": "Master Fund Holdings (Cayman) Ltd.",
+      "shareholder_percent": 0.025
+    },
+    {
+      "shareholder_name": "Peconic Holdings (Cayman) Ltd.",
+      "shareholder_percent": 0.0181
+    },
+    {
+      "shareholder_name": "AIT PTE. LTD",
+      "shareholder_percent": 0.0179940948
+    },
+    {
+      "shareholder_name": "Công ty TNHH Lê Thành Cường",
+      "shareholder_percent": 0.016956
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.016764
+    },
+    {
+      "shareholder_name": "VIP Infrastructure Holdings Pte. Ltd.",
+      "shareholder_percent": 0.0161
+    },
+    {
+      "shareholder_name": "VietNam Infrastructure Holding Limited",
+      "shareholder_percent": 0.0154876169
+    },
+    {
+      "shareholder_name": "Citgroup Global Markets Limited",
+      "shareholder_percent": 0.0129368346
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0119258392
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.0115710081
+    },
+    {
+      "shareholder_name": "Jaccar Capital Fund",
+      "shareholder_percent": 0.0111954417
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0093
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Xây Dựng Tuấn Lộc",
+      "shareholder_percent": 0.0078846111
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Công ty SXKD TM&DV XNK TNXP",
+      "shareholder_percent": 0.00482863
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Dịch Vụ Công Ích Thanh Niên Xung Phong",
+      "shareholder_percent": 0.0035341416
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.002908
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 0.0027408085
+    },
+    {
+      "shareholder_name": "Dương Quang Châu",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.001122
+    },
+    {
+      "shareholder_name": "Vietnam Dragon Fund Limited",
+      "shareholder_percent": 0.0010231636
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai Hương",
+      "shareholder_percent": 0.000365
+    },
+    {
+      "shareholder_name": "Dominic Timothy Charles Scriven",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.0002165326
+    },
+    {
+      "shareholder_name": "Trương Khắc Hoành",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Lê Hoàng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thành",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.00015835
+    },
+    {
+      "shareholder_name": "Nguyễn Phước Thanh",
+      "shareholder_percent": 0.000140651
+    },
+    {
+      "shareholder_name": "Trương Văn Học",
+      "shareholder_percent": 0.0001399107
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.000119846
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Huyền Sương",
+      "shareholder_percent": 9.41e-05
+    },
+    {
+      "shareholder_name": "Lưu Hải Ca",
+      "shareholder_percent": 9.41e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Tuất",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Đoàn Minh Thư",
+      "shareholder_percent": 3e-07
+    },
+    {
+      "shareholder_name": "Lê Chí Hiếu",
+      "shareholder_percent": 4.9e-09
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Phát triển Nhà Thủ Đức",
+      "shareholder_percent": 4.7e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Dương Quang Châu",
+      "officer_position": "Giám đốc đầu tư",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Lê Vũ Hoàng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0012554
+    },
+    {
+      "officer_name": "Trương Khắc Hoành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Văn Thành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Trần Thị Tuất",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Đoàn Minh Thư",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 3e-07
+    },
+    {
+      "officer_name": "Lê Quốc Bình",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Mai Bảo Trâm",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trường Hoàng",
+      "officer_position": "Giám đốc Dự án",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Trà",
+      "officer_position": "Giám đốc Tài chính/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Thị Ngọc Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Diệp",
+      "officer_position": "Giám đốc Hành chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cao Thị Ngọc Vân",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Ngọc Thanh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Thị Thu Phương",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Trường Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:24.646662"
+}

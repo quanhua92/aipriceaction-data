@@ -1,0 +1,170 @@
+{
+  "symbol": "VGI",
+  "exchange": "UPCOM",
+  "industry": "Viễn thông di động",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 249592518400000,
+  "current_price": 82000,
+  "outstanding_shares": 3043811200,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormalCxSpFirst\">Tổng C&ocirc;ng ty Cổ phần Đầu tư Quốc tế Viettel (VGI) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư Quốc tế Viettel&nbsp;được th&agrave;nh lập&nbsp;v&agrave;o năm 2007. VGI&nbsp;được chuyển sang hoạt&nbsp;động theo m&ocirc; h&igrave;nh&nbsp;tổng c&ocirc;ng ty từ năm 2013.&nbsp;Tổng C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư ph&aacute;t triển mạng&nbsp;viễn th&ocirc;ng tại c&aacute;c thị&nbsp;trường nước ngo&agrave;i. VGI&nbsp;c&oacute; 9 mạng viễn th&ocirc;ng tại 9 quốc gia với hơn 65 triệu kh&aacute;ch h&agrave;ng, thuộc top 30 c&ocirc;ng ty viễn th&ocirc;ng tr&ecirc;n Thế giới.&nbsp;VGI được giao dịch tr&ecirc;n thị trường UPCOM từ cuối th&aacute;ng 09/2018.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 1104,
+  "percent_price_change": 0.01381727,
+  "volume": 1764698,
+  "high_52w": 97700,
+  "low_52w": 51800,
+  "pe": 42.1580789501,
+  "pb": 6.5814833326,
+  "roe": 0.1665778766,
+  "roa": 0.0910064608,
+  "eps": 784.9091911791376,
+  "revenue": 10514402488929,
+  "net_profit": 2389115387094,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp - Viễn thông Quân đội",
+      "shareholder_percent": 0.99027
+    },
+    {
+      "shareholder_name": "Hoàng Sơn",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hải Lý",
+      "shareholder_percent": 2.503e-05
+    },
+    {
+      "shareholder_name": "Tào Đức Thắng",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Đào Thúy Hường",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Lê Đăng Dũng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Nam",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hoài Thanh",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Dung",
+      "shareholder_percent": 6.5e-06
+    },
+    {
+      "shareholder_name": "Hà Thế Dương",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Đào Xuân Vũ",
+      "shareholder_percent": 5.9e-06
+    },
+    {
+      "shareholder_name": "Đỗ Mạnh Hùng",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Phan Thanh Sang",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Cao Lợi",
+      "shareholder_percent": 1.8e-06
+    },
+    {
+      "shareholder_name": "Đoàn Thị Thu Nga",
+      "shareholder_percent": 1.1e-06
+    },
+    {
+      "shareholder_name": "Phạm Hoàng Điệp",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Quang",
+      "shareholder_percent": 4e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thị Hải Lý",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 2.503e-05
+    },
+    {
+      "officer_name": "Tào Đức Thắng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Hà Thế Dương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 6e-06
+    },
+    {
+      "officer_name": "Nguyễn Cao Lợi",
+      "officer_position": "Kế toán trưởng/Phó Tổng Giám đốc",
+      "officer_percent": 1.8e-06
+    },
+    {
+      "officer_name": "Phan Trường Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Nga",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Xuân Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoài Bắc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Quản Thị Thu Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đàm Minh Toản",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quang Tiệp",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hoa",
+      "officer_position": "Phó Tổng Giám đốc Đầu tư",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Quang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đạt",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:11:59.446139"
+}

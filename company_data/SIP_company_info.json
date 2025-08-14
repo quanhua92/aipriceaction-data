@@ -1,0 +1,197 @@
+{
+  "symbol": "SIP",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 16342623652500,
+  "current_price": 67500,
+  "outstanding_shares": 242112943,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư S&agrave;i G&ograve;n VRG (SIP)&nbsp;được th&agrave;nh lập&nbsp;v&agrave;o năm 2007&nbsp;bởi 4 cổ đ&ocirc;ng s&aacute;ng lập, bao gồm Tập đo&agrave;n C&ocirc;ng nghiệp Cao su Việt Nam, C&ocirc;ng ty Cổ phần Cao su Phước H&ograve;a, C&ocirc;ng ty Cổ phần Đầu tư X&acirc;y dựng Cao su v&agrave; &ocirc;ng Trần C&ocirc;ng Kha. C&ocirc;ng ty hoạt động trong lĩnh vực đầu tư, x&acirc;y dựng v&agrave; kinh doanh hạ tầng khu c&ocirc;ng&nbsp;nghiệp v&agrave; khu d&acirc;n cư. SIP trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ th&aacute;ng 01/2019.&nbsp;C&ocirc;ng ty&nbsp;hiện&nbsp;đang&nbsp;đầu tư ph&aacute;t triển v&agrave; kinh doanh hạ tầng&nbsp;Khu c&ocirc;ng nghiệp Đ&ocirc;ng Nam&nbsp;c&oacute; diện t&iacute;ch&nbsp;286,76 ha&nbsp;v&agrave; Khu C&ocirc;ng nghiệp L&ecirc; Minh Xu&acirc;n III với diện t&iacute;ch 220 ha tại th&agrave;nh phố Hồ Ch&iacute; Minh, v&agrave;&nbsp;Khu c&ocirc;ng nghiệp Phước Đ&ocirc;ng với&nbsp;diện t&iacute;ch 2.190 ha tại T&acirc;y Ninh. Ngo&agrave;i ra, C&ocirc;ng ty đ&atilde; g&oacute;p vốn v&agrave;o C&ocirc;ng ty&nbsp;Long Th&agrave;nh VRG&nbsp;để&nbsp;đầu tư ph&aacute;t&nbsp;triển Khu c&ocirc;ng nghiệp Lộc An - B&igrave;nh Sơn với quy m&ocirc; 336,05 ha. Ng&agrave;y 08/08/2023, SIP ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": 1000,
+  "percent_price_change": 0.01503759,
+  "volume": 1303101,
+  "high_52w": 81614,
+  "low_52w": 48125,
+  "pe": 12.700228857,
+  "pb": 3.4424200853,
+  "roe": 0.2855882985,
+  "roa": 0.0496152957,
+  "eps": 1275.258554665539,
+  "revenue": 2129450579237,
+  "net_profit": 308756601756,
+  "dividend": 0.0148148148,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Và Phát Triển Đô Thị An Lộc",
+      "shareholder_percent": 0.1979
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên",
+      "shareholder_percent": 0.09
+    },
+    {
+      "shareholder_name": "Trần Mạnh Hùng",
+      "shareholder_percent": 0.0864
+    },
+    {
+      "shareholder_name": "Lư Thanh Nhã",
+      "shareholder_percent": 0.0756
+    },
+    {
+      "shareholder_name": "Trần Ngọc Xuân Trang",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "Phạm Hồng Hải",
+      "shareholder_percent": 0.0218
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng Hạnh",
+      "shareholder_percent": 0.0217
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tùng",
+      "shareholder_percent": 0.0176
+    },
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.0176
+    },
+    {
+      "shareholder_name": "Trần Lê An",
+      "shareholder_percent": 0.0095
+    },
+    {
+      "shareholder_name": "Lê Hồng Cẩm",
+      "shareholder_percent": 0.0071
+    },
+    {
+      "shareholder_name": "Trần Như Hùng",
+      "shareholder_percent": 0.006
+    },
+    {
+      "shareholder_name": "Nguyễn Trường Khôi",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Phan Quốc Thắng",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Trần Ngọc Vân",
+      "shareholder_percent": 0.0044
+    },
+    {
+      "shareholder_name": "Bạch Vân Nhạn",
+      "shareholder_percent": 0.0031
+    },
+    {
+      "shareholder_name": "Đặng Ánh Hào",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Phạm Văn Đông",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Huỳnh Như Ngọc",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Trần Ngọc Nhân",
+      "shareholder_percent": 0.0017
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Đạt",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Huỳnh Hữu Tín",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Đinh Thị Kim Hiếu",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Tăng  Đông Lai",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Lê Tiến Luận",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Mạnh Hùng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0962
+    },
+    {
+      "officer_name": "Lư Thanh Nhã",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0717
+    },
+    {
+      "officer_name": "Phạm Hồng Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0218
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0141
+    },
+    {
+      "officer_name": "Phan Quốc Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0045
+    },
+    {
+      "officer_name": "Trần Ngọc Vân",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0044
+    },
+    {
+      "officer_name": "Bạch Vân Nhạn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0031
+    },
+    {
+      "officer_name": "Đặng Ánh Hào",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0027
+    },
+    {
+      "officer_name": "Phạm Văn Đông",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0026
+    },
+    {
+      "officer_name": "Huỳnh Như Ngọc",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "Nguyễn Thành Đạt",
+      "officer_position": "Kế toán trưởng/Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Huỳnh Hữu Tín",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 7.6e-05
+    },
+    {
+      "officer_name": "Lê Tiến Luận",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:10:47.497592"
+}

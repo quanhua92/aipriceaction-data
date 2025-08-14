@@ -1,0 +1,248 @@
+{
+  "symbol": "IMP",
+  "exchange": "HOSE",
+  "industry": "Dược phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 8410734805200,
+  "current_price": 54600,
+  "outstanding_shares": 154042762,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dược phẩm Imexpharm (IMP) được th&agrave;nh lập từ năm 1983, với tiền th&acirc;n của c&ocirc;ng ty&nbsp;l&agrave; X&iacute; Nghiệp Li&ecirc;n hiệp Dược Đồng Th&aacute;p. Năm 2001, C&ocirc;ng ty chuyển đổi v&agrave; hoạt động dưới h&igrave;nh thức c&ocirc;ng ty cổ phần.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực&nbsp;sản xuất kinh doanh, xuất nhập khẩu sản phẩm t&acirc;n dược, dụng cụ y tế, nguy&ecirc;n phụ liệu ng&agrave;nh. C&ocirc;ng ty c&oacute; 2 nh&agrave; m&aacute;y sản xuất ch&iacute;nh đặt tại khu trụ sở thuộc tỉnh Đồng Th&aacute;p đạt ti&ecirc;u chuẩn GMP - ASEAN, hệ thống kho đạt ti&ecirc;u chuẩn GSP - ASEAN v&agrave; Ph&ograve;ng th&iacute; nghiệm đạt ti&ecirc;u chuẩn GLP - ASEAN. IMP được cấp visa Ch&acirc;u &Acirc;u cho sản phẩm thuốc Cephalexin 500mg v&agrave; việc được cấp giấy chứng nhận WHO-GMP cho nh&agrave; m&aacute;y sản xuất Thực phẩm bảo vệ sức khỏe.&nbsp;Sản phẩm sản xuất tập trung c&aacute;c nh&oacute;m hạ sốt giảm đau, kh&aacute;ng sinh, vitamin, thực phẩm chức năng. Về mạng lưới thị trường, C&ocirc;ng ty hiện c&oacute; 20 chi nh&aacute;nh phụ tr&aacute;ch b&aacute;n h&agrave;ng tr&ecirc;n to&agrave;n quốc. C&ocirc;ng ty c&ograve;n hợp t&aacute;c với c&aacute;c c&ocirc;ng ty dược phẩm kh&aacute;c để trở th&agrave;nh đại l&yacute; độc quyền ph&acirc;n phối. IMP ch&iacute;nh thức&nbsp;ni&ecirc;m yết tr&ecirc;n s&agrave;n HOSE từ ng&agrave;y&nbsp;04/12/2006.</div>\r\n",
+  "website": null,
+  "price_change": 1600,
+  "percent_price_change": 0.03018868,
+  "volume": 455571,
+  "high_52w": 55958,
+  "low_52w": 35753,
+  "pe": 23.5032620771,
+  "pb": 3.9624558021,
+  "roe": 0.1644393822,
+  "roa": 0.1297947254,
+  "eps": 586.3006978061445,
+  "revenue": 770076531891,
+  "net_profit": 90295561889,
+  "dividend": 0.0091575092,
+  "shareholders": [
+    {
+      "shareholder_name": "Sk Investment Vina Iii Pte.ltd",
+      "shareholder_percent": 0.4769
+    },
+    {
+      "shareholder_name": "Tổng Công ty Dược Việt Nam - CTCP",
+      "shareholder_percent": 0.2204
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Bình Minh Kim",
+      "shareholder_percent": 0.0975
+    },
+    {
+      "shareholder_name": "Công Ty Cổ Phần Đầu Tư Kba",
+      "shareholder_percent": 0.0737
+    },
+    {
+      "shareholder_name": "FTIF - Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.02443
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Giải pháp Phân phối và Bán lẻ PHANO",
+      "shareholder_percent": 0.02155
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Chứng khoán Y tế Bản Việt",
+      "shareholder_percent": 0.0121
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Emerging Markets Small Cap Fund",
+      "shareholder_percent": 0.00916
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.00718
+    },
+    {
+      "shareholder_name": "J.P. Morgan Whitefriars Inc.",
+      "shareholder_percent": 0.0065
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.0053068843
+    },
+    {
+      "shareholder_name": "Trần Thị Đào",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Định",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0043
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.0028
+    },
+    {
+      "shareholder_name": "Ngô Minh Tuấn",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.00179
+    },
+    {
+      "shareholder_name": "Nguyễn Quý Sơn",
+      "shareholder_percent": 0.0017
+    },
+    {
+      "shareholder_name": "Trần Thái Hoàng",
+      "shareholder_percent": 0.0016722728
+    },
+    {
+      "shareholder_name": "Lê Văn Nhã Phương",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ VinaCapital",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Kiêm Phương",
+      "shareholder_percent": 0.0012092881
+    },
+    {
+      "shareholder_name": "Huỳnh Văn Nhung",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Phan Hoàng Minh Trí",
+      "shareholder_percent": 0.0010040547
+    },
+    {
+      "shareholder_name": "Hoàng Thị Huệ",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Trương Viết Vũ",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Tuấn",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Trần Anh Tuấn",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Lưu Thị Hạnh",
+      "shareholder_percent": 0.0006391951
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hồng",
+      "shareholder_percent": 0.0006319394
+    },
+    {
+      "shareholder_name": "Hoàng Thọ Phồn",
+      "shareholder_percent": 0.0005016818
+    },
+    {
+      "shareholder_name": "Kiwoom Vietnam Tomorrow Securities Master Fund",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Lê Thị Kim Chung",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 0.0002227291
+    },
+    {
+      "shareholder_name": "Dương Hoàng Vũ",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn An Duy",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 8e-08
+    },
+    {
+      "shareholder_name": "Võ Hữu Tuấn",
+      "shareholder_percent": 4e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Thị Đào",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.005
+    },
+    {
+      "officer_name": "Nguyễn Quốc Định",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0045
+    },
+    {
+      "officer_name": "Ngô Minh Tuấn",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Lê Văn Nhã Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "Huỳnh Văn Nhung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Nguyễn Đức Tuấn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Trần Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Lê Thị Kim Chung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Trần Hoài Hạnh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Thanh Thúy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hàn Thị Khánh Vinh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Minh Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:45.095344"
+}

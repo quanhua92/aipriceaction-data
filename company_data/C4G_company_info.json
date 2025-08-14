@@ -1,0 +1,230 @@
+{
+  "symbol": "C4G",
+  "exchange": "UPCOM",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3537277464600,
+  "current_price": 9900,
+  "outstanding_shares": 357300754,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập Đo&agrave;n Cienco4 (CIENCO4) c&oacute; tiền th&acirc;n l&agrave; Cục c&ocirc;ng tr&igrave;nh&nbsp;trực thuộc&nbsp;Bộ Giao th&ocirc;ng vận tải được th&agrave;nh lập v&agrave;o năm 1962. Tập đo&agrave;n hoạt động ch&iacute;nh trong c&aacute;c lĩnh vực&nbsp;thi c&ocirc;ng x&acirc;y lắp c&aacute;c c&ocirc;ng tr&igrave;nh giao th&ocirc;ng, c&ocirc;ng tr&igrave;nh d&acirc;n dụng,&nbsp;đầu tư kinh doanh c&aacute;c dự &aacute;n hạ tầng giao th&ocirc;ng theo c&aacute;c h&igrave;nh thức BT, BOT&nbsp;v&agrave; kinh doanh cho thu&ecirc; văn ph&ograve;ng thương mại,&nbsp;khu nghỉ dưỡng. CIENCO4 ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh C&ocirc;ng ty cổ phần&nbsp;từ năm 2014.&nbsp;C&aacute;c c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu của C&ocirc;ng ty bao gồm: C&ocirc;ng tr&igrave;nh n&acirc;ng cấp Quốc lộ 1A đoạn Vinh &ndash; Đ&ocirc;ng H&agrave; g&oacute;i 1&amp;2 (gi&aacute; trị hợp đồng 647 tỷ đồng), X&acirc;y dựng đường cao tốc Hồ Ch&iacute; Minh &ndash; Trung Lương (780 tỷ đồng), C&ocirc;ng tr&igrave;nh x&acirc;y dựng đường v&agrave;nh đai 3 &ndash; g&oacute;i thầu 3 (trị gi&aacute; 1.376 tỷ đồng) v&agrave; g&oacute;i thầu 1 (trị gi&aacute; 1.416 tỷ đồng), x&acirc;y dựng Cầu Bến Thủy 2 (868 tỷ đồng). CIENCO4 được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 12/2018.</div>\r\n",
+  "website": null,
+  "price_change": -125,
+  "percent_price_change": -0.01262626,
+  "volume": 3587202,
+  "high_52w": 10300,
+  "low_52w": 5600,
+  "pe": 34.3617012766,
+  "pb": 0.887061505,
+  "roe": 0.0259156225,
+  "roa": 0.0108570322,
+  "eps": 17.564406054961754,
+  "revenue": 988042622853,
+  "net_profit": 6275775527,
+  "dividend": 0.0716112532,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Xuất nhập khẩu và Dịch vụ tổng hợp Nhật Minh",
+      "shareholder_percent": 0.1667
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần New Link",
+      "shareholder_percent": 0.1037
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VNDIRECT",
+      "shareholder_percent": 0.0924
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Xây Dựng Dũng Hưng",
+      "shareholder_percent": 0.0478
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Đại",
+      "shareholder_percent": 0.0407
+    },
+    {
+      "shareholder_name": "Đinh Thi Anh Phương",
+      "shareholder_percent": 0.02083523
+    },
+    {
+      "shareholder_name": "Nguyễn Vĩnh Lộc",
+      "shareholder_percent": 0.02
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Huỳnh",
+      "shareholder_percent": 0.0175
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Nghi",
+      "shareholder_percent": 0.01417573
+    },
+    {
+      "shareholder_name": "Phạm Thanh Hà",
+      "shareholder_percent": 0.00259
+    },
+    {
+      "shareholder_name": "Nguyễn Phan Bảo Hà",
+      "shareholder_percent": 0.002494
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Hà",
+      "shareholder_percent": 0.0024416
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Dũng",
+      "shareholder_percent": 0.00137
+    },
+    {
+      "shareholder_name": "Đặng Ngọc Anh",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tân",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Hồ Xuân Sơn",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Lương Thị Thanh Bình",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Đinh Thị Thanh Huyền",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Phan Sỹ Hùng",
+      "shareholder_percent": 0.0001483
+    },
+    {
+      "shareholder_name": "Văn Hồng Tuân",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Phương Vinh",
+      "shareholder_percent": 9.88e-05
+    },
+    {
+      "shareholder_name": "Ngô Trọng Hà",
+      "shareholder_percent": 9.8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tâm",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Thái Hồng Lam",
+      "shareholder_percent": 4.45e-05
+    },
+    {
+      "shareholder_name": "Đặng Viết Thanh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Thúy Hạnh",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Hiếu",
+      "shareholder_percent": 2e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Tuấn Huỳnh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0175
+    },
+    {
+      "officer_name": "Trần Thị Thu Hà",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0024416
+    },
+    {
+      "officer_name": "Nguyễn Anh Tân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Hồ Xuân Sơn",
+      "officer_position": "Giám đốc Công nghệ/Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Phan Sỹ Hùng",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_percent": 0.0001483
+    },
+    {
+      "officer_name": "Văn Hồng Tuân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Phương Vinh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 9.88e-05
+    },
+    {
+      "officer_name": "Thái Hồng Lam",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 4.45e-05
+    },
+    {
+      "officer_name": "Đặng Viết Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Phạm Văn Hiếu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Nguyễn Đình Nhuận",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Thị Thanh Mai",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Đức Thọ",
+      "officer_position": "Giám đốc Kinh doanh/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Văn Đào",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Chín",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Trọng Nghĩa",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đàm Xuân Toan",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:19.717405"
+}

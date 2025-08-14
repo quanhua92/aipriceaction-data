@@ -1,0 +1,168 @@
+{
+  "symbol": "BSR",
+  "exchange": "HOSE",
+  "industry": "Sản xuất Dầu khí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 69761241360000,
+  "current_price": 22500,
+  "outstanding_shares": 3100499616,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần&nbsp;Lọc &ndash; H&oacute;a dầu B&igrave;nh Sơn (BSR)&nbsp;được th&agrave;nh lập năm 2008. BSR ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ&nbsp;năm 2018. C&ocirc;ng ty l&agrave; đơn vị quản l&yacute; vận&nbsp;h&agrave;nh&nbsp;Nh&agrave; m&aacute;y lọc dầu Dung Quất l&agrave; c&ocirc;ng tr&igrave;nh trọng điểm quốc gia c&oacute; tổng vốn đầu tư tr&ecirc;n 3 tỷ USD, c&ocirc;ng suất chế biến 6,5 triệu tấn dầu th&ocirc;/năm, tương đương 148.000 th&ugrave;ng/ng&agrave;y, c&ocirc;ng ty hiện chiếm khoảng&nbsp;30% nhu cầu năng lượng của Việt Nam. Ng&agrave;y 17/01/2025, BSR ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -450,
+  "percent_price_change": -0.01960784,
+  "volume": 15384923,
+  "high_52w": 23150,
+  "low_52w": 14550,
+  "pe": -1405.0921083378,
+  "pb": 1.2343619819,
+  "roe": -0.0008885016,
+  "roa": -0.0005864649,
+  "eps": 272.82345302441735,
+  "revenue": 36772242585394,
+  "net_profit": 845889011338,
+  "dividend": 0.0044444444,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
+      "shareholder_percent": 0.9213
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.00529
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.00134
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam Fund II",
+      "shareholder_percent": 0.000149
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Manulife",
+      "shareholder_percent": 0.0001331721
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 9.34e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 1.567e-05
+    },
+    {
+      "shareholder_name": "Bùi Minh Tiến",
+      "shareholder_percent": 1.35e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hội",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "PHẠM TUẤN ANH",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Võ Tiến Bình",
+      "shareholder_percent": 1.3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Hòa",
+      "shareholder_percent": 1.1934e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hải Âu",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Khương Lê Thành",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Bùi Minh Tiến",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 1.35e-05
+    },
+    {
+      "officer_name": "Nguyễn Văn Hội",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Nguyễn Hải Âu",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Khương Lê Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Bùi Ngọc Dương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Đổng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Ngọc Xuân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Việt Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thái Bảo",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bạch Đức Long",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nghiêm Đức Dương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Lê Huy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Ngọc Quý",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Bá Phước",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Đoàn Thịnh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:50:09.216628"
+}

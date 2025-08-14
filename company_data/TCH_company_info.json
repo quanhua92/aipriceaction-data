@@ -1,0 +1,195 @@
+{
+  "symbol": "TCH",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 17373611918000,
+  "current_price": 26000,
+  "outstanding_shares": 668215843,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Dịch vụ T&agrave;i ch&iacute;nh Ho&agrave;ng Huy (TCH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại Ho&agrave;ng Huy, được th&agrave;nh lập v&agrave;o th&aacute;ng 10/1995. TCH chuy&ecirc;n hoạt động trong lĩnh vực đầu tư kinh doanh bất động sản v&agrave;&nbsp;lắp r&aacute;p ph&acirc;n phối xe &ocirc; t&ocirc; đầu k&eacute;o.&nbsp;TCH hiện đang l&agrave;&nbsp;nh&agrave;&nbsp;ph&acirc;n phối ch&iacute;nh h&atilde;ng xe tải thương hiệu International của h&atilde;ng Navistar (Hoa Kỳ) v&agrave;&nbsp;c&aacute;c d&ograve;ng xe&nbsp;Dongfeng (Trung Quốc) tại thị trường Việt Nam. C&ocirc;ng ty đ&atilde; x&acirc;y dựng hệ thống ph&acirc;n phối xe tải với&nbsp;hơn 25 đại l&yacute; tr&ecirc;n to&agrave;n quốc.&nbsp;Trong lĩnh vực đầu tư kinh doanh bất động sản, TCH đ&atilde; triển khai&nbsp;thực hiện&nbsp;nhiều dự &aacute;n quy m&ocirc;&nbsp;lớn&nbsp;như&nbsp;Hoang Huy Commerce, Hoang Huy New&nbsp;City, Hoang Huy Green River, ....&nbsp;TCH được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>\r\n",
+  "website": null,
+  "price_change": 650,
+  "percent_price_change": 0.02564103,
+  "volume": 14326840,
+  "high_52w": 27050,
+  "low_52w": 13300,
+  "pe": 23.1075266558,
+  "pb": 1.879989576,
+  "roe": 0.0795469909,
+  "roa": 0.0496892975,
+  "eps": 56.677713166702034,
+  "revenue": 390355429992,
+  "net_profit": 37872945883,
+  "dividend": 0.0384615385,
+  "shareholders": [
+    {
+      "shareholder_name": "ĐỖ HỮU HẠ",
+      "shareholder_percent": 0.39226991
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hà",
+      "shareholder_percent": 0.0488823
+    },
+    {
+      "shareholder_name": "Trần Thị Hoàng Hà",
+      "shareholder_percent": 0.0346
+    },
+    {
+      "shareholder_name": "Hoàng Thị Huyên",
+      "shareholder_percent": 0.0098311
+    },
+    {
+      "shareholder_name": "Đỗ Thị Huyền Trang",
+      "shareholder_percent": 0.00606253
+    },
+    {
+      "shareholder_name": "Đỗ Hữu Hưng",
+      "shareholder_percent": 0.0037891
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.00010482
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 2.548e-05
+    },
+    {
+      "shareholder_name": "Phùng Thị Thu Hương",
+      "shareholder_percent": 1.52e-05
+    },
+    {
+      "shareholder_name": "Hồ Thị Xuân Hòa",
+      "shareholder_percent": 1.14e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tươi",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thúy Nga",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Tùng",
+      "shareholder_percent": 1.5e-06
+    },
+    {
+      "shareholder_name": "Phan Thị Thu Hường",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai Hằng",
+      "shareholder_percent": 6.8e-07
+    },
+    {
+      "shareholder_name": "Trần Thu Minh Duyên",
+      "shareholder_percent": 4.9e-07
+    },
+    {
+      "shareholder_name": "Phùng Thị Dung",
+      "shareholder_percent": 4.9e-07
+    },
+    {
+      "shareholder_name": "Phùng Thị Hồng Hòa",
+      "shareholder_percent": 4.9e-07
+    },
+    {
+      "shareholder_name": "Phùng Trọng Đoan",
+      "shareholder_percent": 4.9e-07
+    },
+    {
+      "shareholder_name": "Trần Thị Bích Thủy",
+      "shareholder_percent": 4.5e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Công Hoan",
+      "shareholder_percent": 4.5e-07
+    },
+    {
+      "shareholder_name": "Bùi Sỹ Tiến",
+      "shareholder_percent": 4.5e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "ĐỖ HỮU HẠ",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.39226991
+    },
+    {
+      "officer_name": "Nguyễn Thị Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0488823
+    },
+    {
+      "officer_name": "Trần Thị Hoàng Hà",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0346
+    },
+    {
+      "officer_name": "Đỗ Hữu Hưng",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0037891
+    },
+    {
+      "officer_name": "Phùng Thị Thu Hương",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 1.52e-05
+    },
+    {
+      "officer_name": "Hồ Thị Xuân Hòa",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.14e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Tươi",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 3e-06
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Tùng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.5e-06
+    },
+    {
+      "officer_name": "Phan Thị Thu Hường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Phan Thị Phương Thủy",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Trọng Long",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thế Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Hữu Hậu",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Hồng Dung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hải Yến",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T08:11:15.674919"
+}

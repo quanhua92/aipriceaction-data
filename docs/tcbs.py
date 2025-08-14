@@ -70,7 +70,7 @@ class TCBSClient:
         'free_cash_flow': 'free_cash_flow'
     }
     
-    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 10):
+    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 60):
         self.base_url = "https://apipubaws.tcbs.com.vn"
         self.random_agent = random_agent
         
@@ -1131,7 +1131,7 @@ def main():
     print("TCBS CLIENT - COMPREHENSIVE TESTING")
     print("="*60)
     
-    client = TCBSClient(random_agent=True, rate_limit_per_minute=6)
+    client = TCBSClient(random_agent=True, rate_limit_per_minute=60)
     test_symbol = "VCI"
     
     # 1. COMPANY INFO

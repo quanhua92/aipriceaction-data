@@ -1,0 +1,272 @@
+{
+  "symbol": "IDC",
+  "exchange": "HNX",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 16499996450000,
+  "current_price": 50000,
+  "outstanding_shares": 329999929,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty IDICO (IDC), c&oacute; tiền th&acirc;n l&agrave; Tổng C&ocirc;ng ty Đầu tư ph&aacute;t triển Đ&ocirc; thị v&agrave; Khu c&ocirc;ng nghiệp Việt Nam&nbsp;được th&agrave;nh lập v&agrave;o ng&agrave;y 6/12/2000 theo Quyết định số 26/2000/QĐ-BXD của Bộ trưởng Bộ X&acirc;y dựng. IDC chuy&ecirc;n đầu tư, ph&aacute;t triển v&agrave; kinh doanh khu c&ocirc;ng nghiệp, khu đ&ocirc; thị, khu d&acirc;n cư v&agrave; c&aacute;c c&ocirc;ng tr&igrave;nh c&ocirc;ng nghiệp v&agrave; d&acirc;n dụng kh&aacute;c. IDC đ&atilde; v&agrave; đang đầu tư x&acirc;y dựng, quản l&yacute; v&agrave; vận h&agrave;nh 17 dự &aacute;n khu c&ocirc;ng nghiệp tr&ecirc;n cả nước với tổng diện t&iacute;ch khoảng 7.000ha, tổng mức đầu tư khoảng 10.000 tỷ đồng. B&ecirc;n cạnh đ&oacute;, IDC cũng đang đầu tư ph&aacute;t triển 04 dự &aacute;n thủy điện với c&ocirc;ng suất 333MW, tổng mức đầu tư 409 triệu USD. Địa b&agrave;n kinh doanh ch&iacute;nh của c&ocirc;ng ty l&agrave; c&aacute;c tỉnh ph&iacute;a Nam bao gồm Th&agrave;nh phố Hồ Ch&iacute; Minh, Đồng Nai, B&agrave; Rịa - Vũng T&agrave;u, Long An,...&nbsp;&nbsp;Ngo&agrave;i ra, Tổng C&ocirc;ng ty cũng tham gia kinh doanh xuất nhập khẩu vật tư, thiết bị, vật liệu x&acirc;y dựng v&agrave; c&ocirc;ng nghệ x&acirc;y dựng. Ng&agrave;y 10/12/2019, IDC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": 500,
+  "percent_price_change": 0.01010101,
+  "volume": 5571042,
+  "high_52w": 52575,
+  "low_52w": 26871,
+  "pe": 10.9320455837,
+  "pb": 2.8738164294,
+  "roe": 0.2733038298,
+  "roa": 0.0794883369,
+  "eps": 901.8580762331012,
+  "revenue": 1763197891011,
+  "net_profit": 297613101125,
+  "dividend": 0.07,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn SSG",
+      "shareholder_percent": 0.225
+    },
+    {
+      "shareholder_name": "Công ty TNHH Sản Xuất Và Thương Mại Bách Việt",
+      "shareholder_percent": 0.1193
+    },
+    {
+      "shareholder_name": "Vũ Thị Thu Hằng",
+      "shareholder_percent": 0.0633
+    },
+    {
+      "shareholder_name": "Công ty TNHH Kinh Doanh Và Cho Thuê Nhà Tân Bách Việt",
+      "shareholder_percent": 0.0291
+    },
+    {
+      "shareholder_name": "Đặng Việt Dũng",
+      "shareholder_percent": 0.0253
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.012138
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.010538
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.009777
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.008353
+    },
+    {
+      "shareholder_name": "Công ty TNHH Covestcons",
+      "shareholder_percent": 0.0062
+    },
+    {
+      "shareholder_name": "Fides Xin Moi B&I Private Investment Trust 4",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Fides Jump Up Private Investment Trust 3",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.002897
+    },
+    {
+      "shareholder_name": "Fides Xin Moi B&I Private Investment Trust 5",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Fides Xin Moi B&I Private Investment Trust 3",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Như Mai",
+      "shareholder_percent": 0.0018603
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.001818
+    },
+    {
+      "shareholder_name": "Fides Xin Moi B&I Private Investment Trust 9",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Fides Xin Moi B&I Private Investment Trust 7",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Giá trị MB Capital",
+      "shareholder_percent": 0.00083333
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 0.00076667
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 0.0007666667
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 0.00066667
+    },
+    {
+      "shareholder_name": "Idris Ltd",
+      "shareholder_percent": 0.00055
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.00055
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000455
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.000403
+    },
+    {
+      "shareholder_name": "Fides Jump Up Active Private Investment Trust 5",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Danang Investments Limited",
+      "shareholder_percent": 0.000303
+    },
+    {
+      "shareholder_name": "Venner Group Limited",
+      "shareholder_percent": 0.000242
+    },
+    {
+      "shareholder_name": "Võ Tấn Dũng",
+      "shareholder_percent": 7.767e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Hương",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tuế Loan",
+      "shareholder_percent": 6.3e-05
+    },
+    {
+      "shareholder_name": "Ninh Mạnh Hồng",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Đặng Phương Thảo",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Đào Minh Tiến",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đạt",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Phạm Minh Hiệp",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Toán",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Trịnh Hùng Lâm",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Phan Văn Chính",
+      "shareholder_percent": 6.7e-06
+    },
+    {
+      "shareholder_name": "Hoàng Văn Tịnh",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Minh",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Trần Thị Ngọc",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Hoàng Văn Hiến",
+      "shareholder_percent": 1.67e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phan Văn Chính",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 6.7e-06
+    },
+    {
+      "officer_name": "Trần Thị Ngọc",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Nguyễn Văn Minh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Hoàng Văn Hiến",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Đào Hữu Thắng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Chính Trung",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Hải",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Văn Chung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tôn Thất Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Bá Thọ",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thanh Linh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Cao Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:53:40.098529"
+}

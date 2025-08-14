@@ -1,0 +1,331 @@
+{
+  "symbol": "HDB",
+  "exchange": "HOSE",
+  "industry": "Ngân hàng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 101618618253300,
+  "current_price": 28950,
+  "outstanding_shares": 3510142254,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Ph&aacute;t Triển Th&agrave;nh phố Hồ Ch&iacute; Minh (HDB) c&oacute; tiền th&acirc;n l&agrave; Ng&acirc;n h&agrave;ng Ph&aacute;t triển Nh&agrave; Th&agrave;nh phố Hồ Ch&iacute; Minh được th&agrave;nh lập v&agrave;o năm 1989. Ng&acirc;n h&agrave;ng hoạt&nbsp;động ch&iacute;nh trong lĩnh vực huy&nbsp;động vốn v&agrave; cho vay t&iacute;n dụng. HDB lần lượt được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối năm 2017 v&agrave; đầu năm 2018.&nbsp;Năm 2024, so với c&ugrave;ng kỳ, Bi&ecirc;n l&atilde;i thuần (NIM) ở mức 5.21%, tăng 0.37%. Tỷ lệ nợ xấu ở mức 1.93%, tăng 0.14%. Tỷ lệ bao phủ nợ xấu ở mức 68.71%, tăng 2.89%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 12,8 ngh&igrave;n tỷ đồng, tăng 26.73%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 25.79%, tăng 1.06%.</div>\r\n",
+  "website": null,
+  "price_change": 50,
+  "percent_price_change": 0.0017301,
+  "volume": 30241906,
+  "high_52w": 29450,
+  "low_52w": 18000,
+  "pe": 7.0717492175,
+  "pb": 1.6273460014,
+  "roe": 0.2422703817,
+  "roa": 0.0202497088,
+  "eps": 1005.6649281709821,
+  "revenue": 17989705000000,
+  "net_profit": 3514860000000,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Sovico",
+      "shareholder_percent": 0.14367
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sovico",
+      "shareholder_percent": 0.1286
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán AGRIBANK",
+      "shareholder_percent": 0.08762643
+    },
+    {
+      "shareholder_name": "Công ty Bất động sản Sài Gòn",
+      "shareholder_percent": 0.066
+    },
+    {
+      "shareholder_name": "Phạm Văn Đẩu",
+      "shareholder_percent": 0.04315
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Thảo",
+      "shareholder_percent": 0.03725
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đại chúng Việt Nam",
+      "shareholder_percent": 0.036
+    },
+    {
+      "shareholder_name": "Lưu Văn Sơn",
+      "shareholder_percent": 0.030089808
+    },
+    {
+      "shareholder_name": "Đào Duy Tường",
+      "shareholder_percent": 0.02728
+    },
+    {
+      "shareholder_name": "Công ty Đầu tư Tài chính Nhà nước Thành phố Hồ Chí Minh",
+      "shareholder_percent": 0.02666
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.022
+    },
+    {
+      "shareholder_name": "Baillie Gifford Pacific Fund",
+      "shareholder_percent": 0.01937
+    },
+    {
+      "shareholder_name": "Tianhong Vietnamese Market Equity Launched QDII Fund",
+      "shareholder_percent": 0.01686
+    },
+    {
+      "shareholder_name": "Phạm Khắc Dũng",
+      "shareholder_percent": 0.01196
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Thành",
+      "shareholder_percent": 0.01161419
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.01104
+    },
+    {
+      "shareholder_name": "Lưu Thị Việt Hồng",
+      "shareholder_percent": 0.0034
+    },
+    {
+      "shareholder_name": "Lưu Đức Khánh",
+      "shareholder_percent": 0.00293
+    },
+    {
+      "shareholder_name": "Phạm Quốc Thanh",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNFIN LEAD",
+      "shareholder_percent": 0.0020812255
+    },
+    {
+      "shareholder_name": "Đoàn Thị Thu Hương",
+      "shareholder_percent": 0.00146
+    },
+    {
+      "shareholder_name": "Trần Hoài Nam",
+      "shareholder_percent": 0.001021
+    },
+    {
+      "shareholder_name": "Lê Thanh Tùng",
+      "shareholder_percent": 0.00036
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Đức",
+      "shareholder_percent": 0.00033
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hảo",
+      "shareholder_percent": 0.000319
+    },
+    {
+      "shareholder_name": "Nguyễn Cảnh Sơn",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trần Thái Hòa",
+      "shareholder_percent": 0.000246
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Hiếu",
+      "shareholder_percent": 0.000243
+    },
+    {
+      "shareholder_name": "Đỗ Thị Hồng Dung",
+      "shareholder_percent": 0.000208764
+    },
+    {
+      "shareholder_name": "Đào Anh Minh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Hồ Đặng Hoàng Quyên",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.0001333131
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tích",
+      "shareholder_percent": 0.000123
+    },
+    {
+      "shareholder_name": "Chu Việt Cường",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Đô",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Thị Băng Tâm",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Đoàn Duy Ái",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+      "shareholder_percent": 7.06786e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 4.24465e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Quỳnh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Trần Tú Thi",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Kim Byoungho",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Kiều Trang",
+      "shareholder_percent": 2.7e-05
+    },
+    {
+      "shareholder_name": "Đường Thị Thu",
+      "shareholder_percent": 9.3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Phạm Thị Truyền",
+      "shareholder_percent": 2e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Văn Đẩu",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.04315
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương Thảo",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.03725
+    },
+    {
+      "officer_name": "Đào Duy Tường",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.02728
+    },
+    {
+      "officer_name": "Lưu Đức Khánh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00293
+    },
+    {
+      "officer_name": "Phạm Quốc Thanh",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "Trần Hoài Nam",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0.001021
+    },
+    {
+      "officer_name": "Lê Thanh Tùng",
+      "officer_position": "Người phụ trách quản trị công ty/Phó Tổng Giám đốc",
+      "officer_percent": 0.00036
+    },
+    {
+      "officer_name": "Trần Thái Hòa",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000246
+    },
+    {
+      "officer_name": "Hồ Đặng Hoàng Quyên",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00018
+    },
+    {
+      "officer_name": "Nguyễn Thị Tích",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.000123
+    },
+    {
+      "officer_name": "Chu Việt Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Đoàn Duy Ái",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Lê Thị Băng Tâm",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Thành Đô",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Kiều Trang",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 2.7e-05
+    },
+    {
+      "officer_name": "Đường Thị Thu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 9.3e-06
+    },
+    {
+      "officer_name": "Lim Peng Khoon",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Hảo",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Tâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đăng Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thanh Hà",
+      "officer_position": "Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hữu Đặng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thành Trung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-14T07:52:58.419127"
+}

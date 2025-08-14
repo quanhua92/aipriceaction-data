@@ -85,7 +85,7 @@ class VCIClient:
         'officer_percent': 'percentage'
     }
     
-    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 10):
+    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 60):
         self.base_url = "https://trading.vietcap.com.vn/api/"
         self.random_agent = random_agent
         
@@ -1603,7 +1603,7 @@ def main():
     print("VCI CLIENT - COMPREHENSIVE TESTING")
     print("="*60)
     
-    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    client = VCIClient(random_agent=True, rate_limit_per_minute=60)
     test_symbol = "VCI"
     
     # 1. COMPANY INFO
