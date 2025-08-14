@@ -20,7 +20,7 @@ Each client is implemented in both **Python** and **JavaScript**, providing cros
 
 ## Standardized Testing
 
-All 4 implementations feature identical main() functions that run a comprehensive 3-step testing sequence:
+All 4 implementations feature identical main() functions that run a comprehensive 4-step testing sequence:
 
 ### Test Sequence
 
@@ -36,11 +36,17 @@ All 4 implementations feature identical main() functions that run a comprehensiv
    - Quarterly and yearly reporting periods
    - Key financial metrics normalization
 
-3. **📈 Historical Data**
+3. **📈 Historical Data (Single Symbol)**
    - OHLCV price data with customizable date ranges
    - Multiple timeframes (1m, 5m, 15m, 30m, 1H, 1D, 1W, 1M)
    - Volume analysis and price change calculations
    - Sophisticated retry mechanisms with rate limiting
+
+4. **📊 Batch Historical Data**
+   - **NEW**: Fetch multiple symbols in parallel/batch requests
+   - Efficient handling of 10+ ticker symbols simultaneously
+   - Individual error handling per symbol
+   - Real-time progress tracking and success rates
 
 ## Quick Start
 

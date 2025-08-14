@@ -439,6 +439,71 @@ class TCBSClient {
   }
 
   /**
+   * Fetch historical stock data for multiple symbols using sequential requests.
+   * 
+   * Note: Unlike VCI, TCBS doesn't support true batch requests, so this method
+   * makes efficient sequential individual requests for each symbol.
+   * 
+   * @param {Array<string>} symbols - Array of stock symbols (e.g., ["VCI", "AAA", "ACB"])
+   * @param {string} start - Start date in "YYYY-MM-DD" format
+   * @param {string} end - End date in "YYYY-MM-DD" format (optional)
+   * @param {string} interval - Time interval - 1m, 5m, 15m, 30m, 1H, 1D, 1W, 1M
+   * @param {number} countBack - Number of data points to return
+   * @returns {Promise<Object|null>} Object mapping symbol -> Array of OHLCV data
+   */
+  async getBatchHistory(symbols, start, end, interval = "1D", countBack = 365) {
+    if (!(interval in this.intervalMap)) {
+      throw new Error(`Invalid interval: ${interval}. Valid options: ${Object.keys(this.intervalMap).join(', ')}`);
+    }
+    
+    if (!symbols || symbols.length === 0) {
+      throw new Error("Symbols array cannot be empty");
+    }
+    
+    console.log(`Fetching batch data for ${symbols.length} symbols: ${symbols.join(', ')}`);
+    console.log(`Date range: ${start} to ${end || 'now'} [${interval}] (count_back=${countBack})`);
+    
+    const results = {};
+    let successfulCount = 0;
+    
+    // Process each symbol sequentially with rate limiting
+    for (let i = 0; i < symbols.length; i++) {
+      const symbol = symbols[i];
+      
+      try {
+        console.log(`Processing ${symbol} (${i+1}/${symbols.length})...`);
+        
+        // Add small delay between requests to respect rate limits
+        if (i > 0) {
+          await this.sleep(500); // 0.5s delay
+        }
+        
+        // Fetch individual symbol data
+        const data = await this.getHistory(symbol, start, end, interval, countBack);
+        
+        if (data && data.length > 0) {
+          // Add symbol property for identification
+          data.forEach(item => item.symbol = symbol);
+          results[symbol] = data;
+          successfulCount++;
+          console.log(`✅ ${symbol}: ${data.length} data points`);
+        } else {
+          results[symbol] = null;
+          console.log(`❌ ${symbol}: No data`);
+        }
+        
+      } catch (error) {
+        results[symbol] = null;
+        console.log(`❌ ${symbol}: Error - ${error.message}`);
+      }
+    }
+    
+    console.log(`Successfully fetched data for ${successfulCount}/${symbols.length} symbols`);
+    
+    return results;
+  }
+
+  /**
    * Convert camelCase to snake_case.
    * @param {string} name - The camelCase string to convert
    * @returns {string} The snake_case string
@@ -1236,7 +1301,7 @@ async function main() {
   
   await new Promise(resolve => setTimeout(resolve, 2000));
   
-  // 3. HISTORICAL DATA
+  // 3. HISTORICAL DATA (Single Symbol)
   console.log(`\n📈 Step 3: Historical Data for ${testSymbol}`);
   console.log("-".repeat(40));
   try {
@@ -1270,6 +1335,41 @@ async function main() {
     }
   } catch (error) {
     console.log(`💥 Error in historical data: ${error.message}`);
+  }
+  
+  await new Promise(resolve => setTimeout(resolve, 3000));
+  
+  // 4. BATCH HISTORICAL DATA (2025-08-14 only)
+  console.log(`\n📊 Step 4: Batch Historical Data (10 symbols - 2025-08-14)`);
+  console.log("-".repeat(40));
+  try {
+    const testSymbols = ["AAA", "ACB", "ACV", "ANV", "BCM", "BIC", "BID", "BMP", "BSI", "BSR"];
+    const batchData = await client.getBatchHistory(
+      testSymbols,
+      "2025-08-14",
+      "2025-08-14",
+      "1D",
+      365
+    );
+    
+    if (batchData) {
+      console.log(`✅ Batch request successful for ${testSymbols.length} symbols!`);
+      console.log("📈 2025-08-14 closing prices:");
+      console.log("-".repeat(40));
+      
+      for (const [symbol, data] of Object.entries(batchData)) {
+        if (data && data.length > 0) {
+          const closePrice = data[data.length - 1].close;
+          console.log(`  ${symbol}: ${closePrice.toFixed(0)} VND`);
+        } else {
+          console.log(`  ${symbol}: ❌ No data`);
+        }
+      }
+    } else {
+      console.log("❌ Batch request failed - no data received");
+    }
+  } catch (error) {
+    console.log(`💥 Error in batch history: ${error.message}`);
   }
   
   console.log(`\n${"=".repeat(60)}`);

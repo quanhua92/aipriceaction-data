@@ -85,7 +85,7 @@ class VCIClient:
         'officer_percent': 'percentage'
     }
     
-    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 60):
+    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 10):
         self.base_url = "https://trading.vietcap.com.vn/api/"
         self.random_agent = random_agent
         
@@ -379,6 +379,125 @@ class VCIClient:
         
         print(f"Successfully fetched {len(df)} data points")
         return df
+
+    def get_batch_history(self, 
+                         symbols: List[str], 
+                         start: str, 
+                         end: Optional[str] = None, 
+                         interval: str = "1D") -> Optional[Dict[str, pd.DataFrame]]:
+        """
+        Fetch historical stock data for multiple symbols in a single request.
+        
+        Args:
+            symbols: List of stock symbols (e.g., ["VCI", "AAA", "ACB"])
+            start: Start date in "YYYY-MM-DD" format
+            end: End date in "YYYY-MM-DD" format (optional)
+            interval: Time interval - 1m, 5m, 15m, 30m, 1H, 1D, 1W, 1M
+            
+        Returns:
+            Dictionary mapping symbol -> DataFrame with columns: time, open, high, low, close, volume
+        """
+        if interval not in self.interval_map:
+            raise ValueError(f"Invalid interval: {interval}. Valid options: {list(self.interval_map.keys())}")
+        
+        if not symbols or len(symbols) == 0:
+            raise ValueError("Symbols list cannot be empty")
+            
+        # Prepare request parameters
+        end_timestamp = self._calculate_timestamp(end)
+        count_back = self._calculate_count_back(start, end, interval)
+        interval_value = self.interval_map[interval]
+        
+        url = f"{self.base_url}chart/OHLCChart/gap-chart"
+        payload = {
+            "timeFrame": interval_value,
+            "symbols": symbols,  # Pass all symbols at once
+            "to": end_timestamp,
+            "countBack": count_back
+        }
+        
+        print(f"Fetching batch data for {len(symbols)} symbols: {', '.join(symbols)}")
+        print(f"Date range: {start} to {end or 'now'} [{interval}] (count_back={count_back})")
+        
+        # Make the request
+        response_data = self._make_request(url, payload)
+        
+        if not response_data or not isinstance(response_data, list):
+            print("No data received from API")
+            return None
+            
+        if len(response_data) != len(symbols):
+            print(f"Warning: Expected {len(symbols)} responses, got {len(response_data)}")
+        
+        results = {}
+        start_dt = datetime.strptime(start, "%Y-%m-%d")
+        
+        # Process each symbol's data
+        for i, symbol in enumerate(symbols):
+            if i >= len(response_data):
+                print(f"No data available for symbol: {symbol}")
+                results[symbol] = None
+                continue
+                
+            data_item = response_data[i]
+            
+            # Check if we have the required OHLCV arrays
+            required_keys = ['o', 'h', 'l', 'c', 'v', 't']
+            if not all(key in data_item for key in required_keys):
+                print(f"Missing required keys for {symbol}. Available: {list(data_item.keys())}")
+                results[symbol] = None
+                continue
+                
+            # Get the arrays
+            opens = data_item['o']
+            highs = data_item['h'] 
+            lows = data_item['l']
+            closes = data_item['c']
+            volumes = data_item['v']
+            times = data_item['t']
+            
+            # Check if all arrays have the same length
+            lengths = [len(arr) for arr in [opens, highs, lows, closes, volumes, times]]
+            if not all(length == lengths[0] for length in lengths):
+                print(f"Inconsistent array lengths for {symbol}: {lengths}")
+                results[symbol] = None
+                continue
+                
+            if lengths[0] == 0:
+                print(f"Empty data arrays for {symbol}")
+                results[symbol] = None
+                continue
+                
+            # Convert to DataFrame
+            df_data = []
+            for j in range(len(times)):
+                df_data.append({
+                    'time': pd.to_datetime(int(times[j]), unit='s'),
+                    'open': float(opens[j]),
+                    'high': float(highs[j]),
+                    'low': float(lows[j]),
+                    'close': float(closes[j]),
+                    'volume': int(volumes[j]) if volumes[j] is not None else 0
+                })
+                
+            df = pd.DataFrame(df_data)
+            
+            # Filter by start date
+            df = df[df['time'] >= start_dt].reset_index(drop=True)
+            
+            # Sort by time
+            df = df.sort_values('time').reset_index(drop=True)
+            
+            # Add symbol column for identification
+            df['symbol'] = symbol
+            
+            results[symbol] = df
+            print(f"✅ {symbol}: {len(df)} data points")
+        
+        successful_count = sum(1 for df in results.values() if df is not None)
+        print(f"Successfully fetched data for {successful_count}/{len(symbols)} symbols")
+        
+        return results
     
     def overview(self, symbol: str) -> Optional[pd.DataFrame]:
         """
@@ -1597,13 +1716,78 @@ query Query($ticker: String!, $period: String!) {
         return normalized
 
 
+def test_batch_history():
+    """Test the new batch history functionality with 10 tickers."""
+    print("\n" + "="*60)
+    print("VCI CLIENT - BATCH HISTORY TESTING")
+    print("="*60)
+    
+    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    
+    # Test with the provided 10 tickers
+    test_symbols = ["AAA", "ACB", "ACV", "ANV", "BCM", "BIC", "BID", "BMP", "BSI", "BSR"]
+    
+    print(f"\n📊 Testing batch history for {len(test_symbols)} symbols")
+    print(f"Symbols: {', '.join(test_symbols)}")
+    print("-" * 60)
+    
+    try:
+        batch_data = client.get_batch_history(
+            symbols=test_symbols,
+            start="2025-08-01",
+            end="2025-08-13",
+            interval="1D"
+        )
+        
+        if batch_data:
+            print(f"\n✅ Batch request successful!")
+            print(f"📈 Results summary:")
+            print("-" * 40)
+            
+            successful_symbols = []
+            failed_symbols = []
+            
+            for symbol, df in batch_data.items():
+                if df is not None and len(df) > 0:
+                    successful_symbols.append(symbol)
+                    latest = df.iloc[-1]
+                    print(f"  {symbol}: {len(df)} points | Latest: {latest['close']:.0f} VND (Vol: {latest['volume']:,})")
+                else:
+                    failed_symbols.append(symbol)
+                    print(f"  {symbol}: ❌ No data")
+            
+            print(f"\n📊 Final Results:")
+            print(f"  ✅ Success: {len(successful_symbols)}/{len(test_symbols)} symbols")
+            print(f"  ❌ Failed: {len(failed_symbols)} symbols")
+            
+            if failed_symbols:
+                print(f"  Failed symbols: {', '.join(failed_symbols)}")
+                
+            # Show sample data structure
+            if successful_symbols:
+                sample_symbol = successful_symbols[0]
+                sample_df = batch_data[sample_symbol]
+                print(f"\n📋 Sample data structure ({sample_symbol}):")
+                print(sample_df.head(2).to_string(index=False))
+                
+        else:
+            print("❌ Batch request failed - no data received")
+            
+    except Exception as e:
+        print(f"💥 Error in batch history: {e}")
+    
+    print(f"\n{'='*60}")
+    print("✅ BATCH HISTORY TESTING COMPLETED")
+    print("="*60)
+
+
 def main():
-    """Test VCI client: 1. Company Info, 2. Financial Info, 3. History."""
+    """Test VCI client: 1. Company Info, 2. Financial Info, 3. History, 4. Batch History."""
     print("\n" + "="*60)
     print("VCI CLIENT - COMPREHENSIVE TESTING")
     print("="*60)
     
-    client = VCIClient(random_agent=True, rate_limit_per_minute=60)
+    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
     test_symbol = "VCI"
     
     # 1. COMPANY INFO
@@ -1661,7 +1845,7 @@ def main():
     
     time.sleep(2)
     
-    # 3. HISTORICAL DATA
+    # 3. HISTORICAL DATA (Single Symbol)
     print(f"\n📈 Step 3: Historical Data for {test_symbol}")
     print("-" * 40)
     try:
@@ -1691,6 +1875,36 @@ def main():
             print("❌ Failed to retrieve historical data")
     except Exception as e:
         print(f"💥 Error in historical data: {e}")
+    
+    time.sleep(3)
+    
+    # 4. BATCH HISTORICAL DATA (2025-08-14 only)
+    print(f"\n📊 Step 4: Batch Historical Data (10 symbols - 2025-08-14)")
+    print("-" * 40)
+    try:
+        test_symbols = ["AAA", "ACB", "ACV", "ANV", "BCM", "BIC", "BID", "BMP", "BSI", "BSR"]
+        batch_data = client.get_batch_history(
+            symbols=test_symbols,
+            start="2025-08-14",
+            end="2025-08-14",
+            interval="1D"
+        )
+        
+        if batch_data:
+            print(f"✅ Batch request successful for {len(test_symbols)} symbols!")
+            print("📈 2025-08-14 closing prices:")
+            print("-" * 40)
+            
+            for symbol, df in batch_data.items():
+                if df is not None and len(df) > 0:
+                    close_price = df.iloc[-1]['close']
+                    print(f"  {symbol}: {close_price:.0f} VND")
+                else:
+                    print(f"  {symbol}: ❌ No data")
+        else:
+            print("❌ Batch request failed - no data received")
+    except Exception as e:
+        print(f"💥 Error in batch history: {e}")
     
     print(f"\n{'='*60}")
     print("✅ VCI CLIENT TESTING COMPLETED")

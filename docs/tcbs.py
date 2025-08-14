@@ -70,7 +70,7 @@ class TCBSClient:
         'free_cash_flow': 'free_cash_flow'
     }
     
-    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 60):
+    def __init__(self, random_agent: bool = True, rate_limit_per_minute: int = 10):
         self.base_url = "https://apipubaws.tcbs.com.vn"
         self.random_agent = random_agent
         
@@ -410,6 +410,76 @@ class TCBSClient:
         
         print(f"Successfully fetched {len(df)} data points")
         return df
+
+    def get_batch_history(self, 
+                         symbols: List[str], 
+                         start: str, 
+                         end: Optional[str] = None, 
+                         interval: str = "1D",
+                         count_back: int = 365) -> Optional[Dict[str, pd.DataFrame]]:
+        """
+        Fetch historical stock data for multiple symbols using parallel requests.
+        
+        Note: Unlike VCI, TCBS doesn't support true batch requests, so this method
+        makes efficient parallel individual requests for each symbol.
+        
+        Args:
+            symbols: List of stock symbols (e.g., ["VCI", "AAA", "ACB"])
+            start: Start date in "YYYY-MM-DD" format
+            end: End date in "YYYY-MM-DD" format (optional)
+            interval: Time interval - 1m, 5m, 15m, 30m, 1H, 1D, 1W, 1M
+            count_back: Number of data points to return
+            
+        Returns:
+            Dictionary mapping symbol -> DataFrame with columns: time, open, high, low, close, volume
+        """
+        if interval not in self.interval_map:
+            raise ValueError(f"Invalid interval: {interval}. Valid options: {list(self.interval_map.keys())}")
+        
+        if not symbols or len(symbols) == 0:
+            raise ValueError("Symbols list cannot be empty")
+            
+        print(f"Fetching batch data for {len(symbols)} symbols: {', '.join(symbols)}")
+        print(f"Date range: {start} to {end or 'now'} [{interval}] (count_back={count_back})")
+        
+        results = {}
+        successful_count = 0
+        
+        # Process each symbol sequentially with rate limiting
+        for i, symbol in enumerate(symbols):
+            try:
+                print(f"Processing {symbol} ({i+1}/{len(symbols)})...")
+                
+                # Add small delay between requests to respect rate limits
+                if i > 0:
+                    time.sleep(0.5)
+                
+                # Fetch individual symbol data
+                df = self.get_history(
+                    symbol=symbol,
+                    start=start,
+                    end=end,
+                    interval=interval,
+                    count_back=count_back
+                )
+                
+                if df is not None and not df.empty:
+                    # Add symbol column for identification
+                    df['symbol'] = symbol
+                    results[symbol] = df
+                    successful_count += 1
+                    print(f"✅ {symbol}: {len(df)} data points")
+                else:
+                    results[symbol] = None
+                    print(f"❌ {symbol}: No data")
+                    
+            except Exception as e:
+                results[symbol] = None
+                print(f"❌ {symbol}: Error - {e}")
+        
+        print(f"Successfully fetched data for {successful_count}/{len(symbols)} symbols")
+        
+        return results
     
     def overview(self, symbol: str) -> Optional[pd.DataFrame]:
         """
@@ -1131,7 +1201,7 @@ def main():
     print("TCBS CLIENT - COMPREHENSIVE TESTING")
     print("="*60)
     
-    client = TCBSClient(random_agent=True, rate_limit_per_minute=60)
+    client = TCBSClient(random_agent=True, rate_limit_per_minute=6)
     test_symbol = "VCI"
     
     # 1. COMPANY INFO
@@ -1190,7 +1260,7 @@ def main():
     
     time.sleep(2)
     
-    # 3. HISTORICAL DATA
+    # 3. HISTORICAL DATA (Single Symbol)
     print(f"\n📈 Step 3: Historical Data for {test_symbol}")
     print("-" * 40)
     try:
@@ -1205,22 +1275,53 @@ def main():
         if df is not None and not df.empty:
             data_count = len(df)
             print(f"✅ Success! Retrieved {data_count} data points")
-            print(f"📅 Range: {df.index[0]} to {df.index[-1]}")
+            print(f"📅 Range: {df['time'].min()} to {df['time'].max()}")
             
             # Latest data
             latest = df.iloc[-1]
-            print(f"💹 Latest: {latest['Close']:.0f} VND (Vol: {latest['Volume']:,})")
+            print(f"💹 Latest: {latest['close']:.0f} VND (Vol: {latest['volume']:,})")
             
             # Price change
             if len(df) > 1:
-                first_price = df['Open'].iloc[0]
-                last_price = df['Close'].iloc[-1]
+                first_price = df['open'].iloc[0]
+                last_price = df['close'].iloc[-1]
                 change_pct = ((last_price - first_price) / first_price) * 100
-                print(f"📊 Change: {change_pct:+.2f}% | Range: {df['Low'].min():.0f}-{df['High'].max():.0f}")
+                print(f"📊 Change: {change_pct:+.2f}% | Range: {df['low'].min():.0f}-{df['high'].max():.0f}")
         else:
             print("❌ Failed to retrieve historical data")
     except Exception as e:
         print(f"💥 Error in historical data: {e}")
+    
+    time.sleep(3)
+    
+    # 4. BATCH HISTORICAL DATA (2025-08-14 only)
+    print(f"\n📊 Step 4: Batch Historical Data (10 symbols - 2025-08-14)")
+    print("-" * 40)
+    try:
+        test_symbols = ["AAA", "ACB", "ACV", "ANV", "BCM", "BIC", "BID", "BMP", "BSI", "BSR"]
+        batch_data = client.get_batch_history(
+            symbols=test_symbols,
+            start="2025-08-14",
+            end="2025-08-14",
+            interval="1D",
+            count_back=365
+        )
+        
+        if batch_data:
+            print(f"✅ Batch request successful for {len(test_symbols)} symbols!")
+            print("📈 2025-08-14 closing prices:")
+            print("-" * 40)
+            
+            for symbol, df in batch_data.items():
+                if df is not None and len(df) > 0:
+                    close_price = df.iloc[-1]['close']
+                    print(f"  {symbol}: {close_price:.0f} VND")
+                else:
+                    print(f"  {symbol}: ❌ No data")
+        else:
+            print("❌ Batch request failed - no data received")
+    except Exception as e:
+        print(f"💥 Error in batch history: {e}")
     
     print(f"\n{'='*60}")
     print("✅ TCBS CLIENT TESTING COMPLETED")
