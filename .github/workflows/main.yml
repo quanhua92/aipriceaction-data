@@ -46,18 +46,24 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Step 4: Create market data directory if needed
-      - name: Setup market data directory
+      # Step 4: Create directories if needed
+      - name: Setup data directories
         run: |
-          # Create directory if it doesn't exist to prevent errors on the first run.
+          # Create directories if they don't exist to prevent errors on the first run.
           mkdir -p market_data
+          mkdir -p company_data
 
-      # Step 5: Run the main Python script to generate the new files.
+      # Step 5: Collect company information for all tickers
+      - name: Collect company information
+        run: |
+          python main_get_info.py
+
+      # Step 6: Run the main Python script to generate the new files.
       - name: Run data pipeline and generate report
         run: |
           python main.py
 
-      # Step 6: Commit and push the updated report, data, and charts to the repository.
+      # Step 7: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
