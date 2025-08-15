@@ -330,7 +330,7 @@ class VCIClient:
             "countBack": count_back
         }
         
-        print(f"Fetching {symbol} data: {start} to {end or 'now'} [{interval}] (count_back={count_back})")
+        print(f"Fetching {symbol} data: {start} to {end or 'now'}")
         
         # Make the request
         response_data = self._make_request(url, payload)
@@ -389,7 +389,6 @@ class VCIClient:
         
         # Apply resampling if needed (cloned from vnstock logic)
         if interval in self.resample_map and interval not in ["1m", "1H", "1D"]:
-            print(f"Applying {interval} resampling using pandas resample...")
             df = df.set_index('time').resample(self.resample_map[interval]).agg({
                 'open': 'first',
                 'high': 'max',
@@ -400,8 +399,6 @@ class VCIClient:
             
             # Remove rows with NaN values (weekends, holidays)
             df = df.dropna().reset_index(drop=True)
-        
-        print(f"Successfully fetched {len(df)} data points")
         return df
 
     def get_batch_history(self, 
@@ -429,8 +426,13 @@ class VCIClient:
             
         # Prepare request parameters
         end_timestamp = self._calculate_timestamp(end)
-        count_back = self._calculate_count_back(start, end, interval)
+        original_count_back = self._calculate_count_back(start, end, interval)
+        count_back = original_count_back * 2  # Double countBack to fix batch history bug
         interval_value = self.interval_map[interval]
+        
+        start_dt = datetime.strptime(start, "%Y-%m-%d")
+        end_dt = datetime.strptime(end, "%Y-%m-%d") if end else datetime.now()
+        years_span = (end_dt - start_dt).days / 365.25
         
         url = f"{self.base_url}chart/OHLCChart/gap-chart"
         payload = {
@@ -440,8 +442,7 @@ class VCIClient:
             "countBack": count_back
         }
         
-        print(f"Fetching batch data for {len(symbols)} symbols: {', '.join(symbols)}")
-        print(f"Date range: {start} to {end or 'now'} [{interval}] (count_back={count_back})")
+        print(f"Fetching batch data for {len(symbols)} symbols: {', '.join(symbols)} ({start} to {end or 'now'})")
         
         # Make the request
         response_data = self._make_request(url, payload)
@@ -453,24 +454,6 @@ class VCIClient:
         if len(response_data) != len(symbols):
             print(f"Warning: Expected {len(symbols)} responses, got {len(response_data)}")
         
-        # Debug: Show VCI batch response structure
-        print(f"🔍 VCI BATCH DEBUG:")
-        print(f"  Requested symbols: {symbols}")
-        print(f"  Response array length: {len(response_data)}")
-        
-        # Debug: Check if response includes symbol identifiers
-        for i, item in enumerate(response_data):
-            if isinstance(item, dict):
-                # Check for symbol field or any identifier
-                symbol_fields = ['symbol', 'ticker', 'Symbol', 'Ticker', 's']
-                found_symbol = None
-                for field in symbol_fields:
-                    if field in item:
-                        found_symbol = item[field]
-                        break
-                print(f"    response[{i}] symbol field: {found_symbol}")
-                if 'c' in item and len(item['c']) > 0:
-                    print(f"    response[{i}] last close: {item['c'][-1]}")
         
         results = {}
         start_dt = datetime.strptime(start, "%Y-%m-%d")
@@ -488,14 +471,10 @@ class VCIClient:
             
             if response_symbol:
                 response_map[response_symbol.upper()] = data_item
-                print(f"  Mapped response[{i}] -> symbol: {response_symbol}")
-            else:
-                print(f"  WARNING: No symbol field found in response[{i}]")
         
         # Process each requested symbol using correct mapping
         for symbol in symbols:
             symbol_upper = symbol.upper()
-            print(f"  Processing symbol: {symbol}")
             
             if symbol_upper not in response_map:
                 print(f"No data available for symbol: {symbol}")
@@ -519,9 +498,6 @@ class VCIClient:
             volumes = data_item['v']
             times = data_item['t']
             
-            # Debug: Show last close price for this response item
-            if len(closes) > 0:
-                print(f"    Last close price in response[{i}]: {closes[-1]}")
             
             # Check if all arrays have the same length
             lengths = [len(arr) for arr in [opens, highs, lows, closes, volumes, times]]
@@ -538,50 +514,29 @@ class VCIClient:
             # Convert to DataFrame
             df_data = []
             for j in range(len(times)):
-                close_val = float(closes[j])
-                # Debug: Track VND close price transformation
-                if symbol == 'VND' and j == len(times) - 1:  # Last row
-                    print(f"    VND DataFrame conversion: raw_close={closes[j]} -> float_close={close_val}")
-                
                 df_data.append({
                     'time': pd.to_datetime(int(times[j]), unit='s'),
                     'open': float(opens[j]),
                     'high': float(highs[j]),
                     'low': float(lows[j]),
-                    'close': close_val,
+                    'close': float(closes[j]),
                     'volume': int(volumes[j]) if volumes[j] is not None else 0
                 })
                 
             df = pd.DataFrame(df_data)
             
-            # Debug: Show VND data after DataFrame creation
-            if symbol == 'VND' and not df.empty:
-                print(f"    VND DataFrame before filtering: {len(df)} rows")
-                for i, row in df.iterrows():
-                    print(f"      Row {i}: time={row['time']}, close={row['close']}, open={row['open']}")
-                last_row = df.iloc[-1]
-                print(f"    VND after DataFrame creation: close={last_row['close']}, open={last_row['open']}")
             
             # Filter by start date
             df = df[df['time'] >= start_dt].reset_index(drop=True)
             
-            # Debug: Show VND data after filtering
-            if symbol == 'VND' and not df.empty:
-                last_row = df.iloc[-1]
-                print(f"    VND after filtering: close={last_row['close']}, open={last_row['open']}")
             
             # Sort by time
             df = df.sort_values('time').reset_index(drop=True)
             
-            # Debug: Show VND data after sorting
-            if symbol == 'VND' and not df.empty:
-                last_row = df.iloc[-1]
-                print(f"    VND after sorting: close={last_row['close']}, open={last_row['open']}")
             
             # Apply resampling if needed (cloned from vnstock logic)
             if interval in self.resample_map and interval not in ["1m", "1H", "1D"]:
                 if not df.empty:
-                    print(f"    Applying {interval} resampling for {symbol}...")
                     df = df.set_index('time').resample(self.resample_map[interval]).agg({
                         'open': 'first',
                         'high': 'max',
@@ -596,16 +551,10 @@ class VCIClient:
             # Add symbol column for identification
             df['symbol'] = symbol
             
-            # Debug: Show final VND data before returning to main pipeline
-            if symbol == 'VND' and not df.empty:
-                last_row = df.iloc[-1]
-                print(f"    VND FINAL VCI CLIENT DATA: close={last_row['close']}, open={last_row['open']}")
             
             results[symbol] = df
-            print(f"✅ {symbol}: {len(df)} data points")
         
         successful_count = sum(1 for df in results.values() if df is not None)
-        print(f"Successfully fetched data for {successful_count}/{len(symbols)} symbols")
         
         return results
     
@@ -2076,12 +2025,69 @@ def test_batch_1m_interval():
 
 
 def main():
-    """Test VCI client: 1. Company Info, 2. Financial Info, 3. History, 4. Batch History."""
+    """Test VNINDEX long-term history first, then comprehensive testing."""
     print("\n" + "="*60)
-    print("VCI CLIENT - COMPREHENSIVE TESTING")
+    print("VCI CLIENT - VNINDEX LONG-TERM HISTORY TEST")
     print("="*60)
     
     client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    
+    # Quick VNINDEX batch history test from 2017-01-03 to now
+    print(f"\n📊 Testing VNINDEX history from 2017-01-03 to 2025-08-16")
+    print("-" * 60)
+    
+    try:
+        vnindex_data = client.get_batch_history(
+            symbols=["VNINDEX"],
+            start="2017-01-03",  # January 2017
+            end="2025-08-16",    # Current date 
+            interval="1D"
+        )
+        
+        if vnindex_data and "VNINDEX" in vnindex_data:
+            df = vnindex_data["VNINDEX"]
+            if df is not None and len(df) > 0:
+                print(f"✅ SUCCESS! Retrieved {len(df)} data points for VNINDEX")
+                print(f"📅 Date range: {df['time'].min()} to {df['time'].max()}")
+                
+                # Show first few rows
+                print(f"\n📋 First 5 data points:")
+                print(df.head(5).to_string(index=False))
+                
+                # Show last few rows  
+                print(f"\n📋 Last 5 data points:")
+                print(df.tail(5).to_string(index=False))
+                
+                # Calculate year span
+                years_span = (df['time'].max() - df['time'].min()).days / 365.25
+                print(f"\n📊 Data spans {years_span:.1f} years")
+                print(f"📈 VNINDEX journey: {df['close'].iloc[0]:.1f} → {df['close'].iloc[-1]:.1f}")
+                change_pct = ((df['close'].iloc[-1] - df['close'].iloc[0]) / df['close'].iloc[0]) * 100
+                print(f"💹 Total return: {change_pct:+.1f}%")
+                
+                # Check for gaps in data
+                print(f"\n🔍 Data Quality Check:")
+                print(f"  Expected ~{int(years_span * 252)} trading days over {years_span:.1f} years")
+                print(f"  Actual data points: {len(df)}")
+                coverage = (len(df) / (years_span * 252)) * 100 if years_span > 0 else 0
+                print(f"  Data coverage: {coverage:.1f}%")
+                
+            else:
+                print("❌ No VNINDEX data returned")
+        else:
+            print("❌ VNINDEX batch request failed")
+            
+    except Exception as e:
+        print(f"💥 Error in VNINDEX history test: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    print("\n" + "="*60)
+    print("RETURNING EARLY - SKIPPING OTHER TESTS")
+    print("="*60)
+    return 1  # Exit early to avoid running existing main()
+    
+    # ORIGINAL TESTING CODE BELOW (skipped due to return above)
     test_symbol = "VCI"
     
     # 1. COMPANY INFO

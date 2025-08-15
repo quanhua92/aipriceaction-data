@@ -591,7 +591,7 @@ def main():
     global vci_client, tcbs_client
     
     parser = argparse.ArgumentParser(description="AIPriceAction Data Pipeline with VCI/TCBS")
-    parser.add_argument('--start-date', default="2017-01-03", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
+    parser.add_argument('--start-date', default="2015-01-05", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
     parser.add_argument('--end-date', default=datetime.now().strftime('%Y-%m-%d'), type=str, help="The end date for data download in 'YYYY-MM-DD' format.")
     parser.add_argument('--resume-days', default=5, type=int, help="Number of recent days to fetch for resume mode (default: 5)")
     parser.add_argument('--full-download', action='store_true', help="Force full download from start-date (disable resume mode)")
