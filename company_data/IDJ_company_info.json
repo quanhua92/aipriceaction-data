@@ -1,0 +1,203 @@
+{
+  "symbol": "IDJ",
+  "exchange": "HNX",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1457317621200,
+  "current_price": 8400,
+  "outstanding_shares": 173490193,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư IDJ Việt Nam (IDJ) tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư T&agrave;i ch&iacute;nh Quốc tế v&agrave; Ph&aacute;t triển doanh nghiệp IDJ được th&agrave;nh lập năm 2007. Hoạt động kinh doanh của C&ocirc;ng ty tập trung v&agrave;o c&aacute;c mảng ch&iacute;nh bao gồm: kinh doanh bất động sản,&nbsp;đầu&nbsp;tư&nbsp;x&acirc;y dựng c&aacute;c c&ocirc;ng tr&igrave;nh cơ sở hạ tầng. C&ocirc;ng ty đ&atilde; thực hiện được nhiều dự &aacute;n th&agrave;nh c&ocirc;ng với sản phẩm cao cấp v&agrave; mới mẻ: Trường H&agrave; Nội Academy (Đủ 4 cấp học từ Mẫu gi&aacute;o tới Trung học phổ th&ocirc;ng), Dự &aacute;n Grand Plaza&nbsp; c&oacute; vị tr&iacute; chiến lược trong qu&aacute; tr&igrave;nh ph&aacute;t triển của H&agrave; Nội về ph&iacute;a t&acirc;y, gần kề c&aacute;c khu vực d&acirc;n cư v&agrave; thương mại trọng yếu. c&aacute;c dự &aacute;n bất&nbsp;động sản&nbsp;vệ tinh&nbsp;tương lai...Ng&agrave;y 13/09/2010, IDJ ch&iacute;nh thức giao dịch tr&ecirc;n S&agrave;n giao dịch chứng kho&aacute;n Th&agrave;nh phố H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": 600,
+  "percent_price_change": 0.07692308,
+  "volume": 8507341,
+  "high_52w": 8500,
+  "low_52w": 3600,
+  "pe": 27.610326589,
+  "pb": 0.7008976242,
+  "roe": 0.0255332472,
+  "roa": 0.012866928,
+  "eps": 30.95023613813145,
+  "revenue": 565292527855,
+  "net_profit": 5369562441,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Apec Group",
+      "shareholder_percent": 0.1033
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương",
+      "shareholder_percent": 0.0947
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư APEC Holding",
+      "shareholder_percent": 0.0592
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Trang",
+      "shareholder_percent": 0.0514
+    },
+    {
+      "shareholder_name": "Asean Small Cap Fund",
+      "shareholder_percent": 0.0493067484
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại và Đầu tư Barotex Việt Nam",
+      "shareholder_percent": 0.0485
+    },
+    {
+      "shareholder_name": "Asean Deep Value Fund",
+      "shareholder_percent": 0.0417
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Mai Dung",
+      "shareholder_percent": 0.03418981
+    },
+    {
+      "shareholder_name": "Yoshihiro Matsuo",
+      "shareholder_percent": 0.0319018404
+    },
+    {
+      "shareholder_name": "Công ty CP Đầu Tư Và Phát Triển Đô Thị Quốc Tế",
+      "shareholder_percent": 0.0306748466
+    },
+    {
+      "shareholder_name": "Đỗ Trung Thiện",
+      "shareholder_percent": 0.020398773
+    },
+    {
+      "shareholder_name": "Nguyễn Đỗ Lăng",
+      "shareholder_percent": 0.01302667
+    },
+    {
+      "shareholder_name": "Phạm Duy Hưng",
+      "shareholder_percent": 0.00918785
+    },
+    {
+      "shareholder_name": "Nguyễn Đỗ Đức Lâm",
+      "shareholder_percent": 0.00627533
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh",
+      "shareholder_percent": 0.00618231
+    },
+    {
+      "shareholder_name": "Trần Trọng Hiếu",
+      "shareholder_percent": 0.0061349693
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Huy",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Quân",
+      "shareholder_percent": 0.0031702
+    },
+    {
+      "shareholder_name": "Phạm Hoài Phương",
+      "shareholder_percent": 0.00286587
+    },
+    {
+      "shareholder_name": "Nguyễn Hoài Giang",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Đậu Thị Thảo",
+      "shareholder_percent": 0.0025938
+    },
+    {
+      "shareholder_name": "Lê Như Anh",
+      "shareholder_percent": 0.0015797546
+    },
+    {
+      "shareholder_name": "Phạm Thị Thái",
+      "shareholder_percent": 0.0013190184
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Hướng",
+      "shareholder_percent": 0.0012269938
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuyển",
+      "shareholder_percent": 0.0003067484
+    },
+    {
+      "shareholder_name": "Lê Ngọc Tuấn",
+      "shareholder_percent": 0.0003067484
+    },
+    {
+      "shareholder_name": "Trần Vũ Phương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Mạc Hoàng Anh",
+      "shareholder_percent": 9.20245e-05
+    },
+    {
+      "shareholder_name": "Dương Anh Nga",
+      "shareholder_percent": 9.2024e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Đỗ Lăng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.01302667
+    },
+    {
+      "officer_name": "Phạm Duy Hưng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00918785
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.00618231
+    },
+    {
+      "officer_name": "Nguyễn Quang Huy",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0032
+    },
+    {
+      "officer_name": "Nguyễn Đức Quân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0031702
+    },
+    {
+      "officer_name": "Nguyễn Hoài Giang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0026
+    },
+    {
+      "officer_name": "Đậu Thị Thảo",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0025938
+    },
+    {
+      "officer_name": "Lã Thị Quy",
+      "officer_position": "Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Cẩm Tú",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hán Công Khanh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:18.819724"
+}

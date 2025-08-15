@@ -1,0 +1,104 @@
+{
+  "symbol": "BMS",
+  "exchange": "UPCOM",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1120843658400,
+  "current_price": 14200,
+  "outstanding_shares": 78932652,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Bảo Minh (BMS) được th&agrave;nh lập v&agrave;o năm 2008 bởi Tổng C&ocirc;ng ty Cổ phần Bảo Minh. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực cung cấp c&aacute;c dịch vụ&nbsp;m&ocirc;i giới chứng kho&aacute;n, tự doanh chứng kho&aacute;n, tư vấn doanh nghiệp, bảo l&atilde;nh ph&aacute;t h&agrave;nh, lưu k&yacute; chứng kho&aacute;n v&agrave; c&aacute;c dịch vụ li&ecirc;n quan kh&aacute;c. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 25,67 tỷ đồng. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 2.66%, tăng 2.19%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 118,04 tỷ đồng, giảm 36.44% v&agrave; đ&oacute;ng g&oacute;p 68.11% tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 101,29 tỷ đồng, giảm 4.06%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 9.86%, giảm 1.34%.&nbsp;BMS được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 08/2018.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 655,
+  "percent_price_change": 0.0488806,
+  "volume": 786761,
+  "high_52w": 14800,
+  "low_52w": 7207,
+  "pe": 11.0610665239,
+  "pb": 1.2171919452,
+  "roe": 0.1152126455,
+  "roa": 0.0543981979,
+  "eps": 788.6466549356533,
+  "revenue": 142554703368,
+  "net_profit": 62249971965,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công Ty Cổ Phần Rồng Ngọc",
+      "shareholder_percent": 0.24
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Long An Solar Park",
+      "shareholder_percent": 0.2302
+    },
+    {
+      "shareholder_name": "Trương Thị Mỹ An",
+      "shareholder_percent": 0.23
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đông Nam Á",
+      "shareholder_percent": 0.05
+    },
+    {
+      "shareholder_name": "Lê Thanh Trí",
+      "shareholder_percent": 0.0034266666
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Năng",
+      "shareholder_percent": 0.0010966666
+    },
+    {
+      "shareholder_name": "Lê Anh Tuấn",
+      "shareholder_percent": 0.0003333333
+    },
+    {
+      "shareholder_name": "Đinh Hoàng Hà",
+      "shareholder_percent": 0.00014
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thị Cúc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thanh Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Thọ",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Văn Chiêu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Văn Thắng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Thị Thu Hương",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thùy Trang",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:01:39.711912"
+}

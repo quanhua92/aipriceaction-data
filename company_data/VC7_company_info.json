@@ -1,0 +1,167 @@
+{
+  "symbol": "VC7",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1249181310000,
+  "current_price": 13000,
+  "outstanding_shares": 96090870,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n BGI (VC7), tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty X&acirc;y dựng số 9 (VINANICO) được th&agrave;nh lập năm 1993. Năm 2002, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần.&nbsp;Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave;: X&acirc;y dựng c&aacute;c c&ocirc;ng tr&igrave;nh d&acirc;n dụng, c&ocirc;ng nghiệp, thủy lợi, giao th&ocirc;ng; Lắp đặt thiết bị cơ, điện; X&acirc;y dựng đ&shy;ường d&acirc;y v&agrave; trạm biến &aacute;p điện đến 110KV; Kinh doanh bất động sản...C&aacute;c c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu c&ocirc;ng ty đ&atilde; tham gia bao gồm hệ thống cấp nước S&ocirc;ng Đ&agrave; H&agrave; Nội, nh&agrave; m&aacute;y xi măng Y&ecirc;n B&igrave;nh, chung cư cao cấp Mỹ Đ&igrave;nh H&agrave; Nội, khu nh&agrave; ở tại Từ Li&ecirc;m H&agrave; Nội, Dự &aacute;n Du lịch sinh th&aacute;i Prime - Prime Resorts and Hotels, C&ocirc;ng tr&igrave;nh X&acirc;y lắp Condotel Nha Trang, C&ocirc;ng tr&igrave;nh Phổ Y&ecirc;n - Th&aacute;i Nguy&ecirc;n, C&ocirc;ng tr&igrave;nh 389 Đ&ecirc; La Th&agrave;nh... Ng&agrave;y 28/12/2007, VC7 ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.01515152,
+  "volume": 985231,
+  "high_52w": 15200,
+  "low_52w": 6800,
+  "pe": 112.121897523,
+  "pb": 1.1896921921,
+  "roe": 0.0106661521,
+  "roa": 0.007242985,
+  "eps": 82.70184623554474,
+  "revenue": 149368054431,
+  "net_profit": 7946866387,
+  "dividend": 0.0384615385,
+  "shareholders": [
+    {
+      "shareholder_name": "Hoàng Trọng Đức",
+      "shareholder_percent": 0.40210233
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Tài",
+      "shareholder_percent": 0.09256281
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Hùng",
+      "shareholder_percent": 0.06705296
+    },
+    {
+      "shareholder_name": "Vương Thị Minh Huế",
+      "shareholder_percent": 0.0667
+    },
+    {
+      "shareholder_name": "Lê Anh Tuấn",
+      "shareholder_percent": 0.0545
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoài Thu",
+      "shareholder_percent": 0.0492
+    },
+    {
+      "shareholder_name": "Nguyễn Tự Lực",
+      "shareholder_percent": 0.0239
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thanh",
+      "shareholder_percent": 0.0209
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thúy Hồng",
+      "shareholder_percent": 0.0081333333
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Thu",
+      "shareholder_percent": 0.0061
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Thiết",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Khắc",
+      "shareholder_percent": 0.0025789333
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Dũng",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Hà Anh Tuấn",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Đỗ Công Hiển",
+      "shareholder_percent": 0.0009333333
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Toàn",
+      "shareholder_percent": 0.00088
+    },
+    {
+      "shareholder_name": "Vũ Viết Độ",
+      "shareholder_percent": 0.0004266666
+    },
+    {
+      "shareholder_name": "Nguyễn Thái Hà",
+      "shareholder_percent": 6.66666e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thùy Dương",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Hợp",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hoàng Trọng Đức",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.40210233
+    },
+    {
+      "officer_name": "Nguyễn Đức Hùng",
+      "officer_position": "Phó Tổng Giám đốc/Giám đốc Tài chính",
+      "officer_percent": 0.06705296
+    },
+    {
+      "officer_name": "Hoàng Anh Tú",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Quang Trung",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hùng Cường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Khúc Ngọc Thành",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thành Công",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Doãn Dũng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Việt Anh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vương Hải Linh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:16:41.726325"
+}

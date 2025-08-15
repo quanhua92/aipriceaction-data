@@ -1,0 +1,255 @@
+{
+  "symbol": "DHC",
+  "exchange": "HOSE",
+  "industry": "Lâm nghiệp và Giấy",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3105407272900,
+  "current_price": 32150,
+  "outstanding_shares": 96591206,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Đ&ocirc;ng Hải Bến Tre (DHC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Bao b&igrave; được th&agrave;nh lập th&agrave;nh lập năm 1994. C&ocirc;ng ty ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm&nbsp;2003. C&ocirc;ng ty hoạt động trong lĩnh vực sản xuất, kinh doanh c&aacute;c sản phẩm từ giấy v&agrave; chế biến thủy sản. Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; sản xuất c&aacute;c loại giấy cuộn c&ocirc;ng nghiệp (Kraft, Texlinner, Medeum), sản xuất bao b&igrave; carton (3 lớp, 5 lớp, 7 lớp với c&aacute;c chủng loại đa dạng), nu&ocirc;i c&aacute; tra thương phẩm. Trong lĩnh vực nu&ocirc;i trồng thủy sản C&ocirc;ng ty hiện c&oacute; 20 ao tr&ecirc;n diện t&iacute;ch 25 ha bao gồm c&aacute;c sản phẩm c&aacute; da trơn v&agrave; ngh&ecirc;u s&ograve; với tổng c&ocirc;ng suất chế biến thiết kế khoảng 7.000 tấn th&agrave;nh phẩm/năm. Hiện tại C&ocirc;ng ty đang sở hữu 1 d&acirc;y chuyền sản xuất giấy cuộn c&oacute; c&ocirc;ng suất 7.500 tấn/năm, 1 d&acirc;y chuyền sản xuất giấy carton 3 lớp, 5 lớp, 7 lớp c&ocirc;ng suất 25.000.000 m2/năm. D&acirc;y chuyền sản xuất bao b&igrave; carton c&aacute;c kiểu c&oacute; c&ocirc;ng suất 15.000.000 sản phẩm/năm. D&acirc;y chuyền sản xuất giấy cuộn c&oacute; c&ocirc;ng suất 180 tấn/ng&agrave;y. Sản phẩm giấy v&agrave; bao b&igrave; carton của C&ocirc;ng ty hiện nay được ti&ecirc;u thụ chủ yếu tại khu vực Đồng bằng s&ocirc;ng Cửu Long, một số tỉnh miền Đ&ocirc;ng Nam Bộ v&agrave; Th&agrave;nh phố Hồ Ch&iacute; Minh. Ng&agrave;y 23/07/2009, DHC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 568969,
+  "high_52w": 32850,
+  "low_52w": 19874,
+  "pe": 10.9063643365,
+  "pb": 1.4977133276,
+  "roe": 0.1405715587,
+  "roa": 0.0867366386,
+  "eps": 858.9377188126215,
+  "revenue": 880980409108,
+  "net_profit": 82965830139,
+  "dividend": 0.0622083981,
+  "shareholders": [
+    {
+      "shareholder_name": "KWE Beteiligungen AG",
+      "shareholder_percent": 0.1508
+    },
+    {
+      "shareholder_name": "Lê Bá Phương",
+      "shareholder_percent": 0.1004
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.0744
+    },
+    {
+      "shareholder_name": "Luminous Vietnam and Indochina Growth Fund",
+      "shareholder_percent": 0.0497
+    },
+    {
+      "shareholder_name": "Trần Minh Hạnh",
+      "shareholder_percent": 0.0485
+    },
+    {
+      "shareholder_name": "LÊ QUANG HIỆP",
+      "shareholder_percent": 0.0459
+    },
+    {
+      "shareholder_name": "Võ Trọng Giáp",
+      "shareholder_percent": 0.0451732463
+    },
+    {
+      "shareholder_name": "Đoàn Văn Đạo",
+      "shareholder_percent": 0.0406775917
+    },
+    {
+      "shareholder_name": "Lương Văn Thành",
+      "shareholder_percent": 0.0378
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.036
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.0262
+    },
+    {
+      "shareholder_name": "Dương Thành Công",
+      "shareholder_percent": 0.02366
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Nghĩa",
+      "shareholder_percent": 0.0219
+    },
+    {
+      "shareholder_name": "Lê Bá Hùng",
+      "shareholder_percent": 0.0123
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Bình",
+      "shareholder_percent": 0.0122
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0112
+    },
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.00825082
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre",
+      "shareholder_percent": 0.00599112
+    },
+    {
+      "shareholder_name": "Turicum Investment Management Ag",
+      "shareholder_percent": 0.0046
+    },
+    {
+      "shareholder_name": "Tmam Vietnam Equity Mother Fund",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Ngô Thị Thu Hòe",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "Marco Martinelli",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Ly",
+      "shareholder_percent": 0.0020430053
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Quỹ Kim Việt Nam",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Kitmc Worldwide China Vietnam Fund",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Tuấn",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Hồ Thị Song Ngọc",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Nguyễn Trường Thịnh",
+      "shareholder_percent": 0.0012423
+    },
+    {
+      "shareholder_name": "Lê Xuân Hoàng",
+      "shareholder_percent": 0.0010863967
+    },
+    {
+      "shareholder_name": "Lê Thị Hoàng Huệ",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Kitmc Vietnam Growth Fund",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Nguyễn Phan Dũng",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Duy",
+      "shareholder_percent": 0.0005794116
+    },
+    {
+      "shareholder_name": "Đoàn Quốc Thái",
+      "shareholder_percent": 0.0005794116
+    },
+    {
+      "shareholder_name": "Trương Văn Bình",
+      "shareholder_percent": 0.0005733
+    },
+    {
+      "shareholder_name": "Đoàn Thị Bích Thúy",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lê Minh Thanh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Tố Uyên",
+      "shareholder_percent": 0.00019
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Sương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lư Sanh Võ",
+      "shareholder_percent": 1.62235e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Sản Xuất Thép Tâm Đức",
+      "shareholder_percent": 1.4e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Bá Phương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.1004
+    },
+    {
+      "officer_name": "LÊ QUANG HIỆP",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0459
+    },
+    {
+      "officer_name": "Lương Văn Thành",
+      "officer_position": "Phó Tổng Giám đốc/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0378
+    },
+    {
+      "officer_name": "Nguyễn Thanh Nghĩa",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0219
+    },
+    {
+      "officer_name": "Marco Martinelli",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "Hồ Thị Song Ngọc",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0013
+    },
+    {
+      "officer_name": "Lê Thị Hoàng Huệ",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Đoàn Thị Bích Thúy",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Tố Uyên",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.00019
+    },
+    {
+      "officer_name": "Đoàn Hồng Lan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Hoàng Phong",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:04:04.016584"
+}

@@ -1,0 +1,254 @@
+{
+  "symbol": "ADS",
+  "exchange": "HOSE",
+  "industry": "Hàng cá nhân",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 695955962970,
+  "current_price": 9110,
+  "outstanding_shares": 76394727,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Damsan (ADS) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Dệt sợi Damsan&nbsp;được th&agrave;nh lập&nbsp;v&agrave;o năm 2006. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực kinh doanh, sản xuất&nbsp;c&aacute;c sản phẩm sợi v&agrave; khăn b&ocirc;ng. ADS trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ năm 2011.&nbsp;C&ocirc;ng ty l&agrave; một trong c&aacute;c doanh nghiệp lớn nhất Việt Nam&nbsp;về quy m&ocirc; sản xuất sợi với số lượng cọc sợi đứng thứ 5 cả nước. Hiện ADS&nbsp;đang quản l&yacute; vận h&agrave;nh 03 nh&agrave; m&aacute;y&nbsp;dệt sợi với tổng c&ocirc;ng suất 16.560 tấn sợi/năm v&agrave; 2.040 tấn khăn/năm.&nbsp;B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n tham gia đầu tư ph&aacute;t triển v&agrave; kinh doanh bất động sản nh&agrave;&nbsp;ở v&agrave; hạ tầng khu&nbsp;c&ocirc;ng nghiệp&nbsp;với c&aacute;c dự &aacute;n T&ograve;a Nh&agrave; Dam San - Quang Trung tại Phường Quang Trung - Th&agrave;nh phố Th&aacute;i B&igrave;nh, Khu&nbsp;đ&ocirc; thị Ph&uacute;&nbsp;Xu&acirc;n - Damsan tại Th&agrave;nh phố Th&aacute;i&nbsp;B&igrave;nh&nbsp;v&agrave; Cụm c&ocirc;ng nghiệp An Ninh tại x&atilde; An Ninh, huyện Tiền Hải, tỉnh Th&aacute;i B&igrave;nh. ADS được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 06/2016.</div>\r\n",
+  "website": null,
+  "price_change": 10,
+  "percent_price_change": 0.0010989,
+  "volume": 344921,
+  "high_52w": 10479,
+  "low_52w": 6626,
+  "pe": 9.328483388,
+  "pb": 0.7748847199,
+  "roe": 0.0830694997,
+  "roa": 0.0284649483,
+  "eps": 363.3762131776451,
+  "revenue": 445523957067,
+  "net_profit": 27760026604,
+  "dividend": 0.1646542261,
+  "shareholders": [
+    {
+      "shareholder_name": "Vũ Huy Đông",
+      "shareholder_percent": 0.1205094
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương mại và Đầu tư Xây dựng ACC",
+      "shareholder_percent": 0.0593
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Xây Dựng Và Thương Mại Đức Tuấn",
+      "shareholder_percent": 0.0533
+    },
+    {
+      "shareholder_name": "Đỗ Đức Khang",
+      "shareholder_percent": 0.05312113
+    },
+    {
+      "shareholder_name": "Đỗ Văn Khôi",
+      "shareholder_percent": 0.0519604
+    },
+    {
+      "shareholder_name": "Công ty Tài chính Cổ phần Điện Lực",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Hoàng Kim Thu",
+      "shareholder_percent": 0.0485
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Hùng",
+      "shareholder_percent": 0.0472813
+    },
+    {
+      "shareholder_name": "Công ty TNHH Golf Long Hưng",
+      "shareholder_percent": 0.0215
+    },
+    {
+      "shareholder_name": "Vũ Huy Đức",
+      "shareholder_percent": 0.0201518
+    },
+    {
+      "shareholder_name": "Vương Quốc Dương",
+      "shareholder_percent": 0.0149989
+    },
+    {
+      "shareholder_name": "Lê Văn Tuấn",
+      "shareholder_percent": 0.0108471
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Oanh",
+      "shareholder_percent": 0.00810953
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xây dựng Đức Dũng Thái Bình",
+      "shareholder_percent": 0.0071
+    },
+    {
+      "shareholder_name": "Lương Thị Dung",
+      "shareholder_percent": 0.00552121
+    },
+    {
+      "shareholder_name": "Đào Thị Duyên",
+      "shareholder_percent": 0.0049
+    },
+    {
+      "shareholder_name": "Đỗ Thị Khuyên",
+      "shareholder_percent": 0.0047797
+    },
+    {
+      "shareholder_name": "Lê Xuân Chiến",
+      "shareholder_percent": 0.004474
+    },
+    {
+      "shareholder_name": "Vũ Thị Thoa",
+      "shareholder_percent": 0.00266596
+    },
+    {
+      "shareholder_name": "Vũ Phương Diệp",
+      "shareholder_percent": 0.0015927
+    },
+    {
+      "shareholder_name": "Vũ Văn Hiệu",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mên",
+      "shareholder_percent": 0.00099972
+    },
+    {
+      "shareholder_name": "Vũ Thị Thảo",
+      "shareholder_percent": 0.00097551
+    },
+    {
+      "shareholder_name": "Hà Thị Tỉnh Tâm",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Vũ Thùy Linh",
+      "shareholder_percent": 0.00056
+    },
+    {
+      "shareholder_name": "Phạm Thị Dung",
+      "shareholder_percent": 0.00038805
+    },
+    {
+      "shareholder_name": "Vũ Xuân Chiều",
+      "shareholder_percent": 0.00027114
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồi",
+      "shareholder_percent": 8.133e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Hường",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Huế",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Vũ Văn Linh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Tạ Thị Tỵ",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Đào",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Mai Thị Thảo",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Lê Văn Hiếu",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Xuân",
+      "shareholder_percent": 1.9e-05
+    },
+    {
+      "shareholder_name": "Tạ Thị Thu Hiền",
+      "shareholder_percent": 1.051e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Thu Huyền",
+      "shareholder_percent": 9.97e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Vũ Huy Đông",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1205094
+    },
+    {
+      "officer_name": "Đỗ Văn Khôi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0519604
+    },
+    {
+      "officer_name": "Nguyễn Lê Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0472813
+    },
+    {
+      "officer_name": "Vũ Huy Đức",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0201518
+    },
+    {
+      "officer_name": "Vương Quốc Dương",
+      "officer_position": "Phó Tổng Giám đốc Sản xuất",
+      "officer_percent": 0.0149989
+    },
+    {
+      "officer_name": "Lê Văn Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0108471
+    },
+    {
+      "officer_name": "Lê Xuân Chiến",
+      "officer_position": "Phó Tổng Giám đốc Tài chính - Kế toán/Kế toán trưởng",
+      "officer_percent": 0.004474
+    },
+    {
+      "officer_name": "Vũ Phương Diệp",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0015927
+    },
+    {
+      "officer_name": "Vũ Thùy Linh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00056
+    },
+    {
+      "officer_name": "Phạm Thị Hồi",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 8.133e-05
+    },
+    {
+      "officer_name": "Tạ Thị Thu Hiền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.051e-05
+    },
+    {
+      "officer_name": "Bùi Thị Thu Huyền",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 9.97e-06
+    },
+    {
+      "officer_name": "Phạm Văn Thượng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Quỳnh Hoa",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:00:03.961300"
+}

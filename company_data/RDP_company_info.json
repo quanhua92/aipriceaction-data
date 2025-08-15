@@ -1,0 +1,137 @@
+{
+  "symbol": "RDP",
+  "exchange": "UPCOM",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 63790743900,
+  "current_price": 1300,
+  "outstanding_shares": 49069803,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Rạng Đ&ocirc;ng Holding (RDP),&nbsp;tiền th&acirc;n l&agrave; Li&ecirc;n hiệp c&aacute;c x&iacute; nghiệp Cao su Viễn Đ&ocirc;ng&nbsp;được th&agrave;nh lập&nbsp;trong những năm đầu của thập ni&ecirc;n 60 thế kỉ XX. C&ocirc;ng ty được cổ phần h&oacute;a năm 2005.&nbsp;C&ocirc;ng ty l&agrave; một trong c&aacute;c doanh nghiệp h&agrave;ng đầu trong ng&agrave;nh sản xuất nhựa, đặc biệt l&agrave; PVC v&agrave;&nbsp;tấm lợp tại Việt Nam. C&ocirc;ng ty chiếm khoảng 65% thị phần cho sản phẩm tấm lợp PVC, 55% thị phần cho sản phẩm m&agrave;ng mỏng PVC, 35% thị phần PE, EVA, 20% sản phẩm giả da &ndash; vải tr&aacute;ng; 12% bao b&igrave; phức hợp v&agrave; 10% thị phần sản phẩm gia c&ocirc;ng. C&ocirc;ng ty hiện c&oacute;&nbsp;4 nh&agrave; m&aacute;y bao gồm nh&agrave; m&aacute;y Nhựa 1,&nbsp;nh&agrave; m&aacute;y Nhựa H&oacute;c M&ocirc;n, nh&agrave; m&aacute;y Ti&ecirc;n Sơn v&agrave; nh&agrave; m&aacute;y Bao b&igrave; Củ Chi. Hệ thống sản xuất của c&ocirc;ng ty c&oacute; năng suất sản xuất m&agrave;ng in 2 triệu m2/năm; m&agrave;ng thổi PE 15.000 tấn/năm; Giả da 20 triệu m/năm; T&ocirc;n v&aacute;n 8 triệu m/năm; &Aacute;o mưa 5 triệu &aacute;o/năm...</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 0,
+  "high_52w": 1300,
+  "low_52w": 1300,
+  "pe": -2.4525772532,
+  "pb": 0.4429953089,
+  "roe": -0.1192593532,
+  "roa": -0.021259894,
+  "eps": -1259.2406781213285,
+  "revenue": 255315708242,
+  "net_profit": -61790692005,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Hồ Đức Lam",
+      "shareholder_percent": 0.0609
+    },
+    {
+      "shareholder_name": "Hồ Phi Hải",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Ngân",
+      "shareholder_percent": 0.0298
+    },
+    {
+      "shareholder_name": "Nguyễn Đắc Hải",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Lê Thanh Phương",
+      "shareholder_percent": 0.001584044
+    },
+    {
+      "shareholder_name": "Hồ Đức Dũng",
+      "shareholder_percent": 0.0013301
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Cúc",
+      "shareholder_percent": 0.0007965784
+    },
+    {
+      "shareholder_name": "Lê Hạnh Dinh",
+      "shareholder_percent": 0.0004828539
+    },
+    {
+      "shareholder_name": "Phan Thị Thu Hà",
+      "shareholder_percent": 0.0004691528
+    },
+    {
+      "shareholder_name": "Hồ Thị Kim Thoa",
+      "shareholder_percent": 0.0003364
+    },
+    {
+      "shareholder_name": "Hà Thanh Thiên",
+      "shareholder_percent": 0.0002038
+    },
+    {
+      "shareholder_name": "Hồ Thị Ngọc Hiền",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Hồ Hoàng Mai",
+      "shareholder_percent": 8.5e-05
+    },
+    {
+      "shareholder_name": "Bùi Đắc Thiện",
+      "shareholder_percent": 2.06e-05
+    },
+    {
+      "shareholder_name": "Lương Trung Hiếu",
+      "shareholder_percent": 5.735e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hồ Đức Lam",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0609
+    },
+    {
+      "officer_name": "Hồ Đức Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0013301
+    },
+    {
+      "officer_name": "Bùi Đắc Thiện",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 2.06e-05
+    },
+    {
+      "officer_name": "Nguyễn Xuân Hùng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Anh Kiệt",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thanh Thủy",
+      "officer_position": "Người phụ trách quản trị công ty/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Văn Tuyên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trần Vinh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Huỳnh Giao",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:13:12.183307"
+}

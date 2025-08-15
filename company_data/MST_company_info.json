@@ -1,0 +1,175 @@
+{
+  "symbol": "MST",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 524429676900,
+  "current_price": 6900,
+  "outstanding_shares": 76004301,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty cổ phần&nbsp;Đầu tư&nbsp;MST&nbsp;(MST) được th&agrave;nh lập v&agrave;o năm 2009. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực x&acirc;y dựng, đầu tư v&agrave; kinh doanh bất động sản.&nbsp;MST trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ năm 2015. Một&nbsp;số&nbsp;c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu C&ocirc;ng ty đ&atilde; tham gia thi c&ocirc;ng x&acirc;y lắp: khu phức hợp c&ocirc;ng vi&ecirc;n hải dương học v&agrave; vui chơi giải tr&iacute; Sầm Sơn, Tower Quy Nhơn, trung t&acirc;m thương mại- dịch vụ- logistics Nội B&agrave;i. MST được ni&ecirc;m yết&nbsp;v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2016.</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 2189733,
+  "high_52w": 7600,
+  "low_52w": 4500,
+  "pe": 24.7186483339,
+  "pb": 0.6103013628,
+  "roe": 0.0249051988,
+  "roa": 0.0101758635,
+  "eps": 44.2896687123009,
+  "revenue": 367275644875,
+  "net_profit": 3366205312,
+  "dividend": 0.1449275362,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Thanh Tuyên",
+      "shareholder_percent": 0.083
+    },
+    {
+      "shareholder_name": "Tạ Ngọc Phúc",
+      "shareholder_percent": 0.0493
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Huy",
+      "shareholder_percent": 0.0489
+    },
+    {
+      "shareholder_name": "Phan Hoàng Thắng",
+      "shareholder_percent": 0.0472
+    },
+    {
+      "shareholder_name": "Nguyễn Trường Phi",
+      "shareholder_percent": 0.047
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dung",
+      "shareholder_percent": 0.045
+    },
+    {
+      "shareholder_name": "Trần Tuấn Anh",
+      "shareholder_percent": 0.0439
+    },
+    {
+      "shareholder_name": "Trần Thị Minh Phương",
+      "shareholder_percent": 0.0439
+    },
+    {
+      "shareholder_name": "Phan Thị Thanh Hoài",
+      "shareholder_percent": 0.0395
+    },
+    {
+      "shareholder_name": "Phạm Bá Quang",
+      "shareholder_percent": 0.0365
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Quang",
+      "shareholder_percent": 0.0341
+    },
+    {
+      "shareholder_name": "Tạ Thị Dinh",
+      "shareholder_percent": 0.0307
+    },
+    {
+      "shareholder_name": "Trần Hoàng Anh",
+      "shareholder_percent": 0.0254
+    },
+    {
+      "shareholder_name": "Nguyễn Tất Phú",
+      "shareholder_percent": 0.0252
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Nguyên",
+      "shareholder_percent": 0.0093
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Bình",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Phan Duy Dũng",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Kiên",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Hoàng Văn Minh",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Ngô Xuân Dũng",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Giang Nam",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Lâm",
+      "shareholder_percent": 0.0004
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Huy Quang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0341
+    },
+    {
+      "officer_name": "Phan Duy Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0024
+    },
+    {
+      "officer_name": "Nguyễn Đăng Kiên",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Hoàng Văn Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Phan Thị Làn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tống Thế Thuận",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Văn Hưng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Trung Khìn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Anh Dũng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Việt Hậu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phùng Xuân Nam",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:31.108971"
+}

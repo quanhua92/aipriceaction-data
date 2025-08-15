@@ -1,0 +1,235 @@
+{
+  "symbol": "BCG",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3397613085840,
+  "current_price": 3860,
+  "outstanding_shares": 880210644,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Bamboo Capital (BCG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Thủ Phủ Tre&nbsp;được th&agrave;nh lập v&agrave;o năm&nbsp;2011.&nbsp;C&ocirc;ng ty hoạt động&nbsp;trong c&aacute;c lĩnh vực&nbsp;đầu tư t&agrave;i&nbsp;ch&iacute;nh,&nbsp;sản xuất - thương mại, x&acirc;y dựng, kinh doanh bất động sản v&agrave; năng lượng t&aacute;i tạo.&nbsp;BCG ph&aacute;t triển mảng sản xuất v&agrave; thương mại tr&ecirc;n những d&ograve;ng sản phẩm chủ lực từ hệ thống c&ocirc;ng ty th&agrave;nh vi&ecirc;n v&agrave; li&ecirc;n kết, bao gồm đồ gỗ, bột sắn, c&agrave; ph&ecirc;, vật liệu x&acirc;y dựng.&nbsp;BCG tham gia đầu tư x&acirc;y dựng c&ocirc;ng tr&igrave;nh giao th&ocirc;ng theo h&igrave;nh thức BOT, BT. C&ocirc;ng ty c&ograve;n li&ecirc;n kết với c&aacute;c đối t&aacute;c c&oacute; tiềm lực t&agrave;i ch&iacute;nh c&ugrave;ng đầu tư v&agrave; ph&aacute;t triển c&aacute;c dự &aacute;n bất động sản tại th&agrave;nh phố Hồ Ch&iacute; Minh, Đ&agrave; Nẵng, Quảng Nam v&agrave; c&aacute;c v&ugrave;ng l&acirc;n cận. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n tham gia đầu tư ph&aacute;t triển c&aacute;c dự &aacute;n năng lượng t&aacute;i tạo.&nbsp;Hoạt động kinh doanh của c&ocirc;ng ty chủ yếu diễn ra tại c&aacute;c t&igrave;nh miền Nam v&agrave; Nam Trung&nbsp;Bộ.&nbsp;Ng&agrave;y 16/07/2015, BCG ch&iacute;nh thức được&nbsp;giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 70,
+  "percent_price_change": 0.01846966,
+  "volume": 11656400,
+  "high_52w": 6990,
+  "low_52w": 2790,
+  "pe": 8.4096532245,
+  "pb": 0.3413440676,
+  "roe": 0.0480944817,
+  "roa": 0.0091269514,
+  "eps": 458.9963339695765,
+  "revenue": 4731106990023,
+  "net_profit": 404013458717,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Hồ Nam",
+      "shareholder_percent": 0.0921
+    },
+    {
+      "shareholder_name": "Công Ty TNHH MTV Nhn",
+      "shareholder_percent": 0.0599
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Regeneration Investment",
+      "shareholder_percent": 0.0558
+    },
+    {
+      "shareholder_name": "Trần Thị Kiều Tiên",
+      "shareholder_percent": 0.0482728746
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Đoan Trang",
+      "shareholder_percent": 0.0477
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư và Dịch vụ Helios",
+      "shareholder_percent": 0.0452
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Tập Đoàn Vàng Bạc Đá Quý Doji",
+      "shareholder_percent": 0.0392
+    },
+    {
+      "shareholder_name": "Mirae Asset Daewoo Co., Ltd.",
+      "shareholder_percent": 0.0253
+    },
+    {
+      "shareholder_name": "Hoàng Thị Minh Châu",
+      "shareholder_percent": 0.0163
+    },
+    {
+      "shareholder_name": "Imperial Dragon Investments Limited",
+      "shareholder_percent": 0.0147
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thùy Linh",
+      "shareholder_percent": 0.00975606
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hùng",
+      "shareholder_percent": 0.0084
+    },
+    {
+      "shareholder_name": "Lê Thị Mai Loan",
+      "shareholder_percent": 0.0081
+    },
+    {
+      "shareholder_name": "BÙI THÀNH LÂM",
+      "shareholder_percent": 0.0078
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Tài",
+      "shareholder_percent": 0.0054
+    },
+    {
+      "shareholder_name": "Ngô Thành Vinh",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Trần Thị Huệ Linh",
+      "shareholder_percent": 0.0042
+    },
+    {
+      "shareholder_name": "Phạm Minh Tuấn",
+      "shareholder_percent": 0.0039009
+    },
+    {
+      "shareholder_name": "Đinh Hoài Châu",
+      "shareholder_percent": 0.0039
+    },
+    {
+      "shareholder_name": "Đặng Trung Kiên",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Đào Thị Thanh Hiền",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Phạm Nguyễn Thiên Chương",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Đặng Đình Tuấn",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Dương Đức Hùng",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Kou Kok Yiow",
+      "shareholder_percent": 0.0004337
+    },
+    {
+      "shareholder_name": "Leong Kwek Choon",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Lan",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Tan Bo Quan Andy",
+      "shareholder_percent": 0.0001919
+    },
+    {
+      "shareholder_name": "Hồ Thị Anh Lan",
+      "shareholder_percent": 0.00011383
+    },
+    {
+      "shareholder_name": "Hoàng Bảo Cát",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ánh Tuyết",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Cương",
+      "shareholder_percent": 4e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Hồ Nam",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0921
+    },
+    {
+      "officer_name": "Hoàng Thị Minh Châu",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_percent": 0.0163
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hùng",
+      "officer_position": "Phó Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0084
+    },
+    {
+      "officer_name": "BÙI THÀNH LÂM",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0078
+    },
+    {
+      "officer_name": "Nguyễn Thế Tài",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0054
+    },
+    {
+      "officer_name": "Trần Thị Huệ Linh",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0042
+    },
+    {
+      "officer_name": "Phạm Minh Tuấn",
+      "officer_position": "Phó Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0039009
+    },
+    {
+      "officer_name": "Đinh Hoài Châu",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0039
+    },
+    {
+      "officer_name": "Phạm Nguyễn Thiên Chương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Dương Đức Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Kou Kok Yiow",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0004337
+    },
+    {
+      "officer_name": "Tan Bo Quan Andy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001919
+    },
+    {
+      "officer_name": "Nguyễn Viết Cương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Khuất Tuấn Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:01:14.644286"
+}

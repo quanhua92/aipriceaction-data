@@ -1,0 +1,276 @@
+{
+  "symbol": "LSS",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 883138716900,
+  "current_price": 10300,
+  "outstanding_shares": 85741623,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ Phần M&iacute;a Đường Lam Sơn (LSS) tiền th&acirc;n l&agrave; nh&agrave; m&aacute;y Đường Lam Sơn th&agrave;nh lập năm 1980. Năm 1999, C&ocirc;ng ty thực hiện cổ phần h&oacute;a v&agrave; đổi t&ecirc;n th&agrave;nh C&ocirc;ng ty Cổ phần M&iacute;a đường Lam Sơn. Hoạt động sản xuất kinh doanh ch&iacute;nh của Lasuco l&agrave; sản xuất đường, c&aacute;c sản phẩm n&ocirc;ng nghiệp c&ocirc;ng nghệ cao v&agrave; điện. C&ocirc;ng ty c&oacute; v&ugrave;ng nguy&ecirc;n liệu ổn định rộng nằm tr&ecirc;n khu vực rộng hơn 15.300 ha. C&ocirc;ng ty hiện&nbsp;sở hữu 2 nh&agrave; m&aacute;y đường, 1 nh&agrave; m&aacute;y điện, 1 x&iacute; nghiệp cơ kh&iacute; v&agrave; nh&agrave; m&aacute;y Lavina Food.&nbsp;Với v&ugrave;ng nguy&ecirc;n liệu m&iacute;a ổn định nằm tại c&aacute;c huyện ph&iacute;a T&acirc;y tỉnh Thanh H&oacute;a với diện t&iacute;ch m&iacute;a h&agrave;ng năm từ 14.500 - 15.000 ha, sản lượng v&agrave; chất lượng m&iacute;a&nbsp;đạt năng suất b&igrave;nh qu&acirc;n vụ đạt khoảng 70 tấn/ha. Ng&agrave;y 09/01/2008, LSS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -100,
+  "percent_price_change": -0.00961538,
+  "volume": 654570,
+  "high_52w": 11853,
+  "low_52w": 8470,
+  "pe": 7.6043536599,
+  "pb": 0.4942300822,
+  "roe": 0.0661948101,
+  "roa": 0.0361321431,
+  "eps": 672.3891120535473,
+  "revenue": 663728434961,
+  "net_profit": 57651733755,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Hiệp Hội Mía Đường Lam Sơn",
+      "shareholder_percent": 0.2222
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Thương Mại Và Đầu Tư Thăng Long Hà Nội",
+      "shareholder_percent": 0.1048
+    },
+    {
+      "shareholder_name": "Lê Trung Thành",
+      "shareholder_percent": 0.0567
+    },
+    {
+      "shareholder_name": "Lê Văn Tân",
+      "shareholder_percent": 0.0505
+    },
+    {
+      "shareholder_name": "Lê Thị Phương Linh",
+      "shareholder_percent": 0.037
+    },
+    {
+      "shareholder_name": "Lê Văn Tiến",
+      "shareholder_percent": 0.0255
+    },
+    {
+      "shareholder_name": "Red River Holding",
+      "shareholder_percent": 0.02498043
+    },
+    {
+      "shareholder_name": "Lê Thị  Lộc",
+      "shareholder_percent": 0.02286
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SBS",
+      "shareholder_percent": 0.020012
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Phát triển Tân Thành Đạt",
+      "shareholder_percent": 0.0181
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Lam Sơn Như Xuân",
+      "shareholder_percent": 0.013
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sữa Lam Sơn",
+      "shareholder_percent": 0.01078781
+    },
+    {
+      "shareholder_name": "Lê Thanh Tùng",
+      "shareholder_percent": 0.00802929
+    },
+    {
+      "shareholder_name": "Lê Thu Thủy",
+      "shareholder_percent": 0.0065
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Việt Nam (VF2)",
+      "shareholder_percent": 0.00620557
+    },
+    {
+      "shareholder_name": "Phùng Thị Tâm",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Lê Thị Tiến",
+      "shareholder_percent": 0.00124
+    },
+    {
+      "shareholder_name": "Lê Văn Thanh",
+      "shareholder_percent": 0.0010044571
+    },
+    {
+      "shareholder_name": "Lê Văn Quang",
+      "shareholder_percent": 0.00095
+    },
+    {
+      "shareholder_name": "Hà Đức Chính",
+      "shareholder_percent": 0.0007856
+    },
+    {
+      "shareholder_name": "Trần Quốc Vinh",
+      "shareholder_percent": 0.0005553285
+    },
+    {
+      "shareholder_name": "Lê Khắc Chung",
+      "shareholder_percent": 0.0005525
+    },
+    {
+      "shareholder_name": "Bùi Xuân Sinh",
+      "shareholder_percent": 0.0004795714
+    },
+    {
+      "shareholder_name": "Vũ Trung Thịnh",
+      "shareholder_percent": 0.0003767142
+    },
+    {
+      "shareholder_name": "Đỗ Văn Mạnh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lê Văn Vinh",
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Lam",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Lâm",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Lê Thị Tình",
+      "shareholder_percent": 0.0001293571
+    },
+    {
+      "shareholder_name": "Phạm Văn Ngọc",
+      "shareholder_percent": 0.0001178571
+    },
+    {
+      "shareholder_name": "Lê Huy Hùng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Văn Long",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Lê Đình Trường",
+      "shareholder_percent": 7.14285e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Thanh Hà",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Phùng Thanh Hải",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Thành",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Quý",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Thu Nga",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Lê Văn Phương",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Huệ",
+      "shareholder_percent": 3.21428e-05
+    },
+    {
+      "shareholder_name": "Lê Bá Chiều",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tuyết",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Đặng Thế Giang",
+      "shareholder_percent": 9.2857e-06
+    },
+    {
+      "shareholder_name": "LÊ THỊ HUỆ",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Hạnh",
+      "shareholder_percent": 1.7e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Trung Thành",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0567
+    },
+    {
+      "officer_name": "Lê Văn Tân",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0505
+    },
+    {
+      "officer_name": "Lê Văn Quang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00095
+    },
+    {
+      "officer_name": "Nguyễn Xuân Lam",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00014
+    },
+    {
+      "officer_name": "Lê Huy Hùng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Phùng Thanh Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Đỗ Thị Thanh Hà",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán/Kế toán trưởng",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Nguyễn Duy Thành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Phạm Ngọc Quý",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 5e-05
+    },
+    {
+      "officer_name": "Lê Bá Chiều",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tân",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Văn Tam",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:09:44.722462"
+}

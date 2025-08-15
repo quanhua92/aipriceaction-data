@@ -1,0 +1,113 @@
+{
+  "symbol": "MFS",
+  "exchange": "UPCOM",
+  "industry": "Viễn thông di động",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 333372608800,
+  "current_price": 47200,
+  "outstanding_shares": 7062979,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần Dịch vụ Kỹ thuật Mobifone (MFS) được th&agrave;nh lập năm 2008 với 5 cổ đ&ocirc;ng s&aacute;ng lập lớn: VNPT, Mobifone, C&ocirc;ng ty TNHH Thi&ecirc;n Việt, C&ocirc;ng ty T&agrave;i ch&iacute;nh TNHH MTV&nbsp;Bưu&nbsp; điện (PTF) v&agrave; C&ocirc;ng ty Cổ phần Dịch vụ Kỹ thuật Viễn th&ocirc;ng (TST). C&ocirc;ng ty chuy&ecirc;n cung cấp c&aacute;c dịch vụ li&ecirc;n quan đến tổng đ&agrave;i (dịch vụ trả lời, chăm s&oacute;c kh&aacute;ch h&agrave;ng qua điện thoại) v&agrave; cho thu&ecirc; trạm ph&aacute;t s&oacute;ng.&nbsp;MFS&nbsp;l&agrave;&nbsp;c&ocirc;ng ty cung cấp dịch vụ truyền dẫn Viba dung lượng cao với c&ocirc;ng nghệ mới Full IP tr&ecirc;n mạng truyền dẫn của MobiFone với c&aacute;c d&ograve;ng thiết bị Viba của nh&agrave; cung cấp h&agrave;ng đầu thế giới NEC gồm 1000 HOPs Viba.&nbsp;C&aacute;c đối t&aacute;c của MobifoneService đều l&agrave; những tập đo&agrave;n, doanh nghiệp lớn như Mobifone, VNPT. Alcatel Lucent, Huawei, ANZ Bank, Tien Phong Bank, Prudential.&nbsp;Ng&agrave;y 16/04/2019, MFS ch&iacute;nh thức được giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -79,
+  "percent_price_change": -0.00167019,
+  "volume": 91337,
+  "high_52w": 71800,
+  "low_52w": 26472,
+  "pe": 41.5087169345,
+  "pb": 1.9424801193,
+  "roe": 0.0765517981,
+  "roa": 0.0540682793,
+  "eps": 1915.2742550983091,
+  "revenue": 372177472647,
+  "net_profit": 13527541843,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Viễn thông MobiFone",
+      "shareholder_percent": 0.3126
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Hưng",
+      "shareholder_percent": 0.048
+    },
+    {
+      "shareholder_name": "Lê Dũng",
+      "shareholder_percent": 0.0348
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Chiến",
+      "shareholder_percent": 0.032649
+    },
+    {
+      "shareholder_name": "Phan Tiến Dũng",
+      "shareholder_percent": 0.0098
+    },
+    {
+      "shareholder_name": "Trần Minh Đức",
+      "shareholder_percent": 0.000586
+    },
+    {
+      "shareholder_name": "Phan Tuấn Anh",
+      "shareholder_percent": 0.000344
+    },
+    {
+      "shareholder_name": "Tường Duy Phúc",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Tống Thị Thanh Giang",
+      "shareholder_percent": 0.000236
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Chiến",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.032649
+    },
+    {
+      "officer_name": "Phan Tiến Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0098
+    },
+    {
+      "officer_name": "Trần Minh Đức",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000586
+    },
+    {
+      "officer_name": "Phan Tuấn Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000344
+    },
+    {
+      "officer_name": "Tường Duy Phúc",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Cao Thành Chung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Đức Mạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Anh Tú",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Quang Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:01.819074"
+}

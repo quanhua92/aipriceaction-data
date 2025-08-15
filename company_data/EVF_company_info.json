@@ -1,0 +1,239 @@
+{
+  "symbol": "EVF",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 12359194282500,
+  "current_price": 16250,
+  "outstanding_shares": 760565802,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty T&agrave;i ch&iacute;nh Cổ phần Điện lực (EVF)&nbsp;được th&agrave;nh lập v&agrave;o th&aacute;ng 07/2008. C&ocirc;ng ty hoạt động trong lĩnh vực i) Huy động vốn, (ii) Cho vay ngắn hạn, trung hạn v&agrave; d&agrave;i hạn, (iii) Chiết khấu thương phiếu, tr&aacute;i phiếu v&agrave; giấy tờ c&oacute; gi&aacute;. EVF&nbsp;trở th&agrave;nh c&ocirc;ng ty&nbsp;đại ch&uacute;ng từ th&aacute;ng 09/2008. C&ocirc;ng ty đ&oacute;ng vai tr&ograve; l&agrave; đầu mối thu xếp vốn, quản trị vốn cho c&aacute;c dự &aacute;n điện thuộc Tập đo&agrave;n Điện lực Việt Nam v&agrave; c&aacute;c đơn vị th&agrave;nh vi&ecirc;n, đồng thời cung cấp c&aacute;c sản phẩm dịch vụ t&agrave;i ch&iacute;nh cho c&aacute;c đơn vị trong ng&agrave;nh điện v&agrave; c&aacute;c đơn vị thuộc c&aacute;c th&agrave;nh phần kinh tế kh&aacute;c. T&iacute;nh đến thời điểm 31/12/2024, Tổng t&agrave;i sản của C&ocirc;ng ty đạt 59.598 tỷ đồng tăng 21% so với c&ugrave;ng kỳ năm trước. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu b&igrave;nh qu&acirc;n v&agrave; tỷ suất lợi nhuận tr&ecirc;n tổng t&agrave;i sản b&igrave;nh qu&acirc;n lần lượt ở mức 6,43% v&agrave; 1,08%.&nbsp;Ng&agrave;y 12/01/2022, EVF giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 950,
+  "percent_price_change": 0.0620915,
+  "volume": 36690061,
+  "high_52w": 16350,
+  "low_52w": 7940,
+  "pe": 15.5611892511,
+  "pb": 1.3058648123,
+  "roe": 0.0868126683,
+  "roa": 0.0131381879,
+  "eps": 318.1105426562421,
+  "revenue": 1286929000000,
+  "net_profit": 241944000000,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Văn Cảnh",
+      "shareholder_percent": 0.0462
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần An Bình",
+      "shareholder_percent": 0.0232
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Amber",
+      "shareholder_percent": 0.00525
+    },
+    {
+      "shareholder_name": "Lê Mạnh Linh",
+      "shareholder_percent": 0.0043532
+    },
+    {
+      "shareholder_name": "Phạm Trung Kiên",
+      "shareholder_percent": 0.0043334
+    },
+    {
+      "shareholder_name": "Mai Danh Hiền",
+      "shareholder_percent": 0.0038753
+    },
+    {
+      "shareholder_name": "Tôn Thị Hải Yến",
+      "shareholder_percent": 0.0011372
+    },
+    {
+      "shareholder_name": "Hoàng Văn Ninh",
+      "shareholder_percent": 0.00059
+    },
+    {
+      "shareholder_name": "Cao Thị Thu Hà",
+      "shareholder_percent": 0.00046
+    },
+    {
+      "shareholder_name": "Bùi Xuân Dũng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Tuấn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoa",
+      "shareholder_percent": 0.000189
+    },
+    {
+      "shareholder_name": "Lê Anh Tuấn",
+      "shareholder_percent": 0.0001636
+    },
+    {
+      "shareholder_name": "Đào Lê Huy",
+      "shareholder_percent": 0.0001136
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Trang",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Khánh Ngọc",
+      "shareholder_percent": 9.78e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Hà",
+      "shareholder_percent": 8.8e-05
+    },
+    {
+      "shareholder_name": "Hoàng Thế Hưng",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Lâm Nguyễn Thiện Nhơn",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thụy Minh Trúc",
+      "shareholder_percent": 6.5e-05
+    },
+    {
+      "shareholder_name": "Nghiêm Khắc Đạt",
+      "shareholder_percent": 5.97e-05
+    },
+    {
+      "shareholder_name": "Tống Nhật Linh",
+      "shareholder_percent": 5.87e-05
+    },
+    {
+      "shareholder_name": "Hoàng Nhật Nam",
+      "shareholder_percent": 5.82e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hải",
+      "shareholder_percent": 4.89e-05
+    },
+    {
+      "shareholder_name": "Lê Hoài Nam",
+      "shareholder_percent": 4.89e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Trung Thành",
+      "shareholder_percent": 4.89e-05
+    },
+    {
+      "shareholder_name": "Lê Long Giang",
+      "shareholder_percent": 4.73e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phong Lan",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Lý Mạnh Hà",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Mai Xuân Đông",
+      "shareholder_percent": 3.61e-05
+    },
+    {
+      "shareholder_name": "Hoàng Thị Liên",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Sỹ",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Điệp",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Mạnh Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0043532
+    },
+    {
+      "officer_name": "Phạm Trung Kiên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0043334
+    },
+    {
+      "officer_name": "Mai Danh Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0038753
+    },
+    {
+      "officer_name": "Hoàng Văn Ninh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00059
+    },
+    {
+      "officer_name": "Cao Thị Thu Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00046
+    },
+    {
+      "officer_name": "Nguyễn Quốc Tuấn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Lê Anh Tuấn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001636
+    },
+    {
+      "officer_name": "Đào Lê Huy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001136
+    },
+    {
+      "officer_name": "Đỗ Thị Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 8.8e-05
+    },
+    {
+      "officer_name": "Hoàng Thế Hưng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Tống Nhật Linh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 5.87e-05
+    },
+    {
+      "officer_name": "Lê Long Giang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 4.73e-05
+    },
+    {
+      "officer_name": "Nguyễn Xuân Điệp",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thúy Trang",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:05:59.075566"
+}

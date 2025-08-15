@@ -1,0 +1,147 @@
+{
+  "symbol": "DRI",
+  "exchange": "UPCOM",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 936960000000,
+  "current_price": 12800,
+  "outstanding_shares": 73200000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Cao su Đắk Lắk (DRI)&nbsp;được th&agrave;nh lập v&agrave;o&nbsp;ng&agrave;y 24/02/2012. DRI&nbsp;hoạt động ch&iacute;nh trong lĩnh vực khai th&aacute;c,&nbsp;chế biến mủ cao su v&agrave; c&acirc;y ăn quả.&nbsp;C&ocirc;ng ty&nbsp;hiện đang quản l&yacute; vườn cao su trồng tại 2 tỉnh ChămPaSăk v&agrave; Salaval tại&nbsp;L&agrave;o th&ocirc;ng qua c&ocirc;ng ty con, tổng diện t&iacute;ch cao su l&ecirc;n đến 8.810,5 ha. DRI&nbsp;chủ yếu sản xuất c&aacute;c sản phẩm SVR3L, SVR10 v&agrave; SVR60. Ngo&agrave;i ra, C&ocirc;ng ty c&ograve;n tham gia v&agrave;o hoạt động sản xuất v&agrave; kinh doanh c&aacute;c sản phẩm n&ocirc;ng nghiệp v&agrave; l&acirc;m nghiệp kh&aacute;c như trồng c&agrave; ph&ecirc;, điều v&agrave; bạch đ&agrave;n. DRI được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 05/2017.</div>\r\n",
+  "website": null,
+  "price_change": -135,
+  "percent_price_change": -0.01054688,
+  "volume": 1853462,
+  "high_52w": 16391,
+  "low_52w": 7810,
+  "pe": 5.9687367104,
+  "pb": 1.4301918884,
+  "roe": 0.2517375414,
+  "roa": 0.2122106708,
+  "eps": 287.15876484972677,
+  "revenue": 113319860457,
+  "net_profit": 21020021587,
+  "dividend": 0.0710619818,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Cao su Đắk Lắk",
+      "shareholder_percent": 0.45
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 0.0068306011
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 0.0068306
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Thuận",
+      "shareholder_percent": 0.0059
+    },
+    {
+      "shareholder_name": "Văn Đức Lư",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Bùi Quang Ninh",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Hoa",
+      "shareholder_percent": 0.00169
+    },
+    {
+      "shareholder_name": "Nguyễn Độ",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Tượng",
+      "shareholder_percent": 0.0013661
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hải",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Âu Quý Vinh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Thị Vân Liên",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Phan Thanh Thái",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Quý",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Phan Thanh Cường",
+      "shareholder_percent": 1.8e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Bùi Quang Ninh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Nguyễn Kim Hoa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00169
+    },
+    {
+      "officer_name": "Nguyễn Viết Tượng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0013661
+    },
+    {
+      "officer_name": "Nguyễn Thị Hải",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thanh Tân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thạc Hoành",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thanh Cường",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Thảo",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thanh Cần",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trần Giang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:04:43.365159"
+}

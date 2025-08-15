@@ -1,0 +1,283 @@
+{
+  "symbol": "DIG",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 15740599500850,
+  "current_price": 24350,
+  "outstanding_shares": 646431191,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Đầu tư Ph&aacute;t triển X&acirc;y dựng (DIG) với gần 3 thập kỷ hoạt động từ năm 1990 tr&ecirc;n nhiều lĩnh vực như kh&aacute;ch sạn, dịch vụ du lịch, thương mại, đầu tư ph&aacute;t triển Bất động sản, x&acirc;y dựng &hellip; C&ocirc;ng ty c&oacute; thế mạnh trong lĩnh vực đầu tư ph&aacute;t triển bất động sản v&agrave; doanh thu chủ yếu đến từ việc kinh doanh bất động sản. C&ocirc;ng ty l&agrave; một doanh nghiệp lớn trong ng&agrave;nh bất động sản, c&oacute; quỹ đất sạch lớn v&agrave; mức độ an to&agrave;n t&agrave;i ch&iacute;nh cao. C&ocirc;ng ty đ&atilde; thực hiện đầu tư v&agrave;o c&aacute;c dự &aacute;n lớn như Dự &aacute;n Khu đ&ocirc; thị Trung t&acirc;m Ch&iacute; Linh - Vũng T&agrave;u, Khu đ&ocirc; thị du lịch Đại Phước - Đồng Nai, Khu đ&ocirc; thị mới Nam Vĩnh Y&ecirc;n -&nbsp;th&agrave;nh phố Vĩnh Ph&uacute;c v&agrave; c&aacute;c dự &aacute;n tiềm năng kh&aacute;c tr&ecirc;n khắp Việt Nam. DIG ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2009.<o:p></o:p></p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 150,
+  "percent_price_change": 0.00619835,
+  "volume": 32716420,
+  "high_52w": 24750,
+  "low_52w": 12877,
+  "pe": 132.7990554341,
+  "pb": 2.0207685784,
+  "roe": 0.0152656087,
+  "roa": 0.006359491,
+  "eps": 75.10885647224285,
+  "revenue": 286737746633,
+  "net_profit": 48552707544,
+  "dividend": 0.0410677618,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Hùng Cường",
+      "shareholder_percent": 0.0989
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Kinh doanh Địa ốc Him Lam",
+      "shareholder_percent": 0.04987
+    },
+    {
+      "shareholder_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN THIÊN TÂN",
+      "shareholder_percent": 0.047
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0456
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 0.0280280333
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.0262469542
+    },
+    {
+      "shareholder_name": "Lê Thị Hà Thành",
+      "shareholder_percent": 0.0257
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.025558334
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Huyền",
+      "shareholder_percent": 0.0224
+    },
+    {
+      "shareholder_name": "Epsom Limited",
+      "shareholder_percent": 0.0177467567
+    },
+    {
+      "shareholder_name": "Siglap Limited",
+      "shareholder_percent": 0.0166590147
+    },
+    {
+      "shareholder_name": "Vietnam Infrastructure Strategic Ltd",
+      "shareholder_percent": 0.0158896419
+    },
+    {
+      "shareholder_name": "Vietnam Property Fund Limited",
+      "shareholder_percent": 0.0097
+    },
+    {
+      "shareholder_name": "Greystanes Limited Company",
+      "shareholder_percent": 0.0053552789
+    },
+    {
+      "shareholder_name": "Viola Ltd",
+      "shareholder_percent": 0.00318
+    },
+    {
+      "shareholder_name": "Trần Minh Phú",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Vietnam Investment Property Holdings Limited",
+      "shareholder_percent": 0.0017524851
+    },
+    {
+      "shareholder_name": "VietNam Infrastructure Holding Limited",
+      "shareholder_percent": 0.0014794233
+    },
+    {
+      "shareholder_name": "Idris Ltd",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Diệp Quang Tú",
+      "shareholder_percent": 0.0010448
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0010068835
+    },
+    {
+      "shareholder_name": "Lê Văn Tảng",
+      "shareholder_percent": 0.00041
+    },
+    {
+      "shareholder_name": "Hà Thị Thanh Châu",
+      "shareholder_percent": 0.00033863
+    },
+    {
+      "shareholder_name": "Phan Thị Mai Hương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lâm Thị Tố Nga",
+      "shareholder_percent": 9.5e-05
+    },
+    {
+      "shareholder_name": "Bùi Văn Sự",
+      "shareholder_percent": 6.69e-05
+    },
+    {
+      "shareholder_name": "Hồ Mạnh Hùng",
+      "shareholder_percent": 6.28218e-05
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Ánh",
+      "shareholder_percent": 4.88464e-05
+    },
+    {
+      "shareholder_name": "Lê Thành Hưng",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mỹ Hạnh",
+      "shareholder_percent": 3.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Liêm",
+      "shareholder_percent": 3.28e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Loan",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hoành",
+      "shareholder_percent": 2.60484e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Cao Cường",
+      "shareholder_percent": 2.34302e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hiền",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Trần Quang Sơn",
+      "shareholder_percent": 1.6e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Tăng",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Chu Văn Thanh",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hoành",
+      "shareholder_percent": 9.4996e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Tín",
+      "shareholder_percent": 7.1e-06
+    },
+    {
+      "shareholder_name": "Trần Văn Đạt",
+      "shareholder_percent": 4e-07
+    },
+    {
+      "shareholder_name": "Diệp Thị Ngọc Lan",
+      "shareholder_percent": 1.1e-07
+    },
+    {
+      "shareholder_name": "Lê Minh Tuấn",
+      "shareholder_percent": 2.23e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 3.3e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Hùng Cường",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0989
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Huyền",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0224
+    },
+    {
+      "officer_name": "Bùi Văn Sự",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 6.69e-05
+    },
+    {
+      "officer_name": "Lê Thành Hưng",
+      "officer_position": "Other",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Liêm",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 3.28e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Loan",
+      "officer_position": "Khác",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Nguyễn Thị Hiền",
+      "officer_position": "Other",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Chu Văn Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Hoàng Văn Tăng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Quang Tín",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 7.1e-06
+    },
+    {
+      "officer_name": "Trần Văn Đạt",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 4e-07
+    },
+    {
+      "officer_name": "Nguyễn Thiện Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thế Thành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan  Văn Danh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:04:16.908954"
+}

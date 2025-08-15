@@ -1,0 +1,179 @@
+{
+  "symbol": "PLC",
+  "exchange": "HNX",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2391645634400,
+  "current_price": 29600,
+  "outstanding_shares": 80798839,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Ho&aacute; dầu Petrolimex - C&ocirc;ng ty Cổ phần (PLC)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Dầu nhờn th&agrave;nh lập năm 1994. Petrolimex chuy&ecirc;n kinh doanh c&aacute;c sản phẩm h&oacute;a dầu: Dầu mỡ nhờn, Nhựa đường, Dung m&ocirc;i h&oacute;a chất. C&ocirc;ng ty đ&atilde; tự nhập khẩu nguy&ecirc;n vật liệu v&agrave; sản xuất ra c&aacute;c sản phẩm mang thương hiệu PETROLIMEX - PLC đ&aacute;p ứng nhu cầu thị trường trong nước. Hiện nay c&ocirc;ng ty c&oacute; 2 nh&agrave; m&aacute;y sản xuất dầu nhờn c&oacute; tổng c&ocirc;ng suất l&agrave; 50.000 MT/năm, 5 kho nhựa đường c&oacute; c&oacute; sức chứa 17.000 m3, 2 kho h&oacute;a chất c&oacute; sức chứa 16.000 m3 được ph&acirc;n bổ trải đều từ Hải ph&ograve;ng, Đ&agrave; nẵng, Quy nhơn, S&agrave;i g&ograve;n, Cần thơ.&nbsp;C&ocirc;ng ty đang từng bước mở rộng xuất khẩu sang c&aacute;c nước như: L&agrave;o, Campuchia, Trung Quốc, Hong Kong, Đ&agrave;i Loan, Philippin. Ng&agrave;y 27/12/2006, PLC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.01369863,
+  "volume": 1260899,
+  "high_52w": 31700,
+  "low_52w": 17269,
+  "pe": 25.4837132481,
+  "pb": 1.870261163,
+  "roe": 0.0744330874,
+  "roa": 0.0220053265,
+  "eps": 438.8996584624839,
+  "revenue": 2139637203726,
+  "net_profit": 35462024122,
+  "dividend": 0.0405405405,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Xăng dầu Việt Nam",
+      "shareholder_percent": 0.7907
+    },
+    {
+      "shareholder_name": "PHEIM AIZAWA TRUST",
+      "shareholder_percent": 0.0077728702
+    },
+    {
+      "shareholder_name": "Trần Nguyễn Ngọc Linh",
+      "shareholder_percent": 0.00751436
+    },
+    {
+      "shareholder_name": "Vũ Văn Chiến",
+      "shareholder_percent": 0.004951
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đức",
+      "shareholder_percent": 0.001879
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Sơn",
+      "shareholder_percent": 0.0010709109
+    },
+    {
+      "shareholder_name": "Ngô Đức Giang",
+      "shareholder_percent": 0.000625
+    },
+    {
+      "shareholder_name": "Trần Thị Minh Hà",
+      "shareholder_percent": 0.000461
+    },
+    {
+      "shareholder_name": "Hà Thanh Tuấn",
+      "shareholder_percent": 0.00034
+    },
+    {
+      "shareholder_name": "NGUYỄN VĂN KHÁNH",
+      "shareholder_percent": 0.000248
+    },
+    {
+      "shareholder_name": "Phương Thảo Hiền",
+      "shareholder_percent": 0.000233
+    },
+    {
+      "shareholder_name": "Hà Thị Cúc",
+      "shareholder_percent": 0.0001458831
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Tuấn",
+      "shareholder_percent": 0.0001245087
+    },
+    {
+      "shareholder_name": "Trần Thị Thu",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đỗ Thị Tuyến",
+      "shareholder_percent": 8.1438e-05
+    },
+    {
+      "shareholder_name": "LÊ QUANG TUẤN",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Tống Văn Hải",
+      "shareholder_percent": 6.2e-05
+    },
+    {
+      "shareholder_name": "Trương Thị Quỳnh Giang",
+      "shareholder_percent": 6.03978e-05
+    },
+    {
+      "shareholder_name": "Trần Ngọc Năm",
+      "shareholder_percent": 4.57934e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Long",
+      "shareholder_percent": 2.3e-05
+    },
+    {
+      "shareholder_name": "Trần Diễm Hồng",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Phạm Tuấn Phương",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Phạm Bá Nhuân",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hà Thanh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00034
+    },
+    {
+      "officer_name": "Phương Thảo Hiền",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0.000233
+    },
+    {
+      "officer_name": "LÊ QUANG TUẤN",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 8e-05
+    },
+    {
+      "officer_name": "Phạm Tuấn Phương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Đoàn Hồng Sáng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Thị Ngọc Anh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Thị Kiều Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Tuấn Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "ĐỖ HỮU TẠO",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Khương",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hà Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:13.655581"
+}

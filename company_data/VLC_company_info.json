@@ -1,0 +1,131 @@
+{
+  "symbol": "VLC",
+  "exchange": "UPCOM",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3378616614900,
+  "current_price": 15900,
+  "outstanding_shares": 212491611,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">Tổng C&ocirc;ng ty Chăn nu&ocirc;i Việt Nam - CTCP (VLC), tiền thần l&agrave; một Doanh nghiệp Nh&agrave; nước được th&agrave;nh lập năm 1996. Năm 2013, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. Lĩnh vực kinh doanh ch&iacute;nh&nbsp;của C&ocirc;ng ty&nbsp;trong lĩnh vực: Chăn nu&ocirc;i gia s&uacute;c, gia cầm; B&aacute;n bu&ocirc;n thực phẩm; Xuất nhập khẩu c&aacute;c sản phẩm gia s&uacute;c, gia cầm, thực phẩm, nguy&ecirc;n liệu th&ocirc;, thức ăn chăn nu&ocirc;i, thuốc th&uacute; y v&agrave; vật tư th&uacute; &yacute;... VLC hiện đang điều h&agrave;nh C&ocirc;ng ty cổ phần giống b&ograve; sữa Mộc Ch&acirc;u, với quy m&ocirc; sản xuất chăn nu&ocirc;i lớn tại tỉnh Sơn La, g&oacute;p phần chủ lực cho doanh thu hiện c&oacute; của Tổng c&ocirc;ng ty. VLC l&agrave; đơn vị th&agrave;nh vi&ecirc;n của C&ocirc;ng ty Cổ phần GTNFOODS, do đ&oacute; VLC lu&ocirc;n nhận được sự gi&uacute;p đỡ kịp thời về vốn, chiến lược kinh doanh, hệ thống nh&agrave; cung cấp, k&ecirc;nh ph&acirc;n phối từ ph&iacute;a GTN.&nbsp;Ng&agrave;y 26/10/2015, VLC ch&iacute;nh thức được giao dịch tr&ecirc;n thị trường UPCOM</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -2,
+  "percent_price_change": -0.00012579,
+  "volume": 249389,
+  "high_52w": 19764,
+  "low_52w": 12700,
+  "pe": 60.4832251087,
+  "pb": 0.9548921699,
+  "roe": 0.015646516,
+  "roa": 0.0081924589,
+  "eps": 70.35909903285547,
+  "revenue": 836193206164,
+  "net_profit": 14950718302,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Sữa Việt Nam",
+      "shareholder_percent": 0.6894
+    },
+    {
+      "shareholder_name": "Phạm Thị Linh",
+      "shareholder_percent": 0.0297694
+    },
+    {
+      "shareholder_name": "Đỗ Hoàng Phương",
+      "shareholder_percent": 0.0294129
+    },
+    {
+      "shareholder_name": "Công ty CP Thái Minh Group",
+      "shareholder_percent": 0.0265
+    },
+    {
+      "shareholder_name": "Trần Công Chiến",
+      "shareholder_percent": 0.001902
+    },
+    {
+      "shareholder_name": "Bùi Đức Hoàn",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Trần Văn Hùng",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Đào Duy Linh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Nhân Đức",
+      "shareholder_percent": 1.6e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Lý",
+      "shareholder_percent": 1.26e-05
+    },
+    {
+      "shareholder_name": "Trần Chí Sơn",
+      "shareholder_percent": 9.98e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Công Chiến",
+      "officer_position": "Thành viên Hội đồng đầu tư/Phó Tổng Giám đốc",
+      "officer_percent": 0.001902
+    },
+    {
+      "officer_name": "Trần Trí Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Huy Hoàng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Công Tuyến",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thị Hà",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đăng Khoa",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Quốc Dũng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Huy Bích",
+      "officer_position": "Phụ trách Công bố thông tin/Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Thị Diệu Thu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Kiều Liên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Công Sơn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:17.057171"
+}

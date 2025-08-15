@@ -1,0 +1,132 @@
+{
+  "symbol": "PVP",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1581462393000,
+  "current_price": 15250,
+  "outstanding_shares": 103702452,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Vận tải Dầu kh&iacute; Th&aacute;i B&igrave;nh Dương&nbsp;(PVP) được th&agrave;nh lập v&agrave;o năm 2007&nbsp;với c&aacute;c cổ đ&ocirc;ng s&aacute;ng lập gồm Tổng C&ocirc;ng ty Cổ phần Vận tải Dầu kh&iacute; (PVTrans), Tổng C&ocirc;ng ty Cổ phần T&agrave;i ch&iacute;nh Dầu kh&iacute; (PVFC), Tổng C&ocirc;ng ty Cổ phần Bảo hiểm Dầu kh&iacute; Việt Nam (PVI), Ng&acirc;n h&agrave;ng TMCP Ngoại Thương Việt Nam (Vietcombank). PVP hoạt động ch&iacute;nh trong lĩnh vực kinh doanh vận tải dầu th&ocirc;, v&agrave; c&aacute;c dịch vụ hỗ trợ vận tải.&nbsp;C&ocirc;ng ty&nbsp;hiện đang sở hữu v&agrave; vận h&agrave;nh&nbsp;t&agrave;u PVT Athena&nbsp;với trọng tải 105.000 tấn v&agrave; t&agrave;u&nbsp;FSO PVN&nbsp;Dai Hung Queen với trọng tải 105.000 tấn. PVP cung cấp dịch vụ vận chuyển dầu th&ocirc; cho hầu hết c&aacute;c h&atilde;ng đầu kh&iacute; nổi tiếng to&agrave;n cầu như Exxon, BP, Shell, Chevron, Petronas. Ng&agrave;y 17/01/2023, PVP ni&ecirc;m yết tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 487516,
+  "high_52w": 18400,
+  "low_52w": 12150,
+  "pe": 8.4205919933,
+  "pb": 0.8694094748,
+  "roe": 0.1017547362,
+  "roa": 0.0609025569,
+  "eps": 434.10388551854106,
+  "revenue": 556900510748,
+  "net_profit": 45017637351,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Cổ phần Vận tải Dầu khí",
+      "shareholder_percent": 0.6492
+    },
+    {
+      "shareholder_name": "Lê Ngọc Anh",
+      "shareholder_percent": 0.067
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 0.0318218
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 3",
+      "shareholder_percent": 0.023654
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Thiên Việt",
+      "shareholder_percent": 0.023018
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 4",
+      "shareholder_percent": 0.015168
+    },
+    {
+      "shareholder_name": "Lê Minh Đức",
+      "shareholder_percent": 0.0097
+    },
+    {
+      "shareholder_name": "Lê Ngọc Ý",
+      "shareholder_percent": 0.0075
+    },
+    {
+      "shareholder_name": "Hà Hữu Anh",
+      "shareholder_percent": 5.3e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ Ngân hàng TMCP Đại chúng Việt nam",
+      "shareholder_percent": 5.6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hà Hữu Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 5.3e-05
+    },
+    {
+      "officer_name": "Nguyễn Lan Hương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Khiếu Trung Trực",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Đức Chính",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Hoàng Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Đình Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Phong Phúc",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Mạnh Tuấn",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Thị Hồng Hạnh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Ngọc Khôi",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Mạnh Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Trúc Lâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:52.655307"
+}

@@ -1,0 +1,168 @@
+{
+  "symbol": "NHA",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1290109873950,
+  "current_price": 26550,
+  "outstanding_shares": 48591709,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Đầu tư Ph&aacute;t triển Nh&agrave; v&agrave; Đ&ocirc; thị Nam H&agrave; Nội (NHA),&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Th&agrave;nh Mỹ được th&agrave;nh lập năm 2004. Năm 2007 c&ocirc;ng ty chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. C&ocirc;ng ty hoạt động kinh doanh ch&iacute;nh trong c&aacute;c mảng x&acirc;y dựng c&ocirc;ng tr&igrave;nh, đầu tư x&acirc;y dựng hạ tầng c&aacute;c khu c&ocirc;ng nghiệp, khu đ&ocirc; thị v&agrave; d&acirc;n cư, khai th&aacute;c đất, đ&aacute;, c&aacute;t sỏi v&agrave; mua b&aacute;n vật liệu x&acirc;y dựng. C&ocirc;ng ty đ&atilde; thi c&ocirc;ng nhiều c&ocirc;ng tr&igrave;nh lớn tr&ecirc;n địa b&agrave;n tỉnh H&agrave; Nam như thi c&ocirc;ng đường trục huyện Duy Ti&ecirc;n tuyến Đền Th&aacute;nh An M&ocirc;ng, đường giao th&ocirc;ng li&ecirc;n x&atilde; H&ograve;a Mạc - Ch&acirc;u Giang - Mộc Bắc, huyện Duy Ti&ecirc;n, Đường tỉnh lộ huyện L&yacute; Nh&acirc;n - Duy Ti&ecirc;n, thi c&ocirc;ng đường N5 thị x&atilde; Ph&uacute; L&yacute;, x&acirc;y dựng trường THPT L&yacute; Thường Kiệt, trường THPT B Duy Ti&ecirc;n; cung cấp vật liệu x&acirc;y dựng phục vụ dự &aacute;n thi c&ocirc;ng đường cao tốc Cầu Giẽ - Ninh B&igrave;nh. NHA được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2020.</div>\r\n",
+  "website": null,
+  "price_change": -50,
+  "percent_price_change": -0.0018797,
+  "volume": 1426926,
+  "high_52w": 28091,
+  "low_52w": 17409,
+  "pe": 18.1584001894,
+  "pb": 2.2840589922,
+  "roe": 0.1322978307,
+  "roa": 0.0917806528,
+  "eps": 303.1369917654059,
+  "revenue": 75371413075,
+  "net_profit": 14729944491,
+  "dividend": 0.0376647834,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Minh Hoàn",
+      "shareholder_percent": 0.22840001
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Đạo",
+      "shareholder_percent": 0.0531
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Kiên",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Phạm Văn Tuân",
+      "shareholder_percent": 0.048
+    },
+    {
+      "shareholder_name": "Peter Eric Dennis",
+      "shareholder_percent": 0.047
+    },
+    {
+      "shareholder_name": "NGUYỄN NGỌC HƯƠNG",
+      "shareholder_percent": 0.0313
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Mỹ",
+      "shareholder_percent": 0.0238
+    },
+    {
+      "shareholder_name": "Tạ Ngọc Nhất",
+      "shareholder_percent": 0.0211
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hùng",
+      "shareholder_percent": 0.0097
+    },
+    {
+      "shareholder_name": "Nguyễn Đắc Long",
+      "shareholder_percent": 0.0075
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Duyến",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Cù Đức Ngọc",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Đặng Văn Lành",
+      "shareholder_percent": 0.00123297
+    },
+    {
+      "shareholder_name": "Lâm Thị Thu Trang",
+      "shareholder_percent": 0.0006465517
+    },
+    {
+      "shareholder_name": "Đặng Kiều Anh",
+      "shareholder_percent": 0.0006465517
+    },
+    {
+      "shareholder_name": "Mai Thanh Trọng",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Vũ Văn Đồng",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "TRẦN NGỌC TUYẾN",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Huyền",
+      "shareholder_percent": 1.47e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Minh Hoàn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.22840001
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Đạo",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0531
+    },
+    {
+      "officer_name": "Tạ Ngọc Nhất",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0211
+    },
+    {
+      "officer_name": "Nguyễn Văn Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0097
+    },
+    {
+      "officer_name": "Phạm Ngọc Duyến",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Cù Đức Ngọc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Đặng Văn Lành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00123297
+    },
+    {
+      "officer_name": "Mai Thanh Trọng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Vũ Văn Đồng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Trần Thế Kiên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Thái",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phụ trách Công bố thông tin/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Nghĩa",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:11:01.159447"
+}

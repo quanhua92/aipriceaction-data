@@ -1,0 +1,261 @@
+{
+  "symbol": "BWE",
+  "exchange": "HOSE",
+  "industry": "Nước & Khí đốt",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 10787499988200,
+  "current_price": 49050,
+  "outstanding_shares": 219928644,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần - Tổng C&ocirc;ng ty Nước - M&ocirc;i trường B&igrave;nh Dương (BWE), c&oacute; tiền th&acirc;n l&agrave; Trung t&acirc;m Cấp thủy B&igrave;nh Dương, được th&agrave;nh lập từ trước năm 1975. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;khai th&aacute;c, xử l&yacute; v&agrave; cung cấp nước sạch phục vụ sinh hoạt đ&ocirc; thị v&agrave; c&ocirc;ng nghiệp. Ngo&agrave;i ra,&nbsp;BWE cũng tham gia cung cấp dịch vụ&nbsp;thu gom v&agrave; xử l&yacute; r&aacute;c thải.&nbsp; C&ocirc;ng ty ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2016. BWE hiện đang quản l&yacute; vận h&agrave;nh c&aacute;c hệ thống cấp nước v&agrave; nh&agrave; m&aacute;y nước với tổng c&ocirc;ng suất cấp nước&nbsp;l&agrave; 480.000 m3/ng&agrave;y đ&ecirc;m, v&agrave;&nbsp;c&ocirc;ng suất xử l&yacute; r&aacute;c thải l&ecirc;n đến 1.000 tấn/ng&agrave;y. BWE được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 07/2017.</div>\r\n",
+  "website": null,
+  "price_change": -750,
+  "percent_price_change": -0.01506024,
+  "volume": 283128,
+  "high_52w": 54300,
+  "low_52w": 38000,
+  "pe": 14.0636886752,
+  "pb": 2.0021436991,
+  "roe": 0.1459943343,
+  "roa": 0.0537464592,
+  "eps": 1343.3714478092268,
+  "revenue": 1325415588528,
+  "net_profit": 295445860905,
+  "dividend": 0.0265035678,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Nước Thủ Dầu Một",
+      "shareholder_percent": 0.3742
+    },
+    {
+      "shareholder_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP",
+      "shareholder_percent": 0.1944
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thiền",
+      "shareholder_percent": 0.04645
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.024526
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Phong",
+      "shareholder_percent": 0.0136408
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.0114667
+    },
+    {
+      "shareholder_name": "Trần Chiến Công",
+      "shareholder_percent": 0.0105
+    },
+    {
+      "shareholder_name": "Lê Ngọc Lan Thảo",
+      "shareholder_percent": 0.0077
+    },
+    {
+      "shareholder_name": "Nguyễn Đỗ Ngọc Bảo",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Aquila Spc Ltd",
+      "shareholder_percent": 0.004033
+    },
+    {
+      "shareholder_name": "Trần Tấn Đức",
+      "shareholder_percent": 0.00352
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.003333
+    },
+    {
+      "shareholder_name": "Vietnam Co-Investment Fund",
+      "shareholder_percent": 0.002747
+    },
+    {
+      "shareholder_name": "Tạ Trọng Huấn",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Trần Tuyết Lan",
+      "shareholder_percent": 0.00207
+    },
+    {
+      "shareholder_name": "Dương Hoàng Sơn",
+      "shareholder_percent": 0.0016644
+    },
+    {
+      "shareholder_name": "Dương Anh Thư",
+      "shareholder_percent": 0.001622
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Thanh",
+      "shareholder_percent": 0.00122
+    },
+    {
+      "shareholder_name": "Tạ Trọng Hiệp",
+      "shareholder_percent": 0.0010367
+    },
+    {
+      "shareholder_name": "Phạm Thanh Hùng",
+      "shareholder_percent": 0.0005899
+    },
+    {
+      "shareholder_name": "Ngô Văn Lui",
+      "shareholder_percent": 0.0005583
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Vân",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Mai Song Hào",
+      "shareholder_percent": 0.0003945
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Diên",
+      "shareholder_percent": 0.0003172
+    },
+    {
+      "shareholder_name": "Lê Văn Gòn",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Hồ",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Tăng Tố Vân",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu MB",
+      "shareholder_percent": 0.0001134667
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xây Lắp - Điện Biwase",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Liên",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Đông",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Kim Oanh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Bảo",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mộng Thường",
+      "shareholder_percent": 2.59e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Trang",
+      "shareholder_percent": 2.59e-05
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Thương Mại N.T.P",
+      "shareholder_percent": 2.3e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Thiền",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.04645
+    },
+    {
+      "officer_name": "Nguyễn Thanh Phong",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0136408
+    },
+    {
+      "officer_name": "Trần Chiến Công",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0105
+    },
+    {
+      "officer_name": "Lê Ngọc Lan Thảo",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0077
+    },
+    {
+      "officer_name": "Trần Tấn Đức",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00352
+    },
+    {
+      "officer_name": "Dương Hoàng Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0016644
+    },
+    {
+      "officer_name": "Dương Anh Thư",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.001622
+    },
+    {
+      "officer_name": "Tạ Trọng Hiệp",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0010367
+    },
+    {
+      "officer_name": "Phạm Thanh Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0005899
+    },
+    {
+      "officer_name": "Ngô Văn Lui",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0005583
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Vân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Nguyễn Thị Diên",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0.0003172
+    },
+    {
+      "officer_name": "Nguyễn Kim Liên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Trần Thị Kim Oanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Nguyễn Đức Bảo",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Nguyễn Văn Trí",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm  Thanh Vũ",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:02:07.602330"
+}

@@ -1,0 +1,193 @@
+{
+  "symbol": "TTN",
+  "exchange": "UPCOM",
+  "industry": "Viễn thông cố định",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 664767750000,
+  "current_price": 18100,
+  "outstanding_shares": 36727500,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần C&ocirc;ng nghệ v&agrave; Truyền th&ocirc;ng Việt Nam (TTN) được th&agrave;nh lập v&agrave;o năm 2008. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực dịch vụ viễn th&ocirc;ng, c&ocirc;ng nghệ th&ocirc;ng tin, t&iacute;ch hợp hệ thống v&agrave; dịch vụ cơ điện (M&amp;E). TTN được biết đến l&agrave; nh&agrave; cung cấp dịch vụ viễn th&ocirc;ng trọn g&oacute;i trong c&aacute;c khu c&ocirc;ng nghiệp, khu d&acirc;n cư, khu đ&ocirc; thị dịch vụ của BECAMEX IDC v&agrave; VSIP đầu tư. B&ecirc;n cạnh đ&oacute;, TTN đ&atilde; đầu tư x&acirc;y dựng một trong những trung t&acirc;m dữ liệu lớn của Việt Nam theo ti&ecirc;u chuẩn Tier-3. C&ocirc;ng ty cũng tham gia cung cấp dịch vụ cơ điện. TTN được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 04/2017.</div>\r\n",
+  "website": null,
+  "price_change": -44,
+  "percent_price_change": -0.00241758,
+  "volume": 246145,
+  "high_52w": 25463,
+  "low_52w": 11591,
+  "pe": 10.0949248475,
+  "pb": 1.4201207417,
+  "roe": 0.1393674492,
+  "roa": 0.1144420965,
+  "eps": 527.8266529984344,
+  "revenue": 96849279410,
+  "net_profit": 19385753398,
+  "dividend": 0.04957039,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP",
+      "shareholder_percent": 0.4859
+    },
+    {
+      "shareholder_name": "Tập Đoàn Bưu Chính Viễn Thông Việt Nam",
+      "shareholder_percent": 0.0545
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật",
+      "shareholder_percent": 0.0463
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.0385
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Kinh tế hiện đại VinaCapital",
+      "shareholder_percent": 0.0333
+    },
+    {
+      "shareholder_name": "Giang Quốc Dũng",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Quảng Văn Viết Cương",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Huỳnh Kim Thảo",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Khiết",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Huỳnh Quang Hải",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hiệu",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Đặng Thanh Hưng",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Ngô Duy Khang",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thùy Dương",
+      "shareholder_percent": 0.00055
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Nhàn",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Phạm Thị Lan Thảo",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Lê Xuân Vinh",
+      "shareholder_percent": 0.00036
+    },
+    {
+      "shareholder_name": "Lại Xuân Nghĩa",
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Võ Thị Thanh Hương",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Dương",
+      "shareholder_percent": 0.000136
+    },
+    {
+      "shareholder_name": "Huỳnh Song Ngọc Trang",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Võ Trần Phương Anh",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Thước",
+      "shareholder_percent": 1.36e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Xuân Diệu",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Giang Quốc Dũng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Quảng Văn Viết Cương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Huỳnh Quang Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0011
+    },
+    {
+      "officer_name": "Đặng Thanh Hưng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Ngô Duy Khang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00055
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Nhàn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Lê Xuân Vinh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00036
+    },
+    {
+      "officer_name": "Lại Xuân Nghĩa",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00028
+    },
+    {
+      "officer_name": "Võ Thị Thanh Hương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Bá Thước",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1.36e-05
+    },
+    {
+      "officer_name": "Lê Thị Xuân Diệu",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Văn Phúc",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:16:11.111567"
+}

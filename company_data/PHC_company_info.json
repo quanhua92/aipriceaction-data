@@ -1,0 +1,263 @@
+{
+  "symbol": "PHC",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 312214919980,
+  "current_price": 6170,
+  "outstanding_shares": 50602094,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần X&acirc;y dựng Phục Hưng Holdings (PHC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH x&acirc;y dựng Phục Hưng được th&agrave;nh lập v&agrave;o năm 2001. Năm 2004, C&ocirc;ng ty chuyển&nbsp;đổi m&ocirc; h&igrave;nh kinh doanh hoạt&nbsp;động l&agrave;&nbsp;một C&ocirc;ng ty Cổ phần.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực&nbsp;thi c&ocirc;ng&nbsp;x&acirc;y dựng&nbsp;c&aacute;c c&ocirc;ng tr&igrave;nh&nbsp;d&acirc;n dụng, đầu tư bất động sản, kinh doanh vật tư x&acirc;y dựng, v&agrave; cho thu&ecirc; m&aacute;y m&oacute;c thiết bị. Một số dự &aacute;n nổi bật m&agrave; PHC tham gia thi c&ocirc;ng như Dự &aacute;n Golden Land tại quận&nbsp;Thanh Xu&acirc;n - H&agrave; Nội, dự&nbsp;&aacute;n Kenton Node tại huyện Nh&agrave; B&egrave; - Th&agrave;nh phố Hồ Ch&iacute; Minh, dự &aacute;n Lideco Hạ Long tại th&agrave;nh phố Hạ Long - Quảng Ninh, dự &aacute;n Chung cư CT1 Gamuda Garden tại quận Ho&agrave;ng Mai - H&agrave; Nội. Ng&agrave;y 03/10/2018, PHC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.06932409,
+  "volume": 1215804,
+  "high_52w": 6170,
+  "low_52w": 4360,
+  "pe": 43.9257854119,
+  "pb": 0.4968070263,
+  "roe": 0.0113537272,
+  "roa": 0.0022724215,
+  "eps": 33.731224308026015,
+  "revenue": 327158657654,
+  "net_profit": 1709563448,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Quang Vinh",
+      "shareholder_percent": 0.2121216601
+    },
+    {
+      "shareholder_name": "Cao Tùng Lâm",
+      "shareholder_percent": 0.1166489
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ Ngân hàng TMCP Đại chúng Việt nam",
+      "shareholder_percent": 0.1005486574
+    },
+    {
+      "shareholder_name": "Lương Hoài Thu",
+      "shareholder_percent": 0.0695607529
+    },
+    {
+      "shareholder_name": "Lưu Quang Hưng",
+      "shareholder_percent": 0.0695593755
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội",
+      "shareholder_percent": 0.0488287132
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Bảo Việt",
+      "shareholder_percent": 0.0442871132
+    },
+    {
+      "shareholder_name": "Vũ Xuân Quyết",
+      "shareholder_percent": 0.0349
+    },
+    {
+      "shareholder_name": "Bùi Thị Vân Anh",
+      "shareholder_percent": 0.0292
+    },
+    {
+      "shareholder_name": "Nguyễn Công Khanh",
+      "shareholder_percent": 0.0288823
+    },
+    {
+      "shareholder_name": "Trần Huy Tưởng",
+      "shareholder_percent": 0.018436
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thắng",
+      "shareholder_percent": 0.0170159
+    },
+    {
+      "shareholder_name": "Trần Hồng Phúc",
+      "shareholder_percent": 0.0133412
+    },
+    {
+      "shareholder_name": "Đỗ Doãn Ngọc Ly",
+      "shareholder_percent": 0.0104
+    },
+    {
+      "shareholder_name": "Đỗ Nguyên An",
+      "shareholder_percent": 0.0091349
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lan Hương",
+      "shareholder_percent": 0.0066
+    },
+    {
+      "shareholder_name": "NGUYỄN THỊ LAN",
+      "shareholder_percent": 0.0066
+    },
+    {
+      "shareholder_name": "Bùi Trường Sơn",
+      "shareholder_percent": 0.005542895
+    },
+    {
+      "shareholder_name": "Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam",
+      "shareholder_percent": 0.0054844722
+    },
+    {
+      "shareholder_name": "Đỗ Việt Anh",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "NGUYỄN ĐỨC CHÍNH",
+      "shareholder_percent": 0.00475
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Tuấn",
+      "shareholder_percent": 0.0047015709
+    },
+    {
+      "shareholder_name": "Lưu Văn Lạc",
+      "shareholder_percent": 0.004695143
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc HIệp",
+      "shareholder_percent": 0.0045913779
+    },
+    {
+      "shareholder_name": "Đặng Trọng Đức",
+      "shareholder_percent": 0.0044032
+    },
+    {
+      "shareholder_name": "HOÀNG VĂN ĐÀO",
+      "shareholder_percent": 0.00427
+    },
+    {
+      "shareholder_name": "Trần Hồng Mây",
+      "shareholder_percent": 0.0039462
+    },
+    {
+      "shareholder_name": "Lê Quốc Tuấn",
+      "shareholder_percent": 0.0020836
+    },
+    {
+      "shareholder_name": "Trần Thắng Lợi",
+      "shareholder_percent": 0.0019204
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Yến",
+      "shareholder_percent": 0.0016285
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Yến",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Anh",
+      "shareholder_percent": 0.0014263
+    },
+    {
+      "shareholder_name": "Ngô Thị Minh Nguyệt",
+      "shareholder_percent": 0.001315
+    },
+    {
+      "shareholder_name": "Nguyễn Như Phi",
+      "shareholder_percent": 0.00059
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đức",
+      "shareholder_percent": 0.00048
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Minh",
+      "shareholder_percent": 0.00029596
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Hòa",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Cao Xuân Dũng",
+      "shareholder_percent": 1.3e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Cao Tùng Lâm",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1166489
+    },
+    {
+      "officer_name": "Nguyễn Công Khanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0288823
+    },
+    {
+      "officer_name": "Trần Huy Tưởng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.018436
+    },
+    {
+      "officer_name": "Nguyễn Đức Thắng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0170159
+    },
+    {
+      "officer_name": "Trần Hồng Phúc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0133412
+    },
+    {
+      "officer_name": "Đỗ Nguyên An",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0091349
+    },
+    {
+      "officer_name": "NGUYỄN THỊ LAN",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0066
+    },
+    {
+      "officer_name": "Đặng Trọng Đức",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0044032
+    },
+    {
+      "officer_name": "Lê Quốc Tuấn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0020836
+    },
+    {
+      "officer_name": "Trần Thắng Lợi",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0019204
+    },
+    {
+      "officer_name": "Ngô Thị Minh Nguyệt",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.001315
+    },
+    {
+      "officer_name": "Nguyễn Như Phi",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00059
+    },
+    {
+      "officer_name": "Cao Xuân Dũng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.3e-06
+    },
+    {
+      "officer_name": "Phạm Thị Thanh Tuyền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Điệp",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:00.964143"
+}

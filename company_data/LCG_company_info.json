@@ -1,0 +1,253 @@
+{
+  "symbol": "LCG",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2302075806000,
+  "current_price": 11800,
+  "outstanding_shares": 195091170,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Lizen (LCG) tiền th&acirc;n l&agrave; C&ocirc;ng ty X&acirc;y dựng 16&nbsp;được th&agrave;nh lập năm 2001. C&ocirc;ng ty được cổ phần h&oacute;a năm 2006. Hai lĩnh vực hoạt động kinh doanh ch&iacute;nh l&agrave; x&acirc;y dựng c&ocirc;ng tr&igrave;nh v&agrave; kinh doanh bất động sản. Hoạt động x&acirc;y dựng c&ocirc;ng tr&igrave;nh đ&oacute;ng vai tr&ograve; chủ yếu trong những năm gần đ&acirc;y trong khi doanh thu từ hoạt động đầu tư bất động sản giảm dần.&nbsp;L&agrave; doanh nghiệp c&oacute; kinh nghiệm l&acirc;u năm trong hoạt động x&acirc;y dựng đặc biệt l&agrave; x&acirc;y dựng khu c&ocirc;ng nghiệp, c&ocirc;ng tr&igrave;nh thủy điện, đường d&acirc;y tải điện. C&ocirc;ng ty c&oacute; lợi thế l&agrave; sở hữu xưởng b&ecirc; t&ocirc;ng đầm lăn (RCC) c&oacute; c&ocirc;ng nghệ hiện đại nhất Việt Nam nhập khẩu từ Ch&acirc;u &Acirc;u v&agrave; Mỹ.. B&ecirc;n cạnh đ&oacute;, c&ocirc;ng ty sở hữu khoảng 300 ha đất tại huyện Nhơn Trạch, tỉnh Đồng Nai l&agrave; khu vực trọng điểm trong quy hoạch ph&aacute;t triển kinh tế Đồng Nai v&agrave; cả khu vực ph&iacute;a Nam. Một số c&aacute;c dự &aacute;n lớn nhỏ m&agrave; c&ocirc;ng ty đ&atilde; x&acirc;y dựng như: Nhiệt điện Vĩnh T&acirc;n 4, Cầu Thạch H&atilde;n Quảng Trị, Bệnh viện II L&acirc;m Đồng, Thủy điện Bản Ch&aacute;t - Lai Ch&acirc;u... Ng&agrave;y 18/11/2008, LCG ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh Phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -250,
+  "percent_price_change": -0.02074689,
+  "volume": 6149086,
+  "high_52w": 12350,
+  "low_52w": 7990,
+  "pe": 19.9326101314,
+  "pb": 0.8764574375,
+  "roe": 0.0446087851,
+  "roa": 0.0193848331,
+  "eps": 159.71224940912782,
+  "revenue": 731860493204,
+  "net_profit": 30838971119,
+  "dividend": 0.0593220339,
+  "shareholders": [
+    {
+      "shareholder_name": "NS Advisory Inc Pte. Ltd",
+      "shareholder_percent": 0.0609
+    },
+    {
+      "shareholder_name": "Asean Small Cap Fund",
+      "shareholder_percent": 0.056083311
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Nghĩa",
+      "shareholder_percent": 0.0501
+    },
+    {
+      "shareholder_name": "Lucerne Enterprise Ltd",
+      "shareholder_percent": 0.0497
+    },
+    {
+      "shareholder_name": "Red River Holding",
+      "shareholder_percent": 0.0367831031
+    },
+    {
+      "shareholder_name": "Mekong Holdings Inc",
+      "shareholder_percent": 0.0367213326
+    },
+    {
+      "shareholder_name": "Bùi Dương Hùng",
+      "shareholder_percent": 0.0297
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Tiên Phong",
+      "shareholder_percent": 0.0141704999
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.0140304998
+    },
+    {
+      "shareholder_name": "Trương Anh Hùng",
+      "shareholder_percent": 0.0093870634
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SBS",
+      "shareholder_percent": 0.0085962016
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đại chúng Việt Nam",
+      "shareholder_percent": 0.0071167778
+    },
+    {
+      "shareholder_name": "Đinh Thị Hiền",
+      "shareholder_percent": 0.0071
+    },
+    {
+      "shareholder_name": "Tăng Quốc Thuộc",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "Hoàng Minh Khai",
+      "shareholder_percent": 0.0055
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Việt",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Lê Thị Phương Nam",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Cao Ngọc Phương",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Phí Ngọc Anh",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Lê Văn Nga",
+      "shareholder_percent": 0.0005930783
+    },
+    {
+      "shareholder_name": "Phạm Xuân Diện",
+      "shareholder_percent": 0.0005827832
+    },
+    {
+      "shareholder_name": "Budiman Satrio Sudono Liem",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Lê Vũ Nam",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Hoàng Chí Phúc",
+      "shareholder_percent": 0.0003670444
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Bành Văn Anh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trịnh Thế Dũng",
+      "shareholder_percent": 0.0002950834
+    },
+    {
+      "shareholder_name": "Nguyễn Dương Hoàng Anh Khoa",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Bảo",
+      "shareholder_percent": 0.0001868861
+    },
+    {
+      "shareholder_name": "Bùi Đông Hoàn",
+      "shareholder_percent": 0.0001606565
+    },
+    {
+      "shareholder_name": "Đoàn Thuận Chí",
+      "shareholder_percent": 0.0001180333
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tú",
+      "shareholder_percent": 0.000118
+    },
+    {
+      "shareholder_name": "Đỗ Văn Hưởng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Ban chấp hành công đoàn Công ty cổ phần Licogi 16",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trần Đình Tuấn",
+      "shareholder_percent": 7.0361e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn H",
+      "shareholder_percent": 6.5574e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Minh Hiền",
+      "shareholder_percent": 3.93444e-05
+    },
+    {
+      "shareholder_name": "Vũ Công Hưng",
+      "shareholder_percent": 9.18e-08
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Licogi 16.6",
+      "shareholder_percent": 2.62e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Nghĩa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0501
+    },
+    {
+      "officer_name": "Bùi Dương Hùng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0297
+    },
+    {
+      "officer_name": "Đinh Thị Hiền",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.0071
+    },
+    {
+      "officer_name": "Tăng Quốc Thuộc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0063
+    },
+    {
+      "officer_name": "Hoàng Minh Khai",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0055
+    },
+    {
+      "officer_name": "Nguyễn Văn Việt",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0026
+    },
+    {
+      "officer_name": "Lê Thị Phương Nam",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0025
+    },
+    {
+      "officer_name": "Cao Ngọc Phương",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Phó Tổng Giám đốc",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "Budiman Satrio Sudono Liem",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Phan Ngọc Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-07
+    },
+    {
+      "officer_name": "Nguyễn Minh Khang",
+      "officer_position": "Thành viên Hội đồng Quản trị/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Trung Vũ",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hữu Phong",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:09:20.267790"
+}

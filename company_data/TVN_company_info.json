@@ -1,0 +1,161 @@
+{
+  "symbol": "TVN",
+  "exchange": "UPCOM",
+  "industry": "Kim loại",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 6034200000000,
+  "current_price": 8900,
+  "outstanding_shares": 678000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng c&ocirc;ng ty Th&eacute;p Việt Nam (TVN)&nbsp;được th&agrave;nh lập tr&ecirc;n cơ sở hợp nhất những đơn vị sản xuất kinh doanh của ng&agrave;nh th&eacute;p Việt Nam l&agrave; Tổng c&ocirc;ng ty Kim kh&iacute; v&agrave; Tổng c&ocirc;ng ty Th&eacute;p. Hiện VNSTEEL đang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần với 6 đơn vị trực thuộc, 13&nbsp;c&ocirc;ng ty con v&agrave; 18&nbsp;c&ocirc;ng ty li&ecirc;n kết trực tiếp. Sản phẩm ch&iacute;nh của C&ocirc;ng ty gồm ph&ocirc;i th&eacute;p, th&eacute;p x&acirc;y dựng, th&eacute;p c&aacute;n dẹt. Hiện tại c&aacute;c doanh nghiệp trong hệ thống VNSTEEL cung cấp tr&ecirc;n 50% nhu cầu th&eacute;p x&acirc;y dựng v&agrave; khoảng 30% nhu cầu th&eacute;p c&aacute;n nguội trong nước.</div>\r\n",
+  "website": null,
+  "price_change": -4,
+  "percent_price_change": -0.00045455,
+  "volume": 589261,
+  "high_52w": 10200,
+  "low_52w": 5200,
+  "pe": 14.4906867287,
+  "pb": 0.6952144989,
+  "roe": 0.0492010329,
+  "roa": 0.0162255779,
+  "eps": 377.5174259837758,
+  "revenue": 10736249235371,
+  "net_profit": 255956814817,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.9393
+    },
+    {
+      "shareholder_name": "Ministry Of Industry And Trade Of The Socialist Republic Of Vietnam",
+      "shareholder_percent": 0.9393
+    },
+    {
+      "shareholder_name": "Đinh Quốc Thái",
+      "shareholder_percent": 0.00169
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Nguyên",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Trịnh Khôi Nguyên",
+      "shareholder_percent": 0.00095
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Xuân",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Vũ Bá Ổn",
+      "shareholder_percent": 1.9e-05
+    },
+    {
+      "shareholder_name": "Đặng Thúc Kháng",
+      "shareholder_percent": 1.9e-05
+    },
+    {
+      "shareholder_name": "Nghiêm Xuân Đa",
+      "shareholder_percent": 1.76e-05
+    },
+    {
+      "shareholder_name": "Lê Văn Thanh",
+      "shareholder_percent": 1.48e-05
+    },
+    {
+      "shareholder_name": "Phạm Khiếu Thành",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Trần Tuấn Dũng",
+      "shareholder_percent": 6.1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Phúc",
+      "shareholder_percent": 5.5e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Vinh Nam",
+      "shareholder_percent": 2.9e-06
+    },
+    {
+      "shareholder_name": "Lê Anh Minh",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "NGUYỄN NGUYÊN NGỌC",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nghiêm Xuân Đa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1.76e-05
+    },
+    {
+      "officer_name": "Lê Văn Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.48e-05
+    },
+    {
+      "officer_name": "Phạm Khiếu Thành",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị",
+      "officer_percent": 7e-06
+    },
+    {
+      "officer_name": "Trần Tuấn Dũng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 6.1e-06
+    },
+    {
+      "officer_name": "Nguyễn Đình Phúc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 5.5e-06
+    },
+    {
+      "officer_name": "Lê Anh Minh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Đặng Sơn Nguyệt Thảo",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Công Thảo",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thu Hiền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hữu Hưng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Song Lai",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Phú Dương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Minh Đức",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:16:23.097531"
+}

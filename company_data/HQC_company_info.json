@@ -1,0 +1,234 @@
+{
+  "symbol": "HQC",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2340996000000,
+  "current_price": 4060,
+  "outstanding_shares": 576600000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tư vấn - Thương mại - Dịch vụ Địa ốc Ho&agrave;ng Qu&acirc;n (HQC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Tư vấn - Thương mại - Dịch vụ&nbsp;Địa ốc Ho&agrave;ng Qu&acirc;n, được th&agrave;nh lập năm 2000. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản. HQC ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2007. HQC l&agrave; đơn vị ti&ecirc;n phong trong lĩnh vực đầu tư v&agrave; ph&aacute;t triển Nh&agrave; ở x&atilde; hội, Nh&agrave; ở cho c&ocirc;ng nh&acirc;n tại Th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave; c&aacute;c tỉnh th&agrave;nh ph&iacute;a Nam. B&ecirc;n cạnh đ&oacute;,&nbsp;HQC cũng đẩy mạnh đầu tư, hợp t&aacute;c đầu tư v&agrave;o c&aacute;c ph&acirc;n kh&uacute;c bất động sản thương mại kh&aacute;c như Nh&agrave; phố thương mại KDC Thường Thạnh (Cần Thơ), Khu đ&ocirc; thị HQC Paradise City, Cao ốc Officetel Golden King (TP. HCM), Khu c&ocirc;ng nghiệp H&agrave;m Kiệm I (B&igrave;nh Thuận). HQC c&ograve;n mở rộng đầu tư v&agrave;o lĩnh vực Gi&aacute;o dục v&agrave; T&agrave;i ch&iacute;nh. HQC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010.</div>\r\n",
+  "website": null,
+  "price_change": -40,
+  "percent_price_change": -0.0097561,
+  "volume": 10347979,
+  "high_52w": 4290,
+  "low_52w": 2540,
+  "pe": 82.578162399,
+  "pb": 0.4348423421,
+  "roe": 0.0052657172,
+  "roa": 0.0028099865,
+  "eps": 8.492689926626582,
+  "revenue": 22011081171,
+  "net_profit": 4896878846,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Trương Anh Tuấn",
+      "shareholder_percent": 0.08671
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hương",
+      "shareholder_percent": 0.0836
+    },
+    {
+      "shareholder_name": "Công ty cổ phần Xây dựng và Kinh doanh Nhà Bình Thuận",
+      "shareholder_percent": 0.0519011406
+    },
+    {
+      "shareholder_name": "Cao Văn Hải",
+      "shareholder_percent": 0.0497
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0487
+    },
+    {
+      "shareholder_name": "Phan Thị Thanh Ngà",
+      "shareholder_percent": 0.0468
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc",
+      "shareholder_percent": 0.0434
+    },
+    {
+      "shareholder_name": "LÊ QUANG HÀO",
+      "shareholder_percent": 0.0427
+    },
+    {
+      "shareholder_name": "Trần Thị Ngọc Cơ",
+      "shareholder_percent": 0.0405
+    },
+    {
+      "shareholder_name": "Lê  Văn Lợi",
+      "shareholder_percent": 0.03633
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sông Đà 9.06",
+      "shareholder_percent": 0.0076041825
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Văn",
+      "shareholder_percent": 0.0058
+    },
+    {
+      "shareholder_name": "Trương Thái Sơn",
+      "shareholder_percent": 0.000992
+    },
+    {
+      "shareholder_name": "Trương Đình Thảo",
+      "shareholder_percent": 0.00075
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Như",
+      "shareholder_percent": 0.0007193155
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Kim Anh",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Trương Đức Hiếu",
+      "shareholder_percent": 0.00042
+    },
+    {
+      "shareholder_name": "Lê Trọng Ngọc",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Trọng Đắc",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Cư",
+      "shareholder_percent": 0.000190114
+    },
+    {
+      "shareholder_name": "Bùi Kế Thiện",
+      "shareholder_percent": 0.0001330798
+    },
+    {
+      "shareholder_name": "Nguyễn Hoài Thu",
+      "shareholder_percent": 0.0001330798
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương mại và Truyền thông Quốc tế Bảo Sơn",
+      "shareholder_percent": 0.000121
+    },
+    {
+      "shareholder_name": "Hồ Đình Hiếu",
+      "shareholder_percent": 7.60456e-05
+    },
+    {
+      "shareholder_name": "Trương Thị Phương Trang",
+      "shareholder_percent": 6.7e-05
+    },
+    {
+      "shareholder_name": "Đoàn Thị Bích Lan",
+      "shareholder_percent": 5.70342e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hà",
+      "shareholder_percent": 4.196e-05
+    },
+    {
+      "shareholder_name": "Đỗ Duy Kiên",
+      "shareholder_percent": 2.098e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trương Anh Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.08671
+    },
+    {
+      "officer_name": "Trương Thái Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000992
+    },
+    {
+      "officer_name": "Trương Đức Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00042
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hoài",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Toàn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Diệu Phương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lý Quang Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Nguyễn Song Vân",
+      "officer_position": "Phó Tổng Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Anh Tuấn",
+      "officer_position": "Phó Tổng Giám đốc Dự án",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Tuyển Cử",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Phượng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Hảo",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Yu Trần Đan Phượng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Phong",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Long Triều",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Bích Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Kiều Oanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:01.623472"
+}

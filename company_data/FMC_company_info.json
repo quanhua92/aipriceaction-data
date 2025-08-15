@@ -1,0 +1,217 @@
+{
+  "symbol": "FMC",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2543627782100,
+  "current_price": 38900,
+  "outstanding_shares": 65388889,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Thực phẩm Sao Ta (FMC) th&agrave;nh lập năm 1996, năm 2003 chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần, năm 2006 cổ phiếu của c&ocirc;ng ty ni&ecirc;m yết v&agrave; giao dịch tại HOSE. Hoạt động kinh doanh ch&iacute;nh l&agrave; Chế biến v&agrave; xuất khẩu c&aacute;c sản phẩm từ t&ocirc;m chiếm hơn 96 % doanh thu. C&aacute;c sản phẩm ch&iacute;nh của c&ocirc;ng ty l&agrave; T&ocirc;m tươi, T&ocirc;m Nobashi, T&ocirc;m tẩm bột, t&ocirc;m hấp trong đ&oacute; t&ocirc;m tươi chiếm tỉ trọng lớn nhất, 37,02%, sau đ&oacute; l&agrave; t&ocirc;m Nobashi 27,13%, với thị trường ti&ecirc;u thụ truyền thống l&agrave; Nhật v&agrave; Mỹ. Hiện FMC đang mở rộng v&agrave; kh&ocirc;i phục lại c&aacute;c thị trường EU, Nga v&agrave; H&agrave;n Quốc.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 300,
+  "percent_price_change": 0.00777202,
+  "volume": 275714,
+  "high_52w": 47559,
+  "low_52w": 30696,
+  "pe": 8.4851163103,
+  "pb": 1.2147294283,
+  "roe": 0.1413232538,
+  "roa": 0.0737527021,
+  "eps": 1230.1907723650115,
+  "revenue": 1876445448927,
+  "net_profit": 80440807863,
+  "dividend": 0.0514138817,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn PAN",
+      "shareholder_percent": 0.3775
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chăn Nuôi C.p. Việt Nam",
+      "shareholder_percent": 0.249
+    },
+    {
+      "shareholder_name": "Ngô Văn Nghiệp",
+      "shareholder_percent": 0.21
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre",
+      "shareholder_percent": 0.1237
+    },
+    {
+      "shareholder_name": "Andbanc Investments Sif-Vietnam Value And Income Portfolio",
+      "shareholder_percent": 0.0359
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Tư vấn đầu tư An Khánh",
+      "shareholder_percent": 0.028174
+    },
+    {
+      "shareholder_name": "Văn phòng Thành ủy Sóc Trăng",
+      "shareholder_percent": 0.0253
+    },
+    {
+      "shareholder_name": "Văn Anh Kiệt",
+      "shareholder_percent": 0.02187625
+    },
+    {
+      "shareholder_name": "Trần Văn Tuấn",
+      "shareholder_percent": 0.0163085
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.014756
+    },
+    {
+      "shareholder_name": "Quách Hoàng Phong",
+      "shareholder_percent": 0.0104515
+    },
+    {
+      "shareholder_name": "Hồ Quốc Lực",
+      "shareholder_percent": 0.01
+    },
+    {
+      "shareholder_name": "Đoàn Thị Hồng Thúy",
+      "shareholder_percent": 0.0072
+    },
+    {
+      "shareholder_name": "Ban Chấp Hành Công Đoàn Cơ Sở Ctcp Thực Phẩm Sao Ta",
+      "shareholder_percent": 0.0069
+    },
+    {
+      "shareholder_name": "Phạm Hoàng Việt",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Đinh Văn Thới",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Công ty TNHH Ndh Việt Nam",
+      "shareholder_percent": 0.0014125
+    },
+    {
+      "shareholder_name": "Mã Ích Hưng",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "HÀ VIỆT THẮNG",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Hà Việt Thắng",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Trà My",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Triệu Mai Lan",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Trần Ngọc Hiệp",
+      "shareholder_percent": 0.00075
+    },
+    {
+      "shareholder_name": "Huỳnh Thanh Sử",
+      "shareholder_percent": 0.000575
+    },
+    {
+      "shareholder_name": "Lữ Thanh Phú",
+      "shareholder_percent": 0.000445
+    },
+    {
+      "shareholder_name": "Huỳnh Quốc Minh",
+      "shareholder_percent": 0.000253
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tùng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Tô Minh Chẳng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Ngô Kiều Phương",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Như Diễm Quỳnh",
+      "shareholder_percent": 6e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hồ Quốc Lực",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0109
+    },
+    {
+      "officer_name": "Phạm Hoàng Việt",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0047
+    },
+    {
+      "officer_name": "Đinh Văn Thới",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0022
+    },
+    {
+      "officer_name": "Mã Ích Hưng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Nguyễn Thị Trà My",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Tô Minh Chẳng",
+      "officer_position": "Kế toán trưởng/Người phụ trách quản trị công ty/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Dương Ngọc Kim",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lưu Nguyễn Trúc Dung",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Văn Sỉ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Khải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thanh Vũ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lý Thái Hưng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Ngọc Hương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:06:31.724784"
+}

@@ -1,0 +1,233 @@
+{
+  "symbol": "PTB",
+  "exchange": "HOSE",
+  "industry": "Lâm nghiệp và Giấy",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3701693685900,
+  "current_price": 55300,
+  "outstanding_shares": 66938403,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&uacute; T&agrave;i&nbsp; (PTB) c&oacute; tiền th&acirc;n l&agrave; một doanh nghiệp nh&agrave; nước trực thuộc Qu&acirc;n&nbsp;khu 5 - Bộ Quốc Ph&ograve;ng&nbsp;được&nbsp;chuyển đổi th&agrave;nh&nbsp;c&ocirc;ng ty cổ phần từ năm 2004. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực khai th&aacute;c, chế biến, kinh doanh xuất khẩu sản phẩm gỗ, vật liệu đ&aacute; x&acirc;y dựng, ti&ecirc;u thụ sản phẩm xe &ocirc; t&ocirc; Toyota v&agrave; cung cấp c&aacute;c dịch vụ sửa chữa xe &ocirc; t&ocirc; Toyota. PTB c&oacute; năng lực sản xuất đ&aacute; ốp l&aacute;t với c&ocirc;ng suất hơn 4,3 triệu m2/năm, chế biến gỗ với c&ocirc;ng suất hơn 20.000 m3/năm. B&ecirc;n cạnh&nbsp;đ&oacute;, C&ocirc;ng ty cung cấp dịch vụ sửa chữa xe Toyota với c&ocirc;ng suất 36.000 lượt xe/năm v&agrave;&nbsp;ti&ecirc;u thụ 2.000 chiếc/năm. Thị phần của C&ocirc;ng ty về sản phẩm đ&aacute; hiện nay bao gồm những tỉnh th&agrave;nh sau: H&agrave; Nội, Hải Ph&ograve;ng, Vinh, Đ&agrave; Nẵng, B&igrave;nh Định, B&igrave;nh Dương, Tp HCM, Cần Thơ... Sản phẩm gỗ xuất khẩu sang c&aacute;c nước Ch&acirc;u &Acirc;u, Ch&acirc;u Mỹ.</div>\r\n",
+  "website": null,
+  "price_change": 600,
+  "percent_price_change": 0.01096892,
+  "volume": 495336,
+  "high_52w": 65898,
+  "low_52w": 43462,
+  "pe": 9.0219414273,
+  "pb": 1.2506599938,
+  "roe": 0.1410878445,
+  "roa": 0.0754673384,
+  "eps": 1915.7827982242122,
+  "revenue": 1904632680204,
+  "net_profit": 128239441008,
+  "dividend": 0.0361663653,
+  "shareholders": [
+    {
+      "shareholder_name": "Lê  Vỹ",
+      "shareholder_percent": 0.13249999
+    },
+    {
+      "shareholder_name": "Lê Văn Thảo",
+      "shareholder_percent": 0.0869
+    },
+    {
+      "shareholder_name": "Nguyễn Sỹ Hòe",
+      "shareholder_percent": 0.0626
+    },
+    {
+      "shareholder_name": "Lê Văn Lộc",
+      "shareholder_percent": 0.0615
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Tâm",
+      "shareholder_percent": 0.0487
+    },
+    {
+      "shareholder_name": "Trần Thanh Cung",
+      "shareholder_percent": 0.043
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.039949
+    },
+    {
+      "shareholder_name": "Võ Thị Hoài Châu",
+      "shareholder_percent": 0.027
+    },
+    {
+      "shareholder_name": "Phan Quốc Hoài",
+      "shareholder_percent": 0.014
+    },
+    {
+      "shareholder_name": "Trương Huy Danh",
+      "shareholder_percent": 0.0088741926
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thắng",
+      "shareholder_percent": 0.0084
+    },
+    {
+      "shareholder_name": "Đỗ Xuân Lập",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.0049
+    },
+    {
+      "shareholder_name": "Văn Thị Vinh",
+      "shareholder_percent": 0.004
+    },
+    {
+      "shareholder_name": "LÊ ANH VĂN",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Lê Anh Văn",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Bùi Thức Hùng",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.002285
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.001494
+    },
+    {
+      "shareholder_name": "Trần Hữu Đức",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Đậu Văn Tâm",
+      "shareholder_percent": 0.0010714806
+    },
+    {
+      "shareholder_name": "Lê Thục Trinh",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Lê Văn Luận",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Lê Thị Kim Sang",
+      "shareholder_percent": 0.000747
+    },
+    {
+      "shareholder_name": "Bùi Thị Kim Yến",
+      "shareholder_percent": 0.000621
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 0.0005210688
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mỹ Loan",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Đặng Thị Tú Oanh",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Hạnh",
+      "shareholder_percent": 7.2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lan",
+      "shareholder_percent": 2.7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Minh Phụng",
+      "shareholder_percent": 5.25e-06
+    },
+    {
+      "shareholder_name": "Trần Thế Triều",
+      "shareholder_percent": 1.61e-06
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán MB",
+      "shareholder_percent": 6.249e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê  Vỹ",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.13249999
+    },
+    {
+      "officer_name": "Lê Văn Thảo",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0869
+    },
+    {
+      "officer_name": "Nguyễn Sỹ Hòe",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc/Giám đốc Xí nghiệp",
+      "officer_percent": 0.0626
+    },
+    {
+      "officer_name": "Lê Văn Lộc",
+      "officer_position": "Giám đốc Chi nhánh/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0615
+    },
+    {
+      "officer_name": "Trần Thanh Cung",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.043
+    },
+    {
+      "officer_name": "Phan Quốc Hoài",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0.014
+    },
+    {
+      "officer_name": "Đỗ Xuân Lập",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.005
+    },
+    {
+      "officer_name": "Bùi Thức Hùng",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.0024
+    },
+    {
+      "officer_name": "Trần Hữu Đức",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0013
+    },
+    {
+      "officer_name": "Nguyễn Thị Mỹ Loan",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Đặng Thị Tú Oanh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.00018
+    },
+    {
+      "officer_name": "Trương Công Hoàng",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Thị Huệ",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:34.324436"
+}

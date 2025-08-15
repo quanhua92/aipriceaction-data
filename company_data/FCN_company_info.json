@@ -1,0 +1,332 @@
+{
+  "symbol": "FCN",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2865389891000,
+  "current_price": 18200,
+  "outstanding_shares": 157439005,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần FECON (FECON)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Kỹ thuật nền m&oacute;ng v&agrave; C&ocirc;ng tr&igrave;nh ngầm FECON được th&agrave;nh lập v&agrave;o&nbsp;năm 2004. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;thi c&ocirc;ng x&acirc;y dựng nền m&oacute;ng v&agrave; c&ocirc;ng tr&igrave;nh ngầm phục vụ x&acirc;y dựng nh&agrave; cao tầng, c&ocirc;ng tr&igrave;nh c&ocirc;ng nghiệp, c&ocirc;ng tr&igrave;nh giao th&ocirc;ng, c&ocirc;ng tr&igrave;nh thủy lợi, thi c&ocirc;ng hạ tầng kỹ thuật khu c&ocirc;ng nghiệp v&agrave; đ&ocirc; thị.&nbsp;FECON được ghi nhận l&agrave; nh&agrave; thầu chuy&ecirc;n nghiệp h&agrave;ng đầu Việt Nam về kỹ thuật nền m&oacute;ng c&ocirc;ng tr&igrave;nh, với h&agrave;ng loạt c&ocirc;ng&nbsp;nghệ sản xuất, thi c&ocirc;ng mang t&iacute;nh đột ph&aacute; v&agrave; hiệu quả cao. FECON&nbsp;đ&atilde; tham gia tại hơn 500 dự &aacute;n triển khai tr&ecirc;n to&agrave;n quốc, trong đ&oacute; c&oacute; nhiều dự &aacute;n FDI lớn v&agrave; trọng điểm quốc gia&nbsp;như: Nh&agrave; m&aacute;y gang th&eacute;p Formosa (H&agrave; Tĩnh), Tổ hợp khu c&ocirc;ng nghệ cao Samsung (Th&aacute;i Nguy&ecirc;n), Nh&agrave; m&aacute;y sản xuất, lắp r&aacute;p sản phẩm điển tử c&ocirc;ng nghệ cao LG (Hải Ph&ograve;ng), Nh&agrave; m&aacute;y lọc h&oacute;a dầu Nghi Sơn...với tư c&aacute;ch l&agrave; nh&agrave; thầu chủ đạo c&aacute;c hạng mục nền m&oacute;ng. FECON ch&iacute;nh thức ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n s&agrave;n giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)&nbsp;từ th&aacute;ng 7 năm 2012.</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 4052467,
+  "high_52w": 19300,
+  "low_52w": 11050,
+  "pe": 142.3432386347,
+  "pb": 1.1406919642,
+  "roe": 0.0080367543,
+  "roa": 0.0020632354,
+  "eps": 137.71162954186607,
+  "revenue": 1326314982713,
+  "net_profit": 21681181932,
+  "dividend": 0.0274725275,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Raito Kogyo",
+      "shareholder_percent": 0.2551
+    },
+    {
+      "shareholder_name": "Evli Emerging Frontier Fund",
+      "shareholder_percent": 0.0493
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ HD",
+      "shareholder_percent": 0.0492
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.042
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0392
+    },
+    {
+      "shareholder_name": "Phạm Việt Khoa",
+      "shareholder_percent": 0.031759
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán MB",
+      "shareholder_percent": 0.0257197418
+    },
+    {
+      "shareholder_name": "Lumen Vietnam Fund",
+      "shareholder_percent": 0.022093109
+    },
+    {
+      "shareholder_name": "Intereffekt Investment Funds N.V",
+      "shareholder_percent": 0.0196838106
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 0.0186
+    },
+    {
+      "shareholder_name": "Lotus - Mekong River Equity Fund",
+      "shareholder_percent": 0.0179120927
+    },
+    {
+      "shareholder_name": "Công ty Tài chính Cổ phần Điện Lực",
+      "shareholder_percent": 0.0114601332
+    },
+    {
+      "shareholder_name": "Hà Thế Phương",
+      "shareholder_percent": 0.00887
+    },
+    {
+      "shareholder_name": "Nguyễn Chí Công",
+      "shareholder_percent": 0.00825
+    },
+    {
+      "shareholder_name": "Trần Trọng Thắng",
+      "shareholder_percent": 0.003298
+    },
+    {
+      "shareholder_name": "Bùi Thanh Tùng",
+      "shareholder_percent": 0.00268
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Hải",
+      "shareholder_percent": 0.00267
+    },
+    {
+      "shareholder_name": "Phạm Quốc Hùng",
+      "shareholder_percent": 0.0021
+    },
+    {
+      "shareholder_name": "Hà Thị Hương",
+      "shareholder_percent": 0.00152
+    },
+    {
+      "shareholder_name": "Phùng Tiến Trung",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Hà Thế Lộng",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "NGUYỄN VĂN THANH",
+      "shareholder_percent": 0.00136
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tuấn",
+      "shareholder_percent": 0.00089
+    },
+    {
+      "shareholder_name": "Đỗ Trần Nam",
+      "shareholder_percent": 0.000874836
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Luyện",
+      "shareholder_percent": 0.00044
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Long",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Muôn Văn Chiến",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Hà Thị Giang",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Phạm Hồng",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Đỗ Mạnh Cường",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trương Tuấn Tú",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trần Phương",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Minh Hoa",
+      "shareholder_percent": 5.46e-05
+    },
+    {
+      "shareholder_name": "Lê Việt Hà",
+      "shareholder_percent": 4.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Ánh Tuyết",
+      "shareholder_percent": 4.45e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Song Thanh",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Hà",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Trần Công Tráng",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Phùng Nguyệt Hà",
+      "shareholder_percent": 7e-07
+    },
+    {
+      "shareholder_name": "Phạm Minh Huệ",
+      "shareholder_percent": 5e-07
+    },
+    {
+      "shareholder_name": "Phạm Trung Thành",
+      "shareholder_percent": 2e-07
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng Nhung",
+      "shareholder_percent": 1.4e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Liễu",
+      "shareholder_percent": 8e-08
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Sắc",
+      "shareholder_percent": 3e-08
+    },
+    {
+      "shareholder_name": "Phạm Thành Trung",
+      "shareholder_percent": 3e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Việt Khoa",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.031759
+    },
+    {
+      "officer_name": "Hà Thế Phương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00887
+    },
+    {
+      "officer_name": "Trần Trọng Thắng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.003298
+    },
+    {
+      "officer_name": "Phạm Quốc Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0021
+    },
+    {
+      "officer_name": "Phùng Tiến Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Hà Thế Lộng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Long",
+      "officer_position": "Giám đốc đầu tư",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Muôn Văn Chiến",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Đỗ Mạnh Cường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Trần Phương",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 8e-05
+    },
+    {
+      "officer_name": "Nguyễn Song Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 9e-06
+    },
+    {
+      "officer_name": "Trần Công Tráng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Phạm Trung Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 2e-07
+    },
+    {
+      "officer_name": "Phạm Thị Hồng Nhung",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 1.4e-07
+    },
+    {
+      "officer_name": "Satoyuki Yamane",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hữu Thái Hòa",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tiến Thành",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Lam Trà",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Bảo",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Công Thành",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "TẠ CÔNG THANH VINH",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Nghiên",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quang Hanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:06:18.551401"
+}

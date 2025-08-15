@@ -1,0 +1,229 @@
+{
+  "symbol": "BMI",
+  "exchange": "HOSE",
+  "industry": "Bảo hiểm phi nhân thọ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2957934841400,
+  "current_price": 22300,
+  "outstanding_shares": 132642818,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Bảo Minh (BMI) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Bảo hiểm Th&agrave;nh phố Hồ Ch&iacute; Minh&nbsp;được th&agrave;nh lập&nbsp;th&agrave;nh lập bởi Bộ T&agrave;i ch&iacute;nh v&agrave;o năm 1994.&nbsp;Tổng C&ocirc;ng ty&nbsp;hoạt động ch&iacute;nh trong lĩnh vực bảo hiểm phi nh&acirc;n thọ v&agrave; đầu tư t&agrave;i ch&iacute;nh. BMI ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2004. C&aacute;c nh&oacute;m nghiệp vụ bảo hiểm ch&iacute;nh của Bảo Minh gồm: bảo hiểm xe cơ giới, bảo hiểm con người, bảo hiểm t&agrave;i sản kỹ thuật, bảo hiểm h&agrave;ng hải v&agrave; bảo hiểm h&agrave;ng kh&ocirc;ng. BMI hiện c&oacute; 1 trung t&acirc;m đ&agrave;o tạo, 2 trung t&acirc;m bồi thường&nbsp;v&agrave; 65 đơn vị th&agrave;nh vi&ecirc;n&nbsp;trải d&agrave;i cả nước. BMI được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2008.<!--?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p></p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.00888889,
+  "volume": 943132,
+  "high_52w": 23098,
+  "low_52w": 16857,
+  "pe": 12.4015802125,
+  "pb": 1.0456482402,
+  "roe": 0.0850224685,
+  "roa": 0.0308951218,
+  "eps": 612.1464012020613,
+  "revenue": 1724987871897,
+  "net_profit": 81196823684,
+  "dividend": 0.0448430493,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.507
+    },
+    {
+      "shareholder_name": "Axa Sa - Pháp",
+      "shareholder_percent": 0.1665
+    },
+    {
+      "shareholder_name": "Halley Sicav - Halley Asian Prosperity",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Công ty TNHH Firstland",
+      "shareholder_percent": 0.049897
+    },
+    {
+      "shareholder_name": "Tổng Công ty Sông Đà",
+      "shareholder_percent": 0.01850132
+    },
+    {
+      "shareholder_name": "Tập đoàn Hóa chất Việt Nam",
+      "shareholder_percent": 0.01609536
+    },
+    {
+      "shareholder_name": "TỔNG CÔNG TY THUỐC LÁ VIỆT NAM - CÔNG TY TNHH MỘT THÀNH VIÊN",
+      "shareholder_percent": 0.01609536
+    },
+    {
+      "shareholder_name": "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam",
+      "shareholder_percent": 0.01260371
+    },
+    {
+      "shareholder_name": "Tổng Công ty Vật Tư Nông Nghiệp - Công ty Cổ phần",
+      "shareholder_percent": 0.00804768
+    },
+    {
+      "shareholder_name": "Tổng Công ty Thành An (Công ty TNHH MTV)",
+      "shareholder_percent": 0.00574834
+    },
+    {
+      "shareholder_name": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+      "shareholder_percent": 0.00265762
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Đầu Tư SCIC",
+      "shareholder_percent": 0.00083
+    },
+    {
+      "shareholder_name": "Trần Vĩnh Đức",
+      "shareholder_percent": 0.0002329921
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Năng",
+      "shareholder_percent": 0.00019
+    },
+    {
+      "shareholder_name": "Mai Hữu Thọ",
+      "shareholder_percent": 9.36785e-05
+    },
+    {
+      "shareholder_name": "Huỳnh Văn Thông",
+      "shareholder_percent": 9.36785e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Khinh",
+      "shareholder_percent": 9.36785e-05
+    },
+    {
+      "shareholder_name": "Trần Văn Tôn",
+      "shareholder_percent": 9.36785e-05
+    },
+    {
+      "shareholder_name": "Phan Văn Tạo",
+      "shareholder_percent": 8.32028e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Khang",
+      "shareholder_percent": 8.32028e-05
+    },
+    {
+      "shareholder_name": "Châu Quang Linh",
+      "shareholder_percent": 8.01e-05
+    },
+    {
+      "shareholder_name": "Trịnh Thị Xuân Dung",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Vũ Anh Tuấn",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Sái Văn Hưng",
+      "shareholder_percent": 5.8e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Phú Thủy",
+      "shareholder_percent": 1.25e-06
+    },
+    {
+      "shareholder_name": "Lê Song Lai",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Lê Văn Thành",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Phạm Minh Tuân",
+      "shareholder_percent": 2e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thế Năng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00019
+    },
+    {
+      "officer_name": "Châu Quang Linh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 8.01e-05
+    },
+    {
+      "officer_name": "Vũ Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Sái Văn Hưng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 5.8e-06
+    },
+    {
+      "officer_name": "Phạm Minh Tuân",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 2e-07
+    },
+    {
+      "officer_name": "Lê Việt Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Minh Tuyết",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Tá",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Việt Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Hồng Phương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thị Thu Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Tiến Dũng",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nicolas De Nazelle",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh  Việt Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Callard Stumpf Céline",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kwok Wing Tam",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Yau Chung Hung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:01:33.837772"
+}

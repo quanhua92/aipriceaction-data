@@ -1,0 +1,196 @@
+{
+  "symbol": "SGR",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2225518750000,
+  "current_price": 31850,
+  "outstanding_shares": 69875000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tổng C&ocirc;ng ty Cổ phần Địa ốc S&agrave;i G&ograve;n (SGR), được th&agrave;nh lập năm 2000 tr&ecirc;n cơ sở cổ phần h&oacute;a C&ocirc;ng ty X&acirc;y dựng Kinh doanh nh&agrave; Gia Định, hoạt động trong lĩnh vực bất động sản. Năm 1999, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. C&aacute;c mảng hoạt động kinh doanh ch&iacute;nh của c&ocirc;ng ty l&agrave; (i) đầu tư v&agrave; kinh doanh bất động sản, (ii) m&ocirc;i giới bất động sản v&agrave; (iii) g&oacute;p vốn đầu tư, li&ecirc;n doanh li&ecirc;n kết. Với&nbsp;hơn 30 năm h&igrave;nh th&agrave;nh v&agrave; li&ecirc;n tục ph&aacute;t triển, SGR đ&atilde; đầu tư, x&acirc;y dựng nhiều c&ocirc;ng tr&igrave;nh với quy m&ocirc; lớn đ&aacute;p ứng nhu cầu về nh&agrave; ở của x&atilde; hội. C&ocirc;ng ty đ&atilde; khẳng định vị thế của m&igrave;nh bởi tr&igrave;nh độ c&ocirc;ng nghệ v&agrave; chất lượng c&ocirc;ng tr&igrave;nh th&ocirc;ng qua c&aacute;c dự &aacute;n ti&ecirc;u biểu như Cao ốc An Lạc, Saigonres Tower, Cao ốc An B&igrave;nh, Saigonres Plaza. Ng&agrave;y 15/01/2018, SGR ch&iacute;nh thức&nbsp;giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -350,
+  "percent_price_change": -0.01086957,
+  "volume": 239463,
+  "high_52w": 49450,
+  "low_52w": 23200,
+  "pe": 11.216843266,
+  "pb": 1.5898328168,
+  "roe": 0.1654289904,
+  "roa": 0.0752877888,
+  "eps": 700.1433283946564,
+  "revenue": 138750537320,
+  "net_profit": 48922507370,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Phạm  Thu",
+      "shareholder_percent": 0.2982
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Cơ điện Lạnh",
+      "shareholder_percent": 0.2886511
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bất Động Sản Ree",
+      "shareholder_percent": 0.2479
+    },
+    {
+      "shareholder_name": "Phạm Đình Thành",
+      "shareholder_percent": 0.053183
+    },
+    {
+      "shareholder_name": "Đỗ Thị Kim Thúy",
+      "shareholder_percent": 0.0529
+    },
+    {
+      "shareholder_name": "Trần Thị Ga",
+      "shareholder_percent": 0.036068
+    },
+    {
+      "shareholder_name": "Đặng Văn Phúc",
+      "shareholder_percent": 0.013784
+    },
+    {
+      "shareholder_name": "Trần Quí Thanh",
+      "shareholder_percent": 0.0120828787
+    },
+    {
+      "shareholder_name": "Đỗ Thị Trang",
+      "shareholder_percent": 0.0118177272
+    },
+    {
+      "shareholder_name": "Trần Thị Tuyết Mai",
+      "shareholder_percent": 0.0113637
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Phát",
+      "shareholder_percent": 0.001224
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hương",
+      "shareholder_percent": 0.0007918181
+    },
+    {
+      "shareholder_name": "Phạm Thao",
+      "shareholder_percent": 0.0003487
+    },
+    {
+      "shareholder_name": "Lương Hồng Thế Huân",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Thái Quốc Dương",
+      "shareholder_percent": 0.000186
+    },
+    {
+      "shareholder_name": "Trần Ngọc Mỹ Trang",
+      "shareholder_percent": 0.000186
+    },
+    {
+      "shareholder_name": "Trần Thị Hiên",
+      "shareholder_percent": 0.000121
+    },
+    {
+      "shareholder_name": "Đinh Thị Nguyệt",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Trần Văn Chường",
+      "shareholder_percent": 7.2e-05
+    },
+    {
+      "shareholder_name": "Trần Hữu Đức",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Lê Xuân Khương",
+      "shareholder_percent": 4e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm  Thu",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.2982
+    },
+    {
+      "officer_name": "Phạm Tuấn",
+      "officer_position": "Giám đốc khối/Giám đốc đầu tư/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.058692
+    },
+    {
+      "officer_name": "Phạm Đình Thành",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.053183
+    },
+    {
+      "officer_name": "Trần Thị Ga",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.036068
+    },
+    {
+      "officer_name": "Đặng Văn Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.013784
+    },
+    {
+      "officer_name": "Thái Quốc Dương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.000186
+    },
+    {
+      "officer_name": "Lê Xuân Khương",
+      "officer_position": "Giám đốc khối",
+      "officer_percent": 4e-07
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Oanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trọng Giáp",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kiều Minh Long",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Võ Thăng Long",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Thanh Hải",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Quý",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Khoa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Bích Đào",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:00.064528"
+}

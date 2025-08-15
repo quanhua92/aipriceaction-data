@@ -1,0 +1,171 @@
+{
+  "symbol": "HTN",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1238718112900,
+  "current_price": 13900,
+  "outstanding_shares": 89116411,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Hưng Thịnh Incons (HTN) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thiết kế - X&acirc;y dựng Hưng Thịnh được th&agrave;nh lập v&agrave;o năm 2007.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực thiết kế v&agrave; x&acirc;y dựng c&ocirc;ng tr&igrave;nh,&nbsp;cung ứng vật tư, thiết bị x&acirc;y dựng. HTN ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2010. Với năng lực của m&igrave;nh, Hưng Thịnh Incons thường tham gia v&agrave;o c&aacute;c dự &aacute;n x&acirc;y dựng c&oacute; quy m&ocirc; lớn với vai tr&ograve; tổng thầu. Một số c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu C&ocirc;ng ty đ&atilde; tham gia thực hiện như C&ocirc;ng tr&igrave;nh Thi&ecirc;n Nam Apartment - Quận 10 - Th&agrave;nh phố Hồ Ch&iacute; Minh, Căn hộ 27 Trường Chinh - Phường T&acirc;n Thới Nhất - Quận 12 - Th&agrave;nh phố Hồ Ch&iacute; Minh, Chung cư cao tầng tại 91 Phạm Văn Hai, Căn hộ 8X Plus - Trường Ch&iacute;nh - Quận 12 - Th&agrave;nh phố Hồ Ch&iacute; Minh. HTN được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2018.</div>\r\n",
+  "website": null,
+  "price_change": 900,
+  "percent_price_change": 0.06923077,
+  "volume": 3575249,
+  "high_52w": 13900,
+  "low_52w": 7060,
+  "pe": 22.0905552056,
+  "pb": 0.7956034809,
+  "roe": 0.0366556902,
+  "roa": 0.0076614342,
+  "eps": 186.61526017918294,
+  "revenue": 139310080569,
+  "net_profit": 16630482225,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Tập Đoàn Hưng Thịnh",
+      "shareholder_percent": 0.1844
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Trung",
+      "shareholder_percent": 0.1683
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Hưng Thịnh Investment",
+      "shareholder_percent": 0.129
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.0507
+    },
+    {
+      "shareholder_name": "Trần Tựu",
+      "shareholder_percent": 0.04686
+    },
+    {
+      "shareholder_name": "Trần Thục Oanh",
+      "shareholder_percent": 0.0443
+    },
+    {
+      "shareholder_name": "Lê Hồng Việt",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Cường",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Dũng",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Hùng",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Phan Thị Hà",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Huỳnh Thanh Thùy",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Chân Tâm",
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Huỳnh Thanh Thi",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Bằng",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Thiệu Lê Bình",
+      "shareholder_percent": 1.6e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Đình Trung",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1683
+    },
+    {
+      "officer_name": "Nguyễn Văn Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Lê Hồng Việt",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Hồ  Minh Hoàng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Kim Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Huy Hiệu",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "HUỲNH THANH TỨ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Văn Thư",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hải Phong",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Loan Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Lê Xuân",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Văn Việt",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Tiến Thanh",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Khuất Tùng Phong",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quỳnh Mai",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:07.535951"
+}

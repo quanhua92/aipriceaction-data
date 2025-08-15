@@ -1,0 +1,173 @@
+{
+  "symbol": "NBC",
+  "exchange": "HNX",
+  "industry": "Khai khoáng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 366291327600,
+  "current_price": 9900,
+  "outstanding_shares": 36999124,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Than N&uacute;i B&eacute;o (NBC), tiền th&acirc;n l&agrave; Mỏ Than N&uacute;i B&eacute;o th&agrave;nh lập nă 1988. Năm 2006 chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. Hoạt động kinh doanh ch&iacute;nh của NBC l&agrave; khai th&aacute;c than. Sản phẩm than được chia l&agrave;m hai loại than nguy&ecirc;n khai v&agrave; than sạch. Hiện nay c&ocirc;ng ty c&oacute; 01 Nh&agrave; m&aacute;y trực thuộc (Nh&agrave; m&aacute;y Cơ kh&iacute; H&ograve;n Gai). Trữ lượng c&ograve;n lại của C&ocirc;ng ty l&agrave; 80 triệu tấn trong đ&oacute; 24 triệu tấn l&agrave; lộ thi&ecirc;n v&agrave; l&agrave; 1 trong 5 mỏ lộ thi&ecirc;n của Tập đo&agrave;n than Việt Nam. C&ocirc;ng suất hiện tại của nh&agrave; m&aacute;y l&agrave; 4,5 triệu m3/năm.&nbsp;Hiện tại C&ocirc;ng ty đ&atilde; đầu tư tr&ecirc;n 500 tỷ đồng mua h&agrave;ng loạt thiết bị đồng bộ như xe &ocirc; t&ocirc; vận tải đất đ&aacute; trọng tải 42 đến 55 tấn, m&aacute;y x&uacute;c thủy lực dung t&iacute;ch gầu từ 3.5 đến 5.5 m3, xe lu, xe gạt l&agrave;m đường, xe gạt c&agrave;y xới đất đ&aacute;, xe Volvo, xe chở than. Khai Th&aacute;c : &Aacute;p dụng hệ thống khai th&aacute;c lộ thi&ecirc;n theo lớp đứng bằng m&aacute;y x&uacute;c, vận tải bằng &ocirc; t&ocirc;. Khai th&aacute;c tận thu than chất lượng cao bằng lao động thủ c&ocirc;ng với sản lượng 120.000 &ndash; 150.000 tấn/năm. Tho&aacute;t nước : X&acirc;y dựng hệ thống h&agrave;o, mương tho&aacute;t quanh khai trường, tho&aacute;t nước cưỡng bức bằng bơm c&oacute; c&ocirc;ng suất lớn v&agrave; chiều cao đẩy tr&ecirc;n 100m. Gia c&ocirc;ng chế biến : N&acirc;ng cao năng lực bằng sử dụng hệ thống s&agrave;ng từ 150 &ndash; 300 T/h. Ng&agrave;y 27/12/2006, NBC&nbsp;ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -400,
+  "percent_price_change": -0.03883495,
+  "volume": 181931,
+  "high_52w": 12071,
+  "low_52w": 7794,
+  "pe": 19.2849011117,
+  "pb": 0.7276210932,
+  "roe": 0.0383761574,
+  "roa": 0.0081523947,
+  "eps": 121.89225125978658,
+  "revenue": 564357162024,
+  "net_profit": 4509906519,
+  "dividend": 0.0505050505,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+      "shareholder_percent": 0.65
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Cơ điện Lạnh",
+      "shareholder_percent": 0.0429
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.0324324324
+    },
+    {
+      "shareholder_name": "Asia Value Investment Limited",
+      "shareholder_percent": 0.00891892
+    },
+    {
+      "shareholder_name": "Lã Tuấn Quỳnh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Đào Đức Hy",
+      "shareholder_percent": 0.0001636216
+    },
+    {
+      "shareholder_name": "Nguyễn Phúc Hưng",
+      "shareholder_percent": 9.81621e-05
+    },
+    {
+      "shareholder_name": "Lê Ngọc Tuấn",
+      "shareholder_percent": 9.14054e-05
+    },
+    {
+      "shareholder_name": "Trương Thúy Mai",
+      "shareholder_percent": 5.72e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Thanh Huyền",
+      "shareholder_percent": 5.72e-05
+    },
+    {
+      "shareholder_name": "Lại Văn Sơn",
+      "shareholder_percent": 4.61081e-05
+    },
+    {
+      "shareholder_name": "Phạm Minh Thảo",
+      "shareholder_percent": 4.46216e-05
+    },
+    {
+      "shareholder_name": "Vũ Anh Tuấn",
+      "shareholder_percent": 4.459e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tâm",
+      "shareholder_percent": 1.16216e-05
+    },
+    {
+      "shareholder_name": "Đặng Văn Ngong",
+      "shareholder_percent": 2.7e-06
+    },
+    {
+      "shareholder_name": "Đào Phạm Hùng",
+      "shareholder_percent": 2.3e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Nhương",
+      "shareholder_percent": 1.7e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Vóc",
+      "shareholder_percent": 1.6e-06
+    },
+    {
+      "shareholder_name": "Lưu Anh Đức",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đỗ Thị Thanh Huyền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 5.72e-05
+    },
+    {
+      "officer_name": "Trương Thúy Mai",
+      "officer_position": "Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 5.72e-05
+    },
+    {
+      "officer_name": "Vũ Anh Tuấn",
+      "officer_position": "Giám đốc điều hành",
+      "officer_percent": 4.459e-05
+    },
+    {
+      "officer_name": "Đặng Văn Ngong",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 2.7e-06
+    },
+    {
+      "officer_name": "Nguyễn Tiến Nhương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.7e-06
+    },
+    {
+      "officer_name": "Lưu Anh Đức",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Trần Quốc Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Công Hương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tuấn Dũng",
+      "officer_position": "Phó Giám đốc Điều hành sản xuất",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Bá Tước",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thị Dung",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Phùng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Thế Phiệt",
+      "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:42.939693"
+}

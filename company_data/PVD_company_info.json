@@ -1,0 +1,342 @@
+{
+  "symbol": "PVD",
+  "exchange": "HOSE",
+  "industry": "Thiết bị, Dịch vụ và Phân phối Dầu khí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 12739178537400,
+  "current_price": 22900,
+  "outstanding_shares": 556296006,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Khoan v&agrave; Dịch vụ Khoan Dầu kh&iacute; (PVD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Khoan v&agrave; Dịch vụ Khoan Dầu kh&iacute; được th&agrave;nh lập v&agrave;o năm 2001. PVD ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2006.&nbsp;Tổng C&ocirc;ng ty&nbsp;hoạt động trong lĩnh vực cung cấp gi&agrave;n khoan v&agrave;&nbsp;dịch vụ kỹ thuật khoan phục vụ hoạt động t&igrave;m kiếm thăm d&ograve; v&agrave; khai th&aacute;c dầu kh&iacute; trong v&agrave; ngo&agrave;i nước. Sở hữu 4 gi&agrave;n khoan tự n&acirc;ng (jack up), 1 gi&agrave;n khoan tiếp trợ nửa nổi nửa ch&igrave;m (TAD) v&agrave; 1 gi&agrave;n khoan đất liền (land rig), PVD hiện đang nắm giữ khoảng 70% thị phần khoan tại Việt Nam. PVD ch&iacute;nh thức ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n S&agrave;n Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ năm 2006.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 150,
+  "percent_price_change": 0.00659341,
+  "volume": 10919016,
+  "high_52w": 28550,
+  "low_52w": 16600,
+  "pe": 16.0378162461,
+  "pb": 0.770260725,
+  "roe": 0.0499418492,
+  "roa": 0.0335412271,
+  "eps": 430.8527697342653,
+  "revenue": 2431085586682,
+  "net_profit": 239502440225,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
+      "shareholder_percent": 0.5041
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "CTBC Vietnam Equity Fund",
+      "shareholder_percent": 0.049471
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0365
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.0288588781
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0193263381
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0170379129
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.013537
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.010867
+    },
+    {
+      "shareholder_name": "Beira Limited",
+      "shareholder_percent": 0.0105
+    },
+    {
+      "shareholder_name": "FTIF - Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0095518388
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 0.0095396768
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.007988
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.005756
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.004678
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.00378757
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.003706
+    },
+    {
+      "shareholder_name": "Grinling International Limited",
+      "shareholder_percent": 0.002698
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đại chúng Việt Nam",
+      "shareholder_percent": 0.0024577025
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 0.0021159499
+    },
+    {
+      "shareholder_name": "Curian/Franklin Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0020953295
+    },
+    {
+      "shareholder_name": "Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0013734471
+    },
+    {
+      "shareholder_name": "Greystanes Limited Company",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Tuệ Sáng Vinacapital",
+      "shareholder_percent": 0.00088
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.000594
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Lợi Thế Cạnh Tranh Bền Vững SSI",
+      "shareholder_percent": 0.0005770193
+    },
+    {
+      "shareholder_name": "Phạm Tiến Dũng",
+      "shareholder_percent": 0.00040151
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bảo hiểm nhân thọ CHUBB Việt Nam",
+      "shareholder_percent": 0.000242
+    },
+    {
+      "shareholder_name": "Công ty TNHH bảo hiểm Hanwha Life Việt Nam",
+      "shareholder_percent": 0.000159
+    },
+    {
+      "shareholder_name": "Hồ Ngọc Yến Phương",
+      "shareholder_percent": 0.000152
+    },
+    {
+      "shareholder_name": "Đỗ Danh Rạng",
+      "shareholder_percent": 0.0001227
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.0001209
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0001187213
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 9.5334e-05
+    },
+    {
+      "shareholder_name": "Lương Trọng Diệp",
+      "shareholder_percent": 7.84369e-05
+    },
+    {
+      "shareholder_name": "Kiều Thị Hoài Minh",
+      "shareholder_percent": 6.22668e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Quỹ Kim Việt Nam",
+      "shareholder_percent": 5.74629e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tứ",
+      "shareholder_percent": 5.67e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Sơn",
+      "shareholder_percent": 3.96e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý quỹ đầu tư chứng khoán Vietcombank",
+      "shareholder_percent": 3.66e-05
+    },
+    {
+      "shareholder_name": "Đỗ Văn Khạnh",
+      "shareholder_percent": 2.398e-05
+    },
+    {
+      "shareholder_name": "Dương Xuân Quang",
+      "shareholder_percent": 2.22001e-05
+    },
+    {
+      "shareholder_name": "Lê Văn Bé",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Văn Đức Tờng",
+      "shareholder_percent": 1.81e-05
+    },
+    {
+      "shareholder_name": "Đinh Thị Thái",
+      "shareholder_percent": 1.58023e-05
+    },
+    {
+      "shareholder_name": "Phạm Bảo Ngọc",
+      "shareholder_percent": 1.2e-05
+    },
+    {
+      "shareholder_name": "Hoàng Phúc Khang",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Lương Thị Hải Yến",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Hồ Vũ Hải",
+      "shareholder_percent": 8.8e-06
+    },
+    {
+      "shareholder_name": "Văn Đức Hai",
+      "shareholder_percent": 5.4e-06
+    },
+    {
+      "shareholder_name": "Chu Thuý Ngọc",
+      "shareholder_percent": 3.6e-06
+    },
+    {
+      "shareholder_name": "Đỗ Đức Chiến",
+      "shareholder_percent": 1.08e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Cường",
+      "shareholder_percent": 2e-07
+    },
+    {
+      "shareholder_name": "Đào Văn Minh",
+      "shareholder_percent": 2.09e-08
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 9.5e-09
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đỗ Danh Rạng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001227
+    },
+    {
+      "officer_name": "Văn Đức Tờng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 1.81e-05
+    },
+    {
+      "officer_name": "Hồ Vũ Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 8.8e-06
+    },
+    {
+      "officer_name": "Đỗ Đức Chiến",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 1.08e-06
+    },
+    {
+      "officer_name": "Nguyễn Xuân Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 2e-07
+    },
+    {
+      "officer_name": "Nguyễn Văn Toàn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Thế Toàn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thụy Tường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Xuân Quốc",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Công Đoàn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Bình Hợp",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Tài",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Văn Minh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Trường",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Ngọc Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Văn Vinh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Minh Cảnh",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Thanh Tịnh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:46.962943"
+}

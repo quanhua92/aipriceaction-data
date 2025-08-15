@@ -1,0 +1,125 @@
+{
+  "symbol": "MSR",
+  "exchange": "UPCOM",
+  "industry": "Khai khoáng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 23521925988000,
+  "current_price": 21400,
+  "outstanding_shares": 1099155420,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Masan High-Tech Materials (MSR)&nbsp;được th&agrave;nh lập v&agrave;o năm 2010. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực khai th&aacute;c, chế biến v&agrave; kinh doanh&nbsp;kho&aacute;ng&nbsp;sản,&nbsp;kim loại m&agrave;u v&agrave; kim loại qu&yacute; hiếm. MSR đang quản l&yacute; v&agrave; khai th&aacute;c quặng N&uacute;i Ph&aacute;o tại huyện Đại Từ, tỉnh Th&aacute;i Nguy&ecirc;n với trữ lượng ước t&iacute;nh khoảng 66 triệu tấn. Sản&nbsp;phẩm ch&iacute;nh của&nbsp;C&ocirc;ng ty l&agrave; Vonfram, florit, bismuth v&agrave; đồng. MSR Ch&iacute;nh thức được giao dịch tr&ecirc;n thị trường UPCOM v&agrave;o th&aacute;ng 09/2015.</div>\r\n",
+  "website": null,
+  "price_change": 207,
+  "percent_price_change": 0.00971831,
+  "volume": 2408970,
+  "high_52w": 25600,
+  "low_52w": 10400,
+  "pe": -30.4152512399,
+  "pb": 1.9786459486,
+  "roe": -0.0645032474,
+  "roa": -0.0263923701,
+  "eps": 5.134373990531748,
+  "revenue": 1614307150000,
+  "net_profit": 5643475000,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Masan",
+      "shareholder_percent": 0.96
+    },
+    {
+      "shareholder_name": "Công ty TNHH Tầm Nhìn Masan",
+      "shareholder_percent": 0.9494
+    },
+    {
+      "shareholder_name": "Dominic John Heaton",
+      "shareholder_percent": 0.0117
+    },
+    {
+      "shareholder_name": "Nguyễn Thiều Nam",
+      "shareholder_percent": 0.00099
+    },
+    {
+      "shareholder_name": "Craig Richard Bradshaw",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Quỳnh Lâm",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Lê Thanh Tùng",
+      "shareholder_percent": 1.918e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thiều Nam",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00099
+    },
+    {
+      "officer_name": "Craig Richard Bradshaw",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Quỳnh Lâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 9e-05
+    },
+    {
+      "officer_name": "Trần Quang Chúc",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Quỳnh Nga",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Akira Osada",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Thị Mỹ Duyên",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thu Hiền",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Mai",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Nguyên Hải",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hady Seyeda",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Stuart James Wells",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Danny Le",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:25.442413"
+}

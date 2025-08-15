@@ -1,0 +1,228 @@
+{
+  "symbol": "KSB",
+  "exchange": "HOSE",
+  "industry": "Khai khoáng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2324276835750,
+  "current_price": 20250,
+  "outstanding_shares": 114779103,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Kho&aacute;ng sản v&agrave; X&acirc;y dựng B&igrave;nh Dương (KSB)&nbsp;c&oacute; tiền th&acirc;n l&agrave; doanh nghiệp Nh&agrave; nước - C&ocirc;ng ty Khai th&aacute;c Xuất khẩu Kho&aacute;ng sản S&ocirc;ng B&eacute; được th&agrave;nh lập v&agrave;o năm 1993.&nbsp;C&ocirc;ng ty hoạt động&nbsp; trong lĩnh vực khai th&aacute;c, chế biến kho&aacute;ng sản, sản xuất vật liệu x&acirc;y dựng v&agrave; cho thu&ecirc; bất động sản khu c&ocirc;ng nghiệp. KSB ch&iacute;nh thực hoạt động&nbsp;theo h&igrave;nh thức c&ocirc;ng ty cổ phần từ năm 2006. KSB hiện đang khai th&aacute;c&nbsp;vật liệu x&acirc;y dựng, đ&aacute;, c&aacute;t, cao lanh tại c&aacute;c mỏ được cấp ph&eacute;p. KSB hiện quản l&yacute; vận h&agrave;nh nh&agrave; m&aacute;y gạch B&igrave;nh Ph&uacute;&nbsp;với c&ocirc;ng suất 45 triệu vi&ecirc;n/năm. Ngo&agrave;i ra, C&ocirc;ng ty c&ograve;n tham gia đầu tư, ph&aacute;t triển v&agrave; kinh doanh cơ sở hạ tầng tại Khu c&ocirc;ng nghiệp Đất Cuốc với tổng diện t&iacute;ch quy hoạch l&agrave; 348 ha v&agrave;&nbsp;sản xuất nước uống tinh khiết đ&oacute;ng chai với thương hiệu BIMICO.</div>\r\n",
+  "website": null,
+  "price_change": -150,
+  "percent_price_change": -0.00735294,
+  "volume": 3980921,
+  "high_52w": 21100,
+  "low_52w": 13950,
+  "pe": 20.4629430176,
+  "pb": 0.8532969197,
+  "roe": 0.0424312406,
+  "roa": 0.022924658,
+  "eps": 397.2974190637645,
+  "revenue": 143111933759,
+  "net_profit": 45468187830,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần DRH Holdings",
+      "shareholder_percent": 0.2109
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Chứng Khoán Năng động DC",
+      "shareholder_percent": 0.0585
+    },
+    {
+      "shareholder_name": "Evli Emerging Frontier Fund",
+      "shareholder_percent": 0.0577
+    },
+    {
+      "shareholder_name": "Pxp Vietnam Fund Limited",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Phan Tấn Đạt",
+      "shareholder_percent": 0.0462075
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư chứng khoán Bản Việt",
+      "shareholder_percent": 0.01579487
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Vân",
+      "shareholder_percent": 0.015
+    },
+    {
+      "shareholder_name": "Trương Hữu Quyến",
+      "shareholder_percent": 0.0140536752
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Rồng Việt",
+      "shareholder_percent": 0.0106893162
+    },
+    {
+      "shareholder_name": "Lê Quốc Hưng",
+      "shareholder_percent": 0.0061
+    },
+    {
+      "shareholder_name": "Trần Đình Hà",
+      "shareholder_percent": 0.004338
+    },
+    {
+      "shareholder_name": "Lê Hoài Nam",
+      "shareholder_percent": 0.0025937
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Đông",
+      "shareholder_percent": 0.0024093
+    },
+    {
+      "shareholder_name": "Trần Ngọc Đính",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Phòng",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "Tôn Thất Diên Khoa",
+      "shareholder_percent": 0.0023776
+    },
+    {
+      "shareholder_name": "Hoàng Nguyên Bình",
+      "shareholder_percent": 0.0023592
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Tâm",
+      "shareholder_percent": 0.0017039
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Mỹ",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Hoàng Văn Lộc",
+      "shareholder_percent": 0.00135
+    },
+    {
+      "shareholder_name": "Đặng Quang Thung",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Ngô Trọng Nghĩa",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Phạm Thanh Tùng",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Mai Văn Lịch",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Trần Thiện Thể",
+      "shareholder_percent": 0.0005247863
+    },
+    {
+      "shareholder_name": "Lê Hồng Thanh",
+      "shareholder_percent": 0.0005247863
+    },
+    {
+      "shareholder_name": "Lương Võ Hùng",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Lê Công Sơn",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Nhựt",
+      "shareholder_percent": 0.0003486324
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Liễu",
+      "shareholder_percent": 0.00032
+    },
+    {
+      "shareholder_name": "Lê Đình Vũ Long",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Thị Thu Huyền",
+      "shareholder_percent": 7.817e-05
+    },
+    {
+      "shareholder_name": "Quách Chánh Đại Thanh Tâm",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Lục Thanh Sang",
+      "shareholder_percent": 2e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phan Tấn Đạt",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0462075
+    },
+    {
+      "officer_name": "Trần Đình Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.004338
+    },
+    {
+      "officer_name": "Nguyễn Quốc Phòng",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0024
+    },
+    {
+      "officer_name": "Tôn Thất Diên Khoa",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0023776
+    },
+    {
+      "officer_name": "Hoàng Nguyên Bình",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0023592
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Tâm",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0017039
+    },
+    {
+      "officer_name": "Đặng Quang Thung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Mai Văn Lịch",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Lê Công Sơn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Nguyễn Thị Bích Liễu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00032
+    },
+    {
+      "officer_name": "Nguyễn Văn Đông",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoành Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:56.503197"
+}

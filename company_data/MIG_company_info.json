@@ -1,0 +1,201 @@
+{
+  "symbol": "MIG",
+  "exchange": "HOSE",
+  "industry": "Bảo hiểm phi nhân thọ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3988380825000,
+  "current_price": 19800,
+  "outstanding_shares": 201433375,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng c&ocirc;ng ty Cổ phần Bảo hiểm Qu&acirc;n đội (MIG) được th&agrave;nh lập v&agrave;o năm 2011, c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty bảo hiểm qu&acirc;n đội với vai tr&ograve; ch&iacute;nh l&agrave; một đơn vị bảo hiểm phục vụ cho c&aacute;c đơn vị thuộc Bộ quốc ph&ograve;ng. Sau khi chuyển đổi m&ocirc; h&igrave;nh tổ chức th&agrave;nh Tổng c&ocirc;ng ty Cổ phần v&agrave;o năm 2011, MIC đ&atilde; đẩy mạnh phục vụ c&aacute;c kh&aacute;ch h&agrave;ng doanh nghiệp v&agrave; c&aacute; nh&acirc;n thuộc mọi th&agrave;nh phần kinh tế. MIG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ th&aacute;ng 12/2020.</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.02061856,
+  "volume": 1109879,
+  "high_52w": 20100,
+  "low_52w": 14200,
+  "pe": 12.7305036641,
+  "pb": 1.6034799037,
+  "roe": 0.1264185204,
+  "roa": 0.0286522238,
+  "eps": 417.15848831902855,
+  "revenue": 1327128194082,
+  "net_profit": 84029642212,
+  "dividend": 0.0505050505,
+  "shareholders": [
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Quân đội",
+      "shareholder_percent": 0.6768
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0992
+    },
+    {
+      "shareholder_name": "Tổng Công ty Xây Dựng Trường Sơn",
+      "shareholder_percent": 0.0459
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư MB",
+      "shareholder_percent": 0.0145
+    },
+    {
+      "shareholder_name": "Phan Phương Anh",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Hiện",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Tuấn",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hiền",
+      "shareholder_percent": 0.000975
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thảo",
+      "shareholder_percent": 0.000975
+    },
+    {
+      "shareholder_name": "Lê Như Hải",
+      "shareholder_percent": 0.00092
+    },
+    {
+      "shareholder_name": "Đặng Quốc Tiến",
+      "shareholder_percent": 0.000819
+    },
+    {
+      "shareholder_name": "Dư Cao Sơn",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Đinh Như Tuynh",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Công Đoàn Tổng Công ty Cổ Phần Bảo Hiểm Quân Đội",
+      "shareholder_percent": 0.00056
+    },
+    {
+      "shareholder_name": "Chử Xuân Bằng",
+      "shareholder_percent": 0.000353
+    },
+    {
+      "shareholder_name": "Ngô Bích Ngọc",
+      "shareholder_percent": 0.00026
+    },
+    {
+      "shareholder_name": "Lê Thị Thanh Hải",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Thúy",
+      "shareholder_percent": 0.00012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hằng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Dương Thị Thanh Nga",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hải Yến",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Uông Đông Hưng",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Hoàng Thị Tuyết Mai",
+      "shareholder_percent": 3.3e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Mỹ Châu",
+      "shareholder_percent": 2.4e-05
+    },
+    {
+      "shareholder_name": "Phạm Trung Dũng",
+      "shareholder_percent": 1.1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thị Thủy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Nguyễn Đức Tuấn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Lê Như Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00092
+    },
+    {
+      "officer_name": "Đặng Quốc Tiến",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.000819
+    },
+    {
+      "officer_name": "Dư Cao Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Đinh Như Tuynh",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Ngô Bích Ngọc",
+      "officer_position": "Giám đốc Tài chính/Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0.00026
+    },
+    {
+      "officer_name": "Lê Thị Thanh Hải",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00015
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương Thúy",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.00012
+    },
+    {
+      "officer_name": "Hoàng Thị Tuyết Mai",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.3e-05
+    },
+    {
+      "officer_name": "Phạm Trung Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.1e-05
+    },
+    {
+      "officer_name": "Vũ Hồng Phú",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thị Hồng Thúy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:13.720152"
+}

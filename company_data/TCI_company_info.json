@@ -1,0 +1,117 @@
+{
+  "symbol": "TCI",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1127304399000,
+  "current_price": 9750,
+  "outstanding_shares": 115620964,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng Kho&aacute;n Th&agrave;nh C&ocirc;ng (TCI) được th&agrave;nh lập v&agrave;o năm 2008. C&ocirc;ng ty hoạt động trong lĩnh vực cung cấp c&aacute;c dịch vụ m&ocirc;i giới chứng kho&aacute;n, tư vấn kinh doanh v&agrave; tự doanh. TCI&nbsp;đủ điều kiện để trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ năm 2009. Năm 2024, doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 30,17 tỷ đồng, tăng 21.69% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 47.96%, giảm 5.04%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 35,89 tỷ đồng, tăng 63.4% v&agrave; đ&oacute;ng g&oacute;p 23.52 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 58,77 tỷ đồng. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 4.42%, giảm 0.19%. Ng&agrave;y 26/01/2024, TCI ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.01036269,
+  "volume": 899427,
+  "high_52w": 10700,
+  "low_52w": 7490,
+  "pe": 17.7996004742,
+  "pb": 0.8880250853,
+  "roe": 0.0506775828,
+  "roa": 0.026568339,
+  "eps": 149.9668353828982,
+  "revenue": 74494611475,
+  "net_profit": 17339310075,
+  "dividend": 0.0512820513,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư Sài Gòn 3 Capital",
+      "shareholder_percent": 0.5479
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng",
+      "shareholder_percent": 0.049647
+    },
+    {
+      "shareholder_name": "Công Ty Tnhh Sài Gòn 3 Jean",
+      "shareholder_percent": 0.0297
+    },
+    {
+      "shareholder_name": "Công ty TNHH Ngọc Phong",
+      "shareholder_percent": 0.0277777777
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư Bảo Kim Lân",
+      "shareholder_percent": 0.0004621111
+    },
+    {
+      "shareholder_name": "Trương Gia Bảo",
+      "shareholder_percent": 0.00039
+    },
+    {
+      "shareholder_name": "Kittivalai Charoensombut-Amorn",
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Trịnh Tấn Lực",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Thu Sa",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Phạm Viết Lan Anh",
+      "shareholder_percent": 3e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trịnh Tấn Lực",
+      "officer_position": "Giám đốc điều hành/Phó Tổng Giám đốc",
+      "officer_percent": 6e-05
+    },
+    {
+      "officer_name": "Phạm Viết Lan Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Đoàn Thị Thu Sương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tịnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Ngọc Hùng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương Thảo",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đông Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thúy Lan",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:47.444276"
+}

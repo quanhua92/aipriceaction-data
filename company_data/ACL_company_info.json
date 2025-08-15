@@ -1,0 +1,168 @@
+{
+  "symbol": "ACL",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 601908228000,
+  "current_price": 12000,
+  "outstanding_shares": 50159019,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang (ACL) được th&agrave;nh lập năm 2003. Năm 2007, c&ocirc;ng ty chuyển đổi sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. Hoạt động ch&iacute;nh của c&ocirc;ng ty l&agrave; chế biến v&agrave; xuất khẩu thủy sản. Sản phẩm ch&iacute;nh của ACL l&agrave; c&aacute; tra chế biến bao gồm c&aacute; tra phi l&ecirc; trắng v&agrave; c&aacute; tra IQF hồng. Nh&agrave; m&aacute;y của ACL c&oacute; c&ocirc;ng suất chế biến khoảng 250 tấn c&aacute; nguy&ecirc;n liệu / ng&agrave;y, tương đương khoảng 25.000 tấn c&aacute; th&agrave;nh phẩm / năm. Sản phẩm của ACL được xuất khẩu sang hơn 40 quốc gia kh&aacute;c tr&ecirc;n thế giới như Singapore, Malaysia, Indonesia, Philippines, Nhật Bản, EU (Ba Lan, Ph&aacute;p), Ageria, Mỹ, &Uacute;c v&agrave; C&aacute;c Tiểu vương quốc Ả Rập Thống nhất. Hiện c&ocirc;ng ty l&agrave; một trong những nh&agrave; cung cấp sản phẩm c&aacute; tra cho hệ thống si&ecirc;u thị Walmart to&agrave;n cầu. ACL c&oacute; hơn 25 năm kinh nghiệm trong lĩnh vực n&ocirc;ng nghiệp. ACL c&oacute; trang trại nổi tiếng v&agrave; h&agrave;ng đầu trong lĩnh vực nu&ocirc;i c&aacute; tra tại Việt Nam, với diện t&iacute;ch nu&ocirc;i hơn 100 ha, sản lượng khoảng 35.000 tấn nguy&ecirc;n liệu / năm cung cấp cho hoạt động sản xuất kinh doanh của nh&agrave; m&aacute;y. Ng&agrave;y 05/09/2007, ACL ch&iacute;nh thức giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 50,
+  "percent_price_change": 0.0041841,
+  "volume": 21582,
+  "high_52w": 12700,
+  "low_52w": 8370,
+  "pe": 42.0834195766,
+  "pb": 0.7352863996,
+  "roe": 0.0176111804,
+  "roa": 0.0082210194,
+  "eps": 119.6624502165802,
+  "revenue": 583966895714,
+  "net_profit": 6002151114,
+  "dividend": 0.0416666667,
+  "shareholders": [
+    {
+      "shareholder_name": "Trần Thị Vân Loan",
+      "shareholder_percent": 0.54825628
+    },
+    {
+      "shareholder_name": "Nguyễn Thương Nhật Vi",
+      "shareholder_percent": 0.0596094
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Vân",
+      "shareholder_percent": 0.0461604
+    },
+    {
+      "shareholder_name": "Trần Tuấn Khanh",
+      "shareholder_percent": 0.027408
+    },
+    {
+      "shareholder_name": "Phạm Đình An",
+      "shareholder_percent": 0.027174393
+    },
+    {
+      "shareholder_name": "Trần Tuấn Nam",
+      "shareholder_percent": 0.0262238
+    },
+    {
+      "shareholder_name": "Quỹ đầu tư chứng khoán Bản Việt",
+      "shareholder_percent": 0.0228264901
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Hải",
+      "shareholder_percent": 0.020768
+    },
+    {
+      "shareholder_name": "Trịnh Thị Mai Phương",
+      "shareholder_percent": 0.0198
+    },
+    {
+      "shareholder_name": "Asiavantage Global Limited",
+      "shareholder_percent": 0.0190220751
+    },
+    {
+      "shareholder_name": "Công ty Tài Chính TNHH MTV Bưu Điện",
+      "shareholder_percent": 0.0155687532
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Vân",
+      "shareholder_percent": 0.0001630463
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng Ngọc",
+      "shareholder_percent": 0.0001316
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Tới",
+      "shareholder_percent": 0.0001087
+    },
+    {
+      "shareholder_name": "Nguyễn Trúc Vân Huy",
+      "shareholder_percent": 0.0001086975
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Bích",
+      "shareholder_percent": 8.772e-05
+    },
+    {
+      "shareholder_name": "Phù Chí Quí",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Phù Chí Khai",
+      "shareholder_percent": 2.7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lệ Quyên",
+      "shareholder_percent": 1.63046e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Thị Vân Loan",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.54825628
+    },
+    {
+      "officer_name": "Trần Tuấn Khanh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.027408
+    },
+    {
+      "officer_name": "Nguyễn Xuân Hải",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.020768
+    },
+    {
+      "officer_name": "Phạm Thị Hồng Ngọc",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0001316
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Bích",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 8.772e-05
+    },
+    {
+      "officer_name": "Phù Chí Khai",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 2.7e-05
+    },
+    {
+      "officer_name": "Phan Thị Thùy Dương",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Cẩm Tú",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Thả",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Minh Duy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Ngọc Diễm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Minh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T06:59:57.866966"
+}

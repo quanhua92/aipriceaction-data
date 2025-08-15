@@ -1,0 +1,270 @@
+{
+  "symbol": "VOS",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2275000000000,
+  "current_price": 16250,
+  "outstanding_shares": 140000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Vận tải Biển Việt Nam (VOS) tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải biển Việt Nam được th&agrave;nh lập năm 1970. Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty bao gồm vận tải đường biển v&agrave; c&aacute;c dịch vụ h&agrave;ng hải kh&aacute;c như: đại k&yacute; t&agrave;u biển, đại l&yacute; vận tải đa phương thức, huấn luyện - đ&agrave;o tạo, cung ứng xuất khẩu thuyền vi&ecirc;n. C&ocirc;ng ty&nbsp;sở hữu đội t&agrave;u 11&nbsp;chiếc với tổng tải trọng 358.101 DWT. Vận tải h&agrave;ng kh&ocirc; l&agrave; sở trường v&agrave; thế mạnh của C&ocirc;ng ty. Mặt h&agrave;ng chuy&ecirc;n chở của C&ocirc;ng ty bao&nbsp;gồm gạo, than, n&ocirc;ng sản, xi măng, clinker, ph&acirc;n b&oacute;n, vật tư sắt th&eacute;p xuất khẩu của Việt Nam v&agrave; thế giới, đặc biệt l&agrave; c&aacute;c nước Đ&ocirc;ng Nam &Aacute;, Trung Đ&ocirc;ng v&agrave; Ch&acirc;u Phi. VOS ch&iacute;nh thức được ni&ecirc;m yết v&agrave; giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ năm 2010.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -700,
+  "percent_price_change": -0.04129794,
+  "volume": 5986277,
+  "high_52w": 18300,
+  "low_52w": 11200,
+  "pe": -34.1026542926,
+  "pb": 1.2871778258,
+  "roe": -0.0347027009,
+  "roa": -0.0214551806,
+  "eps": 73.46392305,
+  "revenue": 836393570707,
+  "net_profit": 10284949227,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Á Châu",
+      "shareholder_percent": 0.0486
+    },
+    {
+      "shareholder_name": "Tổng Công ty Lương thực Miền Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.0207142857
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0192857142
+    },
+    {
+      "shareholder_name": "Quỹ Đầu Tư Chứng Khoán Bảo Việt",
+      "shareholder_percent": 0.0160937142
+    },
+    {
+      "shareholder_name": "Nguyễn Trung Kiên",
+      "shareholder_percent": 0.01
+    },
+    {
+      "shareholder_name": "Tập đoàn Bảo Việt",
+      "shareholder_percent": 0.0071428571
+    },
+    {
+      "shareholder_name": "Credit Suise (Hong Kong) Limited",
+      "shareholder_percent": 0.0014407857
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hà",
+      "shareholder_percent": 0.00071
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Dũng",
+      "shareholder_percent": 0.0005014285
+    },
+    {
+      "shareholder_name": "Lê Thị Thanh Hưng",
+      "shareholder_percent": 0.00046
+    },
+    {
+      "shareholder_name": "Vũ Hữu Chinh",
+      "shareholder_percent": 0.0003764285
+    },
+    {
+      "shareholder_name": "Bùi Việt Hoài",
+      "shareholder_percent": 0.000327
+    },
+    {
+      "shareholder_name": "Lê Thị Hải Yến",
+      "shareholder_percent": 0.000321
+    },
+    {
+      "shareholder_name": "Croesus Global Equity Limited",
+      "shareholder_percent": 0.0002857142
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tám",
+      "shareholder_percent": 0.0002857
+    },
+    {
+      "shareholder_name": "New-S Securities Company Limited",
+      "shareholder_percent": 0.0002627857
+    },
+    {
+      "shareholder_name": "Lê Ngọc Minh",
+      "shareholder_percent": 0.0002357142
+    },
+    {
+      "shareholder_name": "Lê Việt Tiến",
+      "shareholder_percent": 0.000156
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Trần Văn Đăng",
+      "shareholder_percent": 0.0001235
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Nhì",
+      "shareholder_percent": 0.0001071428
+    },
+    {
+      "shareholder_name": "Bùi Hoàng Việt",
+      "shareholder_percent": 0.000107
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hoa",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Châu Quang Khải",
+      "shareholder_percent": 7.14285e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Tuất",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Aizawa Securities Company Limited",
+      "shareholder_percent": 4.64285e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Kim Yến",
+      "shareholder_percent": 3.9e-05
+    },
+    {
+      "shareholder_name": "Bùi Lê Phước Thảo",
+      "shareholder_percent": 3.6e-05
+    },
+    {
+      "shareholder_name": "Đào Văn Long",
+      "shareholder_percent": 3.57142e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ánh Tuyết",
+      "shareholder_percent": 3.57142e-05
+    },
+    {
+      "shareholder_name": "Hoàng Việt",
+      "shareholder_percent": 3.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Duy",
+      "shareholder_percent": 3.5e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Hạnh",
+      "shareholder_percent": 3.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Trường",
+      "shareholder_percent": 2.79e-05
+    },
+    {
+      "shareholder_name": "Lê Duy Dương",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Toan",
+      "shareholder_percent": 1.4e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Vân Hương",
+      "shareholder_percent": 1.3e-05
+    },
+    {
+      "shareholder_name": "Đặng Hồng Trường",
+      "shareholder_percent": 7.1e-06
+    },
+    {
+      "shareholder_name": "Hoàng Hữu Hùng",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Sbi Securities Company Limited",
+      "shareholder_percent": 2.1428e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Cao Minh Tuấn",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0005357
+    },
+    {
+      "officer_name": "Lê Việt Tiến",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000156
+    },
+    {
+      "officer_name": "Nguyễn Bá Trường",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 2.79e-05
+    },
+    {
+      "officer_name": "Vũ Thị Toan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.4e-05
+    },
+    {
+      "officer_name": "Đặng Hồng Trường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7.1e-06
+    },
+    {
+      "officer_name": "Hoàng Hữu Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7e-06
+    },
+    {
+      "officer_name": "Nguyễn Thị Yến",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Châu Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Minh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Anh Thư",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Trường Thọ",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Tú",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Tuấn Nam",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Minh Thu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:35.321304"
+}

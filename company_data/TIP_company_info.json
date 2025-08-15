@@ -1,0 +1,180 @@
+{
+  "symbol": "TIP",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1280654782900,
+  "current_price": 19700,
+  "outstanding_shares": 65007857,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&aacute;t triển Khu c&ocirc;ng nghiệp T&iacute;n Nghĩa (TIP) tiền th&acirc;n l&agrave; X&iacute; nghiệp Dịch vụ v&agrave; Ph&aacute;t triển Khu C&ocirc;ng nghiệp Tam Phước, được th&agrave;nh lập v&agrave;o năm 2002.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực kinh doanh&nbsp;bất động sản, cung cấp c&aacute;c dịch vụ hạ tầng kỹ thuật khu c&ocirc;ng nghiệp.&nbsp;Một số dự &aacute;n ti&ecirc;u biểu của c&ocirc;ng ty như: Khu c&ocirc;ng nghiệp Tam Phước, Khu đ&ocirc; thị Bi&ecirc;n H&ograve;a Dragon City II, dự &aacute;n Khu t&aacute;i định cư&hellip; Năm 2007, c&ocirc;ng ty hoạt động dưới h&igrave;nh thức c&ocirc;ng ty cổ phần. TIP ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)&nbsp;từ năm 2016.</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 314061,
+  "high_52w": 21617,
+  "low_52w": 15276,
+  "pe": 7.1924995986,
+  "pb": 0.6970996432,
+  "roe": 0.0990170645,
+  "roa": 0.0842391577,
+  "eps": 1092.8954856795233,
+  "revenue": 35855087397,
+  "net_profit": 71046793449,
+  "dividend": 0.076142132,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tổng Công ty Tín Nghĩa",
+      "shareholder_percent": 0.5674
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.1526
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.0461
+    },
+    {
+      "shareholder_name": "Quách Trần Ánh Nguyên",
+      "shareholder_percent": 0.0182
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương Mại Thành Thành Công",
+      "shareholder_percent": 0.0124
+    },
+    {
+      "shareholder_name": "Nguyễn Khánh Linh",
+      "shareholder_percent": 0.00810648
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 0.0064
+    },
+    {
+      "shareholder_name": "Cao Ngọc Đức",
+      "shareholder_percent": 0.0029
+    },
+    {
+      "shareholder_name": "Vietnam Ventures Limited",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Nguyễn Hiếu Lộc",
+      "shareholder_percent": 0.00112
+    },
+    {
+      "shareholder_name": "Cao Minh Chuyên",
+      "shareholder_percent": 0.00058
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Liêm",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Cao Thị Minh Phúc",
+      "shareholder_percent": 0.00029
+    },
+    {
+      "shareholder_name": "Trương Thanh Tùng",
+      "shareholder_percent": 0.0002884266
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Dung",
+      "shareholder_percent": 0.0002307412
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ly",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Ngân",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Hùng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phạm Hoa Cương",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Bảo Việt",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Đỗ Văn Trung",
+      "shareholder_percent": 3e-07
+    },
+    {
+      "shareholder_name": "Đỗ Hoài Thu",
+      "shareholder_percent": 2.6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Hiếu Lộc",
+      "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc",
+      "officer_percent": 0.00112
+    },
+    {
+      "officer_name": "Nguyễn Thị Ly",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Quốc Hùng",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin/Phó Giám đốc",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Đỗ Hoài Thu",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 2.6e-07
+    },
+    {
+      "officer_name": "Nguyễn Quốc Nam",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Lan Hương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Ngọc Giàu",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Hữu Tịnh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thị Thanh Hà",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Thị Minh Hồng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hoài Nam",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thu Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:15:27.944771"
+}

@@ -1,0 +1,147 @@
+{
+  "symbol": "NNC",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 942560000000,
+  "current_price": 43000,
+  "outstanding_shares": 21920000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đ&aacute; N&uacute;i Nhỏ (NNC) c&oacute; tiền th&acirc;n l&agrave;&nbsp;X&iacute; nghiệp Khai th&aacute;c Đ&aacute; số 3 trực thuộc&nbsp;C&ocirc;ng ty Vật liệu v&agrave; X&acirc;y dựng B&igrave;nh Dương, được tiếp quản từ năm 1975. Từ năm&nbsp;2006, C&ocirc;ng ty tiến h&agrave;nh cổ phần h&oacute;a v&agrave; chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực khai th&aacute;c chế biến v&agrave; kinh doanh đ&aacute;, đất s&eacute;t, vật liệu x&acirc;y dựng. C&ocirc;ng ty hiện&nbsp;đang khai th&aacute;c đ&aacute; ở&nbsp;mỏ Mũi T&agrave;u (T&acirc;n Lập, B&igrave;nh Phước) v&agrave; Ph&acirc;n xưởng c&aacute;t T&acirc;n Ba (B&igrave;nh Dương). Sản phẩm đ&aacute; của C&ocirc;ng ty cung cấp hầu hết cho c&aacute;c tỉnh miền Đ&ocirc;ng v&agrave; miền T&acirc;y Nam Bộ. Đối thủ cạnh tranh ch&iacute;nh của C&ocirc;ng ty l&agrave; C&ocirc;ng ty Cổ phần Đ&aacute; H&oacute;a An, C&ocirc;ng ty Cổ phần Đầu tư X&acirc;y dựng 3/2,&nbsp;C&ocirc;ng ty TNHH Ngọc Qu&yacute;, C&ocirc;ng ty Trung Th&agrave;nh v&agrave; c&aacute;c C&ocirc;ng ty khai th&aacute;c đ&aacute; ở khu vực Bi&ecirc;n H&ograve;a. Năm 2010, NNC&nbsp;ch&iacute;nh thức được giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -700,
+  "percent_price_change": -0.01601831,
+  "volume": 41084,
+  "high_52w": 44300,
+  "low_52w": 19762,
+  "pe": 10.6858079861,
+  "pb": 2.0150815414,
+  "roe": 0.2043580342,
+  "roa": 0.1731720636,
+  "eps": 1603.4882994981751,
+  "revenue": 91481257355,
+  "net_profit": 35148463525,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Vật liệu và Xây dựng Bình Dương",
+      "shareholder_percent": 0.4355
+    },
+    {
+      "shareholder_name": "Ctcp Đầu Tư Thái Bình",
+      "shareholder_percent": 0.1593
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai Phương",
+      "shareholder_percent": 0.0702
+    },
+    {
+      "shareholder_name": "Pxp Vietnam Fund Limited",
+      "shareholder_percent": 0.0594
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "PXP Vietnam Emerging Equity Fund",
+      "shareholder_percent": 0.0341088504
+    },
+    {
+      "shareholder_name": "Lâm Thị Mai",
+      "shareholder_percent": 0.0337966
+    },
+    {
+      "shareholder_name": "Vũ Quang Hưng",
+      "shareholder_percent": 0.0082327
+    },
+    {
+      "shareholder_name": "Nguyễn Như Song",
+      "shareholder_percent": 0.0061814466
+    },
+    {
+      "shareholder_name": "Trần Minh Tâm",
+      "shareholder_percent": 0.0020210973
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Chối",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Đào Thị Mỹ Hạnh",
+      "shareholder_percent": 0.0005033355
+    },
+    {
+      "shareholder_name": "Phạm Tuấn Kiệt",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Đoàn Văn Kình",
+      "shareholder_percent": 0.0003238986
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Châu",
+      "shareholder_percent": 0.0003
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lâm Thị Mai",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0337966
+    },
+    {
+      "officer_name": "Nguyễn Văn Chối",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.002
+    },
+    {
+      "officer_name": "Phạm Tuấn Kiệt",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Trần Văn Hải",
+      "officer_position": "Kế toán trưởng/Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Bình",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lâm Thành Lâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Tuấn Vũ",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Viết Châu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Minh Quang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Long",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Văn Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:11:12.174769"
+}

@@ -1,0 +1,221 @@
+{
+  "symbol": "HOM",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 388799481200,
+  "current_price": 5200,
+  "outstanding_shares": 74769131,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Xi măng Ho&agrave;ng Mai (HOM)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Xi măng Nghệ An th&agrave;nh lập năm 1995. Năm 2008, c&ocirc;ng ty&nbsp;chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty đang sản xuất c&aacute;c sản phẩm xi măng PCB30, PCB40, PC40, PC50, Clinker, xi măng thương phẩm CPC 40, CPC 50, v&agrave; c&aacute;c loại xi măng đặc biệt kh&aacute;c theo đơn đặt h&agrave;ng lu&ocirc;n c&oacute; hệ số dư m&aacute;c cao. Hiện tại C&ocirc;ng ty đang khai th&aacute;c nguy&ecirc;n vật liệu tr&ecirc;n Mỏ đ&aacute; Ho&agrave;ng Mai B với trữ lượng 132.646.000 tấn v&agrave; Mỏ s&eacute;t Quỳnh Vinh với trữ lượng 4.297.000 tấn đủ nguy&ecirc;n liệu cho c&aacute;c nh&agrave; m&aacute;y hoạt động li&ecirc;n tục tr&ecirc;n 80 năm với chất lượng ổn định. Ng&agrave;y 09/07/2009, HOM ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch chứng kho&aacute;n H&agrave; Nội (HNX)</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.01960784,
+  "volume": 95498,
+  "high_52w": 5900,
+  "low_52w": 3500,
+  "pe": -16.9421277674,
+  "pb": 0.4317726876,
+  "roe": -0.0255168202,
+  "roa": -0.0165428244,
+  "eps": 102.05913018286645,
+  "revenue": 520199823087,
+  "net_profit": 7348025801,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Xi măng Việt Nam",
+      "shareholder_percent": 0.7107
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Việt Nam (VF2)",
+      "shareholder_percent": 0.0465277777
+    },
+    {
+      "shareholder_name": "Công ty TNHH Hà Thành",
+      "shareholder_percent": 0.0138888888
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Và Kinh Doanh Tài Sản Việt Nam",
+      "shareholder_percent": 0.0138888888
+    },
+    {
+      "shareholder_name": "Quỹ đầu tư chiến lược VAM Việt Nam",
+      "shareholder_percent": 0.0138888888
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Bảo Việt",
+      "shareholder_percent": 0.0097222222
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đại chúng Việt Nam",
+      "shareholder_percent": 0.0077486111
+    },
+    {
+      "shareholder_name": "Công ty TNHH TM&DV Thành Mỹ",
+      "shareholder_percent": 0.00625
+    },
+    {
+      "shareholder_name": "Vietnam Emerging Equity Fund Limited",
+      "shareholder_percent": 0.0055555555
+    },
+    {
+      "shareholder_name": "Croesus Global Equity Limited",
+      "shareholder_percent": 0.0052
+    },
+    {
+      "shareholder_name": "Vietnam Equity Holding",
+      "shareholder_percent": 0.0041666666
+    },
+    {
+      "shareholder_name": "Công ty TNHH đầu tư thị trường mới nổi",
+      "shareholder_percent": 0.0039265694
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội",
+      "shareholder_percent": 0.0038065138
+    },
+    {
+      "shareholder_name": "Công ty TNHH TM Tổng hợp Lộc Thịnh",
+      "shareholder_percent": 0.0034722222
+    },
+    {
+      "shareholder_name": "Công ty TNHH SX TM Phúc Thành",
+      "shareholder_percent": 0.0027777777
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại và Vận tải Sông Đà",
+      "shareholder_percent": 0.0027777777
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Và Kinh Doanh Vật Liệu Xây Dựng Fico",
+      "shareholder_percent": 0.0027777777
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đá Đồng Giao",
+      "shareholder_percent": 0.0027777777
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Vicem Bao bì Bỉm Sơn",
+      "shareholder_percent": 0.0025
+    },
+    {
+      "shareholder_name": "Doanh nghiệp Tư nhân Thanh Bình",
+      "shareholder_percent": 0.0013888888
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Vina",
+      "shareholder_percent": 0.0013888888
+    },
+    {
+      "shareholder_name": "DNTN Thanh Lam",
+      "shareholder_percent": 0.0010694444
+    },
+    {
+      "shareholder_name": "CTCP Xây dựng thương mại 423",
+      "shareholder_percent": 0.0006944444
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thành Luân",
+      "shareholder_percent": 0.0004861111
+    },
+    {
+      "shareholder_name": "Công ty cổ phần Vật liệu xây dựng Miền Trung",
+      "shareholder_percent": 0.0003472222
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Quang",
+      "shareholder_percent": 0.0003235656
+    },
+    {
+      "shareholder_name": "Đậu Phi Tuấn",
+      "shareholder_percent": 0.0001661163
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Điển",
+      "shareholder_percent": 0.0001256706
+    },
+    {
+      "shareholder_name": "Đặng Tăng Cường",
+      "shareholder_percent": 7.22244e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Công Hòa",
+      "shareholder_percent": 7.22244e-05
+    },
+    {
+      "shareholder_name": "Lê Văn Chiên",
+      "shareholder_percent": 3.90012e-05
+    },
+    {
+      "shareholder_name": "Hoàng Xuân Vinh",
+      "shareholder_percent": 3.61122e-05
+    },
+    {
+      "shareholder_name": "Trần Anh Tú",
+      "shareholder_percent": 3.03342e-05
+    },
+    {
+      "shareholder_name": "Thái Huy Chương",
+      "shareholder_percent": 1.878e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Vinh",
+      "shareholder_percent": 1.44448e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Huệ",
+      "shareholder_percent": 1.4444e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Thái Huy Chương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.878e-05
+    },
+    {
+      "officer_name": "Nguyễn Văn Tuấn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Quang Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cao Trọng Nghiên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Ngọc Long",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Trung Kiên",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đậu Thị Nga",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Việt",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:07:55.548786"
+}

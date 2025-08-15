@@ -1,0 +1,135 @@
+{
+  "symbol": "NTC",
+  "exchange": "UPCOM",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 4147196544000,
+  "current_price": 172800,
+  "outstanding_shares": 23999980,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Khu c&ocirc;ng nghiệp Nam T&acirc;n Uy&ecirc;n (NTC)&nbsp;được th&agrave;nh lập năm 2005. Hoạt động sản xuất ch&iacute;nh của C&ocirc;ng ty l&agrave; đầu tư x&acirc;y dựng kinh doanh kết cấu hạ tầng kỹ thuật&nbsp;khu c&ocirc;ng nghiệp, v&agrave; x&acirc;y dựng c&ocirc;ng tr&igrave;nh c&ocirc;ng nghiệp, d&acirc;n dụng, thủy lợi, giao th&ocirc;ng, san lấp mặt bằng. NTC hiện đang đầu tư, quản l&yacute; 3 khu c&ocirc;ng nghiệp tr&ecirc;n địa b&agrave;n th&agrave;nh phố T&acirc;n Uy&ecirc;n với tổng diện t&iacute;ch 966,5 ha. Ngo&agrave;i ra, NTC c&ograve;n tham gia đầu tư v&agrave;o c&aacute;c dự &aacute;n trong c&ugrave;ng lĩnh vực kinh doanh như Khu c&ocirc;ng nghiệp B&igrave;nh Long, Khu c&ocirc;ng nghiệp Đức H&ograve;a III, Khu c&ocirc;ng nghiệp Bắc Đồng Ph&uacute;, v&agrave; c&aacute;c dự &aacute;n ngo&agrave;i ng&agrave;nh. NTC được giao dịch tr&ecirc;n thị trường UPCOM từ cuối năm 2016.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -792,
+  "percent_price_change": -0.0045465,
+  "volume": 64531,
+  "high_52w": 244000,
+  "low_52w": 121300,
+  "pe": 12.6879135146,
+  "pb": 3.2633901482,
+  "roe": 0.2777993154,
+  "roa": 0.0516523021,
+  "eps": 4052.2336700280584,
+  "revenue": 143239948792,
+  "net_profit": 97253527036,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Cao su Phước Hòa",
+      "shareholder_percent": 0.328535
+    },
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.2042
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Sài Gòn VRG",
+      "shareholder_percent": 0.1995
+    },
+    {
+      "shareholder_name": "Phan Thị Long",
+      "shareholder_percent": 0.0215
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Và Phát Triển Vrg Long Thành",
+      "shareholder_percent": 0.02
+    },
+    {
+      "shareholder_name": "Huỳnh Trung Trực",
+      "shareholder_percent": 0.0107
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hùng",
+      "shareholder_percent": 0.0082
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xây dựng - Địa ốc Cao su",
+      "shareholder_percent": 0.00675
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 0.00076875
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Phượng Các",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Huỳnh Thoại Hưng",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Huỳnh Hữu Tín",
+      "shareholder_percent": 0.0001875
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Huỳnh Hữu Tín",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001875
+    },
+    {
+      "officer_name": "Đỗ Hữu Phước",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Anh Phú Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hoàng Giang",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Phi Nga",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Trọng Bình",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Diệu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Thế Sơn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Bính",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bồ Thanh Tuấn",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Triều Tiên",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:11:23.646469"
+}

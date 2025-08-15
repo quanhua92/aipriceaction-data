@@ -1,0 +1,175 @@
+{
+  "symbol": "DDV",
+  "exchange": "UPCOM",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 4938514620000,
+  "current_price": 33800,
+  "outstanding_shares": 146109900,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần DAP - Vinachem (DDV) được th&agrave;nh lập năm 2008, với ng&agrave;nh nghề kinh doanh ch&iacute;nh l&agrave; sản xuất ph&acirc;n b&oacute;n v&agrave; h&oacute;a chất cơ bản. C&aacute;c sản phẩm ch&iacute;nh của c&ocirc;ng ty bao gồm ph&acirc;n b&oacute;n DAP, axit sulfuric v&agrave; axit phốt phoric.&nbsp; C&ocirc;ng ty c&oacute; 01 nh&agrave; m&aacute;y sản xuất ph&acirc;n b&oacute;n DAP c&ocirc;ng suất 330.000 tấn/năm, nh&agrave; m&aacute;y sản xuất Axit Sulfuric (H2SO4) c&ocirc;ng suất 414.000 tấn/năm, nh&agrave; m&aacute;y sản xuất Axit Phốt phoric (H3PO4&not;) c&ocirc;ng suất 161.700 tấn/năm, nh&agrave; m&aacute;y nhiệt điện c&ocirc;ng suất 12 MW, v&agrave; nh&agrave; m&aacute;y xử l&yacute; nước thải c&ocirc;ng suất 40 m3/giờ. Từ năm 2015, DDV được giao dịch tr&ecirc;n thị trường UPCOM.</div>\r\n",
+  "website": null,
+  "price_change": -608,
+  "percent_price_change": -0.01757225,
+  "volume": 2335168,
+  "high_52w": 35300,
+  "low_52w": 12198,
+  "pe": 14.0693975752,
+  "pb": 2.609741457,
+  "roe": 0.1934882493,
+  "roa": 0.1472235925,
+  "eps": 1049.0847143759595,
+  "revenue": 1609647595686,
+  "net_profit": 153281662709,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Hóa chất Việt Nam",
+      "shareholder_percent": 0.64
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại và Dịch vụ Việt Kim",
+      "shareholder_percent": 0.0437
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần The Golden Group",
+      "shareholder_percent": 0.0171
+    },
+    {
+      "shareholder_name": "Hoàng Mạnh Thắng",
+      "shareholder_percent": 0.0034
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Oanh",
+      "shareholder_percent": 0.00274
+    },
+    {
+      "shareholder_name": "Cao Thị Hồng",
+      "shareholder_percent": 0.0020532489
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Sinh",
+      "shareholder_percent": 0.0013873119
+    },
+    {
+      "shareholder_name": "Nguyễn Huyền Linh Phương",
+      "shareholder_percent": 0.001026
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Dũng",
+      "shareholder_percent": 0.00086
+    },
+    {
+      "shareholder_name": "Trần Văn Đoàn",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai",
+      "shareholder_percent": 0.000315
+    },
+    {
+      "shareholder_name": "Bùi Đăng Duẩn",
+      "shareholder_percent": 3.2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thùy Liên",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Phiên",
+      "shareholder_percent": 2.8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Danh Sao",
+      "shareholder_percent": 2.39545e-05
+    },
+    {
+      "shareholder_name": "Lâm Thái Dương",
+      "shareholder_percent": 2.12169e-05
+    },
+    {
+      "shareholder_name": "Vũ Văn Bằng",
+      "shareholder_percent": 1.44e-05
+    },
+    {
+      "shareholder_name": "Đoàn Thị Minh Thúy",
+      "shareholder_percent": 1.437e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hằng",
+      "shareholder_percent": 1.09506e-05
+    },
+    {
+      "shareholder_name": "Đào Thị Thu Hiền",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Lê Ngọc Nhân",
+      "shareholder_percent": 4.1e-06
+    },
+    {
+      "shareholder_name": "Đặng Thị Hoa",
+      "shareholder_percent": 4e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Tuấn Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00086
+    },
+    {
+      "officer_name": "Nguyễn Thị Mai",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000315
+    },
+    {
+      "officer_name": "Bùi Đăng Duẩn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 3.2e-05
+    },
+    {
+      "officer_name": "Vũ Văn Bằng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 1.44e-05
+    },
+    {
+      "officer_name": "Lê Ngọc Nhân",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 4.1e-06
+    },
+    {
+      "officer_name": "Vương Thị Hải Yến",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Xuân Quyên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Hạnh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Trung Kiên",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Trung",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:03:50.757747"
+}

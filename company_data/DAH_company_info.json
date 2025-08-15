@@ -1,0 +1,126 @@
+{
+  "symbol": "DAH",
+  "exchange": "HOSE",
+  "industry": "Du lịch & Giải trí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 338484000000,
+  "current_price": 4020,
+  "outstanding_shares": 84200000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Kh&aacute;ch sạn Đ&ocirc;ng &Aacute; (DAH), tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư X&acirc;y dựng v&agrave; Thương mại Đ&ocirc;ng &Aacute;, được th&agrave;nh lập từ năm 2003. C&ocirc;ng ty chủ yếu tham gia v&agrave;o lĩnh vực dịch vụ kh&aacute;ch sạn với hệ thống c&aacute;c kh&aacute;ch sạn, khu nghỉ dưỡng lớn tr&ecirc;n địa b&agrave;n tỉnh Th&aacute;i Nguy&ecirc;n v&agrave; TP. Nha Trang, Kh&aacute;nh H&ograve;a. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n mở rộng v&agrave; tham gia v&agrave;o lĩnh vực tư vấn, thi c&ocirc;ng x&acirc;y dựng v&agrave; kinh doanh thương mại vật liệu x&acirc;y dựng, bất động sản, si&ecirc;u thị. DAH được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>\r\n",
+  "website": null,
+  "price_change": 20,
+  "percent_price_change": 0.005,
+  "volume": 885538,
+  "high_52w": 4150,
+  "low_52w": 2660,
+  "pe": 112.7331559425,
+  "pb": 0.3689332146,
+  "roe": 0.0032706241,
+  "roa": 0.0027674045,
+  "eps": -11.585639893111638,
+  "revenue": 14147128466,
+  "net_profit": -975510879,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Toàn cầu HIT",
+      "shareholder_percent": 0.17815
+    },
+    {
+      "shareholder_name": "Trần Minh Tuấn",
+      "shareholder_percent": 0.089
+    },
+    {
+      "shareholder_name": "Trần Kim Phượng",
+      "shareholder_percent": 0.0484
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thịnh",
+      "shareholder_percent": 0.0416
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Mbg Lạc Sanh Phú Yên",
+      "shareholder_percent": 0.02375
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đông",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thanh",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tùng",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu",
+      "shareholder_percent": 2.92398e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai",
+      "shareholder_percent": 1.75e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Giang",
+      "shareholder_percent": 1.3e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Minh Tuấn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.089
+    },
+    {
+      "officer_name": "Nguyễn Văn Thanh",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Nguyễn Văn Thảo",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trường Sơn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Trường Giang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Nữ Ngọc Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Hải Yến",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Ban kiểm soát/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "PHẠM HUY THÀNH",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Nguyệt",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:03:36.833731"
+}

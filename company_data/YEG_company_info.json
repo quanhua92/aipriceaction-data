@@ -1,0 +1,222 @@
+{
+  "symbol": "YEG",
+  "exchange": "HOSE",
+  "industry": "Truyền thông",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2992111746000,
+  "current_price": 15600,
+  "outstanding_shares": 191802035,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Yeah1 (YEG) c&oacute; tiền th&acirc;n l&agrave; trang th&ocirc;ng tin điện tử <a href=\"http://www.yeah1.com\">www.yeah1.com</a>&nbsp;được th&agrave;nh lập v&agrave;o năm 2006. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực cung cấp dịch vụ quảng c&aacute;o&nbsp;truyền h&igrave;nh, dịch vụ quảng c&aacute;o tr&ecirc;n nền tảng kỹ thuật số, đại l&yacute; mua b&aacute;n quảng c&aacute;o v&agrave; bản quyền phim truyền h&igrave;nh, đầu tư, sản xuất hoặc marketing cho c&aacute;c bộ phim chiếu rạp. YEG hiện sở hữu v&agrave; vận h&agrave;nh 4 k&ecirc;nh truyền h&igrave;nh trả tiền phủ s&oacute;ng cả nước l&agrave; Yeah1 TV, Yeah1 Family, iMovie TV v&agrave; UNI Channel. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n đ&oacute;ng vai tr&ograve; l&agrave; đại l&yacute; mua b&aacute;n c&aacute;c quảng c&aacute;o v&agrave; bản quyền phim cho 16 đ&agrave;i truyền h&igrave;nh quốc gia, địa phương v&agrave; c&aacute;c k&ecirc;nh truyền h&igrave;nh tư nh&acirc;n ở Việt Nam.&nbsp;YEG được ni&ecirc;m yết v&agrave;&nbsp;giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 06/2018.</div>\r\n",
+  "website": null,
+  "price_change": -350,
+  "percent_price_change": -0.02194357,
+  "volume": 4970254,
+  "high_52w": 22635,
+  "low_52w": 8105,
+  "pe": 15.8784719465,
+  "pb": 1.4621418045,
+  "roe": 0.0876080544,
+  "roa": 0.0592396513,
+  "eps": 145.5143486199195,
+  "revenue": 463718577497,
+  "net_profit": 27909948187,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Ancla Asset Limited",
+      "shareholder_percent": 0.0786
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0743
+    },
+    {
+      "shareholder_name": "Lê Phương Thảo",
+      "shareholder_percent": 0.0576
+    },
+    {
+      "shareholder_name": "Chế Đoàn Viên",
+      "shareholder_percent": 0.04988
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Cường",
+      "shareholder_percent": 0.0497
+    },
+    {
+      "shareholder_name": "Đào Phúc Trí",
+      "shareholder_percent": 0.0459
+    },
+    {
+      "shareholder_name": "Macquarie Bank Limited Obu",
+      "shareholder_percent": 0.0458
+    },
+    {
+      "shareholder_name": "Hồ Ngọc Tấn",
+      "shareholder_percent": 0.0308
+    },
+    {
+      "shareholder_name": "Phạm Minh Tiến",
+      "shareholder_percent": 0.0224
+    },
+    {
+      "shareholder_name": "Ngô Thị Vân Hạnh",
+      "shareholder_percent": 0.008
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Thanh",
+      "shareholder_percent": 0.0079
+    },
+    {
+      "shareholder_name": "Lê Văn Lãnh",
+      "shareholder_percent": 0.0064
+    },
+    {
+      "shareholder_name": "Võ Thái Phong",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Trúc Mai",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Linh",
+      "shareholder_percent": 0.002378
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Hưng",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Phạm Minh Hồng",
+      "shareholder_percent": 0.00049
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Khánh Trang",
+      "shareholder_percent": 0.00037
+    },
+    {
+      "shareholder_name": "Vương Hồ Trí Dũng",
+      "shareholder_percent": 0.000369
+    },
+    {
+      "shareholder_name": "Nguyễn Vũ Nghị",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trần Thị Mỹ Duyên",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Phạm Lê Anh Thư",
+      "shareholder_percent": 0.00025
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Nam",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Loh Yean Wei Jason",
+      "shareholder_percent": 4.6e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Vũ",
+      "shareholder_percent": 2.37e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đào Phúc Trí",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0459
+    },
+    {
+      "officer_name": "Võ Thái Phong",
+      "officer_position": "Phó Tổng Giám đốc Tài chính",
+      "officer_percent": 0.0027
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Hưng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Nguyễn Vũ Nghị",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Trần Thị Mỹ Duyên",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Văn Nam",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.00011
+    },
+    {
+      "officer_name": "Lâm Quốc Thái",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ảnh Nhượng Tống",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đặng Quỳnh Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Cang",
+      "officer_position": "Phó Tổng Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Vinh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Phó Giám đốc Điều hành/Phó Tổng Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Punnya Niraan De Silva",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Nữ",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Đức Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Don Di Lam",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lý Trường Chiến",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Quốc Bảo",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:18:11.904471"
+}

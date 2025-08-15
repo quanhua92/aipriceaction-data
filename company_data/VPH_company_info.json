@@ -1,0 +1,165 @@
+{
+  "symbol": "VPH",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 576914690000,
+  "current_price": 6050,
+  "outstanding_shares": 95357800,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Vạn Ph&aacute;t Hưng (VPH) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Vạn Ph&aacute;t Hưng được th&agrave;nh lập v&agrave;o năm&nbsp;1999. C&ocirc;ng ty hoạt động kinh doanh trong lĩnh vực đầu tư ph&aacute;t triển v&agrave; kinh doanh dự &aacute;n bất động sản, đặc biệt tại địa b&agrave;n th&agrave;nh phố Hồ Ch&iacute; Minh. VPH ch&iacute;nh thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2006. Một số dự &aacute;n ti&ecirc;u biểu của C&ocirc;ng ty&nbsp;l&agrave; Khu d&acirc;n cư Ph&uacute; Mỹ&nbsp;(Nh&agrave; B&egrave;, Th&agrave;nh phố Hồ Ch&iacute; Minh), Khu căn hộ Ph&uacute; Mỹ Thuận (Nh&agrave; B&egrave;, Th&agrave;nh phố Hồ Ch&iacute; Minh), Dự &aacute;n Tulip Tower (Quận 7, Th&agrave;nh phố Hồ Ch&iacute; Minh), Dự &aacute;n Khu phức hợp La Casa (Quận 7, Th&agrave;nh phố Hồ Ch&iacute; Minh).&nbsp;VPH được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2009.</div>\r\n",
+  "website": null,
+  "price_change": -90,
+  "percent_price_change": -0.01465798,
+  "volume": 225468,
+  "high_52w": 9234,
+  "low_52w": 4990,
+  "pe": 3.6418143661,
+  "pb": 0.5330734917,
+  "roe": 0.1436543602,
+  "roa": 0.0819176617,
+  "eps": -1.2183805310105729,
+  "revenue": 33718874111,
+  "net_profit": -116182087,
+  "dividend": 0.0826446281,
+  "shareholders": [
+    {
+      "shareholder_name": "VÕ ANH TUẤN",
+      "shareholder_percent": 0.1101
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.083
+    },
+    {
+      "shareholder_name": "Võ Nguyễn Như Nguyện",
+      "shareholder_percent": 0.082
+    },
+    {
+      "shareholder_name": "Võ Phan Hồng Ngọc (Võ Gwenyth Ngọ",
+      "shareholder_percent": 0.0816
+    },
+    {
+      "shareholder_name": "Võ Phan Khôi Nguyên",
+      "shareholder_percent": 0.0816
+    },
+    {
+      "shareholder_name": "PHAN TIẾT HỒNG MINH",
+      "shareholder_percent": 0.0694
+    },
+    {
+      "shareholder_name": "Trần Thị Minh Duyên",
+      "shareholder_percent": 0.0485
+    },
+    {
+      "shareholder_name": "Quỹ đầu tư chứng khoán Bản Việt",
+      "shareholder_percent": 0.0445053619
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Đầu tư Chứng khoán Prudential Việt Nam",
+      "shareholder_percent": 0.0441377605
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Thanh",
+      "shareholder_percent": 0.0333098851
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại TNHH MTV Ngoại thương Công nghệ Số",
+      "shareholder_percent": 0.0308964323
+    },
+    {
+      "shareholder_name": "Lý Chí Nguyễn",
+      "shareholder_percent": 0.0299982289
+    },
+    {
+      "shareholder_name": "Quách Thị Tú Anh",
+      "shareholder_percent": 0.022113018
+    },
+    {
+      "shareholder_name": "Trần Văn Thành",
+      "shareholder_percent": 0.0047642298
+    },
+    {
+      "shareholder_name": "Hoàng Thị Thu Thủy",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Trần Thu Oanh",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Phạm Thị Kim Dung",
+      "shareholder_percent": 0.0001082478
+    },
+    {
+      "shareholder_name": "Huỳnh Trần Nguyên Khang",
+      "shareholder_percent": 4.3255e-05
+    },
+    {
+      "shareholder_name": "Trần Như Sương",
+      "shareholder_percent": 1.8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hương Thảo",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Trương Thành Nhân",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Trương Thanh Tâm",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "VÕ ANH TUẤN",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1101
+    },
+    {
+      "officer_name": "Võ Nguyễn Như Nguyện",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.082
+    },
+    {
+      "officer_name": "Nguyễn Thị Hương Thảo",
+      "officer_position": "Người phụ trách quản trị công ty/Phó Tổng Giám đốc",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Trương Thành Nhân",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 1e-06
+    },
+    {
+      "officer_name": "Võ Thu Hà",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thanh Phương Trang",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan  Gia Mẫn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Lệ Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Kim Luyến",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:41.614414"
+}

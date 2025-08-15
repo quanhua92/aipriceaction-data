@@ -1,0 +1,190 @@
+{
+  "symbol": "JVC",
+  "exchange": "HOSE",
+  "industry": "Thiết bị và Dịch vụ Y tế",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 652500991800,
+  "current_price": 5800,
+  "outstanding_shares": 112500171,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Ph&aacute;t triển Y tế Việt Nhật (JVC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thiết bị Y Tế Việt Nhật được th&agrave;nh lập&nbsp;v&agrave;o năm 2001. C&ocirc;ng ty ch&iacute;nh thức cổ phần h&oacute;a&nbsp;v&agrave; hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2010. C&ocirc;ng ty chuy&ecirc;n ph&acirc;n phối, bảo h&agrave;nh, sửa chữa c&aacute;c thiết bị chuẩn đo&aacute;n h&igrave;nh ảnh c&ocirc;ng nghệ hiện đại, ch&aacute;t lượng của h&atilde;ng. &nbsp;Kinh doanh thiết bị y tế l&agrave; mảng hoạt động ch&iacute;nh của C&ocirc;ng ty. C&ocirc;ng ty chuy&ecirc;n cung cấp c&aacute;c d&ograve;ng sản phẩm thiết bị y tế c&ocirc;ng nghệ cao như m&aacute;y cộng hưởng từ (MRI), m&aacute;y chụp cắt lớp vi t&iacute;nh (CT-scanner system), m&aacute;y X-quang (X-ray system), m&aacute;y si&ecirc;u &acirc;m (Ultrasound-scanner system), hệ thống chụp X-quang số, m&aacute;y chạy thận nh&acirc;n tạo, m&aacute;y x&eacute;t nghiệm huyết học, m&aacute;y mổ taath kh&uacute;c xạ, m&aacute;y mổ đục thủy tinh thể...được nhập từ c&aacute;c nước Nhật Bản, H&agrave;n Quốc, Singapore. Ng&agrave;y 21/06/2011, JVC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)</div>\r\n",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.03333333,
+  "volume": 261539,
+  "high_52w": 6520,
+  "low_52w": 2950,
+  "pe": 12.4629927978,
+  "pb": 1.1508466926,
+  "roe": 0.0954936878,
+  "roa": 0.0638483798,
+  "eps": 27.581534342734464,
+  "revenue": 136334347005,
+  "net_profit": 3102927330,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công Ty Cổ Phần Quản Lý Và Đầu Tư Dtn Việt Nam",
+      "shareholder_percent": 0.1511
+    },
+    {
+      "shareholder_name": "Vietnam Equity Holding",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hiếu",
+      "shareholder_percent": 0.0489
+    },
+    {
+      "shareholder_name": "Lê Văn Hướng",
+      "shareholder_percent": 0.0427
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0412
+    },
+    {
+      "shareholder_name": "Balestrand Limited",
+      "shareholder_percent": 0.0324176218
+    },
+    {
+      "shareholder_name": "Indochina Development Partners L.P",
+      "shareholder_percent": 0.02139909
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.0167
+    },
+    {
+      "shareholder_name": "Hồ Bích Ngọc",
+      "shareholder_percent": 0.0016148686
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.00143662
+    },
+    {
+      "shareholder_name": "Phạm Văn Thanh",
+      "shareholder_percent": 0.0011807004
+    },
+    {
+      "shareholder_name": "Nguyễn Phương Hạnh",
+      "shareholder_percent": 0.0007969498
+    },
+    {
+      "shareholder_name": "Đặng Trần Đạt",
+      "shareholder_percent": 0.000422
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thuý Quỳnh",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Ngọc Hoa",
+      "shareholder_percent": 3.56e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dương",
+      "shareholder_percent": 7.9022e-06
+    },
+    {
+      "shareholder_name": "Vũ Thị Hải Ninh",
+      "shareholder_percent": 4.4444e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Điền",
+      "shareholder_percent": 4.4444e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Thắng",
+      "shareholder_percent": 3.6977e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Quỳnh Anh",
+      "shareholder_percent": 3.18e-06
+    },
+    {
+      "shareholder_name": "Đặng Thập Nương",
+      "shareholder_percent": 2.2222e-06
+    },
+    {
+      "shareholder_name": "Đặng Nhị Nương",
+      "shareholder_percent": 2.2222e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Việt Cường",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Lê Thắng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Ngọc Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Văn Kiên",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Điệp",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Lân Việt Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Huy Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Thùy Mai",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Minh Chung",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thảo Hương",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Đức Thanh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hạnh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "ĐẶNG THỊ HÀ GIANG",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Vỹ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:43.955885"
+}

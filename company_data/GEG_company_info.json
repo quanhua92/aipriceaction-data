@@ -1,0 +1,235 @@
+{
+  "symbol": "GEG",
+  "exchange": "HOSE",
+  "industry": "Sản xuất & Phân phối Điện",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 6198734818300,
+  "current_price": 17300,
+  "outstanding_shares": 358308371,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Điện Gia Lai (GEG) c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Thủy điện Gia Lai &ndash; Kon Tum, được th&agrave;nh lập v&agrave;o th&aacute;ng 06/1989. Hoạt động sản xuất ch&iacute;nh của C&ocirc;ng ty l&agrave; sản xuất,&nbsp;truyền tải,&nbsp;ph&acirc;n phối v&agrave; kinh doanh&nbsp;điện năng. GEG ch&iacute;nh thức&nbsp;hoạt động&nbsp;theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2010. C&ocirc;ng ty đ&atilde; trực tiếp đầu tư v&agrave; g&oacute;p vốn đầu tư x&acirc;y dựng 13 nh&agrave; m&aacute;y thủy điện với tổng c&ocirc;ng suất hơn 90 MW. Theo t&iacute;nh to&aacute;n l&yacute; thuyết của Tạp ch&iacute; năng lượng Việt Nam, tổng c&ocirc;ng suất thủy điện của nước ta v&agrave;o khoảng 35.000 MW, trong đ&oacute; 60% tập trung tại miền Bắc, 27% ph&acirc;n bố ở miền Trung v&agrave; 13% thuộc khu vực miền Nam. C&aacute;c dự &aacute;n Điện Mặt trời hoạt động của GEC đa phần đều l&agrave; những dự &aacute;n đầu ti&ecirc;n đ&oacute;ng điện tại địa b&agrave;n c&oacute; tỷ lệ bức xạ mặt trời tương đối tốt từ 4,6-5,3 kWh/m2 /ng&agrave;y với số giờ nắng từ 1.700-2.544 giờ/năm. Ng&agrave;y 19/09/2019, GEG&nbsp;ch&iacute;nh thức giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.00581395,
+  "volume": 2403676,
+  "high_52w": 18450,
+  "low_52w": 10450,
+  "pe": 13.3440977805,
+  "pb": 1.2554684873,
+  "roe": 0.1178854742,
+  "roa": 0.0352874388,
+  "eps": 462.787846438564,
+  "revenue": 624339137173,
+  "net_profit": 165820759376,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Jera Asia Vietnam Holdings Pte. Ltd.",
+      "shareholder_percent": 0.351
+    },
+    {
+      "shareholder_name": "Avh Pte.ltd",
+      "shareholder_percent": 0.351
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Thành Thành Công",
+      "shareholder_percent": 0.1679
+    },
+    {
+      "shareholder_name": "DEG – Deutsche Investitions - Und Entwicklungsgesellschaft MBH",
+      "shareholder_percent": 0.1583428
+    },
+    {
+      "shareholder_name": "International Finance Corporation",
+      "shareholder_percent": 0.13736
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thành Thành Công - Biên Hòa",
+      "shareholder_percent": 0.1099
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Xuất Nhập Khẩu Bến Tre",
+      "shareholder_percent": 0.0633
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "shareholder_percent": 0.0533
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Hàng tiêu dùng Biên Hòa",
+      "shareholder_percent": 0.0528
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Khu Công Nghiệp Thành Thành Công",
+      "shareholder_percent": 0.0383
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Thành Thành Công Gia Lai",
+      "shareholder_percent": 0.029
+    },
+    {
+      "shareholder_name": "CÔNG TY TNHH MTV THÀNH THÀNH CÔNG GIA LAI",
+      "shareholder_percent": 0.029
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Thanh Mai",
+      "shareholder_percent": 0.0035
+    },
+    {
+      "shareholder_name": "Huỳnh Bích Ngọc",
+      "shareholder_percent": 0.00307
+    },
+    {
+      "shareholder_name": "Đặng Huỳnh Ức My",
+      "shareholder_percent": 0.00231
+    },
+    {
+      "shareholder_name": "Hà Nguyên Hoàng",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "TÂN XUÂN HIẾN",
+      "shareholder_percent": 0.00192
+    },
+    {
+      "shareholder_name": "Nguyễn Thái Hà",
+      "shareholder_percent": 0.00134
+    },
+    {
+      "shareholder_name": "Đặng Huỳnh Anh Tuấn",
+      "shareholder_percent": 0.00111
+    },
+    {
+      "shareholder_name": "Andrew Mark Affleck",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Trần Thị Phương",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Lê Thanh Vinh",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Phan Thanh Lạc",
+      "shareholder_percent": 0.00076
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Tuấn",
+      "shareholder_percent": 0.00075
+    },
+    {
+      "shareholder_name": "Phạm Thị Khuê",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Phong Phú",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Tân Xuân Hiến",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cân bằng Bản Việt",
+      "shareholder_percent": 0.0006130706
+    },
+    {
+      "shareholder_name": "Nguyễn Thùy Vân",
+      "shareholder_percent": 0.00055
+    },
+    {
+      "shareholder_name": "Lê An Khang",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Trần Thị Hồng Thắm",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Phạm Thành Tuấn Anh",
+      "shareholder_percent": 0.00036
+    },
+    {
+      "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Điện Gia Lai",
+      "shareholder_percent": 0.00031
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Hùng",
+      "shareholder_percent": 0.000274
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Vinh",
+      "shareholder_percent": 0.00013
+    },
+    {
+      "shareholder_name": "Tân Xuân Hậu",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Nhung",
+      "shareholder_percent": 7e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "TÂN XUÂN HIẾN",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00192
+    },
+    {
+      "officer_name": "Nguyễn Thái Hà",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.00134
+    },
+    {
+      "officer_name": "Đặng Huỳnh Anh Tuấn",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00111
+    },
+    {
+      "officer_name": "Lê Thanh Vinh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Nguyễn Phong Phú",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Phạm Thị Khuê",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0007
+    },
+    {
+      "officer_name": "Nguyễn Thùy Vân",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.00055
+    },
+    {
+      "officer_name": "Trần Thị Hồng Thắm",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Phạm Thành Tuấn Anh",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0.00036
+    },
+    {
+      "officer_name": "Nguyễn Thế Vinh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00013
+    },
+    {
+      "officer_name": "Deepak Chand Khanna",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:06:58.179814"
+}

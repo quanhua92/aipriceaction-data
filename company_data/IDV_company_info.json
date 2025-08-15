@@ -1,0 +1,263 @@
+{
+  "symbol": "IDV",
+  "exchange": "HNX",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1142258722900,
+  "current_price": 27700,
+  "outstanding_shares": 41236777,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&aacute;t triển Hạ tầng Vĩnh Ph&uacute;c (IDV)&nbsp;l&agrave; doanh nghiệp chuy&ecirc;n kinh doanh cơ sở hạ tầng khu c&ocirc;ng nghiệp được th&agrave;nh lập năm 2003. C&ocirc;ng ty l&agrave; chủ đầu tư ph&aacute;t triển kinh doanh hạ tầng của 2 khu c&ocirc;ng nghiệp l&agrave; khu c&ocirc;ng nghiệp Khai Quang tại th&agrave;nh phố Vĩnh Y&ecirc;n, tỉnh Vĩnh Ph&uacute;c v&agrave; khu c&ocirc;ng nghiệp Ch&acirc;u Sơn&nbsp;tại th&agrave;nh phố&nbsp;Phủ L&yacute;, tỉnh H&agrave; Nam. Doanh thu của c&ocirc;ng ty đến từ 3 nguồn ch&iacute;nh l&agrave; ph&iacute; sử dụng hạ tầng, ph&iacute; quản l&yacute; khu c&ocirc;ng nghiệp v&agrave; ph&iacute; xử l&yacute; nước thải. C&ocirc;ng ty l&agrave; một doanh nghiệp c&oacute; uy t&iacute;n trong lĩnh vực x&acirc;y dựng v&agrave; kinh doanh hạ tầng kỹ thuật khu c&ocirc;ng nghiệp. IDV được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2010.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.00716846,
+  "volume": 40137,
+  "high_52w": 35500,
+  "low_52w": 22600,
+  "pe": 10.3926580221,
+  "pb": 1.2867342631,
+  "roe": 0.1266961383,
+  "roa": 0.0580806117,
+  "eps": 390.55969454159816,
+  "revenue": 27782116972,
+  "net_profit": 16105423029,
+  "dividend": 0.0541516245,
+  "shareholders": [
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.18007
+    },
+    {
+      "shareholder_name": "Hoàng Đình Thắng",
+      "shareholder_percent": 0.12639999
+    },
+    {
+      "shareholder_name": "Trịnh Việt Dũng",
+      "shareholder_percent": 0.0796
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kiến",
+      "shareholder_percent": 0.0693
+    },
+    {
+      "shareholder_name": "VĂN PHỤNG HÀ",
+      "shareholder_percent": 0.047422
+    },
+    {
+      "shareholder_name": "Tạ Phạm Bích Thủy",
+      "shareholder_percent": 0.0436
+    },
+    {
+      "shareholder_name": "CÔNG TY TNHH MTV VPID HÀ NỘI",
+      "shareholder_percent": 0.042235491
+    },
+    {
+      "shareholder_name": "Lê Tùng Sơn",
+      "shareholder_percent": 0.0337
+    },
+    {
+      "shareholder_name": "PHÙNG VĂN QUÝ",
+      "shareholder_percent": 0.0305
+    },
+    {
+      "shareholder_name": "Phạm Hữu Ái",
+      "shareholder_percent": 0.017
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hương",
+      "shareholder_percent": 0.0105294904
+    },
+    {
+      "shareholder_name": "Trịnh Việt Cường",
+      "shareholder_percent": 0.0094
+    },
+    {
+      "shareholder_name": "PHẠM TRUNG KIÊN",
+      "shareholder_percent": 0.0091
+    },
+    {
+      "shareholder_name": "Trịnh Thị Hồng Ngọc",
+      "shareholder_percent": 0.0076
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Lan",
+      "shareholder_percent": 0.0067
+    },
+    {
+      "shareholder_name": "Lê Hoàng Yến",
+      "shareholder_percent": 0.0057
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Trung",
+      "shareholder_percent": 0.0051
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Đệ",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Lê Quốc Minh",
+      "shareholder_percent": 0.0048
+    },
+    {
+      "shareholder_name": "Phạm Hữu Ánh",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Anh Mai",
+      "shareholder_percent": 0.0046
+    },
+    {
+      "shareholder_name": "Phạm Văn Hoanh",
+      "shareholder_percent": 0.0042
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lâm Hạnh",
+      "shareholder_percent": 0.0039
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Ngọc",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Trường",
+      "shareholder_percent": 0.0023687081
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Phương Trinh",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Văn Thị Bông",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Cao Đình Thi",
+      "shareholder_percent": 0.0021
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoàn",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Nguyễn Thùy Linh",
+      "shareholder_percent": 0.0017
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Trung",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Phùng Văn Thú",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Vũ Thị Hồng Trà",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Quách Trọng Đức",
+      "shareholder_percent": 0.0009909743
+    },
+    {
+      "shareholder_name": "Phùng Thị Lan Phương",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Phùng Tiến Nghĩa",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Đỗ Minh Hòa",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Công đoàn CTCP Phát triển Hạ tầng Vĩnh Phúc",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Tùng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Phùng Thị Vụ",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Đỗ Ngọc Hoa",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Văn Phụng Trường Sơn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Vũ Hà Linh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phan Văn Vinh",
+      "shareholder_percent": 9.7078e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hoàng Đình Thắng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.12639999
+    },
+    {
+      "officer_name": "Trịnh Việt Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0796
+    },
+    {
+      "officer_name": "Lê Tùng Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0337
+    },
+    {
+      "officer_name": "PHÙNG VĂN QUÝ",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0305
+    },
+    {
+      "officer_name": "PHẠM TRUNG KIÊN",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0091
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Lan",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0067
+    },
+    {
+      "officer_name": "Nguyễn Anh Đệ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.005
+    },
+    {
+      "officer_name": "Phạm Hữu Ánh",
+      "officer_position": "Phó Giám đốc Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0047
+    },
+    {
+      "officer_name": "Phạm Văn Hoanh",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0042
+    },
+    {
+      "officer_name": "Nguyễn Thị Hoàn",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0019
+    },
+    {
+      "officer_name": "Nguyễn Huy Tùng",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0002
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:24.858462"
+}

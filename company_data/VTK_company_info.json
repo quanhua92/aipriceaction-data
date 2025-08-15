@@ -1,0 +1,130 @@
+{
+  "symbol": "VTK",
+  "exchange": "UPCOM",
+  "industry": "Tư vấn & Hỗ trợ Kinh doanh",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 518892619000,
+  "current_price": 55300,
+  "outstanding_shares": 9383230,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tư vấn v&agrave; Dịch vụ Viettel (VTK) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Khảo s&aacute;t Thiết kế được th&agrave;nh lập v&agrave;o năm 1995. C&ocirc;ng ty&nbsp;hoạt động trong lĩnh vực tư vấn thiết kế hạ tầng viễn th&ocirc;ng, d&acirc;n dụng.&nbsp;VTK ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần&nbsp;từ năm 2010. VTK l&agrave; c&ocirc;ng ty số 1 Việt Nam trong lĩnh vực tư vấn đầu tư x&acirc;y dựng hạ tầng viễn th&ocirc;ng v&agrave; l&agrave; đơn vị thiết kế h&agrave;ng đầu tại c&aacute;c thị trường nước ngo&agrave;i m&agrave; Viettel đầu tư. B&ecirc;m cạnh thị trường trong nước, VTK đ&atilde; tiến h&agrave;nh thực hiện tư vấn&nbsp;thiết kế x&acirc;y dựng c&aacute;c dự &aacute;n ti&ecirc;u biểu như: 1.400 trạm BTS v&agrave; 2.000 km truyền dẫn c&aacute;p quang tại Campuchia, 22 tuyến truyền dẫn c&aacute;p quang đường trục, 3.500 km c&aacute;p quang c&aacute;c tuyến nh&aacute;nh v&agrave; 2.000 trạm BTS tại L&agrave;o, 2.200 trạm BTS v&agrave; c&aacute;c trạm viba SDH tại Mozambique, 1.500 trạm BTS tại Cameroon. VTK được giao dịch tr&ecirc;n thị trường UPCOM&nbsp;từ th&aacute;ng 12/2018.</div>\r\n",
+  "website": null,
+  "price_change": -629,
+  "percent_price_change": -0.01121212,
+  "volume": 18611,
+  "high_52w": 79958,
+  "low_52w": 38711,
+  "pe": 22.193091277,
+  "pb": 3.6126089974,
+  "roe": 0.2194287792,
+  "roa": 0.1479181128,
+  "eps": 3262.592233697778,
+  "revenue": 379980830300,
+  "net_profit": 30613653325,
+  "dividend": 0.0270411566,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập đoàn Công nghiệp - Viễn thông Quân đội",
+      "shareholder_percent": 0.63844
+    },
+    {
+      "shareholder_name": "Công Đoàn Công ty Cổ Phần Tư Vấn Và Dịch Vụ Viettel",
+      "shareholder_percent": 0.0291
+    },
+    {
+      "shareholder_name": "Vũ Tiến Duy",
+      "shareholder_percent": 0.0096
+    },
+    {
+      "shareholder_name": "Nguyễn  Viết  Thắng",
+      "shareholder_percent": 0.00691201
+    },
+    {
+      "shareholder_name": "Lê Văn Chí",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Đào Nguyễn Hữu Đức",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Đức",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Hùng",
+      "shareholder_percent": 0.0036978
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Hải",
+      "shareholder_percent": 0.0028
+    },
+    {
+      "shareholder_name": "Nguyễn  Thị Hồng  Nhung",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Phan Thế Trường",
+      "shareholder_percent": 0.0004216
+    },
+    {
+      "shareholder_name": "Lê Tuấn Anh",
+      "shareholder_percent": 0.0001
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Vũ Tiến Duy",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0096
+    },
+    {
+      "officer_name": "Nguyễn Hữu Đức",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.0047
+    },
+    {
+      "officer_name": "Nguyễn Đăng Hùng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.0036978
+    },
+    {
+      "officer_name": "Nguyễn Hữu Hải",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0028
+    },
+    {
+      "officer_name": "Phan Thế Trường",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0004216
+    },
+    {
+      "officer_name": "Trương Thị Thu Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Địch Tuấn Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Cường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Minh Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Văn Chinh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:59.012125"
+}

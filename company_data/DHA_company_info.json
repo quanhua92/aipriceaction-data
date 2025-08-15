@@ -1,0 +1,160 @@
+{
+  "symbol": "DHA",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 786237192000,
+  "current_price": 52000,
+  "outstanding_shares": 15119946,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Ho&aacute; An (DHA) c&oacute; Tiền th&acirc;n l&agrave; X&iacute; nghiệp Đ&aacute; H&oacute;a An được th&agrave;nh lập v&agrave;o năm 1980. C&ocirc;ng ty hoạt động trong lĩnh vực khai th&aacute;c mỏ v&agrave; chế biến đ&aacute; vật liệu x&acirc;y dựng. DHA ch&iacute;nh thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2000.&nbsp;DHA hiện đang quản l&yacute; khai th&aacute;c 03 mỏ đ&aacute;, bao gồm mỏ đ&aacute; N&uacute;i Gi&oacute;, mỏ đ&aacute; T&acirc;n Cang 3 v&agrave; Mỏ đ&aacute; Thạnh Ph&uacute; 2 với tổng c&ocirc;ng suất khai th&aacute;c đạt 1.606.000m3/năm. DHA ch&iacute;nh thức được giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2004.</p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 148053,
+  "high_52w": 52700,
+  "low_52w": 33150,
+  "pe": 9.5111296304,
+  "pb": 1.6726584977,
+  "roe": 0.1856894105,
+  "roa": 0.1707159233,
+  "eps": 2193.098280335951,
+  "revenue": 121071889723,
+  "net_profit": 32284759881,
+  "dividend": 0.0576923077,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Vật liệu Xây dựng số 1 - Công ty Cổ phần",
+      "shareholder_percent": 0.2373
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Lộc",
+      "shareholder_percent": 0.075
+    },
+    {
+      "shareholder_name": "Vương Ngọc Tuyết",
+      "shareholder_percent": 0.04918
+    },
+    {
+      "shareholder_name": "FTIF - Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0476840327
+    },
+    {
+      "shareholder_name": "Pxp Vietnam Fund Limited",
+      "shareholder_percent": 0.0330689011
+    },
+    {
+      "shareholder_name": "Citgroup Global Markets Limited",
+      "shareholder_percent": 0.0282889237
+    },
+    {
+      "shareholder_name": "Vietnam Emerging Equity Fund Limited",
+      "shareholder_percent": 0.0220539808
+    },
+    {
+      "shareholder_name": "Đinh Lê Chiến",
+      "shareholder_percent": 0.0099
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Lương",
+      "shareholder_percent": 0.0091
+    },
+    {
+      "shareholder_name": "Lại Duy Hồng",
+      "shareholder_percent": 0.0056006113
+    },
+    {
+      "shareholder_name": "Trần Phương Tùng",
+      "shareholder_percent": 0.0016930907
+    },
+    {
+      "shareholder_name": "Công đoàn Công ty Cổ phần Hóa An",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Lê Thị Quyết",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Lê Thị Quyên",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 0.00143419
+    },
+    {
+      "shareholder_name": "Trần Sỹ Phúc",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Phùng Quang Ngọc",
+      "shareholder_percent": 0.0009446118
+    },
+    {
+      "shareholder_name": "Trần Văn Tề",
+      "shareholder_percent": 0.0008416984
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hòa",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Công Hạnh",
+      "shareholder_percent": 0.0001493903
+    },
+    {
+      "shareholder_name": "Phan Văn Quang",
+      "shareholder_percent": 9.95935e-05
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư và Xây dựng 3-2",
+      "shareholder_percent": 3e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đinh Lê Chiến",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0099
+    },
+    {
+      "officer_name": "Nguyễn Văn Lương",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0091
+    },
+    {
+      "officer_name": "Đỗ Việt Cường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Xuân Long",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Quốc Trung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Tiến Bảy",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Thị Cẩm Hường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:03:56.727516"
+}

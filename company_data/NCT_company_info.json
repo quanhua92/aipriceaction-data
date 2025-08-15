@@ -1,0 +1,176 @@
+{
+  "symbol": "NCT",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2904530340000,
+  "current_price": 111000,
+  "outstanding_shares": 26166940,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dịch vụ H&agrave;ng h&oacute;a Nội B&agrave;i (NCT), đơn vị th&agrave;nh vi&ecirc;n của Tổng C&ocirc;ng ty H&agrave;ng kh&ocirc;ng Việt Nam, được th&agrave;nh lập năm 2005. C&ocirc;ng ty l&agrave; doanh nghiệp hoạt động l&acirc;u đời nhất s&acirc;n bay Quốc tế Nội B&agrave;i v&agrave; c&oacute; mạng lưới kh&aacute;ch h&agrave;ng rộng lớn. Kh&aacute;ch h&agrave;ng của c&ocirc;ng ty NCT bao gồm hơn 30 h&atilde;ng h&agrave;ng kh&ocirc;ng trong v&agrave; ngo&agrave;i nước đang khai th&aacute;c tại s&acirc;n bay Quốc tế Nội B&agrave;i, tr&ecirc;n 400 c&ocirc;ng ty, đại l&yacute; giao nhận h&agrave;ng ho&aacute;.&nbsp;C&ocirc;ng ty cung cấp dịch vụ phục vụ h&agrave;ng h&oacute;a, xử l&yacute; h&agrave;ng h&oacute;a, lưu kho v&agrave; dịch vụ kh&aacute;c. Sản lượng h&agrave;ng th&ocirc;ng qua bao gồm thiết bị điện tử (40 - 45%), dệt may (25 - 30%). NCT được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</div>\r\n",
+  "website": null,
+  "price_change": 500,
+  "percent_price_change": 0.00452489,
+  "volume": 8524,
+  "high_52w": 122000,
+  "low_52w": 89600,
+  "pe": 9.6045241626,
+  "pb": 4.259353395,
+  "roe": 0.5159719207,
+  "roa": 0.4092475358,
+  "eps": 3263.362770817954,
+  "revenue": 280429229182,
+  "net_profit": 85388275680,
+  "dividend": 0.0720720721,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Hàng không Việt Nam - CTCP",
+      "shareholder_percent": 0.5513
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.1202
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài",
+      "shareholder_percent": 0.0698
+    },
+    {
+      "shareholder_name": "Stichting Depositary APG Emerging Markets Equity Markets Pool",
+      "shareholder_percent": 0.0258
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quốc tế Sao Đỏ",
+      "shareholder_percent": 0.0242076452
+    },
+    {
+      "shareholder_name": "PFA Asset Management",
+      "shareholder_percent": 0.0121
+    },
+    {
+      "shareholder_name": "HKJC Equity Trust Fund",
+      "shareholder_percent": 0.0086
+    },
+    {
+      "shareholder_name": "Emerging Asia Select",
+      "shareholder_percent": 0.0017
+    },
+    {
+      "shareholder_name": "Đặng Thanh Hải",
+      "shareholder_percent": 0.0016429121
+    },
+    {
+      "shareholder_name": "Commonwealth Asian Share Fund 2",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "FTIF - Temp Asian Div Fund",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Giang Tiến",
+      "shareholder_percent": 0.0006782
+    },
+    {
+      "shareholder_name": "Đinh Trọng Sơn",
+      "shareholder_percent": 0.0004013
+    },
+    {
+      "shareholder_name": "Phạm Hải Phong",
+      "shareholder_percent": 0.000128597
+    },
+    {
+      "shareholder_name": "Đỗ Khắc Thanh",
+      "shareholder_percent": 0.000128597
+    },
+    {
+      "shareholder_name": "Ngô Quang Huy",
+      "shareholder_percent": 7.65122e-05
+    },
+    {
+      "shareholder_name": "Đinh Thu Hà",
+      "shareholder_percent": 5.14031e-05
+    },
+    {
+      "shareholder_name": "Tạ Mạnh Hùng",
+      "shareholder_percent": 7.643e-06
+    },
+    {
+      "shareholder_name": "Đào Mạnh Kiên",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Trần Mai Hạnh",
+      "shareholder_percent": 3e-07
+    },
+    {
+      "shareholder_name": "Đinh Văn Đình",
+      "shareholder_percent": 1.9e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Giang Tiến",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0006782
+    },
+    {
+      "officer_name": "Đinh Trọng Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0004013
+    },
+    {
+      "officer_name": "Đinh Văn Đình",
+      "officer_position": "Phụ trách Công bố thông tin/Trưởng phòng Tài chính - Kế toán/Kế toán trưởng",
+      "officer_percent": 1.9e-07
+    },
+    {
+      "officer_name": "Hồ Quang Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Dương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Xuân Mạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Việt Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Hưng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Phúc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Phương",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hà",
+      "officer_position": "Thành viên Ban kiểm soát/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Hồng Sơn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:49.052111"
+}

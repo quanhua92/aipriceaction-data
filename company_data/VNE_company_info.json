@@ -1,0 +1,256 @@
+{
+  "symbol": "VNE",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 546215036120,
+  "current_price": 6040,
+  "outstanding_shares": 90432953,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần X&acirc;y dựng điện Việt Nam (VNE) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty X&acirc;y lắp Điện 3 được th&agrave;nh lập v&agrave;o năm 1988.&nbsp;Năm 2005 chuyển sang hoạt động theo m&ocirc; h&igrave;nh Tổng c&ocirc;ng ty. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực x&acirc;y dựng điện. Th&ocirc;ng qua c&aacute;c c&ocirc;ng ty con, VNE chủ yếu cung cấp dịch vụ cho c&aacute;c dự &aacute;n x&acirc;y dựng hệ thống lưới điện v&agrave; trạm biến &aacute;p 500kV. VNECO đ&atilde; thực hiện thi c&ocirc;ng c&aacute;c nh&agrave; m&aacute;y thủy điện v&agrave; điện mặt trời&nbsp;như&nbsp;Nh&agrave; m&aacute;y thủy điện Hồi xu&acirc;n, nh&agrave; m&aacute;y thủy điện K&rsquo;r&ocirc;ng H&rsquo;năng, nh&agrave; m&aacute;y thủy điện Khe Di&ecirc;n, nh&agrave; m&aacute;y điện mặt trời Cam L&acirc;m, nh&agrave; m&aacute;y điện mặt trời Thuận Nam,... VNE hiện chiếm khoảng 35-40% thị phần ng&agrave;nh x&acirc;y lắp điện. Năm 2007, VNE ch&iacute;nh thức được giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -50,
+  "percent_price_change": -0.00821018,
+  "volume": 597289,
+  "high_52w": 6860,
+  "low_52w": 2320,
+  "pe": -1.8014782002,
+  "pb": 0.7939971729,
+  "roe": -0.380511973,
+  "roa": -0.0858629676,
+  "eps": -801.7327343034905,
+  "revenue": 76154492471,
+  "net_profit": -65786366317,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "La Mỹ Phượng",
+      "shareholder_percent": 0.1163
+    },
+    {
+      "shareholder_name": "Erikoissijoitusrahasto Elite (Mutual Fund Elite (Non-ucits))",
+      "shareholder_percent": 0.0873
+    },
+    {
+      "shareholder_name": "Trần Quang Cần",
+      "shareholder_percent": 0.0525
+    },
+    {
+      "shareholder_name": "Vũ Đình Cương",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Trần Huyền Linh",
+      "shareholder_percent": 0.0474
+    },
+    {
+      "shareholder_name": "Phạm Đỗ Minh Triết",
+      "shareholder_percent": 0.0456177
+    },
+    {
+      "shareholder_name": "Công ty CP Malblue",
+      "shareholder_percent": 0.0445
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Khải Toàn",
+      "shareholder_percent": 0.0405
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Và Kinh Doanh Tài Sản Việt Nam",
+      "shareholder_percent": 0.0371238011
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0275
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tuấn",
+      "shareholder_percent": 0.024374
+    },
+    {
+      "shareholder_name": "Đoàn Đức Hồng",
+      "shareholder_percent": 0.01581
+    },
+    {
+      "shareholder_name": "Phạm Đỗ Tường Vy",
+      "shareholder_percent": 0.0158
+    },
+    {
+      "shareholder_name": "Hoàng Thị Lặc",
+      "shareholder_percent": 0.00582
+    },
+    {
+      "shareholder_name": "Nguyễn Đậu Thảo",
+      "shareholder_percent": 0.00444
+    },
+    {
+      "shareholder_name": "Trần Hồng Thịnh",
+      "shareholder_percent": 0.00402433
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tâm",
+      "shareholder_percent": 0.0035092158
+    },
+    {
+      "shareholder_name": "Phan Anh Quang",
+      "shareholder_percent": 0.00253
+    },
+    {
+      "shareholder_name": "Phạm Hữu Minh Huy",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Vũ Văn Diêm",
+      "shareholder_percent": 0.0021489922
+    },
+    {
+      "shareholder_name": "Hồ Bá Thân",
+      "shareholder_percent": 0.0019316784
+    },
+    {
+      "shareholder_name": "Nguyễn Tịnh",
+      "shareholder_percent": 0.00189
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xây dựng điện VNECO4",
+      "shareholder_percent": 0.00177
+    },
+    {
+      "shareholder_name": "Thái Văn Chấn",
+      "shareholder_percent": 0.001609732
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Bình",
+      "shareholder_percent": 0.0008821331
+    },
+    {
+      "shareholder_name": "Phan Tất Trung",
+      "shareholder_percent": 0.0006760874
+    },
+    {
+      "shareholder_name": "Phan Trịnh Anh Tuấn",
+      "shareholder_percent": 0.00061
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Đồng",
+      "shareholder_percent": 0.0005923813
+    },
+    {
+      "shareholder_name": "Đào Hữu Chuộng",
+      "shareholder_percent": 0.0004558761
+    },
+    {
+      "shareholder_name": "Đoàn Thị Lê",
+      "shareholder_percent": 0.000272
+    },
+    {
+      "shareholder_name": "Đoàn Thị Đào",
+      "shareholder_percent": 0.000269
+    },
+    {
+      "shareholder_name": "Lê Thanh Hồng",
+      "shareholder_percent": 0.00024
+    },
+    {
+      "shareholder_name": "Lê Chí Dũng",
+      "shareholder_percent": 0.00024
+    },
+    {
+      "shareholder_name": "Lê Thanh Nhã",
+      "shareholder_percent": 0.0001629048
+    },
+    {
+      "shareholder_name": "Lê Văn Khôi",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Như",
+      "shareholder_percent": 7.43e-05
+    },
+    {
+      "shareholder_name": "Trần Văn Huy",
+      "shareholder_percent": 5.48e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Quảng",
+      "shareholder_percent": 4.3e-05
+    },
+    {
+      "shareholder_name": "Đặng Trọng Ngôn",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Kiểm toán Kroize",
+      "shareholder_percent": 4.4e-07
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 1.22e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Quang Cần",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0525
+    },
+    {
+      "officer_name": "Phạm Đỗ Minh Triết",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0456177
+    },
+    {
+      "officer_name": "Nguyễn Anh Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.024374
+    },
+    {
+      "officer_name": "Phạm Hữu Minh Huy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0022
+    },
+    {
+      "officer_name": "Nguyễn Tịnh",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0020853
+    },
+    {
+      "officer_name": "Lê Chí Dũng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00024
+    },
+    {
+      "officer_name": "Lê Văn Khôi",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Trần Văn Huy",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 5.48e-05
+    },
+    {
+      "officer_name": "Phạm Phú Mai",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Hà",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Ngọc Quỳnh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hoàng Oanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:29.450087"
+}

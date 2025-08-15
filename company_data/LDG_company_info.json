@@ -1,0 +1,165 @@
+{
+  "symbol": "LDG",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1336257442000,
+  "current_price": 5200,
+  "outstanding_shares": 256972585,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư LDG (LDG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Địa ốc Long Điền được th&agrave;nh lập v&agrave;o năm 2010. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;đầu tư, ph&aacute;t triển v&agrave; kinh doanh bất động sản. C&ocirc;ng ty&nbsp;đ&atilde; triển khai&nbsp;đầu tư,&nbsp;ph&aacute;t triển v&agrave; kinh doanh c&aacute;c dự &aacute;n bất động sản v&agrave; du lịch sinh th&aacute;i với tổng diện t&iacute;ch tr&ecirc;n 400 ha ở Đồng Nai, Ph&uacute; Quốc, Bi&ecirc;n H&ograve;a, B&igrave;nh Dương. C&ocirc;ng ty c&oacute; quỹ đất lớn, nằm ở những vị tr&iacute; trọng điểm như khu vực tam gi&aacute;c ph&aacute;t triển nhất Việt Nam (TPHCM, Đồng Nai, B&igrave;nh Dương), khu du lịch hấp dẫn v&agrave; đẹp nhất tại Việt Nam (Ph&uacute; Quốc, Ki&ecirc;n Giang). LDG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 08/2015.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 10,
+  "percent_price_change": 0.00192678,
+  "volume": 6494159,
+  "high_52w": 7220,
+  "low_52w": 1600,
+  "pe": -1.1446730559,
+  "pb": 1.1486282582,
+  "roe": -0.7975452069,
+  "roa": -0.1837549054,
+  "eps": -258.85928948404137,
+  "revenue": 8372208162,
+  "net_profit": -66168537053,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Sun Holdings",
+      "shareholder_percent": 0.04952
+    },
+    {
+      "shareholder_name": "Lê Thị Tư",
+      "shareholder_percent": 0.0438
+    },
+    {
+      "shareholder_name": "Phạm Nguyễn Thúy An",
+      "shareholder_percent": 0.0438
+    },
+    {
+      "shareholder_name": "Nguyễn Khánh Hưng",
+      "shareholder_percent": 0.0392
+    },
+    {
+      "shareholder_name": "La Mỹ Phượng",
+      "shareholder_percent": 0.03788
+    },
+    {
+      "shareholder_name": "Lê Văn Thăng",
+      "shareholder_percent": 0.0375
+    },
+    {
+      "shareholder_name": "La Mỹ Hoàng",
+      "shareholder_percent": 0.03646
+    },
+    {
+      "shareholder_name": "Lê Thị Phương Uyên",
+      "shareholder_percent": 0.0037
+    },
+    {
+      "shareholder_name": "Bùi Đắc Tuấn",
+      "shareholder_percent": 0.00199464
+    },
+    {
+      "shareholder_name": "Đặng Quang Hải",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Đạt",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Ngô Văn Minh",
+      "shareholder_percent": 0.00034
+    },
+    {
+      "shareholder_name": "Võ Đình Ban",
+      "shareholder_percent": 0.00033
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Vy Liêm",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Kim Điền",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Phạm Anh Tài",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 3e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Khánh Hưng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0392
+    },
+    {
+      "officer_name": "Lê Thị Phương Uyên",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0037
+    },
+    {
+      "officer_name": "Đặng Quang Hải",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Ngô Văn Minh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00034
+    },
+    {
+      "officer_name": "Nguyễn Quốc Vy Liêm",
+      "officer_position": "Phó Tổng Giám đốc Kinh doanh và Marketing",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Thị Yến Chi",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lại Thị Bích Hằng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Quốc Nam",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Bang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Từ Minh Lý",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Minh Khang",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Ngọc Huyên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Văn Vũ",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:09:26.154240"
+}

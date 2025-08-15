@@ -1,0 +1,201 @@
+{
+  "symbol": "DXP",
+  "exchange": "HNX",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 694957542800,
+  "current_price": 11600,
+  "outstanding_shares": 59910133,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Cảng Đoạn x&aacute; (DXP)&nbsp;c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Xếp dỡ Đoạn X&aacute; được th&agrave;nh lập năm 1995. Năm 2001, c&ocirc;ng ty&nbsp;được cổ phần h&oacute;a. Hoạt động kinh doanh ch&iacute;nh của c&ocirc;ng ty l&agrave; b&ocirc;c xếp dỡ h&agrave;ng h&oacute;a tại cảng biển, kinh doanh kho b&atilde;i, dịch vụ vận tải, dịch vụ đại l&yacute; vận tải đường biển. So với c&aacute;c đơn vị kh&aacute;c c&ugrave;ng ng&agrave;nh, lợi thế lớn của c&ocirc;ng ty l&agrave; c&oacute; hệ thống kho b&atilde;i rộng r&atilde;i với diện t&iacute;ch gần 70.000 m2 b&atilde;i v&agrave; 800 m2 kho CFS. DXP ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2009.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -100,
+  "percent_price_change": -0.00854701,
+  "volume": 374470,
+  "high_52w": 12200,
+  "low_52w": 7501,
+  "pe": 8.7819858115,
+  "pb": 0.7934895642,
+  "roe": 0.0914178489,
+  "roa": 0.0814932344,
+  "eps": 484.0017764106783,
+  "revenue": 161266326383,
+  "net_profit": 28996610797,
+  "dividend": 0.0431034483,
+  "shareholders": [
+    {
+      "shareholder_name": "Hoàng Văn Quang",
+      "shareholder_percent": 0.2412707
+    },
+    {
+      "shareholder_name": "Bùi Tuấn Minh",
+      "shareholder_percent": 0.0982
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thức",
+      "shareholder_percent": 0.0918
+    },
+    {
+      "shareholder_name": "Samarang Ucits - Samarang Asian Prosperity",
+      "shareholder_percent": 0.0498
+    },
+    {
+      "shareholder_name": "AFC Vietnam Fund",
+      "shareholder_percent": 0.0496
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Sài Gòn",
+      "shareholder_percent": 0.03156837
+    },
+    {
+      "shareholder_name": "Lionglobal Vietnam Fund",
+      "shareholder_percent": 0.0312382063
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0294
+    },
+    {
+      "shareholder_name": "Vũ Cảnh Toàn",
+      "shareholder_percent": 0.0275
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Thương Mại Và Xuất Nhập Khẩu Vật Tư Giao Thông",
+      "shareholder_percent": 0.0187
+    },
+    {
+      "shareholder_name": "Asiavantage Global Limited",
+      "shareholder_percent": 0.0126984578
+    },
+    {
+      "shareholder_name": "Đinh Thị Thu Trang",
+      "shareholder_percent": 0.007
+    },
+    {
+      "shareholder_name": "Trần Thị Hằng",
+      "shareholder_percent": 0.0036288
+    },
+    {
+      "shareholder_name": "Mai Thị Yên Thế",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Đào Văn Then",
+      "shareholder_percent": 0.0020965153
+    },
+    {
+      "shareholder_name": "Bùi Hữu Đạt",
+      "shareholder_percent": 0.0017295299
+    },
+    {
+      "shareholder_name": "Bùi Thị Bích Liên",
+      "shareholder_percent": 0.0015238149
+    },
+    {
+      "shareholder_name": "Hoàng Văn Chung",
+      "shareholder_percent": 0.0014285765
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Phú",
+      "shareholder_percent": 0.0011428612
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lan Anh",
+      "shareholder_percent": 0.0004761921
+    },
+    {
+      "shareholder_name": "Vũ Hữu Chinh",
+      "shareholder_percent": 0.0003809537
+    },
+    {
+      "shareholder_name": "Dương Bá Linh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Hoàng Văn Minh",
+      "shareholder_percent": 0.0002585
+    },
+    {
+      "shareholder_name": "Trần Việt Hùng",
+      "shareholder_percent": 0.000235
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hương",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Lâm Ngọc Uyên",
+      "shareholder_percent": 1.07936e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thảo",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Vũ Tuấn Hưng",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Đào",
+      "shareholder_percent": 3.3e-06
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 3e-06
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Tratimex P&l",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hoàng Văn Quang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1302811
+    },
+    {
+      "officer_name": "Đinh Thị Thu Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.007
+    },
+    {
+      "officer_name": "Trần Thị Hằng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0036288
+    },
+    {
+      "officer_name": "Mai Thị Yên Thế",
+      "officer_position": "Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 0.0027
+    },
+    {
+      "officer_name": "Trần Việt Hùng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.000235
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Đào",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 3.3e-06
+    },
+    {
+      "officer_name": "Lê Mạnh Hoàn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đăng Đạt",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hoa",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:05:32.666778"
+}

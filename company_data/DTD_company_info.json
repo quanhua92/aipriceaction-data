@@ -1,0 +1,152 @@
+{
+  "symbol": "DTD",
+  "exchange": "HNX",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1513773448500,
+  "current_price": 22700,
+  "outstanding_shares": 66686055,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Ph&aacute;t triển Th&agrave;nh Đạt (DTD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty X&acirc;y dựng Th&agrave;nh Đạt, được th&agrave;nh lập v&agrave;o năm 2001. C&ocirc;ng ty&nbsp;hoạt&nbsp;động ch&iacute;nh trong lĩnh vực&nbsp;x&acirc;y dựng, quản&nbsp;l&yacute; v&agrave; khai th&aacute;c khu c&ocirc;ng nghiệp, cảng ICD. DTD ch&iacute;nh thức hoạt động dưới h&iacute;nh thức c&ocirc;ng ty cổ phần từ năm 2015.&nbsp;C&ocirc;ng ty đ&atilde; thi c&ocirc;ng c&aacute;c dự &aacute;n ti&ecirc;u biểu như Dự &aacute;n X&acirc;y dựng Khu c&ocirc;ng nghiệp Đồng Văn III - Duy Ti&ecirc;n - H&agrave; Nam, Dự &aacute;n đầu tư x&acirc;y dựng c&ocirc;ng tr&igrave;nh Trường THPT chuy&ecirc;n Bi&ecirc;n H&ograve;a - Phủ L&yacute; - H&agrave; Nam, Dự &aacute;n Trung t&acirc;m nu&ocirc;i dưỡng bệnh binh v&agrave; người c&oacute; c&ocirc;ng tỉnh H&agrave; Nam - Hạng mục Nh&agrave; điều dưỡng. C&ocirc;ng ty đang triển khai thực hiện&nbsp;c&aacute;c dự &aacute;n: Hợp đồng x&acirc;y dựng hạ tầng Bệnh viện Hữu Nghị Việt Đức - Cơ sở II, Dự &aacute;n x&acirc;y dựng hạ tầng Bệnh viện Bạch Mai - Cơ sở II. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n sản xuất kinh doanh vật liệu x&acirc;y dựng, nước sạch v&agrave; dịch vụ bến xe. DTD được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội(HNX) từ cuối năm 2017.</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 1397365,
+  "high_52w": 24570,
+  "low_52w": 11638,
+  "pe": 6.7296471361,
+  "pb": 1.2150479261,
+  "roe": 0.1979670112,
+  "roa": 0.0968234005,
+  "eps": 1527.1480888320655,
+  "revenue": 287971503427,
+  "net_profit": 101839481445,
+  "dividend": 0.0704845815,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Huy Cương",
+      "shareholder_percent": 0.296
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tâm",
+      "shareholder_percent": 0.0586
+    },
+    {
+      "shareholder_name": "Phillip Securities Public Company Limited",
+      "shareholder_percent": 0.0579
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Trí",
+      "shareholder_percent": 0.0529
+    },
+    {
+      "shareholder_name": "NGUYỄN THỊ KIM CHUNG",
+      "shareholder_percent": 0.0404
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Oánh",
+      "shareholder_percent": 0.0367
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Tuyển",
+      "shareholder_percent": 0.035
+    },
+    {
+      "shareholder_name": "Trần Việt Đức",
+      "shareholder_percent": 0.0222
+    },
+    {
+      "shareholder_name": "NGUYỄN QUANG ANH",
+      "shareholder_percent": 0.0121
+    },
+    {
+      "shareholder_name": "Phạm Văn Bống",
+      "shareholder_percent": 0.01
+    },
+    {
+      "shareholder_name": "Dương Thị Thu Hiền",
+      "shareholder_percent": 0.0066
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Dụ",
+      "shareholder_percent": 0.0063
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Thuyết",
+      "shareholder_percent": 0.0056
+    },
+    {
+      "shareholder_name": "Phạm Văn Diễn",
+      "shareholder_percent": 0.0048
+    },
+    {
+      "shareholder_name": "Vũ Đức Quý",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hải",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Trần Thanh Luân",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Thuấn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Quỳnh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Huyền Trang",
+      "shareholder_percent": 4e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Huy Cương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.296
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0586
+    },
+    {
+      "officer_name": "Trần Việt Đức",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0222
+    },
+    {
+      "officer_name": "NGUYỄN QUANG ANH",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.0121
+    },
+    {
+      "officer_name": "Nguyễn Khắc Dụ",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0063
+    },
+    {
+      "officer_name": "Nguyễn Hữu Thuyết",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0056
+    },
+    {
+      "officer_name": "Vũ Đức Quý",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.0026
+    },
+    {
+      "officer_name": "Phạm Văn Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:05:10.159212"
+}

@@ -1,0 +1,208 @@
+{
+  "symbol": "HAX",
+  "exchange": "HOSE",
+  "industry": "Ô tô và phụ tùng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1579363310700,
+  "current_price": 14700,
+  "outstanding_shares": 107439681,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dịch vụ &Ocirc; t&ocirc; H&agrave;ng Xanh (HAX) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Cửa h&agrave;ng trưng b&agrave;y v&agrave; Xưởng sửa chữa xe&nbsp;&Ocirc; t&ocirc;&nbsp;(SAMCO3) trực thuộc C&ocirc;ng ty Cơ kh&iacute; &Ocirc; t&ocirc; S&agrave;i G&ograve;n (Nay l&agrave; Tổng C&ocirc;ng ty Cơ kh&iacute; Giao th&ocirc;ng Vận tải S&agrave;i G&ograve;n) được th&agrave;nh lập v&agrave;o&nbsp;năm 1992. C&ocirc;ng ty hoạt động&nbsp;ch&iacute;nh&nbsp;trong lĩnh vực l&agrave;m đại l&yacute; mua b&aacute;n &ocirc; t&ocirc; v&agrave; cung cấp dịch vụ sửa chữa, bảo dưỡng, bảo h&agrave;nh c&aacute;c loại &ocirc; t&ocirc;. HAX ch&iacute;nh thức hoạt&nbsp;động&nbsp;theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2000. C&ocirc;ng ty l&agrave; nh&agrave; ph&acirc;n phối đầu ti&ecirc;n của Mercedes-Benz tại Việt Nam v&agrave; cũng l&agrave;&nbsp;đơn vị ph&acirc;n phối lớn nhất của Mercedes-Benz tại Việt Nam. Năm 2006, HAX được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.02,
+  "volume": 4401086,
+  "high_52w": 18200,
+  "low_52w": 11755,
+  "pe": 16.4627343087,
+  "pb": 1.4403085948,
+  "roe": 0.0820278709,
+  "roa": 0.0384060823,
+  "eps": -41.30547783365068,
+  "revenue": 1029050424080,
+  "net_profit": -4437847362,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập Đoàn Bưu Chính Viễn Thông Việt Nam",
+      "shareholder_percent": 0.3263466
+    },
+    {
+      "shareholder_name": "Đỗ Tiến Dũng",
+      "shareholder_percent": 0.1738
+    },
+    {
+      "shareholder_name": "Vũ Thị Hạnh",
+      "shareholder_percent": 0.166078
+    },
+    {
+      "shareholder_name": "Vũ Ngọc Diệp Linh",
+      "shareholder_percent": 0.1503
+    },
+    {
+      "shareholder_name": "Hoàng Đức Thành",
+      "shareholder_percent": 0.0505
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý quỹ SSI",
+      "shareholder_percent": 0.0496
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Nhựa Phước Thành",
+      "shareholder_percent": 0.0482
+    },
+    {
+      "shareholder_name": "AFC Vietnam Fund",
+      "shareholder_percent": 0.0464
+    },
+    {
+      "shareholder_name": "Đoàn Hùng Dũng",
+      "shareholder_percent": 0.0451042081
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0393
+    },
+    {
+      "shareholder_name": "Phạm Tuấn Mai",
+      "shareholder_percent": 0.0292045757
+    },
+    {
+      "shareholder_name": "Hoàng Đức Hùng",
+      "shareholder_percent": 0.0097
+    },
+    {
+      "shareholder_name": "Trần Quốc Hải",
+      "shareholder_percent": 0.0069
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Dũng",
+      "shareholder_percent": 0.0054882217
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Anh",
+      "shareholder_percent": 0.0047913989
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngân Hà",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Lê Quang Định",
+      "shareholder_percent": 0.0019911
+    },
+    {
+      "shareholder_name": "Vũ Quang Huy",
+      "shareholder_percent": 0.0013286951
+    },
+    {
+      "shareholder_name": "Võ Thiếu Lâm",
+      "shareholder_percent": 0.0010321901
+    },
+    {
+      "shareholder_name": "Lê Văn Hiệp",
+      "shareholder_percent": 0.0005636
+    },
+    {
+      "shareholder_name": "Hoàng Thị Minh Nguyệt",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Tạ Xuân Thủy",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trần Văn Mỹ",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Đỗ Ngọc Thùy Trang",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Bích",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Văn Ngọc Trường Sơn",
+      "shareholder_percent": 0.000179918
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hằng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Minh",
+      "shareholder_percent": 8.36619e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hồng Khanh",
+      "shareholder_percent": 4.92975e-05
+    },
+    {
+      "shareholder_name": "Đặng Thị Phượng Loan",
+      "shareholder_percent": 4.34502e-05
+    },
+    {
+      "shareholder_name": "Đỗ Ngọc Oanh",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Ngọc Phương",
+      "shareholder_percent": 8.995e-07
+    },
+    {
+      "shareholder_name": "Hoàng Thị Nhị Hà",
+      "shareholder_percent": 4.497e-07
+    },
+    {
+      "shareholder_name": "VOF Investment Limited",
+      "shareholder_percent": 2.7e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đỗ Tiến Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.1738
+    },
+    {
+      "officer_name": "Vũ Thị Hạnh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Người phụ trách quản trị công ty/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.166078
+    },
+    {
+      "officer_name": "Trần Quốc Hải",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0069
+    },
+    {
+      "officer_name": "Đỗ Ngọc Thùy Trang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Trần Văn Mỹ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Bích",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Hằng",
+      "officer_position": "Kế toán trưởng/Giám đốc Tài chính",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Trần Tiểu Mai",
+      "officer_position": "Thành viên Hội đồng Quản trị/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:07:18.496991"
+}

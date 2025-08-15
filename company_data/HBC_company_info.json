@@ -1,0 +1,353 @@
+{
+  "symbol": "HBC",
+  "exchange": "UPCOM",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2881870141000,
+  "current_price": 8300,
+  "outstanding_shares": 347213270,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần X&acirc;y dựng v&agrave; Kinh doanh Địa ốc Ho&agrave; B&igrave;nh (HBC) tiền th&acirc;n l&agrave; Văn ph&ograve;ng X&acirc;y dựng H&ograve;a B&igrave;nh được th&agrave;nh lập v&agrave;o năm 1987. C&ocirc;ng ty hoạt động kinh doanh ch&iacute;nh x&acirc;y dựng d&acirc;n dụng v&agrave; c&ocirc;ng nghiệp. Ngo&agrave;i ra C&ocirc;ng ty c&ograve;n sản xuất v&agrave; kinh doanh sơn Hodastone, th&agrave;nh phẩm mộc, trang tr&iacute; nội thất, nh&ocirc;m k&iacute;nh, kinh doanh mua b&aacute;n vật liệu x&acirc;y dựng v&agrave; địa ốc, x&acirc;y dựng v&agrave; thiết kế c&aacute;c c&ocirc;ng tr&igrave;nh cầu đường, cơ sở hạ tầng v&agrave; điện nươc. C&ocirc;ng ty được C&ocirc;ng ty Li&ecirc;n Doanh Ph&uacute; Mỹ Hưng, C&ocirc;ng ty Vạn Ph&aacute;t Hưng, C&ocirc;ng ty Bitexco Land, Tổng C&ocirc;ng ty Vật liệu X&acirc;y dựng Fico t&iacute;n nhiệm chọn l&agrave;m nh&agrave; thầu ch&iacute;nh. C&ocirc;ng ty đ&atilde; thi c&ocirc;ng c&aacute;c c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu như Saigon Sky Garden Apartments, Stamford Court, Riverside Apartment, Legend Hotel, Melinh Point Tower, Ocean Place. C&ocirc;ng ty&nbsp;l&agrave; nh&agrave; thầu ch&iacute;nh dự &aacute;n Vietinbank Tower (H&agrave; Nội) &ndash; c&ocirc;ng tr&igrave;nh cao nhất Việt Nam (cao 363m) v&agrave; dự &aacute;n Saigon Centre (TP.HCM) &ndash; c&ocirc;ng tr&igrave;nh s&acirc;u nhất Việt Nam với 6 tầng hầm (s&acirc;u 28m) tại thời điểm thi c&ocirc;ng. Ng&agrave;y 18/09/2024, HBC ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 59,
+  "percent_price_change": 0.00719512,
+  "volume": 5566295,
+  "high_52w": 8900,
+  "low_52w": 4800,
+  "pe": 16.1096308028,
+  "pb": 1.6166917887,
+  "roe": 0.1041137172,
+  "roa": 0.0116278232,
+  "eps": 120.34082074685682,
+  "revenue": 935670340147,
+  "net_profit": 41783929886,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Lê Viết Hải",
+      "shareholder_percent": 0.1353
+    },
+    {
+      "shareholder_name": "Hyundai Elevators Co., Ltd.",
+      "shareholder_percent": 0.0664
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0473
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0472
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0466
+    },
+    {
+      "shareholder_name": "Lucerne Enterprise Ltd",
+      "shareholder_percent": 0.0457
+    },
+    {
+      "shareholder_name": "Chip Eng Seng Corporation Ltd.",
+      "shareholder_percent": 0.0433
+    },
+    {
+      "shareholder_name": "Sanei Architecture Planning Co., Ltd",
+      "shareholder_percent": 0.0187
+    },
+    {
+      "shareholder_name": "Bùi Ngọc Mai",
+      "shareholder_percent": 0.0137
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ Ngân hàng TMCP Đại chúng Việt nam",
+      "shareholder_percent": 0.0116583968
+    },
+    {
+      "shareholder_name": "UBS AG London Branch",
+      "shareholder_percent": 0.0067043894
+    },
+    {
+      "shareholder_name": "Lê Thị Anh Thư",
+      "shareholder_percent": 0.0058
+    },
+    {
+      "shareholder_name": "Trương Quang Nhật",
+      "shareholder_percent": 0.0058
+    },
+    {
+      "shareholder_name": "Lê Viết Hiếu",
+      "shareholder_percent": 0.0049
+    },
+    {
+      "shareholder_name": "Lê Viết Hưng",
+      "shareholder_percent": 0.0039
+    },
+    {
+      "shareholder_name": "Lê Viết Hà",
+      "shareholder_percent": 0.0035
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Tân",
+      "shareholder_percent": 0.0030621762
+    },
+    {
+      "shareholder_name": "Phương Công Thắng",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Trần Quang Đại",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Huỳnh Anh Vũ",
+      "shareholder_percent": 0.0019212232
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Thọ",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Phan Ngọc Thạnh",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán BIDV",
+      "shareholder_percent": 0.0014766954
+    },
+    {
+      "shareholder_name": "Hồ Ngọc Phương",
+      "shareholder_percent": 0.0013
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Phân Phối Sa Ti Co",
+      "shareholder_percent": 0.0012805651
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Dương Đình Thanh",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Le Thi Tinh Thuy",
+      "shareholder_percent": 0.00116189
+    },
+    {
+      "shareholder_name": "Le Hao Viet",
+      "shareholder_percent": 0.00116189
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tịnh",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Hùng Cường",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Lê Thị Kim Thoa",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Lê Thị Bích Chi",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Le Cam Tu Thi",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Brander Thi Dieu Tinh",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Nguyên Thủy",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Võ Đắc Khôi",
+      "shareholder_percent": 0.0008112311
+    },
+    {
+      "shareholder_name": "Hoàng Quang Huy",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Phạm Lâm Quỳnh Trâm",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Phạm Thị Quỳnh Trâm",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Văn An",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Đinh Văn Thanh",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lê Thị Thúy Minh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Lê Quang Vũ",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Satoru Matsuda",
+      "shareholder_percent": 0.0001621925
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 0.0001335656
+    },
+    {
+      "shareholder_name": "Nguyễn Thái Dương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lê Thị Cát Tường",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Cao Thị Diễm Châu",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phan Ngọc Kha",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Khánh Hoàng",
+      "shareholder_percent": 3.98e-05
+    },
+    {
+      "shareholder_name": "Vũ Thị Mai",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Quang Huy",
+      "shareholder_percent": 1.6e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Minh Thao",
+      "shareholder_percent": 1.4e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Viết Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1353
+    },
+    {
+      "officer_name": "Trương Quang Nhật",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0058
+    },
+    {
+      "officer_name": "Lê Viết Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0049
+    },
+    {
+      "officer_name": "Phương Công Thắng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Phan Ngọc Thạnh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Nguyễn Tấn Thọ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Dương Đình Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Nguyễn Văn Tịnh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Nguyễn Hùng Cường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Nguyễn Thị Nguyên Thủy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Đinh Văn Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Tường Bảo",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Trí Gia Nguyễn (Michael Trần)",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Doãn Kiên",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Hồng Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Park Seok Bae",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Công Phú",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quốc Duy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Văn Hùng",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trung Thành",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Thanh Huyền",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:07:25.026844"
+}

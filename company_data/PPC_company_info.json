@@ -1,0 +1,205 @@
+{
+  "symbol": "PPC",
+  "exchange": "HOSE",
+  "industry": "Sản xuất & Phân phối Điện",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3702767250000,
+  "current_price": 11350,
+  "outstanding_shares": 326235000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p align=\"left\">C&ocirc;ng ty Cổ phần Nhiệt điện Phả Lại (PPC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Nhiệt điện Phả Lại được th&agrave;nh lập v&agrave;o năm 1982. C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong&nbsp;lĩnh vực sản xuất v&agrave; kinh doanh&nbsp;điện năng. Từ năm 2006, PPC&nbsp;chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty&nbsp;hiện&nbsp;đang &nbsp;quản l&yacute; vận h&agrave;nh 02 Nh&agrave; m&aacute;y nhiệt điện, gồm 06 tổ m&aacute;y c&oacute; tổng c&ocirc;ng suất ph&aacute;t&nbsp;điện l&agrave; 1.040 MW. Mổi năm, PPC sản xuất v&agrave; cung cấp cho hệ thống điện lưới quốc gia khoảng 6 tỷ KWh. PPC được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 01/2007.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -50,
+  "percent_price_change": -0.00438596,
+  "volume": 1067378,
+  "high_52w": 13150,
+  "low_52w": 10300,
+  "pe": 15.533880543,
+  "pb": 0.8050921411,
+  "roe": 0.051404789,
+  "roa": 0.0420822931,
+  "eps": 19.00061634421161,
+  "revenue": 1940199850554,
+  "net_profit": 6091845634,
+  "dividend": 0.0440528634,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Phát điện 2",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Công ty TNHH Năng Lượng Ree",
+      "shareholder_percent": 0.2011
+    },
+    {
+      "shareholder_name": "Samarang Ucits - Samarang Asian Prosperity",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.04971791
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.04940286
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.03957954
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đại chúng Việt Nam",
+      "shareholder_percent": 0.02382767
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán OCBS",
+      "shareholder_percent": 0.0009913283
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
+      "shareholder_percent": 0.0005610501
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Sơn",
+      "shareholder_percent": 0.0003372888
+    },
+    {
+      "shareholder_name": "Phạm Kim Lâm",
+      "shareholder_percent": 0.0003326684
+    },
+    {
+      "shareholder_name": "Phạm Văn Thư",
+      "shareholder_percent": 0.000276
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuấn",
+      "shareholder_percent": 0.000232
+    },
+    {
+      "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Vũ Xuân Cường",
+      "shareholder_percent": 9.53938e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 6.65164e-05
+    },
+    {
+      "shareholder_name": "Đinh Thị Thảo",
+      "shareholder_percent": 6.65e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Chi",
+      "shareholder_percent": 6.1e-05
+    },
+    {
+      "shareholder_name": "Quỹ ETF SSIAM VNX50",
+      "shareholder_percent": 4.76275e-05
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 4.67854e-05
+    },
+    {
+      "shareholder_name": "Trịnh Thị Tuyết",
+      "shareholder_percent": 2.51607e-05
+    },
+    {
+      "shareholder_name": "Lê Thế Sơn",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Hải",
+      "shareholder_percent": 2.18e-05
+    },
+    {
+      "shareholder_name": "Hoàng Thị Viện",
+      "shareholder_percent": 1.81829e-05
+    },
+    {
+      "shareholder_name": "Đoàn Thị Dung",
+      "shareholder_percent": 1.57156e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Huy",
+      "shareholder_percent": 1.4e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tường Tấn",
+      "shareholder_percent": 1.1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Tuấn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000232
+    },
+    {
+      "officer_name": "Lê Thế Sơn",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 2.2e-05
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Hải",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 2.18e-05
+    },
+    {
+      "officer_name": "Trần Anh Duy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Xuân Dũng",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Quyền",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Tuấn Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Nguyên Đồng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Quách Vĩnh Bình",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Quyền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Gia Hùng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Thủy",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Quyên",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:20.937283"
+}

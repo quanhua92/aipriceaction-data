@@ -1,0 +1,209 @@
+{
+  "symbol": "TLH",
+  "exchange": "HOSE",
+  "industry": "Kim loại",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 699753705910,
+  "current_price": 6230,
+  "outstanding_shares": 112320017,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Th&eacute;p Tiến L&ecirc;n (TLH),&nbsp;tiền th&acirc;n l&agrave; một cửa h&agrave;ng vật liệu x&acirc;y dựng được th&agrave;nh lập năm 1988. Năm 2009, c&ocirc;ng ty được cổ phần h&oacute;a.&nbsp;Hoạt động&nbsp;kinh doanh ch&iacute;nh của c&ocirc;ng ty&nbsp;l&agrave; sản xuất, gia c&ocirc;ng&nbsp;sắt, th&eacute;p, vật liệu x&acirc;y dựng. Thị trường ti&ecirc;u thụ của c&ocirc;ng ty tập trung chủ yếu ở miền Đ&ocirc;ng Nam Bộ, miền T&acirc;y Nam Bộ, T&acirc;y Nguy&ecirc;n v&agrave; miền Trung. C&ocirc;ng ty đang&nbsp;mở rộng thị trường ra thị trường ph&iacute;a Bắc v&agrave; ho&agrave;n thiện hệ thống ph&acirc;n phối tại Việt Nam. Ngo&agrave;i thị trường trong nước, sản phẩm của c&ocirc;ng ty c&ograve;n được xuất khẩu ra c&aacute;c nước trong khu vực Ch&acirc;u &Aacute;. D&acirc;y chuyền th&eacute;p h&igrave;nh đặt tại C&ocirc;ng ty TNHH Th&eacute;p T&acirc;y Nguy&ecirc;n c&oacute; c&ocirc;ng suất thiết kế 60.000 tấn/năm,&nbsp;d&acirc;y chuyền sản xuất th&eacute;p h&igrave;nh khổ lớn nhất m&agrave; Việt Nam c&oacute; thể sản xuất được đặt tại C&ocirc;ng ty Cổ&nbsp;phần Th&eacute;p Bắc Nam c&oacute; c&ocirc;ng suất l&agrave; 300.000 tấn th&agrave;nh phẩm/năm. C&oacute; được sự th&agrave;nh c&ocirc;ng v&agrave; lớn mạnh như ng&agrave;y nay, b&ecirc;n cạnh sự hợp t&aacute;c v&agrave; gắn b&oacute; l&acirc;u d&agrave;i của c&aacute;c đối t&aacute;c v&agrave; bạn h&agrave;ng truyền thống trong v&agrave; ngo&agrave;i nước như: Ph&aacute;p, Nga, Kazakstan, Nhật Bản, H&agrave;n Quốc, Trung Quốc, Đ&agrave;i Loan, Th&aacute;i Lan, Singapore, Indonesia..&nbsp;Ng&agrave;y 16/03/2010, TLH ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -20,
+  "percent_price_change": -0.0032,
+  "volume": 1035212,
+  "high_52w": 6700,
+  "low_52w": 4060,
+  "pe": -1.6307087291,
+  "pb": 0.5594367134,
+  "roe": -0.3240499872,
+  "roa": -0.1157579801,
+  "eps": 44.237925702949276,
+  "revenue": 1880385437997,
+  "net_profit": 4968804567,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Mạnh Hà",
+      "shareholder_percent": 0.1958
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng",
+      "shareholder_percent": 0.1136
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Phượng",
+      "shareholder_percent": 0.0547
+    },
+    {
+      "shareholder_name": "Nguyễn Vũ Hồng Anh",
+      "shareholder_percent": 0.0292383
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Bảo Việt",
+      "shareholder_percent": 0.0185906576
+    },
+    {
+      "shareholder_name": "Phạm Minh Tuấn",
+      "shareholder_percent": 0.0119
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hưng",
+      "shareholder_percent": 0.0094
+    },
+    {
+      "shareholder_name": "Lê Văn Trọng",
+      "shareholder_percent": 0.0065
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán UP",
+      "shareholder_percent": 0.0061968858
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Vinh",
+      "shareholder_percent": 0.0013253277
+    },
+    {
+      "shareholder_name": "Đỗ Đức Cường",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Hùng",
+      "shareholder_percent": 0.0002524433
+    },
+    {
+      "shareholder_name": "Đặng Tuấn Đại",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Phạm Công Thìn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trương Thị Thu Hiền",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "VI (Vietnam investments) partners, LLC",
+      "shareholder_percent": 6.81657e-05
+    },
+    {
+      "shareholder_name": "New-S Securities Company Limited",
+      "shareholder_percent": 4.55471e-05
+    },
+    {
+      "shareholder_name": "Iwai Securities Co., Ltd",
+      "shareholder_percent": 3.38349e-05
+    },
+    {
+      "shareholder_name": "Đào Thị Kim Loan",
+      "shareholder_percent": 1.7e-06
+    },
+    {
+      "shareholder_name": "Ngô Thị Hồng Vân",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Nguyễn Vũ Lê",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Dương Quang Bình",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Trần Văn Tập",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Cao Thị Hoài Thu",
+      "shareholder_percent": 5.5e-07
+    },
+    {
+      "shareholder_name": "Mai Văn Tuyết",
+      "shareholder_percent": 4e-07
+    },
+    {
+      "shareholder_name": "Phạm Minh Đức",
+      "shareholder_percent": 4e-07
+    },
+    {
+      "shareholder_name": "Phạm Thanh Phong",
+      "shareholder_percent": 3e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Mạnh Hà",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1958
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Phượng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0547
+    },
+    {
+      "officer_name": "Nguyễn Vũ Hồng Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.0292383
+    },
+    {
+      "officer_name": "Đặng Tuấn Đại",
+      "officer_position": "Phó Giám đốc Điều hành",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Dương Quang Bình",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 8e-07
+    },
+    {
+      "officer_name": "Ngô Thị Hồng Vân",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 8e-07
+    },
+    {
+      "officer_name": "Cao Thị Hoài Thu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 5.5e-07
+    },
+    {
+      "officer_name": "Lê Hoàng Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cao Thị Xinh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Tâm Hiếu",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Hồng Liễu",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Vũ Hồng Anh",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Tâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:15:40.783156"
+}

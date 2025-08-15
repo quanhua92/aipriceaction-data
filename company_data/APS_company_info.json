@@ -1,0 +1,177 @@
+{
+  "symbol": "APS",
+  "exchange": "HNX",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1062400000000,
+  "current_price": 12800,
+  "outstanding_shares": 83000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Ch&acirc;u &Aacute; &ndash; Th&aacute;i B&igrave;nh Dương (APS)&nbsp;được th&agrave;nh lập&nbsp;năm 2006. Năm 2006, c&ocirc;ng ty được Ủy ban chứng kho&aacute;n Nh&agrave; nước cấp giấy ph&eacute;p hoạt&nbsp;động trong lĩnh vực kinh doanh chứng kho&aacute;n.&nbsp;C&ocirc;ng ty cung cấp dịch vụ m&ocirc;i giới, tư vấn v&agrave; đầu tư t&agrave;i ch&iacute;nh, bảo l&atilde;nh ph&aacute;t h&agrave;nh chứng kho&aacute;n. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 6,88 tỷ đồng, giảm 25.59% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 17.09%, giảm 0.63%. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 20.5 tỷ đồng. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 2.75%, tăng 23.4%. APS được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2010.</div>\r\n",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.01538462,
+  "volume": 3608501,
+  "high_52w": 14200,
+  "low_52w": 4400,
+  "pe": -23.5309824182,
+  "pb": 1.3775620529,
+  "roe": -0.0567386391,
+  "roa": -0.0561253855,
+  "eps": -82.14129837349398,
+  "revenue": 44613805104,
+  "net_profit": -6817727765,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Đỗ Lăng",
+      "shareholder_percent": 0.143
+    },
+    {
+      "shareholder_name": "Lưu Thanh Bình",
+      "shareholder_percent": 0.051025641
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Trang",
+      "shareholder_percent": 0.0495
+    },
+    {
+      "shareholder_name": "Đặng Thanh Tú",
+      "shareholder_percent": 0.0489
+    },
+    {
+      "shareholder_name": "Asean Deep Value Fund",
+      "shareholder_percent": 0.0484
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý Quỹ Tín Phát",
+      "shareholder_percent": 0.0483410256
+    },
+    {
+      "shareholder_name": "Lucerne Enterprise Ltd",
+      "shareholder_percent": 0.0477
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Apec Group",
+      "shareholder_percent": 0.045
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư FPT",
+      "shareholder_percent": 0.04102564
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán AGRIBANK",
+      "shareholder_percent": 0.03589744
+    },
+    {
+      "shareholder_name": "HUỲNH THỊ MAI DUNG",
+      "shareholder_percent": 0.0202
+    },
+    {
+      "shareholder_name": "Nguyễn Duy Khanh",
+      "shareholder_percent": 0.013
+    },
+    {
+      "shareholder_name": "Nguyễn Đỗ Hoàng Lan",
+      "shareholder_percent": 0.0096
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bốn",
+      "shareholder_percent": 0.0072
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư APEC Holding",
+      "shareholder_percent": 0.002821
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hào",
+      "shareholder_percent": 0.0028205128
+    },
+    {
+      "shareholder_name": "Phạm Duy Hưng",
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "Phạm Hoài Phương",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Huy",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Phạm Thị Đức Việt",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Quân",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai Hương",
+      "shareholder_percent": 0.0003846153
+    },
+    {
+      "shareholder_name": "Vanfleteren Zamiel",
+      "shareholder_percent": 5e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Đỗ Lăng",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.143
+    },
+    {
+      "officer_name": "Phạm Duy Hưng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0024
+    },
+    {
+      "officer_name": "Phạm Hoài Phương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0022
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Nguyễn Quang Huy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Phạm Thị Đức Việt",
+      "officer_position": "Trưởng Ban kiểm soát/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Nguyễn Đức Quân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0011
+    },
+    {
+      "officer_name": "Vũ Trọng Quân",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoài Giang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:00:40.636429"
+}

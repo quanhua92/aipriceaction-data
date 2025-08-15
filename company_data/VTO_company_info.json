@@ -1,0 +1,247 @@
+{
+  "symbol": "VTO",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1006319991600,
+  "current_price": 12600,
+  "outstanding_shares": 79866666,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần&nbsp;Vận tải Xăng dầu VITACO (VTO) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải Nhi&ecirc;n liệu VITACO được th&agrave;nh lập v&agrave;o năm 1975. C&ocirc;ng ty&nbsp;hoạt động trong lĩnh vực kinh doanh vận tải xăng dầu đường biển, dịch vụ h&agrave;ng hải, đại l&yacute; t&agrave;u biển. VTO ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2005. C&ocirc;ng ty sở hữu đội t&agrave;u vận chuyển xăng dầu với&nbsp;tổng trọng tải&nbsp;143.239 DWT. Đội t&agrave;u ven biển chiếm khoảng 40% thị phần vận tải nội địa to&agrave;n quốc, tương đương với 66% thị phần vận tải của Petrolimex. VTO được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -150,
+  "percent_price_change": -0.01176471,
+  "volume": 1064329,
+  "high_52w": 16547,
+  "low_52w": 9993,
+  "pe": 10.1919706571,
+  "pb": 0.9083281695,
+  "roe": 0.0857936765,
+  "roa": 0.0622115423,
+  "eps": 321.5449569661516,
+  "revenue": 258924368286,
+  "net_profit": 25680723682,
+  "dividend": 0.0714285714,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công Ty Vận Tải Thủy Petrolimex",
+      "shareholder_percent": 0.519181
+    },
+    {
+      "shareholder_name": "Huỳnh Quế Hà",
+      "shareholder_percent": 0.0393702454
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "shareholder_percent": 0.0368113525
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0285
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.02329332
+    },
+    {
+      "shareholder_name": "Đinh Kim Oanh",
+      "shareholder_percent": 0.0143
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.0138
+    },
+    {
+      "shareholder_name": "Tmam Vietnam Equity Mother Fund",
+      "shareholder_percent": 0.0125
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0092
+    },
+    {
+      "shareholder_name": "La Văn Út",
+      "shareholder_percent": 0.0075958
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tuyết",
+      "shareholder_percent": 0.0074
+    },
+    {
+      "shareholder_name": "Văn Thị Hồng Phượng",
+      "shareholder_percent": 0.00656
+    },
+    {
+      "shareholder_name": "KIM PMAA Vietnam Securities Investment Trust 1(Equity)",
+      "shareholder_percent": 0.0044
+    },
+    {
+      "shareholder_name": "Hà Thị Nga",
+      "shareholder_percent": 0.00438
+    },
+    {
+      "shareholder_name": "Lưu Văn Thăng",
+      "shareholder_percent": 0.0026811707
+    },
+    {
+      "shareholder_name": "Đàm Xuân Trọng",
+      "shareholder_percent": 0.0013521555
+    },
+    {
+      "shareholder_name": "Trần Tố Uyên",
+      "shareholder_percent": 0.0012725
+    },
+    {
+      "shareholder_name": "Hoàng Thị Mỹ Lợi",
+      "shareholder_percent": 0.0012521
+    },
+    {
+      "shareholder_name": "Phan Thị Kim Liên",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Công Định",
+      "shareholder_percent": 0.0006082417
+    },
+    {
+      "shareholder_name": "Lưu Văn Chung",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tuyên",
+      "shareholder_percent": 0.000175
+    },
+    {
+      "shareholder_name": "Phạm Văn Trương",
+      "shareholder_percent": 0.0001483516
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Chiến",
+      "shareholder_percent": 0.000145
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Khánh",
+      "shareholder_percent": 0.0001329585
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Huấn",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tiến",
+      "shareholder_percent": 7.60777e-05
+    },
+    {
+      "shareholder_name": "Trương Văn Minh",
+      "shareholder_percent": 7.04e-05
+    },
+    {
+      "shareholder_name": "Phạm Lý Trang Khanh",
+      "shareholder_percent": 6.886e-05
+    },
+    {
+      "shareholder_name": "Bùi Hồng Dũng",
+      "shareholder_percent": 5.45e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Chí Nam",
+      "shareholder_percent": 2.88e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Nghĩa",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Phan Thị Thuý Hằng",
+      "shareholder_percent": 1.5e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Phương Mai",
+      "shareholder_percent": 9e-07
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Sinh",
+      "shareholder_percent": 6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "La Văn Út",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0075958
+    },
+    {
+      "officer_name": "Văn Thị Hồng Phượng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00656
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tuyên",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0.000175
+    },
+    {
+      "officer_name": "Nguyễn Quang Chiến",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.000145
+    },
+    {
+      "officer_name": "Trương Văn Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 7.04e-05
+    },
+    {
+      "officer_name": "Phạm Lý Trang Khanh",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 6.886e-05
+    },
+    {
+      "officer_name": "Bùi Hồng Dũng",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 5.45e-05
+    },
+    {
+      "officer_name": "Nguyễn Chí Nam",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 2.88e-05
+    },
+    {
+      "officer_name": "Nguyễn Trọng Nghĩa",
+      "officer_position": "Kế toán trưởng/Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Nguyễn Quang Cương",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thúy Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Quang Minh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Văn Trung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Minh Ngọc",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tiến Dũng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:18:05.794830"
+}

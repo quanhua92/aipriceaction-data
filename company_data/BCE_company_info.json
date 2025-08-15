@@ -1,0 +1,164 @@
+{
+  "symbol": "BCE",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 414750000000,
+  "current_price": 11850,
+  "outstanding_shares": 35000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần X&acirc;y Dựng v&agrave; Giao Th&ocirc;ng B&igrave;nh Dương (BCE)&nbsp;được th&agrave;nh lập năm 2002. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;x&acirc;y dựng d&acirc;n dụng c&ocirc;ng nghiệp, giao th&ocirc;ng v&agrave; kinh doanh bất động sản. C&aacute;c hoạt động sản xuất kinh doanh của c&ocirc;ng ty chủ yếu diễn ra tại B&igrave;nh Dương.&nbsp;C&ocirc;ng ty đ&atilde; tham gia thi c&ocirc;ng th&agrave;nh&nbsp;c&ocirc;ng nhiều c&ocirc;ng tr&igrave;nh với tiến độ thi c&ocirc;ng đảm bảo v&agrave; chất lượng cao như: Trung t&acirc;m thương mại Mỹ Phước II, dự &aacute;n phố thương mại Rich Town tại th&agrave;nh phố mới B&igrave;nh Dương, Văn ph&ograve;ng Khu Li&ecirc;n Hợp Tỉnh B&igrave;nh Dương. So với c&aacute;c đơn vị c&ugrave;ng ng&agrave;nh c&oacute; thương hiệu mạnh như C&ocirc;ng ty CP X&acirc;y Dựng v&agrave; Đĩa ốc H&ograve;a B&igrave;nh, COTECCONS, Cơ kh&iacute; Hai Th&agrave;nh, Ti&ecirc;n Tiến, Đại Dũng, tr&igrave;nh độ khoa học kỹ thuật c&ocirc;ng nghệ của c&ocirc;ng ty đạt v&agrave;o hạng kh&aacute;. Trong lĩnh vực bất động sản, BCE đ&atilde; thực hiện th&agrave;nh c&ocirc;ng nhiều dự &aacute;n lớn như Trung t&acirc;m thương mại Mỹ Phước II, phố thương mại Rich Town...&nbsp;Ng&agrave;y 28/06/2010 BCE ch&iacute;nh thức giao dịch tại Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -50,
+  "percent_price_change": -0.00420168,
+  "volume": 163428,
+  "high_52w": 12300,
+  "low_52w": 5290,
+  "pe": 4.49249827,
+  "pb": 1.1003603659,
+  "roe": 0.2542613277,
+  "roa": 0.1417466127,
+  "eps": 185.86336282857144,
+  "revenue": 118152014480,
+  "net_profit": 6505217699,
+  "dividend": 0.0843881857,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP",
+      "shareholder_percent": 0.4442
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư MB",
+      "shareholder_percent": 0.0484233333
+    },
+    {
+      "shareholder_name": "Lê Tuấn Dũ",
+      "shareholder_percent": 0.0119596
+    },
+    {
+      "shareholder_name": "Đỗ Văn Minh",
+      "shareholder_percent": 0.0042924333
+    },
+    {
+      "shareholder_name": "Dương Thị Hồng Tỵ",
+      "shareholder_percent": 0.003156
+    },
+    {
+      "shareholder_name": "Nguyễn Kim Tiên",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "HỒ MINH DIỄM THUÝ",
+      "shareholder_percent": 0.0017
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bửu",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Phạm Thị Lan Thảo",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Lê Văn Cọp",
+      "shareholder_percent": 0.000557
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngâu",
+      "shareholder_percent": 0.0003333333
+    },
+    {
+      "shareholder_name": "Quảng Văn Viết Cương",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lai Nhật Xuân Trang",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lý Tấn Trí",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "New-S Securities Company Limited",
+      "shareholder_percent": 1.66666e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Diệu Thanh",
+      "shareholder_percent": 1.5e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Thuận",
+      "shareholder_percent": 3.666e-07
+    },
+    {
+      "shareholder_name": "Asiavantage Global Limited",
+      "shareholder_percent": 1.666e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Kim Tiên",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0.0019
+    },
+    {
+      "officer_name": "HỒ MINH DIỄM THUÝ",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0017
+    },
+    {
+      "officer_name": "Quảng Văn Viết Cương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Lai Nhật Xuân Trang",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Lê Thị Diệu Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1.5e-06
+    },
+    {
+      "officer_name": "Nguyễn Văn Hiền Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Thị Quế Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Thanh Huy",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Thị Quỳnh Hoa",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Viết Yên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàn Vũ",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:01:07.498758"
+}

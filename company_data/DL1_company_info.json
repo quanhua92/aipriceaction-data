@@ -1,0 +1,196 @@
+{
+  "symbol": "DL1",
+  "exchange": "HNX",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 764899876800,
+  "current_price": 7200,
+  "outstanding_shares": 106236094,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Alpha Seven (DL1)&nbsp;tiền th&acirc;n l&agrave; Chi nh&aacute;nh Bến xe Li&ecirc;n tỉnh Đức Long Gia Lai được th&agrave;nh lập năm 2005 với&nbsp;hoạt động kinh doanh chủ yếu l&agrave; khai th&aacute;c,&nbsp;điều h&agrave;nh Bến xe Đức Long Gia Lai v&agrave;&nbsp;kinh doanh&nbsp;đ&aacute;. Hiện tại c&ocirc;ng ty đang điều h&agrave;nh Bến xe Đức Long Gia Lai, bến xe kh&aacute;ch duy nhất tại Th&agrave;nh Phố Pleiku v&agrave; bến xe kh&aacute;ch lớn nhất yếu tr&ecirc;n địa b&agrave;n tỉnh Gia Lai. C&ocirc;ng ty cũng&nbsp;đang thực hiện đầu tư v&agrave;o lĩnh vực mới l&agrave; năng lượng t&aacute;i tạo, th&ocirc;ng qua dự &aacute;n nh&agrave; m&aacute;y&nbsp;Điện gi&oacute; Ia Bo&ograve;ng - Chư P&ocirc;ng với sản lượng điện h&agrave;ng năm ước t&iacute;nh l&agrave; 130.640,9 kWh/ năm. Ng&agrave;y 10/03/2010, DL1 ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -100,
+  "percent_price_change": -0.01369863,
+  "volume": 2831040,
+  "high_52w": 10000,
+  "low_52w": 4800,
+  "pe": -42.529428801,
+  "pb": 0.6209753723,
+  "roe": -0.0144885846,
+  "roa": -0.006828666,
+  "eps": 9.016195192567979,
+  "revenue": 270444483357,
+  "net_profit": 957845360,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "BÙI PHÁP",
+      "shareholder_percent": 0.2401
+    },
+    {
+      "shareholder_name": "Trần Văn Phương",
+      "shareholder_percent": 0.0931
+    },
+    {
+      "shareholder_name": "Hoàng Thị Kim Hiếu",
+      "shareholder_percent": 0.0852
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Út",
+      "shareholder_percent": 0.0572
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Diễm",
+      "shareholder_percent": 0.0546
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.0545316938
+    },
+    {
+      "shareholder_name": "Phạm Thị Hiền",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "Hà Thị Ngọc Trang",
+      "shareholder_percent": 0.0493
+    },
+    {
+      "shareholder_name": "Huỳnh Thái Quốc",
+      "shareholder_percent": 0.0466
+    },
+    {
+      "shareholder_name": "Công ty TNHH Global Capital",
+      "shareholder_percent": 0.0448
+    },
+    {
+      "shareholder_name": "Võ Thị Việt Hà",
+      "shareholder_percent": 0.0355
+    },
+    {
+      "shareholder_name": "Hồ Minh Thành",
+      "shareholder_percent": 0.0298
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Lâm",
+      "shareholder_percent": 0.0276
+    },
+    {
+      "shareholder_name": "Lê Phú Hà",
+      "shareholder_percent": 0.0188496212
+    },
+    {
+      "shareholder_name": "Vũ Thị Hải",
+      "shareholder_percent": 0.0155
+    },
+    {
+      "shareholder_name": "NGUYỄN ĐÌNH TRẠC",
+      "shareholder_percent": 0.0115
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lệ Hòa",
+      "shareholder_percent": 0.0096
+    },
+    {
+      "shareholder_name": "Nguyễn Tường Cọt",
+      "shareholder_percent": 0.0095
+    },
+    {
+      "shareholder_name": "Võ Châu Hoàng",
+      "shareholder_percent": 0.0063640466
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Nguyên",
+      "shareholder_percent": 0.002479292
+    },
+    {
+      "shareholder_name": "Lê Hoài Nhân",
+      "shareholder_percent": 0.0006664489
+    },
+    {
+      "shareholder_name": "Đỗ Chiến Đấu",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Hộ",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Lê Hoàng Ngọc",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Võ Duy Phong",
+      "shareholder_percent": 3.3e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thành Nhân",
+      "shareholder_percent": 1.7e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Vũ Thị Hải",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0155
+    },
+    {
+      "officer_name": "NGUYỄN ĐÌNH TRẠC",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0115
+    },
+    {
+      "officer_name": "Đỗ Thành Nhân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.7e-06
+    },
+    {
+      "officer_name": "Đặng Văn Hậu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Minh Đức",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chu Sỹ Hoạt",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Thị Phương Oanh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Tiến Dũng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Nguyên Tiêu",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Thị Tuyết Minh",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lee Tong Hun",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Thị Mỹ Trinh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:04:23.604257"
+}

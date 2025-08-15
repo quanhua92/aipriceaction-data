@@ -1,0 +1,149 @@
+{
+  "symbol": "BTS",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 691935204800,
+  "current_price": 5600,
+  "outstanding_shares": 123559858,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Xi măng B&uacute;t Sơn tiền th&acirc;n l&agrave; Ban quản l&iacute; c&ocirc;ng tr&igrave;nh x&acirc;y dựng Nh&agrave; m&aacute;y Xi măng B&uacute;t Sơn th&agrave;nh lập năm 1997 v&agrave; chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần năm 2005. Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; sản xuất v&agrave; kinh doanh xi măng với c&aacute;c sản phẩm chủ đạo Xi măng Pooclăng PCB 30; Xi măng PC40, clinker mang thương hiệu B&uacute;t Sơn. Sản phẩm Xi măng B&uacute;t Sơn được sản xuất tr&ecirc;n d&acirc;y chuyển d&acirc;y chuyền c&ocirc;ng nghệ đồng bộ, hiện đại, c&ocirc;ng suất 2,6 triệu tấn clinker/năm. Sản phẩm của C&ocirc;ng ty được ti&ecirc;u thụ tại Hưng Y&ecirc;n, Th&aacute;i B&igrave;nh, Vĩnh Ph&uacute;c, &nbsp;T&acirc;y Nguy&ecirc;n, H&agrave; Nội, Nam Định v&agrave; H&agrave; Nam.&nbsp;Xi măng B&uacute;t Sơn đ&atilde; gắn liền với c&aacute;c c&ocirc;ng tr&igrave;nh trọng điểm quốc gia như Đường Hồ Ch&iacute; Minh, đường d&acirc;y 110KV Bắc Nam, thủy điện Tuy&ecirc;n Quang, Sơn La, cầu T&acirc;n Đệ, cầu Thanh Tr&igrave;, Trung t&acirc;m Hội nghị quốc gia, c&ocirc;ng tr&igrave;nh thủy điện PlayKrong Kon Tum, thủy điện Ba Hạ Ph&uacute; Y&ecirc;n. BTS được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2006.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -100,
+  "percent_price_change": -0.01754386,
+  "volume": 89814,
+  "high_52w": 5800,
+  "low_52w": 4500,
+  "pe": -5.6597668038,
+  "pb": 0.6587981833,
+  "roe": -0.1137016527,
+  "roa": -0.0378218686,
+  "eps": 100.57215273750153,
+  "revenue": 713928059318,
+  "net_profit": 12426680911,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Xi măng Việt Nam",
+      "shareholder_percent": 0.795153
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán ACB",
+      "shareholder_percent": 0.0561
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Á Châu",
+      "shareholder_percent": 0.050952
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Tài Chính Á Châu Hà Nội",
+      "shareholder_percent": 0.0317
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Địa Ốc A.c.b",
+      "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Trương Quốc Huy",
+      "shareholder_percent": 0.0001265402
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Quế",
+      "shareholder_percent": 2.61333e-05
+    },
+    {
+      "shareholder_name": "Phan Trọng Lập",
+      "shareholder_percent": 2.2007e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Khanh",
+      "shareholder_percent": 2.2e-05
+    },
+    {
+      "shareholder_name": "Lê Trung Tiến",
+      "shareholder_percent": 1.87976e-05
+    },
+    {
+      "shareholder_name": "Lưu Đình Cường",
+      "shareholder_percent": 1.83e-05
+    },
+    {
+      "shareholder_name": "Tạ Quốc Luận",
+      "shareholder_percent": 9.1695e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Duyệt",
+      "shareholder_percent": 2.7508e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Thị Khanh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phụ trách Công bố thông tin/Kế toán trưởng",
+      "officer_percent": 2.2e-05
+    },
+    {
+      "officer_name": "Phạm Anh Tuấn",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thế Hà",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Văn",
+      "officer_position": "Người phụ trách quản trị công ty/Thư ký Hội đồng Quản Trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thế Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Việt Hồng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Huy Quân",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Minh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Tiến Trình",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Doãn Hữu Phong",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Ngọc Hải",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Văn Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Vũ Hải",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:01:52.255637"
+}

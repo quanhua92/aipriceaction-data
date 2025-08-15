@@ -1,0 +1,144 @@
+{
+  "symbol": "DST",
+  "exchange": "HNX",
+  "industry": "Truyền thông",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 271320000000,
+  "current_price": 8400,
+  "outstanding_shares": 32300000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Đầu tư Sao Thăng Long (DST) tiền th&acirc;n l&agrave; Ph&ograve;ng s&aacute;ch gi&aacute;o khoa trực thuộc Sở&nbsp;Gi&aacute;o dục -&nbsp;Đ&agrave;o tạo&nbsp;Nam Định&nbsp;được&nbsp;th&agrave;nh lập năm 1983. Năm 2004, c&ocirc;ng ty chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty hoạt động ch&iacute;nh trong ng&agrave;nh kinh doanh s&aacute;ch gi&aacute;o khoa v&agrave; c&oacute; thế mạnh l&agrave; s&aacute;ch tham khảo, triển khai ph&aacute;t h&agrave;nh s&aacute;ch, c&ocirc;ng ty c&ograve;n li&ecirc;n doanh li&ecirc;n kết với c&aacute;c&nbsp;nh&agrave; xuất bản&nbsp;kh&aacute;c để sản xuất bản thảo s&aacute;ch. Hiện nay C&ocirc;ng ty c&oacute; 5 cửa h&agrave;ng s&aacute;ch, 46 trường THPT, 10 đại l&yacute; cấp 1, 36 đại l&yacute; cấp 2 v&agrave; 1 si&ecirc;u thị tổng hợp giới thiệu, kinh doanh s&aacute;ch v&agrave; thiết bị gi&aacute;o dục (rộng 235,5 m2, ngay tại trụ sở C&ocirc;ng ty ở số 13 Minh Khai, Tp. Nam Định). B&ecirc;n cạnh đ&oacute;,&nbsp;c&ocirc;ng ty&nbsp;c&ograve;n ph&acirc;n phối cho 10 ph&ograve;ng Gi&aacute;o dục -&nbsp;Đ&agrave;o tạo&nbsp;&ndash; l&agrave; đơn vị quản l&yacute; 245 trường THCS, 291 trường tiểu học v&agrave; 161 trường mầm non. Ngo&agrave;i ra&nbsp;c&ocirc;ng ty&nbsp;c&ograve;n cung cấp đồ d&ugrave;ng v&agrave; thiết bị dạy học cho C&ocirc;ng ty Cổ phần S&aacute;ch Thiết bị Trường học th&agrave;nh phố Hồ Ch&iacute; Minh, S&aacute;ch gi&aacute;o khoa cho Nh&agrave; xuất bản&nbsp;Gi&aacute;o dục H&agrave; Nội.&nbsp;Ng&agrave;y 16/10/2007, DST ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dich Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.01204819,
+  "volume": 34500,
+  "high_52w": 9100,
+  "low_52w": 2800,
+  "pe": 152.6200274971,
+  "pb": 0.6755356641,
+  "roe": 0.0044386693,
+  "roa": 0.0042735001,
+  "eps": 50.094776870790525,
+  "revenue": 0,
+  "net_profit": 1614003616,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Đặng Hoàng Tuấn",
+      "shareholder_percent": 0.0489
+    },
+    {
+      "shareholder_name": "Cao Thị Xuân Thu",
+      "shareholder_percent": 0.0427
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SmartInvest",
+      "shareholder_percent": 0.0082
+    },
+    {
+      "shareholder_name": "Nguyễn Lệ Thủy",
+      "shareholder_percent": 0.0027833607
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hoàn",
+      "shareholder_percent": 0.0027407272
+    },
+    {
+      "shareholder_name": "Lê Hải Đoàn",
+      "shareholder_percent": 0.0024118399
+    },
+    {
+      "shareholder_name": "Phạm Anh Tuấn",
+      "shareholder_percent": 0.0010049333
+    },
+    {
+      "shareholder_name": "Trần Văn Điệp",
+      "shareholder_percent": 0.0005725074
+    },
+    {
+      "shareholder_name": "Trần Võ Hiếu",
+      "shareholder_percent": 0.0004080638
+    },
+    {
+      "shareholder_name": "Trần Trọng Thuỷ",
+      "shareholder_percent": 0.0003654302
+    },
+    {
+      "shareholder_name": "Dương Quang Ân",
+      "shareholder_percent": 0.0003654302
+    },
+    {
+      "shareholder_name": "Trần Bảo Anh",
+      "shareholder_percent": 0.0003654302
+    },
+    {
+      "shareholder_name": "Bùi Ngọc Huấn",
+      "shareholder_percent": 0.0003227967
+    },
+    {
+      "shareholder_name": "Trần Quốc Hưng",
+      "shareholder_percent": 0.0002253486
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tuyết Mai",
+      "shareholder_percent": 0.0001827151
+    },
+    {
+      "shareholder_name": "Phạm Thị Huyền",
+      "shareholder_percent": 4.8724e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Ngọc Anh",
+      "shareholder_percent": 3.04525e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Doanh",
+      "shareholder_percent": 3.04525e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hứa Thị Anh Đào",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Minh Đức",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Quang Hòa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Tuấn Sơn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Hiếu",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Nhài",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Lan Hương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Việt Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:05:02.632316"
+}

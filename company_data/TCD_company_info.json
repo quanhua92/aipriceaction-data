@@ -1,0 +1,240 @@
+{
+  "symbol": "TCD",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 950372414030,
+  "current_price": 2830,
+  "outstanding_shares": 335820641,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty cổ phần Tập đo&agrave;n X&acirc;y dựng Tracodi (TCD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Đầu tư Ph&aacute;t triển Giao th&ocirc;ng&nbsp;Vận&nbsp;tải,&nbsp;được th&agrave;nh lập v&agrave;o năm 1990. C&ocirc;ng ty hoạt động trong lĩnh vực thi c&ocirc;ng x&acirc;y dựng c&ocirc;ng tr&igrave;nh giao th&ocirc;ng, thủy lợi, d&acirc;n dụng. TCD ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ th&aacute;ng 04/2013. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty cũng&nbsp;tham gia v&agrave;o c&aacute;c&nbsp;lĩnh vực kh&aacute;c&nbsp;như xuất nhập khẩu, xuất khẩu lao động, du lịch v&agrave; đầu tư t&agrave;i ch&iacute;nh. TCD tham gia hoạt động khai th&aacute;c v&agrave; chế biến đ&aacute; x&acirc;y dựng th&ocirc;ng qua C&ocirc;ng ty li&ecirc;n doanh Khai th&aacute;c đ&aacute; v&agrave; Chế biến Vật liệu X&acirc;y dựng An Giang thực hiện khai th&aacute;c tr&ecirc;n diện t&iacute;ch 70 ha tại N&uacute;i D&agrave;i Lớn, x&atilde; Ch&acirc;u Lăng, huyện Tri T&ocirc;n, tỉnh An Giang với trữ lượng khai th&aacute;c l&agrave; 28.650.000 m3 v&agrave; thời hạn khai th&aacute;c l&agrave; 30 năm. Mỏ đ&aacute; hiện được đ&aacute;nh gi&aacute; l&agrave; lớn nhất miền T&acirc;y Nam Bộ v&agrave; thứ nh&igrave; to&agrave;n miền Nam. Ng&agrave;y 26/05/2017, TCD ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": 30,
+  "percent_price_change": 0.01071429,
+  "volume": 1445200,
+  "high_52w": 6000,
+  "low_52w": 1650,
+  "pe": 13.3629969186,
+  "pb": 0.2536432531,
+  "roe": 0.0192167444,
+  "roa": 0.0077108533,
+  "eps": 211.77884102127004,
+  "revenue": 1160299970194,
+  "net_profit": 71119706142,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Bamboo Capital",
+      "shareholder_percent": 0.439
+    },
+    {
+      "shareholder_name": "Mirae Asset Daewoo Co., Ltd.",
+      "shareholder_percent": 0.0498
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Tiên Phong",
+      "shareholder_percent": 0.0468
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội",
+      "shareholder_percent": 0.0446
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư và Dịch vụ Helios",
+      "shareholder_percent": 0.0389
+    },
+    {
+      "shareholder_name": "Nguyễn Hồ Nam",
+      "shareholder_percent": 0.0373
+    },
+    {
+      "shareholder_name": "Lê Thị Mai Loan",
+      "shareholder_percent": 0.02
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Việt Cát",
+      "shareholder_percent": 0.0178
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hùng",
+      "shareholder_percent": 0.0174
+    },
+    {
+      "shareholder_name": "Bùi Thiện Phương Đông",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Kim Tuyến",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Tài",
+      "shareholder_percent": 0.0029
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ánh Tuyết",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Đinh Hoài Châu",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Đặng Trung Kiên",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Bùi Thành Lâm",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thùy Linh",
+      "shareholder_percent": 0.001336
+    },
+    {
+      "shareholder_name": "Nguyễn Hoa Bắc",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Phạm Đăng Khoa",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Hiểu",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "THÂN THẾ HANH",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Lan",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Hồng Khoa",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thái",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hương",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Cương",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Thảo",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Đoàn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "ĐỖ NGỌC AN",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Tan Bo Quan, Andy",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Dương Anh Văn",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Thủy",
+      "shareholder_percent": 7e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Hồ Nam",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0373
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hùng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0174
+    },
+    {
+      "officer_name": "Bùi Thiện Phương Đông",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0038
+    },
+    {
+      "officer_name": "Huỳnh Thị Kim Tuyến",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0036
+    },
+    {
+      "officer_name": "Nguyễn Thế Tài",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0029
+    },
+    {
+      "officer_name": "Nguyễn Thị Ánh Tuyết",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0.0026
+    },
+    {
+      "officer_name": "Đinh Hoài Châu",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Bùi Thành Lâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "THÂN THẾ HANH",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Đức Thái",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Viết Cương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.00015
+    },
+    {
+      "officer_name": "Tan Bo Quan, Andy",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Morishima Kenji",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tomas Sven Jaehnig",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đăng Hải",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Bắc",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:41.001664"
+}

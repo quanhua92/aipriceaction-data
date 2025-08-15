@@ -1,0 +1,177 @@
+{
+  "symbol": "DCL",
+  "exchange": "HOSE",
+  "industry": "Dược phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1530209578500,
+  "current_price": 20950,
+  "outstanding_shares": 73041030,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p align=\"left\">C&ocirc;ng ty Cổ phần Dược phẩm Cửu Long (DCL) th&agrave;nh lập&nbsp;năm&nbsp;1997. Năm 2004,&nbsp;c&ocirc;ng ty chuyển sang hoạt&nbsp;động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty chuy&ecirc;n sản xuất,&nbsp;kinh doanh v&agrave; xuất nhập khẩu dược phẩm, capsule, c&aacute;c loại dụng cụ, trang thiết bị y tế cho ng&agrave;nh dược, ng&agrave;nh y tế. DCL c&oacute;&nbsp;5 nh&agrave; m&aacute;y đang hoạt động trong đ&oacute; c&oacute; 4 nh&agrave; m&aacute;y đạt ti&ecirc;u chuẩn GMP-WHO.&nbsp;Ngo&agrave;i thị trường trong nước,sản phẩm của c&ocirc;ng ty c&ograve;n được xuất sang Campuchia, L&agrave;o, Myanmar v&agrave; Nigeria. DCL được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2008.</p>\r\n\r\n<p align=\"left\">&nbsp;</p>\r\n\r\n<p align=\"left\">&nbsp;</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": -1450,
+  "percent_price_change": -0.06473214,
+  "volume": 1153164,
+  "high_52w": 30500,
+  "low_52w": 19000,
+  "pe": 36.316876712,
+  "pb": 1.0174447729,
+  "roe": 0.0282674028,
+  "roa": 0.0171475314,
+  "eps": -44.04014195856767,
+  "revenue": 330563686299,
+  "net_profit": -3216737330,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn F.I.T",
+      "shareholder_percent": 0.5805
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Chứng khoán Y tế Bản Việt",
+      "shareholder_percent": 0.02143948
+    },
+    {
+      "shareholder_name": "Red River Holding",
+      "shareholder_percent": 0.01888467
+    },
+    {
+      "shareholder_name": "Lê Trung Hiếu",
+      "shareholder_percent": 0.0153944339
+    },
+    {
+      "shareholder_name": "Asiavantage Global Limited",
+      "shareholder_percent": 0.01413791
+    },
+    {
+      "shareholder_name": "Phạm Trung Nghĩa",
+      "shareholder_percent": 0.0125254983
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tòng",
+      "shareholder_percent": 0.0053566387
+    },
+    {
+      "shareholder_name": "Lương Văn Hóa",
+      "shareholder_percent": 0.0041707921
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Cần",
+      "shareholder_percent": 0.0039427485
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Ân",
+      "shareholder_percent": 0.003495111
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thanh Hải",
+      "shareholder_percent": 0.0019384699
+    },
+    {
+      "shareholder_name": "Đỗ Thị Thu Liên",
+      "shareholder_percent": 0.0015482907
+    },
+    {
+      "shareholder_name": "Đặng Thị Hương",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Toàn Thắng",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Trương Hải Bằng",
+      "shareholder_percent": 0.0002485217
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Nguyệt",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Lê Văn Đăng",
+      "shareholder_percent": 0.0001988174
+    },
+    {
+      "shareholder_name": "Phạm Việt Dũng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Bùi Thanh Hương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Trung",
+      "shareholder_percent": 3.20096e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thị Minh Nguyệt",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Trịnh Quốc Khánh",
+      "officer_position": "Giám đốc Tài chính/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phí Xuân Trường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Xuân Vinh",
+      "officer_position": "Phó Tổng Giám đốc Kinh doanh",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Huệ Nga",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Bích",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "VŨ THỊ MINH HOÀI",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Hòa",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Sang",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Bích Ly",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thế Cao",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trọng Đức",
+      "officer_position": "Phó Tổng Giám đốc Sản xuất",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:03:44.033325"
+}

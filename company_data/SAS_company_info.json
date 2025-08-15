@@ -1,0 +1,143 @@
+{
+  "symbol": "SAS",
+  "exchange": "UPCOM",
+  "industry": "Bán lẻ",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 5259163614000,
+  "current_price": 39400,
+  "outstanding_shares": 133481310,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dịch vụ H&agrave;ng kh&ocirc;ng S&acirc;n bay T&acirc;n Sơn Nhất (SAS)&nbsp;được th&agrave;nh lập năm 1994, l&agrave; c&ocirc;ng ty con của Tổng C&ocirc;ng ty&nbsp;Cảng H&agrave;ng kh&ocirc;ng Việt Nam (ACV), hoạt động ch&iacute;nh trong lĩnh vực kinh doanh h&agrave;ng miễn thuế v&agrave; cung cấp dịch vụ tại s&acirc;n bay. C&ocirc;ng ty&nbsp;hiện&nbsp;kinh doanh dịch vụ h&agrave;ng kh&ocirc;ng chủ lực tại Cảng H&agrave;ng kh&ocirc;ng Quốc tế T&acirc;n Sơn Nhất (s&acirc;n bay c&oacute; lưu lượng h&agrave;nh kh&aacute;ch lớn nhất Việt Nam), Cảng H&agrave;ng kh&ocirc;ng Quốc tế Ph&uacute; Quốc, Cảng H&agrave;ng kh&ocirc;ng Quốc tế Cam ranh. SAS&nbsp;cung cấp nhiều dịch vụ chất lượng cao bao gồm: Ph&ograve;ng chờ hạng thương gia (SASCO Business Lounge), Dịch vụ sleep box, spa, v&agrave; tiện &iacute;ch s&acirc;n bay, B&aacute;n lẻ miễn thuế v&agrave; h&agrave;ng lưu niệm, Nh&agrave; h&agrave;ng, cafe, dịch vụ đưa đ&oacute;n ưu ti&ecirc;n... Ng&agrave;y 16/04/2015, SAS ch&iacute;nh thức&nbsp;giao dịch tr&ecirc;n thị trường UPCOM.</div>\r\n",
+  "website": null,
+  "price_change": -103,
+  "percent_price_change": -0.00261421,
+  "volume": 44804,
+  "high_52w": 51430,
+  "low_52w": 25239,
+  "pe": 9.7567945858,
+  "pb": 2.8183300341,
+  "roe": 0.3155789832,
+  "roa": 0.2231246585,
+  "eps": 812.7710157763946,
+  "revenue": 770216012967,
+  "net_profit": 108465844448,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Cảng Hàng không Việt Nam - CTCP",
+      "shareholder_percent": 0.4907
+    },
+    {
+      "shareholder_name": "Công ty TNHH Xuất Nhập Khẩu Liên Thái Bình Dương",
+      "shareholder_percent": 0.2498
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Thời trang và Mỹ phẩm Âu Châu",
+      "shareholder_percent": 0.1489
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thời trang và Mỹ phẩm Duy Anh",
+      "shareholder_percent": 0.0493
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại Duy Anh",
+      "shareholder_percent": 0.0171
+    },
+    {
+      "shareholder_name": "Đoàn Thị Mai Hương",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn  Hạnh",
+      "shareholder_percent": 0.0014987
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hùng Cường",
+      "shareholder_percent": 0.0011547
+    },
+    {
+      "shareholder_name": "Cao Hữu Minh Nhật",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Ngọc",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Tôn Nữ Diệu Trí",
+      "shareholder_percent": 0.0008835
+    },
+    {
+      "shareholder_name": "Lê Hồng Thủy Tiên",
+      "shareholder_percent": 0.000357
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Hoàn Lộc Việt",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Trang",
+      "shareholder_percent": 3.75e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đoàn Thị Mai Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Nguyễn  Hạnh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0014987
+    },
+    {
+      "officer_name": "Nguyễn Văn Hùng Cường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0011547
+    },
+    {
+      "officer_name": "Nguyễn Minh Ngọc",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Tôn Nữ Diệu Trí",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0008835
+    },
+    {
+      "officer_name": "Trần Thị Thu Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.75e-05
+    },
+    {
+      "officer_name": "Vũ Hoàng Long",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Diệu Thúy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Minh Nguyệt",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chu Khánh Toàn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lưu Quốc Hoàng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:13:23.921488"
+}

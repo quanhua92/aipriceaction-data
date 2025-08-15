@@ -1,0 +1,130 @@
+{
+  "symbol": "NHH",
+  "exchange": "HOSE",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 947440000000,
+  "current_price": 13000,
+  "outstanding_shares": 72880000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Nhựa H&agrave; Nội (NHH) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Nhựa H&agrave; Nội trực thuộc Sở C&ocirc;ng nghiệp H&agrave; Nội, được th&agrave;nh lập v&agrave;o năm 1972. C&ocirc;ng ty hoạt động trong lĩnh vực sản xuất chế tạo c&aacute;c sản phẩm nhựa phục vụ cho ng&agrave;nh&nbsp;c&ocirc;ng nghiệp phụ trợ. NHH ch&iacute;nh thức chuyển đổi th&agrave;nh c&ocirc;ng ty cổ phần từ năm 2008. C&ocirc;ng ty đ&atilde; tham gia chuỗi cung cấp phụ t&ugrave;ng xe m&aacute;y cho c&aacute;c thương hiệu lớn như Honda, SYM, Ford Việt Nam từ những năm 1997. Đến nay, C&ocirc;ng ty đ&atilde; ph&aacute;t triển&nbsp;th&ecirc;m nhiều ng&agrave;nh h&agrave;ng như điện&nbsp; - điện tử, phụ t&ugrave;ng &ocirc; t&ocirc;, c&aacute;c linh kiện cho ng&agrave;nh x&acirc;y dựng, khu&ocirc;n mẫu ch&iacute;nh x&aacute;c, k&iacute;ch thước lớn cung cấp cho c&aacute;c c&ocirc;ng ty Panasonic, LG Việt Nam, Toyota Việt Nam v&agrave; c&aacute;c tập đo&agrave;n tại Nhật Bản (Lixil Group, Housetec, Hashimoto, Shoden Corp). NHH được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 11/2019.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 200,
+  "percent_price_change": 0.015625,
+  "volume": 447535,
+  "high_52w": 15305,
+  "low_52w": 9704,
+  "pe": 9.6833201394,
+  "pb": 0.8129063723,
+  "roe": 0.0735178186,
+  "roa": 0.0494455606,
+  "eps": 626.7522681208172,
+  "revenue": 636272288222,
+  "net_profit": 70800443216,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Nhựa An Phát Xanh",
+      "shareholder_percent": 0.7089
+    },
+    {
+      "shareholder_name": "Lê Xuân Lương",
+      "shareholder_percent": 0.1001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh",
+      "shareholder_percent": 0.04
+    },
+    {
+      "shareholder_name": "Phùng Thị Khánh Hằng",
+      "shareholder_percent": 0.0367
+    },
+    {
+      "shareholder_name": "Vũ Thị Tuyết",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Nguyễn Trọng Quân",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Bùi Thanh Nam",
+      "shareholder_percent": 0.00055
+    },
+    {
+      "shareholder_name": "Phạm Quốc Trung",
+      "shareholder_percent": 0.000344
+    },
+    {
+      "shareholder_name": "Phạm Vũ Thắng",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Đỗ Thị Hương Giang",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Trần Xuân Thu",
+      "shareholder_percent": 2.9e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Hạnh Dung",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Bùi Thanh Nam",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00055
+    },
+    {
+      "officer_name": "Đỗ Thị Hương Giang",
+      "officer_position": "Kế toán trưởng/Người phụ trách quản trị công ty",
+      "officer_percent": 6e-05
+    },
+    {
+      "officer_name": "Kim Ki Min",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hòa Thị Thu Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Thanh Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mẫn Chí Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tạ Phúc Tâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hoa Tùng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Văn Hưởng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Minh Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:11:06.655079"
+}

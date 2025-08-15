@@ -1,0 +1,254 @@
+{
+  "symbol": "GIL",
+  "exchange": "HOSE",
+  "industry": "Hàng cá nhân",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2032001320000,
+  "current_price": 20000,
+  "outstanding_shares": 101600066,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu B&igrave;nh Thạnh (GIL)&nbsp;c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Cung ứng h&agrave;ng xuất khẩu quận B&igrave;nh Thạnh, được th&agrave;nh lập v&agrave;o ng&agrave;y 19/03/1982. GIL chuy&ecirc;n sản xuất v&agrave; xuất khẩu h&agrave;ng gia dụng v&agrave; h&agrave;ng may mặc.C&ocirc;ng ty hiện&nbsp;đang quản l&yacute; v&agrave; vận h&agrave;nh 52 d&acirc;y chuyền may của Nh&agrave; m&aacute;y may B&igrave;nh Thạnh, Nh&agrave; M&aacute;y may&nbsp;Thạnh Mỹ, Nh&agrave; m&aacute;y tại Huế.&nbsp;Đối với mặt h&agrave;ng gia dụng,&nbsp;GIL c&oacute; Nh&agrave; m&aacute;y sản xuất thiết bị chiếu s&aacute;ng v&agrave; chao&nbsp;đ&egrave;n với c&ocirc;ng suất 8.000 sản phẩm/ng&agrave;y v&agrave; 3.000 sản phẩm&nbsp;đ&egrave;n/ng&agrave;y. Thị trường xuất khẩu chủ yếu của c&ocirc;ng ty&nbsp;l&agrave; Ch&acirc;u &Acirc;u v&agrave;&nbsp;Mỹ.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -800,
+  "percent_price_change": -0.03846154,
+  "volume": 2075998,
+  "high_52w": 23100,
+  "low_52w": 13250,
+  "pe": 84.7446834702,
+  "pb": 0.8167106373,
+  "roe": 0.0096204842,
+  "roa": 0.007080301,
+  "eps": 28.21955693271968,
+  "revenue": 126021139906,
+  "net_profit": 2867000258,
+  "dividend": 0.0505050505,
+  "shareholders": [
+    {
+      "shareholder_name": "Lê Hùng",
+      "shareholder_percent": 0.089
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre",
+      "shareholder_percent": 0.0752840945
+    },
+    {
+      "shareholder_name": "Lê Anh Thư",
+      "shareholder_percent": 0.0706
+    },
+    {
+      "shareholder_name": "Lê Thị Kim Oanh",
+      "shareholder_percent": 0.049777
+    },
+    {
+      "shareholder_name": "Pxp Vietnam Fund Limited",
+      "shareholder_percent": 0.0493730945
+    },
+    {
+      "shareholder_name": "Lê Thị Diệu Chi",
+      "shareholder_percent": 0.0487
+    },
+    {
+      "shareholder_name": "Nguyễn Phương Đông",
+      "shareholder_percent": 0.0465
+    },
+    {
+      "shareholder_name": "Đoàn Thị Hồng Thúy",
+      "shareholder_percent": 0.0449686554
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Châu",
+      "shareholder_percent": 0.0443373979
+    },
+    {
+      "shareholder_name": "Công ty Tài Chính TNHH MTV Bưu Điện",
+      "shareholder_percent": 0.0433808167
+    },
+    {
+      "shareholder_name": "Hà Thị Phương Thảo",
+      "shareholder_percent": 0.0328
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
+      "shareholder_percent": 0.0301
+    },
+    {
+      "shareholder_name": "Công ty TNHH Ndh Việt Nam",
+      "shareholder_percent": 0.0291
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Phúc",
+      "shareholder_percent": 0.0286756
+    },
+    {
+      "shareholder_name": "Công ty CP May Hàng Gia Dụng Gilimex-ppj",
+      "shareholder_percent": 0.0284
+    },
+    {
+      "shareholder_name": "Công Ty TNHH Một Thành Viên Nguyễn Sài Gòn",
+      "shareholder_percent": 0.02518
+    },
+    {
+      "shareholder_name": "Công Ty Cổ Phần Xuất Nhập Khẩu Và Đầu Tư Thừa Thiên Huế",
+      "shareholder_percent": 0.02154462
+    },
+    {
+      "shareholder_name": "Vietnam Emerging Equity Fund Limited",
+      "shareholder_percent": 0.0199370351
+    },
+    {
+      "shareholder_name": "Nguyễn Băng Tâm",
+      "shareholder_percent": 0.014852
+    },
+    {
+      "shareholder_name": "Phan Quang Đài",
+      "shareholder_percent": 0.0146713137
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Cường",
+      "shareholder_percent": 0.0142
+    },
+    {
+      "shareholder_name": "Tổng Công ty Bến Thành - TNHH MTV",
+      "shareholder_percent": 0.0137064019
+    },
+    {
+      "shareholder_name": "LION Capital Việt Nam Fund",
+      "shareholder_percent": 0.0110999334
+    },
+    {
+      "shareholder_name": "Nguyễn Hồ Trung",
+      "shareholder_percent": 0.0105109034
+    },
+    {
+      "shareholder_name": "Võ Văn Hảo",
+      "shareholder_percent": 0.0073161949
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Hiếu",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Đặng Vũ Hùng",
+      "shareholder_percent": 0.0039498475
+    },
+    {
+      "shareholder_name": "Quỹ Đầu Tư Thành Viên SSI",
+      "shareholder_percent": 0.0016862258
+    },
+    {
+      "shareholder_name": "Phạm Văn Tàu",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Phạm Phú Hữu",
+      "shareholder_percent": 0.0011939311
+    },
+    {
+      "shareholder_name": "Nguyễn Đình Quang Minh",
+      "shareholder_percent": 0.0007181541
+    },
+    {
+      "shareholder_name": "Lê Việt Mỹ",
+      "shareholder_percent": 0.0005461561
+    },
+    {
+      "shareholder_name": "Phạm Thị Ánh Nguyệt",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Khánh",
+      "shareholder_percent": 0.0004389
+    },
+    {
+      "shareholder_name": "Đào Sỹ Trung",
+      "shareholder_percent": 0.0003595079
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Luân",
+      "shareholder_percent": 0.000359077
+    },
+    {
+      "shareholder_name": "Nguyễn Mạnh Hùng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Nhân Quí Trát",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hằng",
+      "shareholder_percent": 0.000176
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Vân",
+      "shareholder_percent": 0.0001077231
+    },
+    {
+      "shareholder_name": "Nguyễn Nam Thanh",
+      "shareholder_percent": 7.18154e-05
+    },
+    {
+      "shareholder_name": "Công đoàn Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Gia Vinh",
+      "shareholder_percent": 3.59e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Hùng",
+      "officer_position": "Phụ trách Công bố thông tin/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.089
+    },
+    {
+      "officer_name": "Nguyễn Hữu Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0286756
+    },
+    {
+      "officer_name": "Nguyễn Việt Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0142
+    },
+    {
+      "officer_name": "Nguyễn Thị Minh Hiếu",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0047
+    },
+    {
+      "officer_name": "Phạm Văn Tàu",
+      "officer_position": "Giám đốc",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Nguyễn Quốc Khánh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0004389
+    },
+    {
+      "officer_name": "Trần Nhân Quí Trát",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hằng",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.000176
+    },
+    {
+      "officer_name": "Trần Thanh Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Thị Hậu",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:07:05.217724"
+}

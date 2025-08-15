@@ -1,0 +1,187 @@
+{
+  "symbol": "VNA",
+  "exchange": "UPCOM",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 669799212000,
+  "current_price": 19700,
+  "outstanding_shares": 33999960,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Vận tải biển Vinaship (VNA),&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải biển III th&agrave;nh lập năm 1984. Năm 2006, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. Nguồn thu của C&ocirc;ng ty chủ yếu vẫn từ hoạt động kinh doanh vận tải biển quốc tế v&agrave; một phần từ hoạt động kinh doanh dịch vụ vận tải, bốc xếp, khai th&aacute;c b&atilde;i container. Hiện tại, Vinaship đang quản l&yacute; khai th&aacute;c 01 b&atilde;i Container, 01 b&atilde;i CFS v&agrave; đang x&acirc;y dựng 01 b&atilde;i Container hậu phương c&oacute; vị tr&iacute; địa l&yacute; rất thuận lợi. Năng lực vận chuyển v&agrave; vận chuyển đa phương thức của Vinaship l&agrave; h&agrave;ng ng&agrave;n container mỗi th&aacute;ng. Vinaship hiện đang quản l&yacute; v&agrave; khai th&aacute;c s&acirc;n container, s&acirc;n CFS v&agrave; x&acirc;y dựng s&acirc;n container ph&iacute;a sau. Kh&aacute;ch h&agrave;ng của c&ocirc;ng ty l&agrave; c&aacute;c tập đo&agrave;n lớn, nh&agrave; nhập khẩu trong khu vực như VinaFOOD II, Thoresen Đ&ocirc;ng Dương SA, Bulog, NFA, Toepfer, Cargill, Samsung Logistic, Chayaporn Rice Co., Ltd, Anthracite Than Co. , DIC, ITC, Tập đo&agrave;n Lee Metal Singapore, Green Pacific Jakarta, Tập đo&agrave;n ph&acirc;n b&oacute;n Phosphata Philippine, Mekatrade Asia Pte Ltd, MITCO Petronas Malaysia. Ng&agrave;y 03/05/2017, VNA ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 695,
+  "percent_price_change": 0.03716578,
+  "volume": 4160,
+  "high_52w": 26960,
+  "low_52w": 15808,
+  "pe": 17.2567967729,
+  "pb": 1.1622411202,
+  "roe": 0.0677181123,
+  "roa": 0.0510806433,
+  "eps": 7.15279282681509,
+  "revenue": 192496178574,
+  "net_profit": 243194670,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Container Việt Nam",
+      "shareholder_percent": 0.4001
+    },
+    {
+      "shareholder_name": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shareholder_percent": 0.064687
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Dũng",
+      "shareholder_percent": 0.0517
+    },
+    {
+      "shareholder_name": "Đoàn Văn Minh",
+      "shareholder_percent": 0.006755
+    },
+    {
+      "shareholder_name": "Cao Minh Tuấn",
+      "shareholder_percent": 0.006095
+    },
+    {
+      "shareholder_name": "Đoàn Bá Thước",
+      "shareholder_percent": 0.005475
+    },
+    {
+      "shareholder_name": "Lã Đức Trọng",
+      "shareholder_percent": 0.001905
+    },
+    {
+      "shareholder_name": "Đõ Văn Hội",
+      "shareholder_percent": 0.001625
+    },
+    {
+      "shareholder_name": "Phạm Khoa Vịnh",
+      "shareholder_percent": 0.000905
+    },
+    {
+      "shareholder_name": "Dương Ngọc Tú",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Phát triển Hàng Hải",
+      "shareholder_percent": 0.00075
+    },
+    {
+      "shareholder_name": "Tô Hanh",
+      "shareholder_percent": 0.000665
+    },
+    {
+      "shareholder_name": "Đinh Huy Dũng",
+      "shareholder_percent": 0.00057
+    },
+    {
+      "shareholder_name": "Trần Thị Kim Lan",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Vương Ngọc Sơn",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Mai Xuân Ngoạt",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Công đoàn Công ty CP Vận Tải Biển VINASHIP",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Đoàn Minh Thân",
+      "shareholder_percent": 1.5e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Hương",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Dương Ngọc Tú",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Vương Ngọc Sơn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc/Tổng Giám đốc",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Mai Xuân Ngoạt",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Trần Thị Thanh Hương",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Trần Dũng Chiến",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Nha Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Duy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thị Thúy Hằng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Văn Thái",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lã Thị Liên Hương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Danh Tuyên",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Hải Long",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Văn Toàn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Ngọc Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Nghi",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:23.260454"
+}

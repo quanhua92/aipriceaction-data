@@ -1,0 +1,202 @@
+{
+  "symbol": "C69",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 636539711600,
+  "current_price": 10300,
+  "outstanding_shares": 61799972,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần X&acirc;y dựng 1369 (C69) được th&agrave;nh lập v&agrave;o th&aacute;ng 08/2003. Lĩnh vực hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave;: Nh&agrave; thầu x&acirc;y dựng; Hoạt động kiến tr&uacute;c v&agrave; tư vấn kỹ thuật, tư vấn quản l&yacute; dự &aacute;n; Khai th&aacute;c, sản xuất, kinh doanh, xuất khẩu kho&aacute;ng sản; Bốc x&uacute;c, vận tải h&agrave;ng ho&aacute; bằng đường bộ... C69 đ&atilde; trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng v&agrave;o năm 2016. C69 l&agrave; nh&agrave; thầu ch&iacute;nh thiết kế thi c&ocirc;ng c&aacute;c c&ocirc;ng tr&igrave;nh x&acirc;y dựng c&ocirc;ng nghiệp, nh&agrave; xưởng v&agrave; lắp đặt c&aacute;c thiết bị k&egrave;m theo với một số c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu như C&ocirc;ng tr&igrave;nh hạ tầng Khu đ&ocirc; thị Cầu Sến U&ocirc;ng B&iacute; tỉnh Quảng Ninh, Nh&agrave; m&aacute;y xi măng trắng Ph&uacute;c Đạt, Nh&agrave; m&aacute;y gạch ng&oacute;i Kim Th&agrave;nh. Ngo&agrave;i ra, C69 c&ograve;n tiến h&agrave;nh x&acirc;y dựng một số c&ocirc;ng tr&igrave;nh như nh&agrave; xưởng Việt Nhật, Trạm nghiền Quảng B&igrave;nh, Showroom &ocirc; t&ocirc; Mitsubishi Hải Dương&hellip;.B&ecirc;n cạnh đ&oacute;,&nbsp;C69 cũng tham gia khai th&aacute;c đ&aacute; l&agrave;m vật liệu x&acirc;y dựng tại Th&ocirc;n Đồng Vải - Quảng Ninh, sản lượng khai th&aacute;c đạt 3.500m3/th&aacute;ng. Ng&agrave;y 21/04/2017, C69 ch&iacute;nh thức giao dịch tại Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.00980392,
+  "volume": 435934,
+  "high_52w": 10400,
+  "low_52w": 5500,
+  "pe": 16.2954902382,
+  "pb": 0.9062726025,
+  "roe": 0.0575311696,
+  "roa": 0.0304948969,
+  "eps": 438.4792456863896,
+  "revenue": 248517421651,
+  "net_profit": 27098005106,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "LÊ TUẤN NGHĨA",
+      "shareholder_percent": 0.0836625
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Dũng",
+      "shareholder_percent": 0.0833
+    },
+    {
+      "shareholder_name": "Mai Hồng Ngọc",
+      "shareholder_percent": 0.0629
+    },
+    {
+      "shareholder_name": "Lưu Bảo Trung",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Vũ Hồng Quân",
+      "shareholder_percent": 0.0483
+    },
+    {
+      "shareholder_name": "Vũ Thị Thu Chung",
+      "shareholder_percent": 0.0476
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Và Thương Mại Nam Phương",
+      "shareholder_percent": 0.0453
+    },
+    {
+      "shareholder_name": "Phạm Anh Đức",
+      "shareholder_percent": 0.0442
+    },
+    {
+      "shareholder_name": "Lê Minh Tân",
+      "shareholder_percent": 0.0333
+    },
+    {
+      "shareholder_name": "Lê Thị Thùy Linh",
+      "shareholder_percent": 0.0256117
+    },
+    {
+      "shareholder_name": "Vương Quốc Thắng",
+      "shareholder_percent": 0.0183
+    },
+    {
+      "shareholder_name": "Đào Thị Đầm",
+      "shareholder_percent": 0.0175
+    },
+    {
+      "shareholder_name": "Tiêu Thị Bạch Dương",
+      "shareholder_percent": 0.0166667
+    },
+    {
+      "shareholder_name": "Phạm Tiến Quỳnh",
+      "shareholder_percent": 0.0152
+    },
+    {
+      "shareholder_name": "Phạm Văn Tùng",
+      "shareholder_percent": 0.0097087
+    },
+    {
+      "shareholder_name": "Vương Anh Tuấn",
+      "shareholder_percent": 0.0093
+    },
+    {
+      "shareholder_name": "Phạm Thị Thế",
+      "shareholder_percent": 0.0085483
+    },
+    {
+      "shareholder_name": "Lê Anh Luân",
+      "shareholder_percent": 0.0079167
+    },
+    {
+      "shareholder_name": "NGUYỄN VĂN MIÊNG",
+      "shareholder_percent": 0.006
+    },
+    {
+      "shareholder_name": "TRẦN XUÂN BẢN",
+      "shareholder_percent": 0.005
+    },
+    {
+      "shareholder_name": "Cao Thị Trang",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "PHẠM VĂN THỤ",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Lê Thị Dung",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Phạm Thị Doan",
+      "shareholder_percent": 3.33e-05
+    },
+    {
+      "shareholder_name": "Cao Hà Linh",
+      "shareholder_percent": 3e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "LÊ TUẤN NGHĨA",
+      "officer_position": "Người phụ trách quản trị công ty/Giám đốc",
+      "officer_percent": 0.0836625
+    },
+    {
+      "officer_name": "Lê Minh Tân",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0333
+    },
+    {
+      "officer_name": "Đào Thị Đầm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0175
+    },
+    {
+      "officer_name": "Tiêu Thị Bạch Dương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0166667
+    },
+    {
+      "officer_name": "Phạm Tiến Quỳnh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0152
+    },
+    {
+      "officer_name": "Vương Anh Tuấn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0093
+    },
+    {
+      "officer_name": "PHẠM VĂN THỤ",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0.0008
+    },
+    {
+      "officer_name": "Phạm Thị Doan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.33e-05
+    },
+    {
+      "officer_name": "Cao Hà Linh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3e-05
+    },
+    {
+      "officer_name": "Vũ Thị Thắm",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hải Vinh",
+      "officer_position": "Phó Tổng Giám đốc Kinh doanh",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thúy",
+      "officer_position": "Phó Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Tuyết",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Mến",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:02:20.109885"
+}

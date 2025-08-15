@@ -1,0 +1,187 @@
+{
+  "symbol": "TVB",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1006631230620,
+  "current_price": 8980,
+  "outstanding_shares": 112097019,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Tr&iacute; Việt (TVB)&nbsp;c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Th&aacute;i B&igrave;nh Dương&nbsp;được th&agrave;nh lập v&agrave;o&nbsp;năm 2006. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực m&ocirc;i&nbsp;giới, lưu k&yacute; chứng kho&aacute;n, tư vấn&nbsp;đầu tư, v&agrave; c&aacute;c dịch vụ chứng kho&aacute;n li&ecirc;n quan. TVB trở th&agrave;nh c&ocirc;ng ty&nbsp;đại ch&uacute;ng từ&nbsp;năm 2015.&nbsp;Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 2,06 tỷ đồng. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 0.4%, giảm 1.2%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 152,15 tỷ đồng, tăng 82.46%. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 114,39 tỷ đồng, tăng 48.28%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 11.83%, tăng 5.01%. TVB được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 06/2018.</div>\r\n",
+  "website": null,
+  "price_change": -20,
+  "percent_price_change": -0.00222222,
+  "volume": 200804,
+  "high_52w": 9700,
+  "low_52w": 5930,
+  "pe": 17.1939671106,
+  "pb": 0.869827849,
+  "roe": 0.0505980456,
+  "roa": 0.0483588179,
+  "eps": -237.00865417304271,
+  "revenue": 4685376661,
+  "net_profit": -26567963610,
+  "dividend": 0.0668151448,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Quản lý Tài sản Trí Việt",
+      "shareholder_percent": 0.684
+    },
+    {
+      "shareholder_name": "Phạm Thanh Tùng",
+      "shareholder_percent": 0.0248
+    },
+    {
+      "shareholder_name": "Đỗ Thanh Hà",
+      "shareholder_percent": 0.0133
+    },
+    {
+      "shareholder_name": "Đỗ Đức Nam",
+      "shareholder_percent": 0.0049
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Sơn",
+      "shareholder_percent": 0.0044
+    },
+    {
+      "shareholder_name": "Phạm Thị Thanh Huyền",
+      "shareholder_percent": 0.0029
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Hương",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Đỗ Thị Nga",
+      "shareholder_percent": 0.00089
+    },
+    {
+      "shareholder_name": "Phạm Hồng Minh",
+      "shareholder_percent": 0.00064
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hằng",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Vũ Văn Toản",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Lê Thanh Nga",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Mai Quang Thạch",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Bích Vân",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lưu Thị Luyến",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Nhật Linh",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Tùng Trí Việt",
+      "shareholder_percent": 4.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thơm",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tuấn",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Lê Mạnh Cường",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Phạm Thành Trực",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Chinh Hương",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thắm",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Bích Thủy",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Trần Thành Trung",
+      "shareholder_percent": 2e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Thanh Tùng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0248
+    },
+    {
+      "officer_name": "Đỗ Đức Nam",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0049
+    },
+    {
+      "officer_name": "Nguyễn Tiến Sơn",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0044
+    },
+    {
+      "officer_name": "Lê Thị Thu Hương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Thân Đức Cường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Đức Minh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Thu Phượng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Minh Tuấn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Lê Thành Long",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Nga",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn  Phi Khanh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:16:17.283383"
+}

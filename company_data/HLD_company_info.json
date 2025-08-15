@@ -1,0 +1,135 @@
+{
+  "symbol": "HLD",
+  "exchange": "HNX",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1039499262900,
+  "current_price": 18900,
+  "outstanding_shares": 54999961,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty CP Đầu tư v&agrave; Ph&aacute;t triển Bất động sản HUDLAND (HLD)&nbsp;l&agrave; một đơn vị th&agrave;nh vi&ecirc;n của Tổng c&ocirc;ng ty Đầu tư Ph&aacute;t triển Nh&agrave; v&agrave; Đ&ocirc; thị (HUD). HUDLAND được ch&iacute;nh thức th&agrave;nh lập v&agrave;o th&aacute;ng 08 năm 2007. C&ocirc;ng ty hoạt động chủ yếu trong lĩnh vực kinh doanh bất động sản.&nbsp;Thương hiệu HUDLAND gắn liền với nhiều dự &aacute;n như dự &aacute;n Khu đ&ocirc; thị mới đường L&ecirc; Th&aacute;i Tổ - Th&agrave;nh phố Bắc Ninh - Bắc Ninh, dự &aacute;n Khu đ&ocirc; thị mới Việt Hưng - Long Bi&ecirc;n - H&agrave; Nội, dự &aacute;n BT08 v&agrave; LK27 tại Khu đ&ocirc; thị mới V&acirc;n Canh - Ho&agrave;i Đức - H&agrave; Nội. Với sự gi&uacute;p đỡ từ c&ocirc;ng ty mẹ Tổng c&ocirc;ng ty đầu tư Ph&aacute;t triển nh&agrave; v&agrave; đ&ocirc; thị (HUD), đ&atilde; gi&uacute;p HLD thực hiện được những dự &aacute;n bất động sản, mở rộng th&ecirc;m quy m&ocirc; kh&aacute;ch h&agrave;ng. Ng&agrave;y 23/03/2013, HLD ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>",
+  "website": null,
+  "price_change": -100,
+  "percent_price_change": -0.00526316,
+  "volume": 89715,
+  "high_52w": 20000,
+  "low_52w": 9737,
+  "pe": 107.9585195895,
+  "pb": 1.5692882841,
+  "roe": 0.0126300166,
+  "roa": 0.0028939969,
+  "eps": 20.72338093112466,
+  "revenue": 3950454865,
+  "net_profit": 1139785143,
+  "dividend": 0.0264550265,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị - Công ty TNHH",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Phạm Thị Linh",
+      "shareholder_percent": 0.05065
+    },
+    {
+      "shareholder_name": "Kenneth Rudy Kamon",
+      "shareholder_percent": 0.0414
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn COTANA",
+      "shareholder_percent": 0.0315
+    },
+    {
+      "shareholder_name": "Đỗ Hoàng Phúc",
+      "shareholder_percent": 0.03132
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hương",
+      "shareholder_percent": 0.0124
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0042
+    },
+    {
+      "shareholder_name": "Phạm Cao Sơn",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Bùi Hoàng Kiều",
+      "shareholder_percent": 0.00291
+    },
+    {
+      "shareholder_name": "Vũ Tuấn Linh",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Đặng Thanh Bình",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hường",
+      "shareholder_percent": 0.00018
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thanh Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0124
+    },
+    {
+      "officer_name": "Phạm Cao Sơn",
+      "officer_position": "Phụ trách Công bố thông tin/Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Vũ Tuấn Linh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Giám đốc",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Đặng Thanh Bình",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Lê Quốc Chung",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Nam Cường",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Thắng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Thị Minh Hằng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Duy Long",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tú",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Thị Hạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:07:49.415413"
+}

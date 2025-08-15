@@ -1,0 +1,169 @@
+{
+  "symbol": "CNG",
+  "exchange": "HOSE",
+  "industry": "Nước & Khí đốt",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1012624181250,
+  "current_price": 28850,
+  "outstanding_shares": 35099625,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">CNG VIệt Nam được th&agrave;nh lập năm 2007 với số vốn điều lệ l&agrave; 19,2 tỷ đồng tr&ecirc;n cơ sở vốn g&oacute;p của c&aacute;c cổ đ&ocirc;ng l&agrave;: Tổng c&ocirc;ng ty cổ phần dung dịch khoan v&agrave; h&oacute;a phẩm dầu kh&iacute; (DMC)- 51%, C&ocirc;ng ty IEV Energy Sdn.Bhd Malaysia- 42% v&agrave; c&ocirc;ng ty TNHH Sơn Anh- 7%, nhằm vận chuyển v&agrave; cung cấp kh&iacute; n&eacute;n thi&ecirc;n nhi&ecirc;n phục vụ nhu cầu sử dụng của c&aacute;c&nbsp;doanh nghiệp Việt Nam m&agrave; mạng lưới đường ống kh&iacute; thấp &aacute;p c&oacute; thể tiếp cận được. C&aacute;c kh&aacute;ch h&agrave;ng lớn của c&ocirc;ng ty l&agrave;: C&ocirc;ng ty TNHH URC VIệt Nam, C&ocirc;ng ty Cổ phần&nbsp;thực phẩm Masan, C&ocirc;ng ty TNHH Hyosung VIet Nam,...C&ocirc;ng ty l&agrave; doanh nghiệp ti&ecirc;n phong trong việc phổ biến sản phẩm CNG tại Việt Nam v&agrave; hiện l&agrave; doanh nghiệp lớn nhất trong ng&agrave;nh.&nbsp;C&ocirc;ng ty cung cấp trọng g&oacute;i nhi&ecirc;n liệu sạch CNG, LNG v&agrave; LPG cho kh&aacute;ch h&agrave;ng tr&ecirc;n to&agrave;n quốc như: Khu vực miền Bắc (H&agrave; Nội, Th&aacute;i Nguy&ecirc;n, Bắc Ninh, Hải Ph&ograve;ng,...), khu vực Trung Bộ (Huế, Đ&agrave; Nẵng, Quảng Nam, B&igrave;nh Định), khu vực Đ&ocirc;ng Nam Bộ v&agrave; c&aacute;c v&ugrave;ng miền kh&aacute;c (B&igrave;nh Dương, TP. Hồ Ch&iacute; Minh, B&agrave; Rịa- Vũng T&agrave;u,...).</div>\r\n",
+  "website": null,
+  "price_change": -200,
+  "percent_price_change": -0.00688468,
+  "volume": 91910,
+  "high_52w": 36735,
+  "low_52w": 24750,
+  "pe": 12.1194204233,
+  "pb": 1.6343574005,
+  "roe": 0.1336390247,
+  "roa": 0.0621379559,
+  "eps": 1058.7201434342078,
+  "revenue": 1095137262001,
+  "net_profit": 37160333813,
+  "dividend": 0.0415944541,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.56
+    },
+    {
+      "shareholder_name": "Utilico Emerging Markets Limited",
+      "shareholder_percent": 0.04986
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.048
+    },
+    {
+      "shareholder_name": "Samarang Ucits - Samarang Asian Prosperity",
+      "shareholder_percent": 0.048
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
+      "shareholder_percent": 0.00462969
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 0.0046296857
+    },
+    {
+      "shareholder_name": "Đặng Văn Vĩnh",
+      "shareholder_percent": 0.00246
+    },
+    {
+      "shareholder_name": "Vũ Quý Hiệu",
+      "shareholder_percent": 0.0009232704
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Quỹ Kim Việt Nam",
+      "shareholder_percent": 0.0005555555
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hưng",
+      "shareholder_percent": 0.0002109284
+    },
+    {
+      "shareholder_name": "Đặng Quốc Vương",
+      "shareholder_percent": 0.0001658168
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Trình",
+      "shareholder_percent": 3.70374e-05
+    },
+    {
+      "shareholder_name": "Trần Quang Đán",
+      "shareholder_percent": 2.82222e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Hiền",
+      "shareholder_percent": 1.31112e-05
+    },
+    {
+      "shareholder_name": "Ngô An Hòa",
+      "shareholder_percent": 5.6296e-06
+    },
+    {
+      "shareholder_name": "Huỳnh Lâm Kiệt",
+      "shareholder_percent": 3.1852e-06
+    },
+    {
+      "shareholder_name": "Phạm Thị Loan Phượng",
+      "shareholder_percent": 3.1852e-06
+    },
+    {
+      "shareholder_name": "Chistopher Nghĩa Đỗ",
+      "shareholder_percent": 7.4e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Ngô Thị Nam",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Mạnh Hùng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Thị Kim Thoa",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Văn Thực",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thu Giang",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Mạnh Thắng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Nguyên Vũ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Bá",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hồng Hải",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hữu Thắng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Văn Đản",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thanh Huyền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Thị Thu Sương",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:03:01.092945"
+}

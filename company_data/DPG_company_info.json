@@ -1,0 +1,285 @@
+{
+  "symbol": "DPG",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 4898832955200,
+  "current_price": 48600,
+  "outstanding_shares": 100799032,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Đạt Phương (DPG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần X&acirc;y dựng v&agrave; Vận tải Đạt Phương, được th&agrave;nh lập v&agrave;o năm 2002. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư x&acirc;y lắp c&aacute;c c&ocirc;ng tr&igrave;nh giao th&ocirc;ng v&agrave; thủy điện. B&ecirc;n cạnh đ&oacute;, DPG c&ograve;n tham gia kinh doanh b&aacute;n điện, vật liệu x&acirc;y dựng v&agrave; cho thu&ecirc; m&aacute;y m&oacute;c thiết bị ng&agrave;nh x&acirc;y dựng. DPG đ&atilde; thi c&ocirc;ng nhiều dự &aacute;n quy m&ocirc; lớn như Cầu An Nghĩa, Cầu Thủ Thi&ecirc;m,Cầu Đ&ograve; L&egrave;n, Cầu Bến Thủy II, Cầu Cửa Đại. DPG đ&atilde; ho&agrave;n th&agrave;nh việc đầu tư v&agrave; thi c&ocirc;ng x&acirc;y lắp Nh&agrave; m&aacute;y Thủy điện S&ocirc;ng Bung 6 với tổng c&ocirc;ng suất 30MW v&agrave;o năm 2010, thực hiện đầu tư x&acirc;y dựng c&ocirc;ng tr&igrave;nh thủy điện Sơn Tr&agrave; 1 với c&ocirc;ng suất 60MW. DPG ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 05/2018.</div>",
+  "website": null,
+  "price_change": -300,
+  "percent_price_change": -0.00613497,
+  "volume": 3165624,
+  "high_52w": 50300,
+  "low_52w": 25983,
+  "pe": 19.4317655308,
+  "pb": 2.4071588417,
+  "roe": 0.1276805114,
+  "roa": 0.0382246114,
+  "eps": 698.6766505852953,
+  "revenue": 1141522755949,
+  "net_profit": 70425930060,
+  "dividend": 0.0205761317,
+  "shareholders": [
+    {
+      "shareholder_name": "Lương Minh Tuấn",
+      "shareholder_percent": 0.1594243
+    },
+    {
+      "shareholder_name": "Phạm Kim Châu",
+      "shareholder_percent": 0.0663414
+    },
+    {
+      "shareholder_name": "Trần Anh Tuấn",
+      "shareholder_percent": 0.0577581
+    },
+    {
+      "shareholder_name": "Lương Thị Thanh",
+      "shareholder_percent": 0.0477
+    },
+    {
+      "shareholder_name": "Trần Thị Thúy Hằng",
+      "shareholder_percent": 0.0447559
+    },
+    {
+      "shareholder_name": "Lương Tuấn Minh",
+      "shareholder_percent": 0.0232
+    },
+    {
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_percent": 0.023
+    },
+    {
+      "shareholder_name": "Lương Xuân Mẫn",
+      "shareholder_percent": 0.0224212
+    },
+    {
+      "shareholder_name": "Tmam Vietnam Equity Mother Fund",
+      "shareholder_percent": 0.0164
+    },
+    {
+      "shareholder_name": "Võ Thị Phương Lâm",
+      "shareholder_percent": 0.0142103
+    },
+    {
+      "shareholder_name": "Lương Thị Lan",
+      "shareholder_percent": 0.0101
+    },
+    {
+      "shareholder_name": "Đặng Thị Thanh Hương",
+      "shareholder_percent": 0.009
+    },
+    {
+      "shareholder_name": "Lê Ngọc Hào",
+      "shareholder_percent": 0.00762
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.0069
+    },
+    {
+      "shareholder_name": "Vũ Văn Phi",
+      "shareholder_percent": 0.0069
+    },
+    {
+      "shareholder_name": "Kim Investment Funds - Kim Vietnam Growth Fund",
+      "shareholder_percent": 0.0043
+    },
+    {
+      "shareholder_name": "Võ Thị Thái Hòa",
+      "shareholder_percent": 0.0040709
+    },
+    {
+      "shareholder_name": "Hoàng Gia Chiểu",
+      "shareholder_percent": 0.0034115
+    },
+    {
+      "shareholder_name": "Phạm Quang Bình",
+      "shareholder_percent": 0.0033725
+    },
+    {
+      "shareholder_name": "Đặng Thị Loan",
+      "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "Trần Thị Bích Liên",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Phan Thị Tuyết Nhung",
+      "shareholder_percent": 0.001981
+    },
+    {
+      "shareholder_name": "Đặng Thanh Hường",
+      "shareholder_percent": 0.00156
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Phương Dung",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "KIM PMAA Vietnam Securities Investment Trust 1(Equity)",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Đặng Thị Xuân",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Quyên",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tùng",
+      "shareholder_percent": 0.0010983
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Anh",
+      "shareholder_percent": 0.00109634
+    },
+    {
+      "shareholder_name": "Tôn Nữ Tú Trinh",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Trần Thái Lợi",
+      "shareholder_percent": 0.00076
+    },
+    {
+      "shareholder_name": "Lê Ngọc Cương",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Lương Thị Liên",
+      "shareholder_percent": 0.00045
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Quân",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Luân",
+      "shareholder_percent": 0.00019
+    },
+    {
+      "shareholder_name": "Đinh Gia Nội",
+      "shareholder_percent": 0.0001424
+    },
+    {
+      "shareholder_name": "Lương Thị Cường",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Trịnh Viết Tùy",
+      "shareholder_percent": 8.2e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Hà",
+      "shareholder_percent": 7.46e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Việt Hà",
+      "shareholder_percent": 1.59e-06
+    },
+    {
+      "shareholder_name": "Lê Văn Tám",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Phan Anh Tuấn",
+      "shareholder_percent": 5e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lương Minh Tuấn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1594243
+    },
+    {
+      "officer_name": "Phạm Kim Châu",
+      "officer_position": "Phó Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0663414
+    },
+    {
+      "officer_name": "Trần Anh Tuấn",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0577581
+    },
+    {
+      "officer_name": "Hoàng Gia Chiểu",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0034115
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00109634
+    },
+    {
+      "officer_name": "Lê Thị Hà",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 7.46e-05
+    },
+    {
+      "officer_name": "Phan Anh Tuấn",
+      "officer_position": "Giám đốc Chi nhánh",
+      "officer_percent": 5e-07
+    },
+    {
+      "officer_name": "Nguyễn Thị Quỳnh Doan",
+      "officer_position": "Giám đốc khối",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Thu",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Quang Huy",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lã Thị Minh Loan",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng  Hoàng Huy",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đoàn Văn Công",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê  Văn Quyết",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thu Trang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ  Xuân Diện",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Đức Tình",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:04:31.018749"
+}

@@ -1,0 +1,420 @@
+{
+  "symbol": "VSC",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 11848821957300,
+  "current_price": 31650,
+  "outstanding_shares": 374370362,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần Container Việt Nam (VSC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Container Việt Nam, được th&agrave;nh lập v&agrave;o&nbsp;năm 1985. C&ocirc;ng ty&nbsp;được cổ phần h&oacute;a năm 2002.&nbsp;C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;vận h&agrave;nh kinh doanh cảng,&nbsp;kho b&atilde;i. VSC hiện đang khai th&aacute;c&nbsp;02 cảng tại Hải Ph&ograve;ng l&agrave; cảng Green Port v&agrave; cảng VIP Green.&nbsp;B&ecirc;n cạnh&nbsp;đ&oacute;, C&ocirc;ng ty hiện c&oacute; 278.550 m2 kho b&atilde;i v&agrave; kho CFS tại Hải Ph&ograve;ng, Đ&agrave; Nẵng v&agrave; th&agrave;nh phố Hồ Ch&iacute; Minh. VSC được ni&ecirc;m yết tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 2050,
+  "percent_price_change": 0.06925676,
+  "volume": 18402574,
+  "high_52w": 31650,
+  "low_52w": 10826,
+  "pe": 27.569284811,
+  "pb": 2.5402513777,
+  "roe": 0.0924873554,
+  "roa": 0.0523748039,
+  "eps": 310.47778987910374,
+  "revenue": 806901150183,
+  "net_profit": 116233682590,
+  "dividend": 0.0315955766,
+  "shareholders": [
+    {
+      "shareholder_name": "Thái Thị Nga",
+      "shareholder_percent": 0.1067
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Quản Lý Quỹ Ngân Hàng Thương Mại Cổ phần Công Thương Việt Nam",
+      "shareholder_percent": 0.0682
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Trang",
+      "shareholder_percent": 0.0621
+    },
+    {
+      "shareholder_name": "Đàm Văn Huy",
+      "shareholder_percent": 0.0584
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Sao Á D.C",
+      "shareholder_percent": 0.0496
+    },
+    {
+      "shareholder_name": "Forum One-vcg Partners Vietnam Fund",
+      "shareholder_percent": 0.0491680011
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0487
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đại lý Vận tải SAFI",
+      "shareholder_percent": 0.0453
+    },
+    {
+      "shareholder_name": "PXP Vietnam Emerging Equity Fund",
+      "shareholder_percent": 0.0423165747
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư TM",
+      "shareholder_percent": 0.0365
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sao Á",
+      "shareholder_percent": 0.0365
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.0338
+    },
+    {
+      "shareholder_name": "Deutsche Asset Management (Asia) Limited",
+      "shareholder_percent": 0.0295576289
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Emerging Markets Small Cap Fund",
+      "shareholder_percent": 0.0291
+    },
+    {
+      "shareholder_name": "Quỹ đầu tư chứng khoán Bản Việt",
+      "shareholder_percent": 0.028409523
+    },
+    {
+      "shareholder_name": "Đoàn Quang Huy",
+      "shareholder_percent": 0.02824
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0253
+    },
+    {
+      "shareholder_name": "Swiftcurrent Partners, L.P",
+      "shareholder_percent": 0.0197
+    },
+    {
+      "shareholder_name": "Lionel Hill Limited",
+      "shareholder_percent": 0.0189169452
+    },
+    {
+      "shareholder_name": "Pxp Vietnam Fund Limited",
+      "shareholder_percent": 0.018811841
+    },
+    {
+      "shareholder_name": "FTIF - Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0181
+    },
+    {
+      "shareholder_name": "Swift Current Offshore Ltd.",
+      "shareholder_percent": 0.0176
+    },
+    {
+      "shareholder_name": "Lương Hoài Trân",
+      "shareholder_percent": 0.0134785453
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Hòa",
+      "shareholder_percent": 0.0117
+    },
+    {
+      "shareholder_name": "Nguyễn Viết Lãng",
+      "shareholder_percent": 0.0116194348
+    },
+    {
+      "shareholder_name": "Lương Quốc Trọng",
+      "shareholder_percent": 0.0097603242
+    },
+    {
+      "shareholder_name": "Bùi Thị Bích Loan",
+      "shareholder_percent": 0.0097031483
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Cánh Đồng Xanh",
+      "shareholder_percent": 0.0091
+    },
+    {
+      "shareholder_name": "PXP Vietnam Smaller Companies Fund Limited",
+      "shareholder_percent": 0.0075
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tuấn",
+      "shareholder_percent": 0.0072
+    },
+    {
+      "shareholder_name": "Vietnam Emerging Equity Fund Limited",
+      "shareholder_percent": 0.0056949913
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.0051
+    },
+    {
+      "shareholder_name": "Epsom Limited",
+      "shareholder_percent": 0.0042540037
+    },
+    {
+      "shareholder_name": "Hoàng Thị Hà",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Dương Minh Hảo",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng An",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Trần Xuân Bạo",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Đoàn Thị Tơ",
+      "shareholder_percent": 0.00224
+    },
+    {
+      "shareholder_name": "TGIT-Templeton Frontier Markets Fund",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Dũng",
+      "shareholder_percent": 0.00218
+    },
+    {
+      "shareholder_name": "Tạ Công Thông",
+      "shareholder_percent": 0.00192
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Linh",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Franklin Templeton Frontier Markets Equity Master Fund",
+      "shareholder_percent": 0.0015324979
+    },
+    {
+      "shareholder_name": "Đặng Dưỡng",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellchaft, London Branch",
+      "shareholder_percent": 0.0013617187
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tiến",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Lê Thế Trung",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Nhã",
+      "shareholder_percent": 0.00085
+    },
+    {
+      "shareholder_name": "Hoàng Trọng Giang",
+      "shareholder_percent": 0.0008
+    },
+    {
+      "shareholder_name": "Trương Anh Thư",
+      "shareholder_percent": 0.00071
+    },
+    {
+      "shareholder_name": "Hoàng Tiến Lục",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Phan Tuấn Linh",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Trần Thị Phương Anh",
+      "shareholder_percent": 0.00067
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thành",
+      "shareholder_percent": 0.00067
+    },
+    {
+      "shareholder_name": "Phạm Thanh Tuấn",
+      "shareholder_percent": 0.00061
+    },
+    {
+      "shareholder_name": "Bùi Minh Hưng",
+      "shareholder_percent": 0.00058
+    },
+    {
+      "shareholder_name": "Ninh Văn Hiến",
+      "shareholder_percent": 0.00051
+    },
+    {
+      "shareholder_name": "Đặng Trần Gia Thoại",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng DFVN",
+      "shareholder_percent": 0.0004898155
+    },
+    {
+      "shareholder_name": "Vũ Thị Ngọc Ánh",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nghiêm Thị Thùy Dương",
+      "shareholder_percent": 0.00033
+    },
+    {
+      "shareholder_name": "Nguyễn Việt Trung",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Vũ Ngọc Lâm",
+      "shareholder_percent": 0.00027
+    },
+    {
+      "shareholder_name": "Lâm Văn Tam",
+      "shareholder_percent": 0.000235416
+    },
+    {
+      "shareholder_name": "Cáp Trọng Cường",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Dương Tiến Dũng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Dương  Tiến Dũng",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Đặng Thanh Tâm",
+      "shareholder_percent": 0.00017
+    },
+    {
+      "shareholder_name": "Phan Thị Trung Hiếu",
+      "shareholder_percent": 0.00017
+    },
+    {
+      "shareholder_name": "Trần Thị Diệu Hương",
+      "shareholder_percent": 0.00017
+    },
+    {
+      "shareholder_name": "Phan Văn Hưng",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Trần Hữu Thắng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nghiêm Tuấn Anh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Ngô Thị Thuỳ Lương",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Hoàng Anh Tuấn",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Trần Mạnh Hùng",
+      "shareholder_percent": 3.37e-05
+    },
+    {
+      "shareholder_name": "Nghiêm Thị Ngọc Vân",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Trần Anh Chuyên",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Lan",
+      "shareholder_percent": 1.5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Vượng",
+      "shareholder_percent": 6e-07
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng TVAM",
+      "shareholder_percent": 1.088e-07
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_percent": 5e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Thái Thị Nga",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.1067
+    },
+    {
+      "officer_name": "Tạ Công Thông",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00192
+    },
+    {
+      "officer_name": "Lê Thế Trung",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng/Người phụ trách quản trị công ty",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Nguyễn Thị Kim Nhã",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.00085
+    },
+    {
+      "officer_name": "Nghiêm Thị Thùy Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00033
+    },
+    {
+      "officer_name": "Bùi Minh Hưng",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.00032
+    },
+    {
+      "officer_name": "Nguyễn Việt Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Thế Trọng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00021
+    },
+    {
+      "officer_name": "Dương  Tiến Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Nguyễn Thị Minh Lan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.5e-05
+    },
+    {
+      "officer_name": "Văn Trần Hoàn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:17:53.423394"
+}

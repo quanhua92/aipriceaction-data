@@ -1,0 +1,221 @@
+{
+  "symbol": "TCL",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1093243305000,
+  "current_price": 36250,
+  "outstanding_shares": 30158436,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đại l&yacute; Giao nhận Vận tải Xếp dỡ T&acirc;n Cảng (TCL) được th&agrave;nh lập năm 2007, l&agrave; một đơn vị th&agrave;nh vi&ecirc;n của c&ocirc;ng ty T&acirc;n Cảng S&agrave;i G&ograve;n, hoạt động chủ yếu trong lĩnh vực vận tải đường bộ&nbsp;v&agrave;&nbsp;đường thủy, xếp dỡ containers, dịch vụ đại l&yacute; hải quan v&agrave; khai th&aacute;c depots chứa containers rỗng. Hiện nay, c&ocirc;ng ty đang sử dụng nhiều phương tiện kỹ thuật hiện đại bao gồm: cẩu Kocks, cẩu xếp dỡ RTG6+1; cẩu Mijack3+1; xe n&acirc;ng container rỗng, xe n&acirc;ng container h&agrave;ng tại cả T&acirc;n Cảng Logistic v&agrave; T&acirc;n Cảng Hải Ph&ograve;ng. Ng&agrave;y 24/12/2009, TCL thực hiện giao dịch đầu ti&ecirc;n tr&ecirc;n s&agrave;n chứng kho&aacute;n th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)</div>\r\n",
+  "website": null,
+  "price_change": -450,
+  "percent_price_change": -0.01226158,
+  "volume": 72903,
+  "high_52w": 42037,
+  "low_52w": 31423,
+  "pe": 7.2452928533,
+  "pb": 1.7554786036,
+  "roe": 0.242510335,
+  "roa": 0.1402868288,
+  "eps": 1659.5965634292177,
+  "revenue": 508095951800,
+  "net_profit": 50050836744,
+  "dividend": 0.0686068966,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH MTV Tổng Công ty Tân Cảng Sài Gòn",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
+      "shareholder_percent": 0.0733201797
+    },
+    {
+      "shareholder_name": "America Limited Liability Company",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Vietnam Equity Holding",
+      "shareholder_percent": 0.0463
+    },
+    {
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0448
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Container Saigon",
+      "shareholder_percent": 0.0111607713
+    },
+    {
+      "shareholder_name": "Phạm Kim Oanh",
+      "shareholder_percent": 0.005331
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tân Cảng V.F",
+      "shareholder_percent": 0.003720082
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Nghiêm",
+      "shareholder_percent": 0.0013112
+    },
+    {
+      "shareholder_name": "Võ Đắc Thiệu",
+      "shareholder_percent": 0.001244
+    },
+    {
+      "shareholder_name": "Lê Đặng Quỳnh Nghi",
+      "shareholder_percent": 0.00093
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Uấn",
+      "shareholder_percent": 0.000867
+    },
+    {
+      "shareholder_name": "Ngô Minh Thuấn",
+      "shareholder_percent": 0.000744
+    },
+    {
+      "shareholder_name": "Trần Hoài Nam",
+      "shareholder_percent": 0.0007061724
+    },
+    {
+      "shareholder_name": "Phùng Ngọc Minh",
+      "shareholder_percent": 0.0006899863
+    },
+    {
+      "shareholder_name": "Đỗ Thanh Trường",
+      "shareholder_percent": 0.000689
+    },
+    {
+      "shareholder_name": "Cao Minh Thụ",
+      "shareholder_percent": 0.0005375313
+    },
+    {
+      "shareholder_name": "Vũ Mạnh Lân",
+      "shareholder_percent": 0.000279
+    },
+    {
+      "shareholder_name": "Võ Thị Xuân Thủy",
+      "shareholder_percent": 0.000273
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thơ",
+      "shareholder_percent": 0.0002666
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Đức",
+      "shareholder_percent": 0.0002531525
+    },
+    {
+      "shareholder_name": "Lê Hữu Chí",
+      "shareholder_percent": 0.0002100851
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Bình",
+      "shareholder_percent": 0.000191
+    },
+    {
+      "shareholder_name": "Đặng Thị Hồng Nhung",
+      "shareholder_percent": 0.0001748958
+    },
+    {
+      "shareholder_name": "Phạm Thị Hồng Thắm",
+      "shareholder_percent": 0.000148
+    },
+    {
+      "shareholder_name": "Vũ Ngọc Hướng",
+      "shareholder_percent": 8.59916e-05
+    },
+    {
+      "shareholder_name": "Lê Hoàng Linh",
+      "shareholder_percent": 2.43e-05
+    },
+    {
+      "shareholder_name": "Phạm Trung Nghị",
+      "shareholder_percent": 2.7e-06
+    },
+    {
+      "shareholder_name": "Đào Tuấn Anh",
+      "shareholder_percent": 3e-07
+    },
+    {
+      "shareholder_name": "Bùi Hải Dương",
+      "shareholder_percent": 1.909e-07
+    },
+    {
+      "shareholder_name": "Lê Văn Cường",
+      "shareholder_percent": 1e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Võ Đắc Thiệu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.001244
+    },
+    {
+      "officer_name": "Nguyễn Xuân Bình",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.000191
+    },
+    {
+      "officer_name": "Lê Hoàng Linh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 2.43e-05
+    },
+    {
+      "officer_name": "Đào Tuấn Anh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 3e-07
+    },
+    {
+      "officer_name": "Lê Văn Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc",
+      "officer_percent": 1e-07
+    },
+    {
+      "officer_name": "Châu  Thanh Hải",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Thu Hà",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Văn Phượng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Kim Chung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Văn Hùng",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Nhu",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Thanh Sơn",
+      "officer_position": "Phó Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Đức Thịnh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:53.609282"
+}

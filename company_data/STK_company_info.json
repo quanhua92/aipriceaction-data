@@ -1,0 +1,144 @@
+{
+  "symbol": "STK",
+  "exchange": "HOSE",
+  "industry": "Hàng cá nhân",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2411091253800,
+  "current_price": 24950,
+  "outstanding_shares": 96636924,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Sợi Thế Kỷ được th&agrave;nh lập năm 2000. Hoạt động sản xuất ch&iacute;nh của c&ocirc;ng ty l&agrave; sản xuất sợi tơ tổng hợp, dệt kim. C&ocirc;ng ty hiện đang cung cấp c&aacute;c sản phẩm: sợi POY, sợi DTY v&agrave; sợi FDY. Sản phẩm của c&ocirc;ng ty được xuất khẩu chủ yếu sang ch&acirc;u &Acirc;u (Thổ Nhĩ Kỳ) v&agrave; ch&acirc;u &Aacute;. C&ocirc;ng ty cũng l&agrave; nh&agrave; cung cấp cho c&aacute;c doanh nghiệp dệt may như Nike, Adidas, Uniqlo v&agrave; Puma.&nbsp;C&ocirc;ng ty ch&iacute;nh thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2004. C&ocirc;ng ty được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2015.</div>\r\n",
+  "website": null,
+  "price_change": -250,
+  "percent_price_change": -0.00992063,
+  "volume": 54000,
+  "high_52w": 28000,
+  "low_52w": 18750,
+  "pe": 24.8513855355,
+  "pb": 1.3882644516,
+  "roe": 0.056173624,
+  "roa": 0.0253881638,
+  "eps": -62.195069702342764,
+  "revenue": 333358213510,
+  "net_profit": -6010340224,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Đặng Mỹ Linh",
+      "shareholder_percent": 0.2159
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tư vấn Đầu tư Hướng Việt",
+      "shareholder_percent": 0.2019
+    },
+    {
+      "shareholder_name": "Đặng Triệu Hòa",
+      "shareholder_percent": 0.14569999
+    },
+    {
+      "shareholder_name": "Tăng Kiến Nghiệp",
+      "shareholder_percent": 0.0546
+    },
+    {
+      "shareholder_name": "Vietnam Holding Ltd",
+      "shareholder_percent": 0.0437
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn Thái Tuấn",
+      "shareholder_percent": 0.0076
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Thực Phẩm Xanh",
+      "shareholder_percent": 0.0071
+    },
+    {
+      "shareholder_name": "Phan Như Bích",
+      "shareholder_percent": 0.00116
+    },
+    {
+      "shareholder_name": "Nguyễn Phương Chi",
+      "shareholder_percent": 0.00083
+    },
+    {
+      "shareholder_name": "Lê Anh Tuấn",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Đinh Ngọc Hoa",
+      "shareholder_percent": 0.00016
+    },
+    {
+      "shareholder_name": "Hoàng Nữ Mộng Tuyền",
+      "shareholder_percent": 1.6e-05
+    },
+    {
+      "shareholder_name": "Võ Quang Long",
+      "shareholder_percent": 1e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Đặng Mỹ Linh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.2159
+    },
+    {
+      "officer_name": "Đặng Triệu Hòa",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.14569999
+    },
+    {
+      "officer_name": "Phan Như Bích",
+      "officer_position": "Kế toán trưởng/Giám đốc Tài chính",
+      "officer_percent": 0.00116
+    },
+    {
+      "officer_name": "Nguyễn Phương Chi",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0.00083
+    },
+    {
+      "officer_name": "Đinh Ngọc Hoa",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00016
+    },
+    {
+      "officer_name": "Hoàng Nữ Mộng Tuyền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.6e-05
+    },
+    {
+      "officer_name": "Đặng Hướng Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Quang Long",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Tự Lực",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Cao Thị Quế Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chen Che Jen",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:27.150949"
+}

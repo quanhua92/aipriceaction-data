@@ -1,0 +1,135 @@
+{
+  "symbol": "SBS",
+  "exchange": "UPCOM",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1040913960000,
+  "current_price": 7100,
+  "outstanding_shares": 146607600,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n SBS (SBS)&nbsp;được th&agrave;nh lập v&agrave;o năm 2006. Từ năm 2009, C&ocirc;ng ty chuyển hướng ph&aacute;t triển theo m&ocirc; h&igrave;nh Ng&acirc;n h&agrave;ng đầu tư v&agrave; trở th&agrave;nh c&ocirc;ng ty chứng kho&aacute;n đầu ti&ecirc;n tại Việt Nam cung cấp đầy đủ tất cả c&aacute;c nghiệp vụ của một Ng&acirc;n h&agrave;ng đầu tư. Trong đ&oacute;, C&ocirc;ng ty tập trung v&agrave;o lĩnh vực m&ocirc;i giới, tư vấn doanh nghiệp, bảo l&atilde;nh ph&aacute;t h&agrave;nh, c&ocirc;ng t&aacute;c nghi&ecirc;n cứu, tư vấn ph&aacute;t h&agrave;nh c&aacute;c sản phẩm cấu tr&uacute;c. C&ocirc;ng ty ch&iacute;nh thức chuyển sang hoạt động theo h&igrave;nh thức c&ocirc;ng ty cổ phần từ năm 2010. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 42,4 tỷ đồng, giảm 27.79% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 96.52%. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng -73.4 tỷ đồng. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức -22.96%. SBS được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 04/2014.</div>\r\n",
+  "website": null,
+  "price_change": 169,
+  "percent_price_change": 0.02449275,
+  "volume": 4443511,
+  "high_52w": 7500,
+  "low_52w": 3300,
+  "pe": -12.9470588203,
+  "pb": 4.5926660022,
+  "roe": -0.3139734318,
+  "roa": -0.1639505721,
+  "eps": -15.800915955243793,
+  "revenue": 38570514488,
+  "net_profit": -2316534366,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Như Khánh",
+      "shareholder_percent": 0.1973788094
+    },
+    {
+      "shareholder_name": "Phạm Thị Nhật Thanh",
+      "shareholder_percent": 0.1826148744
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "shareholder_percent": 0.1595
+    },
+    {
+      "shareholder_name": "La Mỹ Phượng",
+      "shareholder_percent": 0.0622
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Sài Gòn Thương Tín",
+      "shareholder_percent": 0.05013422
+    },
+    {
+      "shareholder_name": "Lưu Thị Lợi",
+      "shareholder_percent": 0.0237
+    },
+    {
+      "shareholder_name": "Ngô Quảng Phú",
+      "shareholder_percent": 0.0024264408
+    },
+    {
+      "shareholder_name": "Nguyễn Huy Cường",
+      "shareholder_percent": 0.0019764171
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Phong",
+      "shareholder_percent": 0.0013816516
+    },
+    {
+      "shareholder_name": "Thiều Minh Anh Thư",
+      "shareholder_percent": 0.0012749328
+    },
+    {
+      "shareholder_name": "Trần Thanh Hải",
+      "shareholder_percent": 0.0007895152
+    },
+    {
+      "shareholder_name": "Nguyễn Bích Thủy",
+      "shareholder_percent": 0.0002956734
+    },
+    {
+      "shareholder_name": "Đinh Nguyễn Hoài Phương",
+      "shareholder_percent": 0.0002127743
+    },
+    {
+      "shareholder_name": "Hoàng Khánh Sinh",
+      "shareholder_percent": 0.0001842175
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bình",
+      "shareholder_percent": 0.000157903
+    },
+    {
+      "shareholder_name": "Trần Minh Trung",
+      "shareholder_percent": 2.5264e-06
+    },
+    {
+      "shareholder_name": "Đinh Hoài Châu",
+      "shareholder_percent": 2.36e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Dương Mạnh Hùng",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thị Tuyết Nhung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lưu Thanh Hùng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thu Nga",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Quốc Huỳnh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lưu Anh Đức",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:13:29.728356"
+}

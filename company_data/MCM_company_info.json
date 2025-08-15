@@ -1,0 +1,134 @@
+{
+  "symbol": "MCM",
+  "exchange": "HOSE",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3256000000000,
+  "current_price": 29600,
+  "outstanding_shares": 110000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Giống b&ograve; sữa Mộc Ch&acirc;u (MCM) c&oacute; tiền th&acirc;n l&agrave; N&ocirc;ng trường Qu&acirc;n đội Mộc Ch&acirc;u&nbsp;được th&agrave;nh lập v&agrave;o&nbsp;năm 1958. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực chăn nu&ocirc;i b&ograve; sữa, cung cấp con giống b&ograve; sữa, sản xuất chế biến c&aacute;c sản phẩm từ sữa v&agrave; sản xuất thức ăn chăn nu&ocirc;i.&nbsp;C&ocirc;ng ty ph&aacute;t triển c&aacute;c sản phẩm sữa tươi, sữa chua tiệt tr&ugrave;ng mang thương hiệu Mộc Ch&acirc;u. Hiện nay, Mộc Ch&acirc;u Milk đang khai th&aacute;c ở c&aacute;c thi trường khu vực T&acirc;y Bắc, Đ&ocirc;ng Bắc, Đồng bằng s&ocirc;ng Hồng, H&agrave; Nội v&agrave; c&aacute;c th&agrave;nh phố l&acirc;n cận, Miền Trung v&agrave; T&acirc;y Nguy&ecirc;n. Ng&agrave;y 25/06/2024, MCM ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": -350,
+  "percent_price_change": -0.01168614,
+  "volume": 30350,
+  "high_52w": 37014,
+  "low_52w": 24300,
+  "pe": 13.7299160453,
+  "pb": 1.4117588759,
+  "roe": 0.10187844,
+  "roa": 0.0857726313,
+  "eps": 688.5677713,
+  "revenue": 807324759740,
+  "net_profit": 75742454843,
+  "dividend": 0.0451013514,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Chăn nuôi Việt Nam - Công ty Cổ phần",
+      "shareholder_percent": 0.593
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sữa Việt Nam",
+      "shareholder_percent": 0.0885
+    },
+    {
+      "shareholder_name": "Nguyễn Sỹ Quang",
+      "shareholder_percent": 0.003
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Tuấn",
+      "shareholder_percent": 0.0027
+    },
+    {
+      "shareholder_name": "Lê Thị Lệ",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Phạm Hải Nam",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Phạm Quang Thùy",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Phạm Lê Hùng",
+      "shareholder_percent": 0.0002
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Sỹ Quang",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.003
+    },
+    {
+      "officer_name": "Nguyễn Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0027
+    },
+    {
+      "officer_name": "Nguyễn Anh Tú",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Phạm Hải Nam",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Phạm Quang Thùy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "Trần Mạnh Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mai Kiều Liên",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Công Sơn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Quốc Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Huy Bích",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Tuyên",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Ngọc Duy",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quang Trí",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Tuyên Dương",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:09:56.527100"
+}

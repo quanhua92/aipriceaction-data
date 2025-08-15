@@ -1,0 +1,215 @@
+{
+  "symbol": "LIG",
+  "exchange": "HNX",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 465914388100,
+  "current_price": 4900,
+  "outstanding_shares": 95084569,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Licogi 13 (LIG), tiền th&acirc;n l&agrave; Đội thi c&ocirc;ng cơ giới số 57,&nbsp;được th&agrave;nh lập năm 1960. Năm 2005&nbsp;c&ocirc;ng ty&nbsp;được cổ phần h&oacute;a v&agrave;&nbsp;được&nbsp;đổi&nbsp;t&ecirc;n th&agrave;nh C&ocirc;ng ty Cổ phần Licogi 13. C&aacute;c nh&oacute;m sản phẩm, dịch vụ kinh doanh của c&ocirc;ng ty gồm: hoạt động x&acirc;y lắp, cho thu&ecirc; văn ph&ograve;ng, cho thu&ecirc; m&aacute;y, b&aacute;n h&agrave;ng h&oacute;a, th&agrave;nh phẩm trong đ&oacute; hoạt động thi c&ocirc;ng x&acirc;y lắp l&agrave; mảng hoạt động kinh doanh ch&iacute;nh của c&ocirc;ng ty. C&ocirc;ng ty c&oacute; hơn 1,8ha đất tại khu c&ocirc;ng nghiệp Quang Minh để l&agrave;m xưởng sửa chữa, b&atilde;i tập kết thiết bị, vật liệu đảm bảo chủ động trong sản xuất v&agrave; thi c&ocirc;ng. Licogi 13 đ&atilde; tham gia ph&aacute;t triển v&agrave; lắp đặt nhiều dự &aacute;n trọng điểm như (i) Kỹ thuật nền tảng: Nh&agrave; m&aacute;y tuabin gi&oacute; tại Hải Ph&ograve;ng (tổng vốn đầu tư 1.200 tỷ đồng), Nh&agrave; m&aacute;y Xi măng Thăng Long (64 tỷ đồng), Nh&agrave; m&aacute;y Xi măng Ho&agrave;ng Mai , (ii) X&acirc;y dựng cơ sở hạ tầng: Dự &aacute;n cụm từ A5, Nội B&agrave;i - L&agrave;o Cai, Khu c&ocirc;ng nghiệp Bắc Thăng Long v&agrave; nh&agrave; m&aacute;y thủy điện S&ocirc;ng Tranh II. Doanh thu từ hoạt động n&agrave;y lu&ocirc;n chiếm tỷ trọng tr&ecirc;n 90% trong cơ cấu doanh thu của c&ocirc;ng ty. C&aacute;c đối thủ cạnh tranh trực tiếp của c&ocirc;ng ty l&agrave; c&aacute;c doanh nghiệp trực thuộc Tổng C&ocirc;ng ty S&ocirc;ng Đ&agrave;, Tổng C&ocirc;ng ty Vinaconex, Tổng C&ocirc;ng ty X&acirc;y dựng số 1, Tổng C&ocirc;ng ty X&acirc;y dựng v&agrave; Ph&aacute;t triển Hạ tầng - LICOGI. Ng&agrave;y 22/04/2010, LIG&nbsp;ch&iacute;nh thức Giao dịch tại Sở Giao dịch chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": 400,
+  "percent_price_change": 0.08888889,
+  "volume": 4162953,
+  "high_52w": 4900,
+  "low_52w": 2400,
+  "pe": 98.1627849276,
+  "pb": 0.4738374941,
+  "roe": 0.0048582847,
+  "roa": 0.0007641091,
+  "eps": 36.54051663891426,
+  "revenue": 1588293773916,
+  "net_profit": 3442871631,
+  "dividend": 0.0612244898,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Tài chính Giáo dục",
+      "shareholder_percent": 0.0825146818
+    },
+    {
+      "shareholder_name": "Tổng Công ty LICOGI - Công ty Cổ phần",
+      "shareholder_percent": 0.0623
+    },
+    {
+      "shareholder_name": "Lê Thị Quyên",
+      "shareholder_percent": 0.050002
+    },
+    {
+      "shareholder_name": "Vũ Thị Kim Anh",
+      "shareholder_percent": 0.050002
+    },
+    {
+      "shareholder_name": "Lâm Thị Kiều Oanh",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Ngọc",
+      "shareholder_percent": 0.0392
+    },
+    {
+      "shareholder_name": "Phạm Văn Thăng",
+      "shareholder_percent": 0.0387995
+    },
+    {
+      "shareholder_name": "Công ty Tài chính Thành Đạt",
+      "shareholder_percent": 0.0287351161
+    },
+    {
+      "shareholder_name": "Tạ Quỳnh Mai",
+      "shareholder_percent": 0.0275
+    },
+    {
+      "shareholder_name": "Bùi Đình Sơn",
+      "shareholder_percent": 0.0210344
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Minh",
+      "shareholder_percent": 0.0073658279
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Hùng",
+      "shareholder_percent": 0.0066864
+    },
+    {
+      "shareholder_name": "VŨ TUẤN ĐƯƠNG",
+      "shareholder_percent": 0.0056408
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Hiệp",
+      "shareholder_percent": 0.0055857
+    },
+    {
+      "shareholder_name": "Lại Thế Xuân",
+      "shareholder_percent": 0.0048834132
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Tú",
+      "shareholder_percent": 0.0028663
+    },
+    {
+      "shareholder_name": "Trần Thành Mai",
+      "shareholder_percent": 0.0017360799
+    },
+    {
+      "shareholder_name": "Đặng Văn Ánh",
+      "shareholder_percent": 0.0015831253
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thơm",
+      "shareholder_percent": 0.001067
+    },
+    {
+      "shareholder_name": "Đỗ Thanh Hà",
+      "shareholder_percent": 0.0007827
+    },
+    {
+      "shareholder_name": "Phạm Thanh Hùng",
+      "shareholder_percent": 0.0006844944
+    },
+    {
+      "shareholder_name": "Nguyễn Toàn Thắng",
+      "shareholder_percent": 0.0005986482
+    },
+    {
+      "shareholder_name": "Lê Thị Liên",
+      "shareholder_percent": 0.0004493453
+    },
+    {
+      "shareholder_name": "NGUYỄN NAM SƠN",
+      "shareholder_percent": 0.0001061
+    },
+    {
+      "shareholder_name": "Trần Thị Vân Anh",
+      "shareholder_percent": 8.43e-05
+    },
+    {
+      "shareholder_name": "Lê Xuân Thành",
+      "shareholder_percent": 1.11e-05
+    },
+    {
+      "shareholder_name": "Dương Thị Phượng",
+      "shareholder_percent": 7e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Văn Thăng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0387995
+    },
+    {
+      "officer_name": "Bùi Đình Sơn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0210344
+    },
+    {
+      "officer_name": "Nguyễn Quốc Hùng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0066864
+    },
+    {
+      "officer_name": "VŨ TUẤN ĐƯƠNG",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0056408
+    },
+    {
+      "officer_name": "Nguyễn Văn Hiệp",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0055857
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tú",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0028663
+    },
+    {
+      "officer_name": "Nguyễn Thị Thơm",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.001067
+    },
+    {
+      "officer_name": "Đỗ Thanh Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0007827
+    },
+    {
+      "officer_name": "NGUYỄN NAM SƠN",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0001061
+    },
+    {
+      "officer_name": "Trần Thị Vân Anh",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 8.43e-05
+    },
+    {
+      "officer_name": "Lê Xuân Thành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.11e-05
+    },
+    {
+      "officer_name": "Dương Thị Phượng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 7e-07
+    },
+    {
+      "officer_name": "Đinh Thị Kim Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Quang Huy",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Văn Cường",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:09:38.210559"
+}

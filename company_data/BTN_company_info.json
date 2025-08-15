@@ -1,0 +1,137 @@
+{
+  "symbol": "BTN",
+  "exchange": "UPCOM",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 12950153000,
+  "current_price": 2900,
+  "outstanding_shares": 4465570,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Bitco B&igrave;nh Định (BTN) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Gạch ng&oacute;i Phước An, được th&agrave;nh lập v&agrave;o năm 1992. C&ocirc;ng ty hoạt động trong lĩnh vực sản xuất gạch x&acirc;y dựng. BTN ch&iacute;nh thức hoạt động dưới m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2001. BTN hiện đang quản l&yacute; vận h&agrave;nh Nh&agrave; m&aacute;y sản xuất gạch nung Tuy Nen với c&ocirc;ng suất 50 triệu vi&ecirc;n quy chuẩn/năm v&agrave; nh&agrave; m&aacute;y gạch kh&ocirc;ng nung xi măng cốt liệu với c&ocirc;ng suất 10 triệu vi&ecirc;n/năm. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty đang thực hiện dự &aacute;n nh&agrave; m&aacute;y gạch kh&ocirc;ng nung b&ecirc; t&ocirc;ng hệ nhẹ AAC với c&ocirc;ng suất 100.000 m3/năm. BTN được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 01/2018.</div>\r\n",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.03571429,
+  "volume": 13801,
+  "high_52w": 3400,
+  "low_52w": 2400,
+  "pe": -1.265330088,
+  "pb": 1.0168030136,
+  "roe": -0.5732564141,
+  "roa": -0.1683685434,
+  "eps": -2291.8920742480805,
+  "revenue": 17491992035,
+  "net_profit": -10234604490,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Ngọc Linh",
+      "shareholder_percent": 0.1735
+    },
+    {
+      "shareholder_name": "Mai Thế Dũng",
+      "shareholder_percent": 0.0714
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Thắng",
+      "shareholder_percent": 0.0478
+    },
+    {
+      "shareholder_name": "Hoàng Xuân Nam",
+      "shareholder_percent": 0.0413
+    },
+    {
+      "shareholder_name": "Trần Thị Kim Chi",
+      "shareholder_percent": 0.0407
+    },
+    {
+      "shareholder_name": "Lê Thanh Kỳ",
+      "shareholder_percent": 0.0353
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thơm",
+      "shareholder_percent": 0.0193
+    },
+    {
+      "shareholder_name": "Đặng Trí Đức",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Trần Mạnh Hùng",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Ngô Quốc Vương",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Vi",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hà",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Lê Huy Hoàng",
+      "shareholder_percent": 1.7e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Thanh",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Trần Thị Bích Vân",
+      "shareholder_percent": 1.5e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Trần Mạnh Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc",
+      "officer_percent": 0.0023
+    },
+    {
+      "officer_name": "Ngô Quốc Vương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0018
+    },
+    {
+      "officer_name": "Phạm Văn Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 2e-06
+    },
+    {
+      "officer_name": "Nguyễn Kim Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Hưng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thảo Phương",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Ngọc Sơn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Đức Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Từ Văn Nghĩa",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:01:45.430829"
+}

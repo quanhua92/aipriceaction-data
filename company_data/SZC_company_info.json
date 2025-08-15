@@ -1,0 +1,234 @@
+{
+  "symbol": "SZC",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 7019448657000,
+  "current_price": 39000,
+  "outstanding_shares": 179985863,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Sonadezi Ch&acirc;u Đức (SZC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần ph&aacute;t triển Hạ tầng Sonadezi được th&agrave;nh lập v&agrave;o năm&nbsp;2007. C&ocirc;ng ty hoạt động trong lĩnh vực&nbsp;lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh&nbsp;bất động sản. C&ocirc;ng ty hoạt động trong c&aacute;c lĩnh vực như: (i) Đầu tư v&agrave; ph&aacute;t triển khu đ&ocirc; thị, khu c&ocirc;ng nghiệp, khu d&acirc;n cư v&agrave; c&aacute;c s&acirc;n golf; (ii) Kinh doanh cơ sở hạ tầng của c&aacute;c c&ocirc;ng tr&igrave;nh; (iii) Giao dịch, mua b&aacute;n, chuyển nhượng, định gi&aacute;, quản l&yacute; bất động sản. Một số dự &aacute;n ti&ecirc;u biểu của c&ocirc;ng ty như: Dự &aacute;n Khu c&ocirc;ng nghiệp đ&ocirc; thị Ch&acirc;u Đức, dự &aacute;n BOT đường 768, dự &aacute;n khu dịch vụ thể dục thể thao Sonadezi&hellip; SZC được ni&ecirc;m yết va giao dịch&nbsp;tr&ecirc;n thị trường Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) lần lượt v&agrave;o cuối năm 2018 v&agrave; đầu năm 2019.</div>\r\n",
+  "website": null,
+  "price_change": -750,
+  "percent_price_change": -0.01886792,
+  "volume": 3129113,
+  "high_52w": 47200,
+  "low_52w": 27700,
+  "pe": 19.7121650525,
+  "pb": 2.249029217,
+  "roe": 0.114052668,
+  "roa": 0.0436819799,
+  "eps": 527.4170538993943,
+  "revenue": 217842809146,
+  "net_profit": 94927613607,
+  "dividend": 0.0256410256,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Cổ phần Phát triển Khu Công nghiệp",
+      "shareholder_percent": 0.4684
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Cơ điện Lạnh",
+      "shareholder_percent": 0.104635
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Sonadezi Long Thành",
+      "shareholder_percent": 0.1008
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Cảng Đồng Nai",
+      "shareholder_percent": 0.007
+    },
+    {
+      "shareholder_name": "Phạm Quốc Chí",
+      "shareholder_percent": 0.005967
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Kinh Doanh Nhà Đồng Nai",
+      "shareholder_percent": 0.0045
+    },
+    {
+      "shareholder_name": "Phạm Xuân Bách",
+      "shareholder_percent": 0.00215
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hạnh",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Trương Thanh Hiệp",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Cấp nước Đồng Nai",
+      "shareholder_percent": 0.00095
+    },
+    {
+      "shareholder_name": "Phạm Trọng Lập",
+      "shareholder_percent": 0.00045
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Tân",
+      "shareholder_percent": 0.00044
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoàng Hoa",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Quỳnh Hoa",
+      "shareholder_percent": 0.000251
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Xuân",
+      "shareholder_percent": 0.00025
+    },
+    {
+      "shareholder_name": "Lê Thị Giang",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Vân",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Đỗ Quốc Bảo",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Mai",
+      "shareholder_percent": 0.000126
+    },
+    {
+      "shareholder_name": "Trần Trung Chiến",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Lương Minh Hiền",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuấn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đỗ Thị Đức Hạnh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Hoàng Thị Quý",
+      "shareholder_percent": 8.9e-05
+    },
+    {
+      "shareholder_name": "Vương Quỳnh Như",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Anh Thi",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Phạm Minh Thành",
+      "shareholder_percent": 4.67e-05
+    },
+    {
+      "shareholder_name": "Phạm Quý Tùng",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Trần Ngọc Tòng",
+      "shareholder_percent": 2.58e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Hằng",
+      "shareholder_percent": 1.1e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Thảo",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Lưu Thị Thúy Vân",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Lê Xuân Đồng",
+      "shareholder_percent": 6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Xuân Bách",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.00215
+    },
+    {
+      "officer_name": "Nguyễn Thị Quỳnh Hoa",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0.000251
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Vân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.00015
+    },
+    {
+      "officer_name": "Trần Trung Chiến",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.00011
+    },
+    {
+      "officer_name": "Nguyễn Văn Tuấn",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Lưu Thị Thúy Vân",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 4e-06
+    },
+    {
+      "officer_name": "Trương Viết Hoàng Sơn",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Anh Tuấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Lương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Kim Hồng",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Thị Hoa",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hào Hiệp",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Ngọc Thuận",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Kim Hòa",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:34.484993"
+}

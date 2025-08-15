@@ -1,0 +1,162 @@
+{
+  "symbol": "KHG",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3280876996500,
+  "current_price": 7300,
+  "outstanding_shares": 449435205,
+  "company_profile": "<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Khải Ho&agrave;n Land (KHG),&nbsp;được th&agrave;nh lập năm 2009&nbsp;theo giấy chứng nhận đăng k&yacute; kinh doanh số 0309139261 do Sở kế hoạch v&agrave; Đầu tư TP Hồ Ch&iacute; Minh cấp. Lĩnh vực kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; m&ocirc;i giới v&agrave; đầu tư bất động sản.&nbsp;KHG kh&ocirc;ng những l&agrave; đối t&aacute;c tin cậy của Vinhomes, m&agrave; c&ograve;n nhiều đơn vị chủ đầu tư trong v&agrave; ngo&agrave;i nước như: Sunshine, Keppel Land, Kiến &Aacute;, Lotte, Vạn Ph&aacute;t Hưng,... Hiện tại Khải Ho&agrave;n Land l&agrave; nh&agrave; ph&acirc;n phối tiếp thị bất động sản h&agrave;ng đầu tại TP Hồ Ch&iacute; Minh, phục vụ tr&ecirc;n 50.000 kh&aacute;ch h&agrave;ng thường xuy&ecirc;n hoặc c&oacute; giao dịch li&ecirc;n quan đến Khải Ho&agrave;n Land. Cộng ty&nbsp;sở hữu 4 k&ecirc;nh ph&acirc;n phối ch&iacute;nh bao gồm: Hệ thống S&agrave;n truyền thống Khải Ho&agrave;n Land, Hệ thống Khải Ho&agrave;n Land Plus, Hệ thống c&ocirc;ng ty con, c&ocirc;ng ty li&ecirc;n kết; Hệ thống s&agrave;n li&ecirc;n kết, cộng t&aacute;c vi&ecirc;n, s&agrave;n trung t&acirc;m... Ng&agrave;y 06/09/2021, KHG được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE);</p>\r\n",
+  "website": null,
+  "price_change": -40,
+  "percent_price_change": -0.00544959,
+  "volume": 13387663,
+  "high_52w": 7490,
+  "low_52w": 4610,
+  "pe": 53.7476078483,
+  "pb": 0.6242533459,
+  "roe": 0.0116718013,
+  "roa": 0.009216817,
+  "eps": 45.59000305728164,
+  "revenue": 146393523949,
+  "net_profit": 20489752370,
+  "dividend": 0.1369863014,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Khải Hoàn",
+      "shareholder_percent": 0.3196545
+    },
+    {
+      "shareholder_name": "Trần Thị Thu Hương",
+      "shareholder_percent": 0.1292384
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoài Quyên",
+      "shareholder_percent": 0.0427
+    },
+    {
+      "shareholder_name": "Phan Tuấn Nghĩa",
+      "shareholder_percent": 0.0397
+    },
+    {
+      "shareholder_name": "Đinh Thị Nhật Hạnh",
+      "shareholder_percent": 0.0121
+    },
+    {
+      "shareholder_name": "Võ Công Sơn",
+      "shareholder_percent": 0.0099
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Khoa",
+      "shareholder_percent": 0.0098969
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lệ Thúy",
+      "shareholder_percent": 0.0098969
+    },
+    {
+      "shareholder_name": "Nguyễn Thế Trung",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Phạm Thị Minh Phụ",
+      "shareholder_percent": 0.0004264
+    },
+    {
+      "shareholder_name": "Lê Thị Như Ca",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Dương Thanh Thương",
+      "shareholder_percent": 0.00034
+    },
+    {
+      "shareholder_name": "Trần Văn Thành",
+      "shareholder_percent": 0.00033
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Kiều",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Vũ Thị Thanh Tâm",
+      "shareholder_percent": 9e-05
+    },
+    {
+      "shareholder_name": "Khu Việt Nghĩa",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thu Trang",
+      "shareholder_percent": 1.49e-05
+    },
+    {
+      "shareholder_name": "Trần Đức Giang",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hiếu",
+      "shareholder_percent": 4.34e-06
+    },
+    {
+      "shareholder_name": "Phạm Thị Hoà",
+      "shareholder_percent": 2e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Khải Hoàn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.3196545
+    },
+    {
+      "officer_name": "Đinh Thị Nhật Hạnh",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0121
+    },
+    {
+      "officer_name": "Võ Công Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0099
+    },
+    {
+      "officer_name": "Phạm Thị Minh Phụ",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0004264
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương Kiều",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Khu Việt Nghĩa",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 5e-05
+    },
+    {
+      "officer_name": "Nguyễn Thu Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.49e-05
+    },
+    {
+      "officer_name": "Phùng Quang Hải",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Mạnh Toàn",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Phương",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:49.650699"
+}

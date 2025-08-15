@@ -1,0 +1,221 @@
+{
+  "symbol": "SCR",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 4478188374400,
+  "current_price": 10400,
+  "outstanding_shares": 430595036,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Địa Ốc S&agrave;i G&ograve;n Thương T&iacute;n (SCR) được th&agrave;nh lập năm 2004 với t&ecirc;n thương hiệu l&agrave; Sacomreal. Th&aacute;ng 03, 2018, SCR thay thế t&ecirc;n thương hiệu Sacomreal th&agrave;nh TTC Land sau 14 năm th&agrave;nh lập. Lĩnh vực kinh doanh ch&iacute;nh của C&ocirc;ng ty bao gồm dịch vụ m&ocirc;i giới bất động sản, hợp t&aacute;c, đầu tư v&agrave; ph&aacute;t triển c&aacute;c dự &aacute;n bất động sản. Hiện nay C&ocirc;ng ty đ&atilde; trở th&agrave;nh chủ đầu tư của nhiều dự &aacute;n lớn với quy m&ocirc; h&agrave;ng ng&agrave;n tỷ đồng như Dự &aacute;n Chung cư Ho&agrave; B&igrave;nh (Quận T&acirc;n Ph&uacute;), Dự &aacute;n Căn hộ Ph&uacute; Lợi 1 (Quận 8), Dự &aacute;n Cao ốc văn ph&ograve;ng Sacomreal &ndash; Generalimex (Quận 1), Dự &aacute;n Khu căn hộ cao cấp Belleza (Quận 7). Trong thời gian tới Sacomreal sẽ tiếp tục triển khai c&aacute;c dự &aacute;n bất động sản với chất lượng m&ocirc;i trường sống cao c&ugrave;ng những tiện &iacute;ch c&ocirc;ng cộng như: c&ocirc;ng vi&ecirc;n, trường học, khu trung t&acirc;m thương mại... SCR được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 500,
+  "percent_price_change": 0.05050505,
+  "volume": 15844627,
+  "high_52w": 10400,
+  "low_52w": 5020,
+  "pe": 132.9505829614,
+  "pb": 0.853532238,
+  "roe": 0.0063599053,
+  "roa": 0.0027232596,
+  "eps": 68.37433888578316,
+  "revenue": 409079741698,
+  "net_profit": 29441650914,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu tư Thành Thành Công",
+      "shareholder_percent": 0.227
+    },
+    {
+      "shareholder_name": "Đặng Hồng Anh",
+      "shareholder_percent": 0.1011
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Global Mind Việt Nam",
+      "shareholder_percent": 0.089
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương Mại Thành Thành Công",
+      "shareholder_percent": 0.048
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Xuất Nhập Khẩu Bến Tre",
+      "shareholder_percent": 0.0421
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Khu Công Nghiệp Thành Thành Công",
+      "shareholder_percent": 0.01958
+    },
+    {
+      "shareholder_name": "Bùi Tiến Thắng",
+      "shareholder_percent": 0.0054
+    },
+    {
+      "shareholder_name": "Lâm Minh Châu",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Thanh",
+      "shareholder_percent": 0.00056
+    },
+    {
+      "shareholder_name": "Đặng Văn Thành",
+      "shareholder_percent": 0.00054
+    },
+    {
+      "shareholder_name": "Hồ Hữu Nhân",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Mai Thảo",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Công đoàn Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "shareholder_percent": 0.0004247934
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Thảo",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Triển",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Trần Yến Duyên",
+      "shareholder_percent": 0.00035
+    },
+    {
+      "shareholder_name": "Trịnh Nguyễn Thuỳ Trang",
+      "shareholder_percent": 0.00029
+    },
+    {
+      "shareholder_name": "Thái Văn Chuyện",
+      "shareholder_percent": 0.0002501
+    },
+    {
+      "shareholder_name": "Phạm Trung Phan Xuân Quang",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Huỳnh Bích Ngọc",
+      "shareholder_percent": 0.00018
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "shareholder_percent": 0.0001780086
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Bảo hiểm Viễn Đông",
+      "shareholder_percent": 0.000161826
+    },
+    {
+      "shareholder_name": "Trần Thiện Thanh Thùy",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lương Đình Quang",
+      "shareholder_percent": 7.53583e-05
+    },
+    {
+      "shareholder_name": "Lý Kim Dung",
+      "shareholder_percent": 7.3206e-05
+    },
+    {
+      "shareholder_name": "Phạm Thị Khuê",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Đã",
+      "shareholder_percent": 4.6e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Thanh Tâm",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Đinh Thị Ngọc Trang",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Tôn Thị Nhật Giang",
+      "shareholder_percent": 8.293e-07
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Kiến Trúc Xây Dựng Toàn Thịnh Phát",
+      "shareholder_percent": 9.7e-08
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Thị Thanh Thảo",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Trần Yến Duyên",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.00035
+    },
+    {
+      "officer_name": "Phạm Thị Khuê",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 7e-05
+    },
+    {
+      "officer_name": "Đỗ Diệu Linh",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Sơn Trung",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Thị Vy",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Quốc Thái",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Mạnh Tiến",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Diệp Phượng Nhi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Ngọc Giang",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thành Chương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thùy Vân",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Quốc Khánh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:13:47.819906"
+}

@@ -1,0 +1,155 @@
+{
+  "symbol": "AGG",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3404963296950,
+  "current_price": 20950,
+  "outstanding_shares": 162528081,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Ph&aacute;t triển Bất động sản An Gia (AGG) được th&agrave;nh lập&nbsp;v&agrave;o năm 2012. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư ph&aacute;t triển v&agrave; kinh doanh&nbsp;c&aacute;c c&ocirc;ng tr&igrave;nh nh&agrave; ở. AGG trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ th&aacute;ng 11/2019. C&ocirc;ng ty đ&atilde; đầu tư ph&aacute;t triển một số dự &aacute;n nh&agrave; ở ti&ecirc;u biểu tại khu vực th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave; Vũng T&agrave;u như: Dự &aacute;n The Star tại quận B&igrave;nh T&acirc;n, dự &aacute;n The Garden tại quận T&acirc;n Ph&uacute; , dự &aacute;n Skyline, Riverside, River City, cụm dự &aacute;n Lacasa (River Panorama 1, River Panorama 2, Sky 89 v&agrave; Signial tại quận 7, v&agrave; The S&oacute;ng tại th&agrave;nh phố Vũng T&agrave;u. AGG lần lượt được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối năm 2019 v&agrave; đầu năm 2020.</div>\r\n",
+  "website": null,
+  "price_change": 250,
+  "percent_price_change": 0.01207729,
+  "volume": 1625808,
+  "high_52w": 21750,
+  "low_52w": 14150,
+  "pe": 20.7002734281,
+  "pb": 1.0552879716,
+  "roe": 0.0521312838,
+  "roa": 0.023662494,
+  "eps": 495.90739844519544,
+  "revenue": 193906331896,
+  "net_profit": 80598877823,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Bá Sáng",
+      "shareholder_percent": 0.3397494
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Hoa",
+      "shareholder_percent": 0.0494
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Thủy",
+      "shareholder_percent": 0.049
+    },
+    {
+      "shareholder_name": "Võ Ngọc Mai Trang",
+      "shareholder_percent": 0.0485
+    },
+    {
+      "shareholder_name": "Nguyễn Hương Giang",
+      "shareholder_percent": 0.034
+    },
+    {
+      "shareholder_name": "Nguyễn Thành Châu",
+      "shareholder_percent": 0.0287751
+    },
+    {
+      "shareholder_name": "KIM Vietnam IPO Balanced Fund",
+      "shareholder_percent": 0.0266
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.023142
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.019819
+    },
+    {
+      "shareholder_name": "Nguyễn Quỳnh Giang",
+      "shareholder_percent": 0.0171
+    },
+    {
+      "shareholder_name": "Nguyễn Mai Giang",
+      "shareholder_percent": 0.015
+    },
+    {
+      "shareholder_name": "KIM KOIC Vietnam IPO Private Fund",
+      "shareholder_percent": 0.014
+    },
+    {
+      "shareholder_name": "Hồ Thị Nguyệt Anh",
+      "shareholder_percent": 0.0093
+    },
+    {
+      "shareholder_name": "Phạm Thị Trà My",
+      "shareholder_percent": 0.00502642
+    },
+    {
+      "shareholder_name": "Nguyễn Trung Tín",
+      "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.004109
+    },
+    {
+      "shareholder_name": "KITMC Worldwide Vietnam RSP Balanced Fund",
+      "shareholder_percent": 0.004
+    },
+    {
+      "shareholder_name": "KB Vietnam Focus Balanced Fund",
+      "shareholder_percent": 0.001926
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Kim Ánh",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "MASAKAZU YAMAGUCHI",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Tú",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Hourai Consulting Ltd",
+      "shareholder_percent": 5e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Bá Sáng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.3397494
+    },
+    {
+      "officer_name": "Nguyễn Thành Châu",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0287751
+    },
+    {
+      "officer_name": "Nguyễn Trung Tín",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0047
+    },
+    {
+      "officer_name": "Huỳnh Thị Kim Ánh",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0.0016
+    },
+    {
+      "officer_name": "MASAKAZU YAMAGUCHI",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.001
+    },
+    {
+      "officer_name": "VŨ QUANG THỊNH",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Lê Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:00:10.854167"
+}

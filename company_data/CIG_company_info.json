@@ -1,0 +1,150 @@
+{
+  "symbol": "CIG",
+  "exchange": "HOSE",
+  "industry": "Xây dựng và Vật liệu",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 453234729360,
+  "current_price": 8880,
+  "outstanding_shares": 51039947,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty cổ phần COMA 18 (CIG), tiền th&acirc;n&nbsp;l&agrave; C&ocirc;ng ty cơ điện H&agrave; T&acirc;y, được th&agrave;nh lập năm 2005. Lĩnh vực kinh doanh chủ yếu của c&ocirc;ng ty bao gồm Đầu tư bất động sản, kinh doanh&nbsp;hạ tầng khu c&ocirc;ng nghiệp v&agrave; cho thu&ecirc; nh&agrave; xưởng.&nbsp;C&ocirc;ng ty chủ yếu hoạt động tại H&agrave; Nội, Th&aacute;i Nguy&ecirc;n, H&agrave; Tĩnh, Thanh H&oacute;a, Lai Ch&acirc;u, Bắc Ninh.&nbsp;Hiện nay, C&ocirc;ng ty đang l&agrave;m chủ đầu tư 2 dự &aacute;n KCN Kim Th&agrave;nh (Hải Dương), KCN Nhuận Trạch (H&ograve;a B&igrave;nh), dự &aacute;n Thuỷ điện H&ugrave;ng Lợi Y&ecirc;n Sơn 1, 2. Coma 18 c&oacute; một số dự &aacute;n ti&ecirc;u biểu kh&aacute;c&nbsp;như: Dự &aacute;n đ&egrave;n Han Bachelorion, nh&agrave; m&aacute;y xi măng B&uacute;t Son , Nh&agrave; m&aacute;y nhiệt điện Phả&nbsp;Lại, nh&agrave; m&aacute;y xi măng Bỉm Sơn, khu c&ocirc;ng nghiệp Thanh Oai, dự &aacute;n chung cư La Kh&ecirc; tại H&agrave; Đ&ocirc;ng, quốc lộ 1A, quốc lộ 3, hệ thống điện quốc lộ tại Hải Dương, H&agrave; Nội, Hồ Ch&iacute; Minh, H&ograve;a B&igrave;nh, Sơn La, Cần Thơ, Bắc Ninh, Bắc Giang,...&nbsp;Ng&agrave;y 19/07/2011, CIG ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": 50,
+  "percent_price_change": 0.00566251,
+  "volume": 148601,
+  "high_52w": 9910,
+  "low_52w": 5000,
+  "pe": 3.8846455252,
+  "pb": 1.431773367,
+  "roe": 0.5309531112,
+  "roa": 0.0801218377,
+  "eps": 724.2499877008102,
+  "revenue": 288059154839,
+  "net_profit": 36965680987,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Trần Thị Liên",
+      "shareholder_percent": 0.2433
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Đạt",
+      "shareholder_percent": 0.1101
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Tuế",
+      "shareholder_percent": 0.1097
+    },
+    {
+      "shareholder_name": "NGUYỄN MINH THƯ",
+      "shareholder_percent": 0.1078
+    },
+    {
+      "shareholder_name": "Lương Thị Ngọc Trang",
+      "shareholder_percent": 0.0784
+    },
+    {
+      "shareholder_name": "NGUYỄN HẢI ĐĂNG",
+      "shareholder_percent": 0.0666
+    },
+    {
+      "shareholder_name": "Trần Đức Minh",
+      "shareholder_percent": 0.0426
+    },
+    {
+      "shareholder_name": "Đỗ Quang Khuê",
+      "shareholder_percent": 0.0412
+    },
+    {
+      "shareholder_name": "Lê Thị Vân Anh",
+      "shareholder_percent": 0.0178
+    },
+    {
+      "shareholder_name": "BÙI QUANG ĐÔNG",
+      "shareholder_percent": 0.0044
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lộc Phú",
+      "shareholder_percent": 0.00337
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Toàn",
+      "shareholder_percent": 0.0018
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thanh Loan",
+      "shareholder_percent": 3.6e-05
+    },
+    {
+      "shareholder_name": "Lê Thanh Thủy",
+      "shareholder_percent": 7.4405e-06
+    },
+    {
+      "shareholder_name": "Dương Đình Thành",
+      "shareholder_percent": 3.4e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Dũng",
+      "shareholder_percent": 1.87e-06
+    },
+    {
+      "shareholder_name": "Dương Thùy Linh",
+      "shareholder_percent": 1e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Thị Vân Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0178
+    },
+    {
+      "officer_name": "BÙI QUANG ĐÔNG",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0044
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Loan",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 3.6e-05
+    },
+    {
+      "officer_name": "Lê Quang Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Dương Thị Thu Hà",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thanh Nhàn",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đức Thành",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Anh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Thanh Hiền",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Văn Biên",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:02:35.583613"
+}

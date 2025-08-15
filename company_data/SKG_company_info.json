@@ -1,0 +1,192 @@
+{
+  "symbol": "SKG",
+  "exchange": "HOSE",
+  "industry": "Du lịch & Giải trí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 771373285200,
+  "current_price": 11600,
+  "outstanding_shares": 66497697,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần T&agrave;u Cao tốc Superdong - Ki&ecirc;n Giang (SKG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH T&agrave;u cao tốc Superdong - Ki&ecirc;n Giang được th&agrave;nh lập v&agrave;o năm 2007.&nbsp;C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực vận chuyển h&agrave;nh kh&aacute;ch v&agrave; h&agrave;ng h&oacute;a giữa đất liền v&agrave; c&aacute;c đảo du lịch Việt Nam.&nbsp;SKG ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2010.&nbsp;SKG hiện quản l&yacute; vận h&agrave;nh 16 t&agrave;u cao tốc v&agrave; 02 ph&agrave; chuy&ecirc;n chở h&agrave;nh kh&aacute;ch, h&agrave;ng h&oacute;a giữa đất liền, Ph&uacute; Quốc, Nam Du, Ph&uacute; Qu&yacute;&nbsp;v&agrave; C&ocirc;n Đảo.&nbsp;C&ocirc;ng ty&nbsp;tiếp tục duy tr&igrave; vị tr&iacute; dẫn đầu tại thị trường vận chuyển h&agrave;nh kh&aacute;ch bằng t&agrave;u cao tốc tại Ki&ecirc;n Giang. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n cung cấp c&aacute;c dịch vụ đi k&egrave;m&nbsp;như xe trung chuyển, dịch vụ ăn uống v&agrave; lưu tr&uacute;&nbsp;để tối ưu h&oacute;a tiện &iacute;ch cho kh&aacute;ch h&agrave;ng.&nbsp;SKG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2014.</p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 661797,
+  "high_52w": 12454,
+  "low_52w": 8551,
+  "pe": 21.5360287014,
+  "pb": 0.856528152,
+  "roe": 0.0400217474,
+  "roa": 0.0393140268,
+  "eps": 508.5740949194075,
+  "revenue": 138044749815,
+  "net_profit": 33819006066,
+  "dividend": 0.0431034483,
+  "shareholders": [
+    {
+      "shareholder_name": "Ting Chek Hua",
+      "shareholder_percent": 0.1297
+    },
+    {
+      "shareholder_name": "Puan Kwong Siing",
+      "shareholder_percent": 0.1283
+    },
+    {
+      "shareholder_name": "HÀ NGUYỆT NHI",
+      "shareholder_percent": 0.0712
+    },
+    {
+      "shareholder_name": "Kaibuok Shipyard Sdn. Bhd.",
+      "shareholder_percent": 0.0595
+    },
+    {
+      "shareholder_name": "Puan Chiong",
+      "shareholder_percent": 0.0486
+    },
+    {
+      "shareholder_name": "The Ton Poh Fund",
+      "shareholder_percent": 0.0483
+    },
+    {
+      "shareholder_name": "Huỳnh Thị Phương Tú",
+      "shareholder_percent": 0.04826
+    },
+    {
+      "shareholder_name": "Huỳnh Văn Phương",
+      "shareholder_percent": 0.04705
+    },
+    {
+      "shareholder_name": "Kong Mee Ling",
+      "shareholder_percent": 0.0283
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoa Lệ",
+      "shareholder_percent": 0.0101
+    },
+    {
+      "shareholder_name": "Arthur Puan Chok Ho",
+      "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Lợi",
+      "shareholder_percent": 0.0022
+    },
+    {
+      "shareholder_name": "Đặng Thị Ngọc Bích",
+      "shareholder_percent": 0.00095
+    },
+    {
+      "shareholder_name": "Hà Vĩ Bân",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Kim Hồng",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Lê Vũ Nam",
+      "shareholder_percent": 0.00041
+    },
+    {
+      "shareholder_name": "Trương Hữu Lộc",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ngọc Nhung",
+      "shareholder_percent": 0.0002232
+    },
+    {
+      "shareholder_name": "Pua Zuo Hong",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Âu Chí Toàn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Bruce Ting Siaw Lung",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lưu Hải Anh",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Huỳnh Đặng Ngọc Tâm",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Lưu Hải Giang",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Trần Thái Quang",
+      "shareholder_percent": 1e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Ting Chek Hua",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.1297
+    },
+    {
+      "officer_name": "Puan Kwong Siing",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.1283
+    },
+    {
+      "officer_name": "HÀ NGUYỆT NHI",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0712
+    },
+    {
+      "officer_name": "Nguyễn Thị Hoa Lệ",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0101
+    },
+    {
+      "officer_name": "Nguyễn Thị Kim Hồng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Nguyễn Thị Ngọc Nhung",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0002232
+    },
+    {
+      "officer_name": "Bùi Thị Hồng Đào",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tăng Siêu Tâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "La Xuân Đào",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Hồng Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lương Nguyễn Mỹ Chi",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Chua Peng Teck",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:06.095894"
+}

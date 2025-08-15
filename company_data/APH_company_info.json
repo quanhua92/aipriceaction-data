@@ -1,0 +1,139 @@
+{
+  "symbol": "APH",
+  "exchange": "HOSE",
+  "industry": "Hàng công nghiệp",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1802304740520,
+  "current_price": 7390,
+  "outstanding_shares": 243884268,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n An Ph&aacute;t Holdings (APH), được th&agrave;nh lập năm 2017. Lĩnh vực kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; Sản xuất, b&aacute;n v&agrave; kinh doanh thương mại sản phẩm nhựa; Sản xuất sản phẩm v&agrave; nguy&ecirc;n liệu sinh học ph&acirc;n hủy ho&agrave;n to&agrave;n; Sản xuất bao b&igrave; v&agrave; hạt nhựa; Kinh doanh nh&agrave; xưởng, cho thu&ecirc; đất v&agrave; hạ tầng khu c&ocirc;ng nghiệp...An Ph&aacute;t hiện l&agrave; doanh nghiệp c&oacute; quy m&ocirc; lớn nhất trong lĩnh vực sản xuất sản phẩm nhựa tại Việt Nam. Trong số c&aacute;c doanh nghiệp sản xuất sản phẩm t&uacute;i nilong trong cả nước vừa phục vụ xuất khẩu vừa phục vụ thị trường nội địa, An Ph&aacute;t l&agrave; doanh nghiệp c&oacute; quy m&ocirc; lớn nhất với sản lượng sản xuất hơn 8.000 tấn/th&aacute;ng. Ng&agrave;y 28/07/2020, APH ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": 180,
+  "percent_price_change": 0.02496533,
+  "volume": 1318283,
+  "high_52w": 8780,
+  "low_52w": 5710,
+  "pe": 18.4169448982,
+  "pb": 0.7358234268,
+  "roe": 0.0385617365,
+  "roa": 0.007590012,
+  "eps": 239.16801443707718,
+  "revenue": 2305550616327,
+  "net_profit": 58329316130,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Igg Usa Việt Nam",
+      "shareholder_percent": 0.2751
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Trung",
+      "shareholder_percent": 0.022808
+    },
+    {
+      "shareholder_name": "Phạm Hoàng Việt",
+      "shareholder_percent": 0.01768257
+    },
+    {
+      "shareholder_name": "PHẠM HOÀNG VIỆT",
+      "shareholder_percent": 0.017
+    },
+    {
+      "shareholder_name": "Phạm Ánh Dương",
+      "shareholder_percent": 0.0151
+    },
+    {
+      "shareholder_name": "Phạm Đỗ Huy Cường",
+      "shareholder_percent": 0.0046
+    },
+    {
+      "shareholder_name": "Nirav Sudhir Patel",
+      "shareholder_percent": 0.00071345
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tiện",
+      "shareholder_percent": 0.0005
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Lê Trung",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.022808
+    },
+    {
+      "officer_name": "Phạm Ánh Dương",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0151
+    },
+    {
+      "officer_name": "Đinh Xuân Cường",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.0099
+    },
+    {
+      "officer_name": "Phạm Đỗ Huy Cường",
+      "officer_position": "Giám đốc Tài chính/Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0046
+    },
+    {
+      "officer_name": "Nirav Sudhir Patel",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.00071345
+    },
+    {
+      "officer_name": "Nguyễn Thị Tiện",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0005
+    },
+    {
+      "officer_name": "Nguyễn Lê Thăng Long",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 3.1e-06
+    },
+    {
+      "officer_name": "Lim Heon Young",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Hoa",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thúy Nga",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm  Văn Tuấn",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hồ Thị Hòe",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Lê Thăng Long",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Hoàng Anh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:00:33.634629"
+}

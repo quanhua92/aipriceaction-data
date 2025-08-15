@@ -1,0 +1,175 @@
+{
+  "symbol": "LTG",
+  "exchange": "UPCOM",
+  "industry": "Sản xuất thực phẩm",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 836154159500,
+  "current_price": 8300,
+  "outstanding_shares": 100741465,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Lộc Trời (LTG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Bảo vệ thực vật An Giang, được th&agrave;nh lập v&agrave;o năm 1993. Tập đo&agrave;n hoạt động&nbsp;ch&iacute;nh trong lĩnh vực&nbsp;sản xuất thuốc bảo vệ c&acirc;y trồng, kinh doanh h&oacute;a chất, hạt giống v&agrave; bao b&igrave; giấy ở Việt Nam.&nbsp;LTG cũng tham gia v&agrave;o chế biến gạo cho xuất khẩu. Tập đo&agrave;n Lộc Trời chiếm hơn 20% thị phần ng&agrave;nh thuốc bảo vệ thực vật v&agrave; l&agrave; nh&agrave; ph&acirc;n phối hạt giống lớn thứ 2 tại Việt Nam. Hơn nữa,&nbsp;LTG đ&atilde; thiết lập mối quan hệ chặt chẽ với c&aacute;c c&ocirc;ng ty h&oacute;a chất n&ocirc;ng nghiệp quốc tế h&agrave;ng đầu như Syngenta (Thụy Sĩ), DEVI CropScience (Ấn Độ), ITOCHU (Nhật Bản) v&agrave; được chuyển giao c&ocirc;ng nghệ ti&ecirc;n tiến trong lĩnh vực sản phẩm bảo vệ thực vật từ c&aacute;c c&ocirc;ng ty n&agrave;y. LTG được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 07/2017.</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 0,
+  "high_52w": 18200,
+  "low_52w": 5800,
+  "pe": 2644.1306142402,
+  "pb": 0.7233783593,
+  "roe": 0.0002550804,
+  "roa": 6.75728e-05,
+  "eps": -958.7445922490804,
+  "revenue": 3874144700078,
+  "net_profit": -96585334784,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Marina Viet Pte. Ltd",
+      "shareholder_percent": 0.2521
+    },
+    {
+      "shareholder_name": "Ủy Ban Nhân Dân Tỉnh An Giang",
+      "shareholder_percent": 0.241533
+    },
+    {
+      "shareholder_name": "Công Ty TNHH VinaCapital Corporate Finance Việt Nam",
+      "shareholder_percent": 0.235
+    },
+    {
+      "shareholder_name": "Epsom Limited",
+      "shareholder_percent": 0.108
+    },
+    {
+      "shareholder_name": "Mekong Capital Ltd",
+      "shareholder_percent": 0.0625
+    },
+    {
+      "shareholder_name": "Augusta Viet Pte. Ltd",
+      "shareholder_percent": 0.0571
+    },
+    {
+      "shareholder_name": "Luminous Vietnam and Indochina Growth Fund",
+      "shareholder_percent": 0.0496
+    },
+    {
+      "shareholder_name": "Huỳnh Văn Thòn",
+      "shareholder_percent": 0.031552
+    },
+    {
+      "shareholder_name": "Endurance Capital Vietnam I Ltd",
+      "shareholder_percent": 0.0296
+    },
+    {
+      "shareholder_name": "Endurance Capital Vietnam II S.A. SICAV-RAIF",
+      "shareholder_percent": 0.0202
+    },
+    {
+      "shareholder_name": "Vietnam Azalea Fund Limited",
+      "shareholder_percent": 0.0149
+    },
+    {
+      "shareholder_name": "Nguyễn Tiến Tùng",
+      "shareholder_percent": 0.003585
+    },
+    {
+      "shareholder_name": "TRẦN TIẾN DŨNG",
+      "shareholder_percent": 0.002631
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Ấm",
+      "shareholder_percent": 0.0024424
+    },
+    {
+      "shareholder_name": "Võ Văn Á",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Trần Quốc Thanh",
+      "shareholder_percent": 0.0005
+    },
+    {
+      "shareholder_name": "Võ Thị Thùy Tiên",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Hoàng",
+      "shareholder_percent": 0.00015
+    },
+    {
+      "shareholder_name": "Lê Thu Hiền",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Phan Ngọc Bá Phương",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "DANH QUÍ",
+      "shareholder_percent": 1.49e-05
+    },
+    {
+      "shareholder_name": "Huỳnh Thanh Tuyết",
+      "shareholder_percent": 1.4e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Huỳnh Văn Thòn",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.031552
+    },
+    {
+      "officer_name": "Nguyễn Tiến Tùng",
+      "officer_position": "Phụ trách Công bố thông tin",
+      "officer_percent": 0.003585
+    },
+    {
+      "officer_name": "Nguyễn Thị Ấm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0024424
+    },
+    {
+      "officer_name": "Nguyễn Tấn Hoàng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00015
+    },
+    {
+      "officer_name": "Nguyễn Duy Thuận",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thanh Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phillipp Rosler",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Hồng Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Tiêu Phước Thạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Thuy Vu Dropsey",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Khánh Dư",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:09:50.730306"
+}

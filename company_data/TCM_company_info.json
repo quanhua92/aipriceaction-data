@@ -1,0 +1,212 @@
+{
+  "symbol": "TCM",
+  "exchange": "HOSE",
+  "industry": "Hàng cá nhân",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 3616489361250,
+  "current_price": 32250,
+  "outstanding_shares": 112139205,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dệt May Th&agrave;nh C&ocirc;ng (TCM) c&oacute;&nbsp;tiền th&acirc;n l&agrave; H&atilde;ng T&aacute;i Th&agrave;nh Kỹ Nghệ Dệt được th&agrave;nh lập năm 1967. C&ocirc;ng ty ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm&nbsp;2006.&nbsp;C&ocirc;ng ty chuy&ecirc;n sản xuất v&agrave; kinh doanh sợi, vải, quần &aacute;o dệt may, h&oacute;a chất, thuốc nhuộm, m&aacute;y m&oacute;c v&agrave; nguy&ecirc;n phụ liệu ng&agrave;nh may. C&ocirc;ng ty l&agrave; một trong những&nbsp;doanh nghiệp h&agrave;ng đầu trong ng&agrave;nh dệt may tại Việt Nam. C&ocirc;ng ty hiện&nbsp;c&oacute; 4 nh&agrave; m&aacute;y sợi với tổng c&ocirc;ng suất l&agrave; 21.000 tấn/năm, nh&agrave; m&aacute;y dệt với c&ocirc;ng suất 7 triệu m&eacute;t/năm. Ngo&agrave;i ra, c&ocirc;ng ty c&ograve;n c&oacute; nh&agrave; m&aacute;y đan với c&ocirc;ng suất 7.000 tấn/năm, nh&agrave; m&aacute;y nhuộm v&agrave; nh&agrave; m&aacute;y may với c&ocirc;ng suất 18 triệu sản phẩm/năm.</div>\r\n",
+  "website": null,
+  "price_change": -400,
+  "percent_price_change": -0.01225115,
+  "volume": 1668339,
+  "high_52w": 44501,
+  "low_52w": 24546,
+  "pe": 11.9745361404,
+  "pb": 1.5530407309,
+  "roe": 0.1329806943,
+  "roa": 0.075867977,
+  "eps": 726.7705977721727,
+  "revenue": 872993088895,
+  "net_profit": 81426472945,
+  "dividend": 0.0465116279,
+  "shareholders": [
+    {
+      "shareholder_name": "E-land Asia Holdings Pte., Ltd",
+      "shareholder_percent": 0.4698
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Nghĩa",
+      "shareholder_percent": 0.1
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Hợp tác Kinh tế và Xuất nhập khẩu Savimex",
+      "shareholder_percent": 0.03
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý quỹ đầu tư chứng khoán Vietcombank",
+      "shareholder_percent": 0.02582
+    },
+    {
+      "shareholder_name": "Lê Quốc Hưng",
+      "shareholder_percent": 0.0195
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn",
+      "shareholder_percent": 0.01930904
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng TVAM",
+      "shareholder_percent": 0.016057609
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 2",
+      "shareholder_percent": 0.013812997
+    },
+    {
+      "shareholder_name": "Nguyễn Hiếu Liêm",
+      "shareholder_percent": 0.0039428099
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương mại Dịch vụ và Sản xuất Tân Châu",
+      "shareholder_percent": 0.00344309
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Tuấn",
+      "shareholder_percent": 0.0023
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương mại Hùng Xương",
+      "shareholder_percent": 0.00146342
+    },
+    {
+      "shareholder_name": "Đinh Thị Thu Hằng",
+      "shareholder_percent": 0.0011523742
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+      "shareholder_percent": 0.0009245212
+    },
+    {
+      "shareholder_name": "Trần Như Tùng",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Phan Hồng Lĩnh",
+      "shareholder_percent": 0.0008146722
+    },
+    {
+      "shareholder_name": "Trần Đình Lâm",
+      "shareholder_percent": 0.000305502
+    },
+    {
+      "shareholder_name": "Phan Thị Huệ",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Mai Văn Sáu",
+      "shareholder_percent": 0.000200613
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Tuấn",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Công ty TNHH Minh Hòa",
+      "shareholder_percent": 6.146e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tự Lực",
+      "shareholder_percent": 2.2403e-06
+    },
+    {
+      "shareholder_name": "Tập đoàn Dệt May Việt Nam",
+      "shareholder_percent": 1.829e-07
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VNDIRECT",
+      "shareholder_percent": 1.016e-07
+    },
+    {
+      "shareholder_name": "Lee Eun Hong",
+      "shareholder_percent": 1e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Văn Nghĩa",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.1
+    },
+    {
+      "officer_name": "Trần Như Tùng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0009
+    },
+    {
+      "officer_name": "Phan Thị Huệ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0003
+    },
+    {
+      "officer_name": "Nguyễn Hữu Tuấn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Nguyễn Tự Lực",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 2.2403e-06
+    },
+    {
+      "officer_name": "Lee Eun Hong",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-07
+    },
+    {
+      "officer_name": "Jung Sung Kwan",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ngô Văn Trịnh",
+      "officer_position": "Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Choi Haeoi",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Tấn Tưởng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kim Jong Gak",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Minh Hảo",
+      "officer_position": "Thành viên Hội đồng Quản trị/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Park Heung Su",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kim II Kyu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Kim Myeong Rae",
+      "officer_position": "Giám đốc Chi nhánh",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Huỳnh Thị Thu Sa",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:14:59.540241"
+}

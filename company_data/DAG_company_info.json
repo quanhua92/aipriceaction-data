@@ -1,0 +1,186 @@
+{
+  "symbol": "DAG",
+  "exchange": "UPCOM",
+  "industry": "Hóa chất",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 84439756800,
+  "current_price": 1400,
+  "outstanding_shares": 60314112,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"cs95E872D0\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Nhựa Đ&ocirc;ng &Aacute; (DAG) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại Sản xuất Nhựa Đ&ocirc;ng &Aacute; được th&agrave;nh lập năm 2001. Năm 2006, c&ocirc;ng ty chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần.&nbsp;Sản phẩm của C&ocirc;ng ty chủ yếu l&agrave; c&aacute;c sản phẩm nhựa d&ugrave;ng trong c&ocirc;ng nghiệp x&acirc;y dựng v&agrave; quảng c&aacute;o gồm c&aacute;c mặt h&agrave;ng sản phẩm truyền thống (tấm ốp trần, cửa nhựa v&agrave; nẹp trang tr&iacute;), sản phẩm cửa uPVC v&agrave; thanh profile, sản phẩm bạt hi flex. DAG hiện chiếm 20-25% thị phần nhựa vật liệu x&acirc;y dựng to&agrave;n quốc, trong đ&oacute; chiếm 35-40% thị phần sản phẩm thanh Profile uPVC miền Bắc.&nbsp;C&ocirc;ng ty c&oacute; hệ thống mạng lưới ti&ecirc;u thụ rộng khắp cả nước với hơn 300 đại l&yacute; ph&acirc;n phối tập trung chủ yếu tại miền Bắc v&agrave; miền Trung. Ng&agrave;y 01/11/2024, DAG ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 0,
+  "high_52w": 1400,
+  "low_52w": 1400,
+  "pe": -0.3270094166,
+  "pb": 0,
+  "roe": -2.0006812371,
+  "roa": -0.1652087561,
+  "eps": -145.45718104988768,
+  "revenue": 15602928790,
+  "net_profit": -8772832122,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty TNHH Thương Mại Hùng Phát",
+      "shareholder_percent": 0.2136
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu Tư Và Phát Triển NBH",
+      "shareholder_percent": 0.101
+    },
+    {
+      "shareholder_name": "Dương Thị Thu Hương",
+      "shareholder_percent": 0.0599
+    },
+    {
+      "shareholder_name": "NGUYỄN BÁ HÙNG",
+      "shareholder_percent": 0.05914731
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương Mại Dịch Vụ Hùng Phát",
+      "shareholder_percent": 0.0507
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư MB",
+      "shareholder_percent": 0.0501
+    },
+    {
+      "shareholder_name": "Công ty TNHH Thương mại và Sản xuất Tam Sơn",
+      "shareholder_percent": 0.0344698662
+    },
+    {
+      "shareholder_name": "Japan Vietnam Growth Fund LP",
+      "shareholder_percent": 0.0137879464
+    },
+    {
+      "shareholder_name": "Phạm Gia Bảo",
+      "shareholder_percent": 0.0054
+    },
+    {
+      "shareholder_name": "TRẦN THỊ LÊ HẢI",
+      "shareholder_percent": 0.0053028
+    },
+    {
+      "shareholder_name": "TRẦN VIỆT THẮNG",
+      "shareholder_percent": 0.0041451
+    },
+    {
+      "shareholder_name": "Ngô Mạnh Quân",
+      "shareholder_percent": 0.002
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Quang",
+      "shareholder_percent": 0.001717226
+    },
+    {
+      "shareholder_name": "ĐƯỜNG NGỌC DIỆU",
+      "shareholder_percent": 0.00170778
+    },
+    {
+      "shareholder_name": "Nguyễn Phú Thắng",
+      "shareholder_percent": 0.0014339464
+    },
+    {
+      "shareholder_name": "Đỗ Thị Thanh Thủy",
+      "shareholder_percent": 0.00087
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Quân",
+      "shareholder_percent": 0.00087
+    },
+    {
+      "shareholder_name": "Nguyễn Hoàng Hải",
+      "shareholder_percent": 0.00079
+    },
+    {
+      "shareholder_name": "Trần Lê Quân",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Đăng Nhân Dũng",
+      "shareholder_percent": 0.00051
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tính",
+      "shareholder_percent": 0.00047
+    },
+    {
+      "shareholder_name": "Trần Thị Lê Hà",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Trịnh Văn Toàn",
+      "shareholder_percent": 0.0001378794
+    },
+    {
+      "shareholder_name": "Ngô Mạnh Tùng",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Đinh Thị Thu Hiền",
+      "shareholder_percent": 7.52069e-05
+    },
+    {
+      "shareholder_name": "Lương Thế Hùng",
+      "shareholder_percent": 4e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "NGUYỄN BÁ HÙNG",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0.05914731
+    },
+    {
+      "officer_name": "Đỗ Thị Thanh Thủy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.00087
+    },
+    {
+      "officer_name": "Nguyễn Hoàng Hải",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin/Thư ký Hội đồng Quản Trị",
+      "officer_percent": 0.00079
+    },
+    {
+      "officer_name": "Bùi Văn Huân",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Thúy Hà",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thẩm Châu",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Ito Junichi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thế Hoàng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vương Trí Dũng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Thanh Thủy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:03:30.562582"
+}

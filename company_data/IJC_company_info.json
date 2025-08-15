@@ -1,0 +1,191 @@
+{
+  "symbol": "IJC",
+  "exchange": "HOSE",
+  "industry": "Bất động sản",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 5458464148800,
+  "current_price": 14450,
+  "outstanding_shares": 377748384,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&aacute;t triển Hạ tầng Kỹ thuật (IJC) được th&agrave;nh lập v&agrave;o năm 2007 theo&nbsp;phương &aacute;n cổ phần h&oacute;a Dự &aacute;n quốc lộ 13 thuộc C&ocirc;ng ty Đầu tư v&agrave; Ph&aacute;t triển C&ocirc;ng nghiệp (Becamex IDC Corp) v&agrave;o năm 2006. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực cung cấp dịch vụ, kinh doanh bất động sản v&agrave; x&acirc;y dựng. C&aacute;c dự &aacute;n bất động sản của IJC&nbsp;tập trung chủ yếu tại Th&agrave;nh phố mới B&igrave;nh Dương ti&ecirc;u biểu như: Khu biệt thự Sunflower, Chung cư IJC Aroma, Khu đ&ocirc; thị IJC&hellip;Ngo&agrave;i ra, c&ocirc;ng ty&nbsp;c&ograve;n triển khai c&aacute;c dự &aacute;n kh&aacute;c tại c&aacute;c khu vực l&acirc;n cận Th&agrave;nh phố&nbsp;Thủ Dầu Một như: Thị x&atilde; Bến C&aacute;t, T&acirc;n Uy&ecirc;n&hellip;. IJC được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2010.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "price_change": -150,
+  "percent_price_change": -0.01027397,
+  "volume": 4072484,
+  "high_52w": 16200,
+  "low_52w": 10550,
+  "pe": 13.1908444707,
+  "pb": 1.0276375505,
+  "roe": 0.0800461084,
+  "roa": 0.0525079715,
+  "eps": 336.07123280770935,
+  "revenue": 194819331377,
+  "net_profit": 126950365102,
+  "dividend": 0.0346020761,
+  "shareholders": [
+    {
+      "shareholder_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP",
+      "shareholder_percent": 0.4976
+    },
+    {
+      "shareholder_name": "Deutsche Bank Aktiengesellschaft",
+      "shareholder_percent": 0.049716784
+    },
+    {
+      "shareholder_name": "VanEck Vietnam ETF",
+      "shareholder_percent": 0.0405849825
+    },
+    {
+      "shareholder_name": "Dragon Capital Vietnam Mother Fund",
+      "shareholder_percent": 0.0404384442
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "shareholder_percent": 0.0337
+    },
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "shareholder_percent": 0.024481798
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Giá trị Bảo Việt",
+      "shareholder_percent": 0.0147
+    },
+    {
+      "shareholder_name": "Dragon Capital Vietnam Fund",
+      "shareholder_percent": 0.01326649
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Quản lý quỹ Đầu tư chứng khoán I.P.A.",
+      "shareholder_percent": 0.00656468
+    },
+    {
+      "shareholder_name": "The Blackhorse Enhanced Vietnam Inc.",
+      "shareholder_percent": 0.00300881
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+      "shareholder_percent": 0.0016
+    },
+    {
+      "shareholder_name": "Vietnam Emerging Equity Fund Limited",
+      "shareholder_percent": 0.00070662
+    },
+    {
+      "shareholder_name": "Temasia Capital Limited",
+      "shareholder_percent": 0.00041485
+    },
+    {
+      "shareholder_name": "Legacy Emerging Asia Limited",
+      "shareholder_percent": 0.00018235
+    },
+    {
+      "shareholder_name": "Phạm Thị Lan Thảo",
+      "shareholder_percent": 5e-05
+    },
+    {
+      "shareholder_name": "Dương Thị Hồng Tỵ",
+      "shareholder_percent": 2.2845e-05
+    },
+    {
+      "shareholder_name": "Phan Trần Thùy Linh",
+      "shareholder_percent": 1.4e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Xuân Diệu",
+      "shareholder_percent": 1.23e-05
+    },
+    {
+      "shareholder_name": "Châu Thị Vân",
+      "shareholder_percent": 2.3e-06
+    },
+    {
+      "shareholder_name": "Đoàn Thị Kiều Oanh",
+      "shareholder_percent": 2e-06
+    },
+    {
+      "shareholder_name": "Bùi Văn Đức",
+      "shareholder_percent": 1.7505e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Châu Thị Vân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2.3e-06
+    },
+    {
+      "officer_name": "Nguyễn Văn Hiền Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Hùng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Đức Hùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hoàn Vũ",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Thị Huyền Trang",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Thùy Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Thanh Hùng",
+      "officer_position": "Phó Tổng Giám đốc/Giám đốc Tài chính/Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Ngọc Hiền",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Nguyên Thảo",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Quang Ngôn",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thiện Thể",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thị Thùy",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Quảng Văn Viết Cương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:08:31.261049"
+}

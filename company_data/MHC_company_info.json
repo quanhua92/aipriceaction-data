@@ -1,0 +1,211 @@
+{
+  "symbol": "MHC",
+  "exchange": "HOSE",
+  "industry": "Vận tải",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 539106343200,
+  "current_price": 12400,
+  "outstanding_shares": 43476318,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần MHC (MHC), tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần H&agrave;ng hải H&agrave; Nội được th&agrave;nh lập theo Giấy ph&eacute;p số 3829/GP-UB do UBND Th&agrave;nh phố H&agrave; Nội cấp ng&agrave;y 17 th&aacute;ng 11 năm 1998, ch&iacute;nh thức đi v&agrave;o hoạt động l&agrave; năm 1999. MHC&nbsp;l&agrave; một trong những đơn vị h&agrave;ng đầu về thị phần vận tải đặc biệt dịch vụ vận tải đa phương thức. Cơ cấu hoạt động C&ocirc;ng ty chủ yếu tập trung v&agrave;o 2 mảng: kinh doanh dịch vụ vận tải đa phương thức v&agrave; kinh doanh cao ốc văn ph&ograve;ng cho thu&ecirc; (t&ograve;a nh&agrave; Ocean Park Building). So với c&aacute;c doanh nghiệp kh&aacute;c c&ugrave;ng ng&agrave;nh, C&ocirc;ng ty l&agrave; một trong những doanh nghiệp h&agrave;ng đầu về thị phần vận tải.&nbsp;C&ugrave;ng với hệ thống vận chuyển: Hơn 1000 container 20 feet v&agrave; h&agrave;ng trăm đầu k&eacute;o, đ&acirc;y l&agrave; điều kiện cần v&agrave; c&oacute; cho MHC thực hiện hoạt động kinh doanh của m&igrave;nh. Ng&agrave;y 21/03/2005, MHC ch&iacute;nh thức&nbsp;giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
+  "website": null,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 780948,
+  "high_52w": 13000,
+  "low_52w": 5850,
+  "pe": 19.4065751943,
+  "pb": 0.9415791943,
+  "roe": 0.0506476652,
+  "roa": 0.0314519127,
+  "eps": 855.7488658736902,
+  "revenue": 40927266774,
+  "net_profit": 37204707131,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại và Đầu tư HT Đông Nam Á",
+      "shareholder_percent": 0.189
+    },
+    {
+      "shareholder_name": "Công ty TNHH Đầu tư và Thương mại Phong Sơn",
+      "shareholder_percent": 0.1886
+    },
+    {
+      "shareholder_name": "Võ Trung Cương",
+      "shareholder_percent": 0.0646251964
+    },
+    {
+      "shareholder_name": "Quỹ Đầu Tư Japan Asia Mb Capital - Jambf",
+      "shareholder_percent": 0.0553
+    },
+    {
+      "shareholder_name": "Bùi Thu Nga",
+      "shareholder_percent": 0.0518
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Việt",
+      "shareholder_percent": 0.0516399597
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần SCI",
+      "shareholder_percent": 0.05
+    },
+    {
+      "shareholder_name": "Nguyễn Chiến Thắng",
+      "shareholder_percent": 0.0484
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Mic",
+      "shareholder_percent": 0.0475744
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VIX",
+      "shareholder_percent": 0.0475
+    },
+    {
+      "shareholder_name": "Trần Hoàng Anh",
+      "shareholder_percent": 0.0472
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư MB",
+      "shareholder_percent": 0.0447
+    },
+    {
+      "shareholder_name": "Dương Thị Hồng Hạnh",
+      "shareholder_percent": 0.03348
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Khám Phá Giá trị Ngân Hàng Công Thương Việt Nam",
+      "shareholder_percent": 0.0284557
+    },
+    {
+      "shareholder_name": "Phạm Bá Huy",
+      "shareholder_percent": 0.0242
+    },
+    {
+      "shareholder_name": "Bùi Đình Quý",
+      "shareholder_percent": 0.0212568517
+    },
+    {
+      "shareholder_name": "Đặng Tiến Thành",
+      "shareholder_percent": 0.0211
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Vinh",
+      "shareholder_percent": 0.0210713167
+    },
+    {
+      "shareholder_name": "Đỗ Hồng Thái",
+      "shareholder_percent": 0.0206
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Dũng",
+      "shareholder_percent": 0.0184430271
+    },
+    {
+      "shareholder_name": "Hoàng Hà",
+      "shareholder_percent": 0.0129181047
+    },
+    {
+      "shareholder_name": "Dương Thị Hồng Anh",
+      "shareholder_percent": 0.0087
+    },
+    {
+      "shareholder_name": "Vũ Thanh Hải",
+      "shareholder_percent": 0.008589754
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Vận tải biển và Hợp tác lao động Quốc Tế",
+      "shareholder_percent": 0.0085897159
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Thương mại Dịch vụ và Truyền thông Marina",
+      "shareholder_percent": 0.0061
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Lợi",
+      "shareholder_percent": 0.0008263131
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Phúc",
+      "shareholder_percent": 0.000747599
+    },
+    {
+      "shareholder_name": "Đỗ Thành Đĩnh",
+      "shareholder_percent": 0.0006203434
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Lan Anh",
+      "shareholder_percent": 0.00035
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Container Phía Nam",
+      "shareholder_percent": 0.0003230802
+    },
+    {
+      "shareholder_name": "Vũ Công Tường",
+      "shareholder_percent": 0.0001478009
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Dũng",
+      "shareholder_percent": 0.0001383213
+    },
+    {
+      "shareholder_name": "Trần Thị Hải Yến",
+      "shareholder_percent": 0.0001282884
+    },
+    {
+      "shareholder_name": "Phạm Thị Minh Thảo",
+      "shareholder_percent": 7.37713e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Trung Dũng",
+      "shareholder_percent": 3.68856e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Minh Ngọc",
+      "shareholder_percent": 2.581e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Bá Huy",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0242
+    },
+    {
+      "officer_name": "Nguyễn Thị Thùy Linh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thơm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Huy Quảng",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty/Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Nhiên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Việt Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thúy Nga",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:10:07.555278"
+}

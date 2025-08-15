@@ -1,0 +1,194 @@
+{
+  "symbol": "TNT",
+  "exchange": "HOSE",
+  "industry": "Khai khoáng",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 448800000000,
+  "current_price": 8800,
+  "outstanding_shares": 51000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n TNT&nbsp;(TNT), tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty TNHH Dương Qu&acirc;n, được th&agrave;nh lập từ năm 2006. Năm 2007 c&ocirc;ng ty chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. Hoạt động kinh doanh của c&ocirc;ng ty gồm hai lĩnh vực ch&iacute;nh l&agrave; kho&aacute;ng sản v&agrave; bất động sản. Hiện tại c&ocirc;ng ty&nbsp;đang thực hiện dự&nbsp;&aacute;n khai th&aacute;c quặng ch&igrave;, kẽm tại&nbsp;tỉnh&nbsp;Điện Bi&ecirc;n với c&ocirc;ng suất 150 tấn quặng nguy&ecirc;n khai/ng&agrave;y. Sản phẩm của c&ocirc;ng ty ngo&agrave;i việc ti&ecirc;u thụ nội địa c&ograve;n được xuất khẩu sang Trung Quốc (tỷ trọng 60-70%). Một số dự &aacute;n lớn m&agrave; c&ocirc;ng ty đ&atilde; v&agrave; đang tham gia x&acirc;y dựng v&agrave; đầu tư: Dự &aacute;n khu nh&agrave; ở v&agrave; văn ph&ograve;ng l&agrave;m việc cao cấp Nh&acirc;n Ch&iacute;nh với diện t&iacute;ch gần 10.000m2, tổng vốn đầu tư tr&ecirc;n 1.000 tỷ đồng; Dự &aacute;n Khu nh&agrave; ở Đ&ocirc; thị tại Huyện Gia L&acirc;m với diện t&iacute;ch gần 20ha, tổng vốn đầu tư khoảng 1.500 tỷ đồng... Ng&agrave;y 21/05/2010, TNT ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 570,
+  "percent_price_change": 0.06925881,
+  "volume": 302099,
+  "high_52w": 8800,
+  "low_52w": 3900,
+  "pe": 145.2128930342,
+  "pb": 0.7741310554,
+  "roe": 0.0053536753,
+  "roa": 0.0034198664,
+  "eps": 12.771811647058824,
+  "revenue": 131736120523,
+  "net_profit": 651362394,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Nguyễn Gia Long",
+      "shareholder_percent": 0.2254906
+    },
+    {
+      "shareholder_name": "Trần Công Minh",
+      "shareholder_percent": 0.0528
+    },
+    {
+      "shareholder_name": "Đặng Hồng Nhung",
+      "shareholder_percent": 0.04958
+    },
+    {
+      "shareholder_name": "Zheng Lan Ying",
+      "shareholder_percent": 0.0476482
+    },
+    {
+      "shareholder_name": "Zhang Hua",
+      "shareholder_percent": 0.0452941
+    },
+    {
+      "shareholder_name": "Phan Đăng Khoa",
+      "shareholder_percent": 0.0413117647
+    },
+    {
+      "shareholder_name": "Lê Quốc Toản",
+      "shareholder_percent": 0.0242
+    },
+    {
+      "shareholder_name": "Lê Quốc Hưng",
+      "shareholder_percent": 0.0223529411
+    },
+    {
+      "shareholder_name": "Công Ty Cổ Phần Tập Đoàn Đầu Tư Thời Cơ Việt Nam",
+      "shareholder_percent": 0.01961
+    },
+    {
+      "shareholder_name": "Hoàng Anh Tuấn",
+      "shareholder_percent": 0.00731
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Huấn",
+      "shareholder_percent": 0.0058628
+    },
+    {
+      "shareholder_name": "Vũ Tuấn Hoàng",
+      "shareholder_percent": 0.0030255
+    },
+    {
+      "shareholder_name": "Lưu Quang Minh",
+      "shareholder_percent": 0.0019608
+    },
+    {
+      "shareholder_name": "Đoàn Năng Tuân",
+      "shareholder_percent": 0.0009
+    },
+    {
+      "shareholder_name": "Nguyễn Gia Khoa",
+      "shareholder_percent": 0.00037255
+    },
+    {
+      "shareholder_name": "Chu Thị Thanh Vân",
+      "shareholder_percent": 0.0002352941
+    },
+    {
+      "shareholder_name": "Tạ Quang Huy",
+      "shareholder_percent": 0.0002352941
+    },
+    {
+      "shareholder_name": "Trần Trọng Thủy",
+      "shareholder_percent": 0.0002352941
+    },
+    {
+      "shareholder_name": "Đoàn Văn Tú",
+      "shareholder_percent": 0.000117647
+    },
+    {
+      "shareholder_name": "Phạm Thị Thu Hoài",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Thắng",
+      "shareholder_percent": 3.922e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Điểm",
+      "shareholder_percent": 3.922e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Bá Đạt",
+      "shareholder_percent": 3.922e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoàn",
+      "shareholder_percent": 3.922e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Gia Minh",
+      "shareholder_percent": 3.92e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Liên",
+      "shareholder_percent": 1.961e-05
+    },
+    {
+      "shareholder_name": "Trần Thị Trâm",
+      "shareholder_percent": 1.57e-05
+    },
+    {
+      "shareholder_name": "NGUYỄN THỊ ÁNH TUYẾT",
+      "shareholder_percent": 4e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Nguyễn Gia Long",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.2254906
+    },
+    {
+      "officer_name": "Nguyễn Bá Huấn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0058628
+    },
+    {
+      "officer_name": "Vũ Tuấn Hoàng",
+      "officer_position": "Phó Tổng Giám đốc/Người phụ trách quản trị công ty/Thành viên Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0030255
+    },
+    {
+      "officer_name": "Lưu Quang Minh",
+      "officer_position": "Tổng Giám đốc",
+      "officer_percent": 0.0019608
+    },
+    {
+      "officer_name": "Nguyễn Gia Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 3.92e-05
+    },
+    {
+      "officer_name": "Trần Thị Trâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1.57e-05
+    },
+    {
+      "officer_name": "Hà Huyền Trang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Sang",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Thị Hồng Nhung",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Giáp",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:15:52.993037"
+}

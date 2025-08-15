@@ -1,0 +1,168 @@
+{
+  "symbol": "VIF",
+  "exchange": "HNX",
+  "industry": "Lâm nghiệp và Giấy",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 5670000000000,
+  "current_price": 16200,
+  "outstanding_shares": 350000000,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng c&ocirc;ng ty L&acirc;m nghiệp Việt Nam (VIF) c&oacute; tiền th&acirc;n l&agrave; Tổng C&ocirc;ng ty L&acirc;m Sản Việt Nam, được th&agrave;nh lập năm 1995 tr&ecirc;n cơ sở s&aacute;p nhập 10 Tổng c&ocirc;ng ty, Li&ecirc;n hiệp c&aacute;c x&iacute; nghiệp trực thuộc Bộ L&acirc;m nghiệp (nay l&agrave; Bộ N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n). Vinafor hoạt động ch&iacute;nh trong lĩnh vực trồng, chăm s&oacute;c, quản l&yacute; rừng v&agrave; chế biến l&acirc;m sản. B&igrave;nh qu&acirc;n mỗi năm Tổng C&ocirc;ng ty L&acirc;m nghiệp Việt Nam trồng từ 5.000 &ndash; 6.000 ha rừng. Ngo&agrave;i ra, Vinafor c&ograve;n đẩy mạnh chế biến c&aacute;c sản phẩm gỗ chất lượng cao (nội thất trong nh&agrave;, nội thất ngo&agrave;i trời, plywood). Nh&agrave; m&aacute;y MDF Gia Lai của VINAFOR c&oacute; c&ocirc;ng suất 54.000 m3 sản phẩm/năm sử dụng d&acirc;y chuyền c&ocirc;ng nghệ hiện đại của Ch&acirc;u &Acirc;u.&nbsp;B&ecirc;n cạnh đ&oacute;, Tổng c&ocirc;ng ty c&ograve;n tham gia chế biến v&agrave; xuất khẩu khoảng 01 triệu tấn dăm gỗ/năm. Ng&agrave;y 03/02/2020, VIF ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
+  "website": null,
+  "price_change": 100,
+  "percent_price_change": 0.00621118,
+  "volume": 401,
+  "high_52w": 22701,
+  "low_52w": 14140,
+  "pe": 21.934263606,
+  "pb": 1.188044391,
+  "roe": 0.0529878863,
+  "roa": 0.0473482841,
+  "eps": 251.63555343428573,
+  "revenue": 548693170105,
+  "net_profit": 88072443702,
+  "dividend": 0.0407407407,
+  "shareholders": [
+    {
+      "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Ủy Ban Quản Lý Vốn Nhà Nước Tại Doanh Nghiệp",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Tập đoàn T&T",
+      "shareholder_percent": 0.4
+    },
+    {
+      "shareholder_name": "Tổng Công ty Cổ phần Bảo hiểm Sài Gòn - Hà Nội",
+      "shareholder_percent": 0.0473
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Phương Loan",
+      "shareholder_percent": 0.000331
+    },
+    {
+      "shareholder_name": "Mai Quý Quảng",
+      "shareholder_percent": 4.1e-05
+    },
+    {
+      "shareholder_name": "Hồ Thị Thanh Huyền",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Khanh",
+      "shareholder_percent": 1.8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Khương Lâm",
+      "shareholder_percent": 1.3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tân Việt",
+      "shareholder_percent": 1.2e-05
+    },
+    {
+      "shareholder_name": "Hà Xuân Mai",
+      "shareholder_percent": 1.2e-05
+    },
+    {
+      "shareholder_name": "Ngô Thị Thúy Mai",
+      "shareholder_percent": 1.1e-05
+    },
+    {
+      "shareholder_name": "Đào Quốc Hoàn",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tấn Cường",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Bùi Quang Dũng",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Trung Kiên",
+      "shareholder_percent": 7.7e-06
+    },
+    {
+      "shareholder_name": "Phí Mạnh Cường",
+      "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Vũ Văn Hường",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Cao Văn Thùy",
+      "shareholder_percent": 4e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Mai Quý Quảng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 4.1e-05
+    },
+    {
+      "officer_name": "Hồ Thị Thanh Huyền",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 2e-05
+    },
+    {
+      "officer_name": "Nguyễn Khương Lâm",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.3e-05
+    },
+    {
+      "officer_name": "Ngô Thị Thúy Mai",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 1.1e-05
+    },
+    {
+      "officer_name": "Nguyễn Tấn Cường",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Đào Quốc Hoàn",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 1e-05
+    },
+    {
+      "officer_name": "Nguyễn Trung Kiên",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 7.7e-06
+    },
+    {
+      "officer_name": "Phí Mạnh Cường",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 7e-06
+    },
+    {
+      "officer_name": "Vũ Văn Hường",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 5e-06
+    },
+    {
+      "officer_name": "Nguyễn Mạnh Hùng",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Quốc Khánh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Ngọc Khanh",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:16:58.719338"
+}

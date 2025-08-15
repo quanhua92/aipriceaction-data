@@ -1,0 +1,203 @@
+{
+  "symbol": "APG",
+  "exchange": "HOSE",
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 2672282206900,
+  "current_price": 11950,
+  "outstanding_shares": 223621942,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n APG (APG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Chứng kho&aacute;n An Ph&aacute;t được th&agrave;nh lập v&agrave;o năm 2007. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực&nbsp; m&ocirc;i giới chứng kho&aacute;n, hoạt động đầu tư, hoạt động tư vấn v&agrave; lưu k&yacute; chứng kho&aacute;n.&nbsp;<span style=\"font-size: 10pt;\">Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 23,43 tỷ đồng. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 11.58%, tăng 5.66%. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng -145.82 tỷ đồng. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức -6.27%, giảm 14.73%</span><span style=\"font-size: 10pt;\">.&nbsp;</span>APG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>\r\n",
+  "website": null,
+  "price_change": 50,
+  "percent_price_change": 0.00420168,
+  "volume": 1179430,
+  "high_52w": 13450,
+  "low_52w": 5750,
+  "pe": -14.9882120658,
+  "pb": 1.1114435548,
+  "roe": -0.0738851589,
+  "roa": -0.0518245318,
+  "eps": -30.55583016536007,
+  "revenue": 161287771412,
+  "net_profit": -6832954081,
+  "dividend": 0,
+  "shareholders": [
+    {
+      "shareholder_name": "Pando 1 Investment Pte.Ltd",
+      "shareholder_percent": 0.2202
+    },
+    {
+      "shareholder_name": "Nghiêm Thuận Ánh",
+      "shareholder_percent": 0.094797064
+    },
+    {
+      "shareholder_name": "Mai Đức Chiến",
+      "shareholder_percent": 0.0564
+    },
+    {
+      "shareholder_name": "Nguyễn Quốc Thịnh",
+      "shareholder_percent": 0.0499
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội",
+      "shareholder_percent": 0.049
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Hạnh",
+      "shareholder_percent": 0.0486
+    },
+    {
+      "shareholder_name": "Nguyễn Văn Thưởng",
+      "shareholder_percent": 0.0484
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hà",
+      "shareholder_percent": 0.0481
+    },
+    {
+      "shareholder_name": "Đinh Thị Hồng Liên",
+      "shareholder_percent": 0.0471
+    },
+    {
+      "shareholder_name": "Lê Thị Mai Hòa",
+      "shareholder_percent": 0.047
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Hls",
+      "shareholder_percent": 0.0445
+    },
+    {
+      "shareholder_name": "Đào Thị Quỳnh",
+      "shareholder_percent": 0.0442
+    },
+    {
+      "shareholder_name": "Lê Thị Hải Bình",
+      "shareholder_percent": 0.0415
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Tâm",
+      "shareholder_percent": 0.0393
+    },
+    {
+      "shareholder_name": "Nguyễn Đoàn Mạnh Hiếu",
+      "shareholder_percent": 0.038
+    },
+    {
+      "shareholder_name": "Nguyễn Khắc Lanh",
+      "shareholder_percent": 0.029
+    },
+    {
+      "shareholder_name": "Mai Thanh Phương",
+      "shareholder_percent": 0.0288
+    },
+    {
+      "shareholder_name": "Lê Quốc Hùng",
+      "shareholder_percent": 0.0099786383
+    },
+    {
+      "shareholder_name": "Lê Đình Chí Linh",
+      "shareholder_percent": 0.007244
+    },
+    {
+      "shareholder_name": "Phạm Thị Hoàng Diệu",
+      "shareholder_percent": 0.006462
+    },
+    {
+      "shareholder_name": "Đỗ Thành Nhân",
+      "shareholder_percent": 0.0032
+    },
+    {
+      "shareholder_name": "Võ Quí Lâm",
+      "shareholder_percent": 0.002684
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Nghị",
+      "shareholder_percent": 0.0019
+    },
+    {
+      "shareholder_name": "Trần Thiên Hà",
+      "shareholder_percent": 0.0015
+    },
+    {
+      "shareholder_name": "Nguyễn Anh Dũng",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "LÊ BÌNH PHƯƠNG",
+      "shareholder_percent": 0.00058
+    },
+    {
+      "shareholder_name": "Lê Văn Hảo",
+      "shareholder_percent": 0.0002808801
+    },
+    {
+      "shareholder_name": "Phạm Nguyên Hoàng",
+      "shareholder_percent": 0.0001478316
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Quỳnh Nga",
+      "shareholder_percent": 4.5e-05
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Lê Thị Mai Hòa",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0.047
+    },
+    {
+      "officer_name": "Nguyễn Thị Tâm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0393
+    },
+    {
+      "officer_name": "Nguyễn Hồ Hưng",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0035
+    },
+    {
+      "officer_name": "Võ Quí Lâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.002684
+    },
+    {
+      "officer_name": "Nguyễn Thanh Nghị",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0019
+    },
+    {
+      "officer_name": "Trần Thiên Hà",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0015
+    },
+    {
+      "officer_name": "Nguyễn Anh Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Lương Thành Trung",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Phương",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Mạnh Linh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan  Bích Ngà",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:00:24.215087"
+}

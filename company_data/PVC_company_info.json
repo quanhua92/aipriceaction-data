@@ -1,0 +1,189 @@
+{
+  "symbol": "PVC",
+  "exchange": "HNX",
+  "industry": "Thiết bị, Dịch vụ và Phân phối Dầu khí",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": 1055528019000,
+  "current_price": 13000,
+  "outstanding_shares": 81194463,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty H&oacute;a chất v&agrave; Dịch vụ Dầu kh&iacute; - C&ocirc;ng ty Cổ phần (PVC),&nbsp;tiền th&acirc;n l&agrave; c&ocirc;ng ty Dung dịch khoan v&agrave; Ho&aacute; phẩm Dầu kh&iacute; được th&agrave;nh lập năm 1990. Năm 2005, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần.&nbsp; L&agrave; th&agrave;nh vi&ecirc;n của Tổng c&ocirc;ng ty dầu kh&iacute; Việt Nam, c&ocirc;ng ty chuy&ecirc;n về sản xuất v&agrave; kinh doanh&nbsp;ho&aacute; chất, ho&aacute; phẩm; khai th&aacute;c v&agrave;&nbsp;chế biến kho&aacute;ng sản&nbsp;phục vụ cho c&ocirc;ng nghiệp dầu kh&iacute; v&agrave; c&aacute;c ng&agrave;nh c&ocirc;ng nghiệp kh&aacute;c. Hiện nay, c&ocirc;ng ty l&agrave; nh&agrave; cung cấp c&aacute;c dịch vụ h&oacute;a kỹ thuật h&agrave;ng đầu cho c&aacute;c đơn vị trong v&agrave; ngo&agrave;i ng&agrave;nh dầu kh&iacute;. Sản phẩm v&agrave; dịch vụ của c&ocirc;ng ty được cung cấp tr&ecirc;n khắp Việt Nam&nbsp;nhưng&nbsp;c&aacute;c thị trường&nbsp;ch&iacute;nh l&agrave; H&agrave; Nội, Hải Ph&ograve;ng, Quảng Ng&atilde;i, Hồ Ch&iacute; Minh v&agrave; B&agrave; Rịa Vũng T&agrave;u. Hệ thống thiết bị đồng bộ l&agrave;m sạch t&agrave;u chở dầu v&agrave; kho chứa dầu nổi được sản xuất bởi Scanjet Inc. Hệ thống bao gồm một hệ thống CIP (Cleaning in Place) c&oacute; hiệu suất l&agrave; 550m3/h, c&ocirc;ng suất l&agrave;m sạch l&agrave; 100.000m3/10h...Ng&agrave;y 15/11/2007, PVC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "website": null,
+  "price_change": 200,
+  "percent_price_change": 0.015625,
+  "volume": 2624787,
+  "high_52w": 13936,
+  "low_52w": 7400,
+  "pe": 113.8660618732,
+  "pb": 1.1268815444,
+  "roe": 0.0099263261,
+  "roa": 0.00451705,
+  "eps": 61.243377913589995,
+  "revenue": 1201715513669,
+  "net_profit": 4972623182,
+  "dividend": 0.0153846154,
+  "shareholders": [
+    {
+      "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
+      "shareholder_percent": 0.36
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Phẩm",
+      "shareholder_percent": 0.14810546
+    },
+    {
+      "shareholder_name": "Samarang Ucits - Samarang Asian Prosperity",
+      "shareholder_percent": 0.05
+    },
+    {
+      "shareholder_name": "Công ty Hữu hạn Công nghiệp Hồng Đạt",
+      "shareholder_percent": 0.0474806
+    },
+    {
+      "shareholder_name": "Hoàng Trọng Dũng",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Trần Văn Trinh",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Bùi Tuấn Ngọc",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Phạm Ngọc Khuê",
+      "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Tạ Đình Khang",
+      "shareholder_percent": 0.0003
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Khánh",
+      "shareholder_percent": 0.0002894
+    },
+    {
+      "shareholder_name": "Dương Thị Mai Hoa",
+      "shareholder_percent": 0.0002788
+    },
+    {
+      "shareholder_name": "Chu Thị Hiền",
+      "shareholder_percent": 0.000172
+    },
+    {
+      "shareholder_name": "Đinh Thị Thủy",
+      "shareholder_percent": 0.00010296
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Quỳnh",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Khánh",
+      "shareholder_percent": 7.2e-05
+    },
+    {
+      "shareholder_name": "Lều Minh Tiến",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Khuất Quang Tiến",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Trịnh Thị Len",
+      "shareholder_percent": 3.012e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Trâm",
+      "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Đỗ Xuân Vịnh",
+      "shareholder_percent": 1.2e-06
+    },
+    {
+      "shareholder_name": "Phạm Xuân Toàn",
+      "shareholder_percent": 1.18e-06
+    },
+    {
+      "shareholder_name": "Phạm Minh Đức",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Lê Văn Linh",
+      "shareholder_percent": 4.6e-07
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Hoàng Trọng Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0038
+    },
+    {
+      "officer_name": "Trần Văn Trinh",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0.0006
+    },
+    {
+      "officer_name": "Phạm Ngọc Khuê",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Bùi Tuấn Ngọc",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0004
+    },
+    {
+      "officer_name": "Nguyễn Ngọc Quỳnh",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Hà Duy Tân",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phan Công Thành",
+      "officer_position": "Tổng Giám đốc/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Hương Giang",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Việt Phương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Đại Nghĩa",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Hồng Hạnh",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Việt Thắng",
+      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hồng Kiên",
+      "officer_position": "Thành viên Hội đồng Quản trị/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-08-15T07:12:40.037616"
+}
