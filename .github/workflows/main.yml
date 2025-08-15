@@ -3,6 +3,12 @@ name: "AIPriceAction Daily Crawler"
 on:
   # Allows you to run this workflow manually from the Actions tab on GitHub
   workflow_dispatch:
+    inputs:
+      run_company_info_collection:
+        description: 'Run company information collection (main_get_info.py)'
+        required: false
+        type: boolean
+        default: false
 
   # Sets up a scheduled run
   schedule:
@@ -53,8 +59,9 @@ jobs:
           mkdir -p market_data
           mkdir -p company_data
 
-      # Step 5: Collect company information for all tickers
+      # Step 5: Collect company information for all tickers (only when manually triggered with checkbox)
       - name: Collect company information
+        if: github.event.inputs.run_company_info_collection == 'true'
         run: |
           python main_get_info.py
 
