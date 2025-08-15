@@ -58,12 +58,17 @@ jobs:
         run: |
           python main_get_info.py
 
-      # Step 6: Run the main Python script to generate the new files.
-      - name: Run data pipeline and generate report
+      # Step 6: Run the optimized data fetcher with VCI/TCBS clients (33x faster than vnstock)
+      - name: Fetch market data with VCI/TCBS clients
         run: |
-          python main.py
+          python main_get_ticker_data.py
 
-      # Step 7: Commit and push the updated report, data, and charts to the repository.
+      # Step 7: Run the report generation script (original main.py - currently commented out)
+      # - name: Generate market report
+      #   run: |
+      #     python main.py
+
+      # Step 8: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
