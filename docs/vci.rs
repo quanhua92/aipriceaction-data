@@ -4,7 +4,7 @@ use serde_json::Value;
 use std::collections::HashMap;
 use std::time::{Duration as StdDuration, SystemTime};
 use tokio::time::sleep;
-use chrono::{DateTime, Duration as ChronoDuration, NaiveDate, Utc};
+use chrono::{DateTime, Duration as ChronoDuration, NaiveDate, Utc, Weekday, TimeZone, Datelike};
 
 #[derive(Debug)]
 pub enum VciError {
@@ -88,6 +88,7 @@ pub struct VciClient {
     request_timestamps: Vec<SystemTime>,
     user_agents: Vec<String>,
     random_agent: bool,
+    resample_map: HashMap<String, String>,
 }
 
 impl VciClient {
@@ -104,6 +105,10 @@ impl VciClient {
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0".to_string(),
         ];
 
+        let mut resample_map = HashMap::new();
+        resample_map.insert("1W".to_string(), "1W".to_string());
+        resample_map.insert("1M".to_string(), "1M".to_string());
+
         Ok(VciClient {
             client,
             base_url: "https://trading.vietcap.com.vn/api/".to_string(),
@@ -111,6 +116,7 @@ impl VciClient {
             request_timestamps: Vec::new(),
             user_agents,
             random_agent,
+            resample_map,
         })
     }
 
@@ -133,8 +139,8 @@ impl VciClient {
 
     fn get_user_agent(&self) -> String {
         if self.random_agent {
-            use rand::seq::SliceRandom;
-            self.user_agents.choose(&mut rand::thread_rng())
+            use rand::prelude::IndexedRandom;
+            self.user_agents.choose(&mut rand::rng())
                 .unwrap_or(&self.user_agents[0])
                 .clone()
         } else {
@@ -341,6 +347,12 @@ impl VciClient {
         }
 
         result.sort_by(|a, b| a.time.cmp(&b.time));
+        
+        // Apply resampling if needed
+        if self.resample_map.contains_key(interval) && !["1m", "1H", "1D"].contains(&interval) {
+            result = self.resample_ohlcv(result, interval)?;
+        }
+        
         Ok(result)
     }
 
@@ -376,38 +388,13 @@ impl VciClient {
 
         let response_array = response_data.as_array().unwrap();
 
-        // Debug: Show VCI batch response structure
-        println!("🔍 VCI BATCH DEBUG:");
-        println!("  Requested symbols: {:?}", symbols);
-        println!("  Response array length: {}", response_array.len());
-        
-        // Debug: Check if response includes symbol identifiers
-        for (i, item) in response_array.iter().enumerate() {
-            if let Some(obj) = item.as_object() {
-                // Check for symbol field or any identifier
-                let symbol_fields = ["symbol", "ticker", "Symbol", "Ticker", "s"];
-                let mut found_symbol = None;
-                for field in &symbol_fields {
-                    if let Some(val) = obj.get(*field) {
-                        found_symbol = val.as_str();
-                        break;
-                    }
-                }
-                println!("    response[{}] symbol field: {:?}", i, found_symbol);
-                if let Some(closes) = obj.get("c").and_then(|v| v.as_array()) {
-                    if !closes.is_empty() {
-                        println!("    response[{}] last close: {:?}", i, closes.last());
-                    }
-                }
-            }
-        }
 
         let mut results = HashMap::new();
         let start_date = NaiveDate::parse_from_str(start, "%Y-%m-%d").expect("Invalid start date");
 
         // Create a mapping from response data using symbol field
         let mut response_map = HashMap::new();
-        for (i, data_item) in response_array.iter().enumerate() {
+        for (_i, data_item) in response_array.iter().enumerate() {
             if let Some(obj) = data_item.as_object() {
                 // Find symbol identifier in response
                 let symbol_fields = ["symbol", "ticker", "Symbol", "Ticker", "s"];
@@ -421,9 +408,6 @@ impl VciClient {
                 
                 if let Some(sym) = response_symbol {
                     response_map.insert(sym.clone(), data_item.clone());
-                    println!("  Mapped response[{}] -> symbol: {}", i, sym);
-                } else {
-                    println!("  WARNING: No symbol field found in response[{}]", i);
                 }
             }
         }
@@ -431,10 +415,8 @@ impl VciClient {
         // Process each requested symbol using correct mapping
         for symbol in symbols {
             let symbol_upper = symbol.to_uppercase();
-            println!("  Processing symbol: {}", symbol);
             
             if !response_map.contains_key(&symbol_upper) {
-                println!("No data available for symbol: {}", symbol);
                 results.insert(symbol.clone(), None);
                 continue;
             }
@@ -497,6 +479,14 @@ impl VciClient {
             }
 
             symbol_data.sort_by(|a, b| a.time.cmp(&b.time));
+            
+            // Apply resampling if needed
+            if self.resample_map.contains_key(interval) && !["1m", "1H", "1D"].contains(&interval) {
+                if let Ok(resampled) = self.resample_ohlcv(symbol_data.clone(), interval) {
+                    symbol_data = resampled;
+                }
+            }
+            
             results.insert(symbol.clone(), Some(symbol_data));
         }
 
@@ -684,6 +674,106 @@ impl VciClient {
         }
 
         Ok(company_info)
+    }
+    
+    fn resample_ohlcv(&self, data: Vec<OhlcvData>, interval: &str) -> Result<Vec<OhlcvData>, VciError> {
+        if data.is_empty() {
+            return Ok(data);
+        }
+        
+        match interval {
+            "1W" => self.resample_weekly(data),
+            "1M" => self.resample_monthly(data),
+            _ => Ok(data), // No resampling needed
+        }
+    }
+    
+    fn resample_weekly(&self, data: Vec<OhlcvData>) -> Result<Vec<OhlcvData>, VciError> {
+        let mut weekly_data = HashMap::new();
+        
+        for item in data {
+            // Get the Monday of the week for this date
+            let week_start = self.get_week_start(item.time);
+            
+            weekly_data.entry(week_start)
+                .and_modify(|week_item: &mut OhlcvData| {
+                    // Update OHLC values
+                    week_item.high = week_item.high.max(item.high);
+                    week_item.low = week_item.low.min(item.low);
+                    week_item.close = item.close; // Last close
+                    week_item.volume += item.volume;
+                })
+                .or_insert(OhlcvData {
+                    time: week_start,
+                    open: item.open,
+                    high: item.high,
+                    low: item.low,
+                    close: item.close,
+                    volume: item.volume,
+                    symbol: item.symbol,
+                });
+        }
+        
+        let mut result: Vec<OhlcvData> = weekly_data.into_values().collect();
+        result.sort_by(|a, b| a.time.cmp(&b.time));
+        Ok(result)
+    }
+    
+    fn resample_monthly(&self, data: Vec<OhlcvData>) -> Result<Vec<OhlcvData>, VciError> {
+        let mut monthly_data = HashMap::new();
+        
+        for item in data {
+            // Get the first day of the month
+            let month_start = self.get_month_start(item.time);
+            
+            monthly_data.entry(month_start)
+                .and_modify(|month_item: &mut OhlcvData| {
+                    // Update OHLC values
+                    month_item.high = month_item.high.max(item.high);
+                    month_item.low = month_item.low.min(item.low);
+                    month_item.close = item.close; // Last close
+                    month_item.volume += item.volume;
+                })
+                .or_insert(OhlcvData {
+                    time: month_start,
+                    open: item.open,
+                    high: item.high,
+                    low: item.low,
+                    close: item.close,
+                    volume: item.volume,
+                    symbol: item.symbol,
+                });
+        }
+        
+        let mut result: Vec<OhlcvData> = monthly_data.into_values().collect();
+        result.sort_by(|a, b| a.time.cmp(&b.time));
+        Ok(result)
+    }
+    
+    fn get_week_start(&self, date: DateTime<Utc>) -> DateTime<Utc> {
+        let days_since_monday = match date.weekday() {
+            Weekday::Mon => 0,
+            Weekday::Tue => 1,
+            Weekday::Wed => 2,
+            Weekday::Thu => 3,
+            Weekday::Fri => 4,
+            Weekday::Sat => 5,
+            Weekday::Sun => 6,
+        };
+        
+        let week_start_date = date.date_naive() - ChronoDuration::days(days_since_monday);
+        week_start_date.and_hms_opt(0, 0, 0)
+            .and_then(|dt| Utc.from_local_datetime(&dt).single())
+            .unwrap_or(date)
+    }
+    
+    fn get_month_start(&self, date: DateTime<Utc>) -> DateTime<Utc> {
+        let year = date.year();
+        let month = date.month();
+        
+        Utc.with_ymd_and_hms(year, month, 1, 0, 0, 0)
+            .single()
+            .unwrap_or(date)
     }
 }
 

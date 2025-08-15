@@ -641,6 +641,52 @@ def _handle_response_error(self, response, attempt):
         return 'unknown_error'
 ```
 
+### 1W Interval Implementation Details
+
+The 1W (weekly) and 1M (monthly) intervals require client-side aggregation since the VCI API only returns daily data at maximum granularity. The implementation follows the same pattern as vnstock's successful approach:
+
+#### Resampling Logic
+
+```python
+# Python implementation
+if resample_map and interval not in ["1m", "1H", "1D"]:
+    df = df.set_index('time').resample(resample_map[interval]).agg({
+        'open': 'first',
+        'high': 'max', 
+        'low': 'min',
+        'close': 'last',
+        'volume': 'sum'
+    }).reset_index()
+```
+
+```javascript
+// JavaScript implementation  
+if (this.resampleMap[interval] && !["1m", "1H", "1D"].includes(interval)) {
+    data = this.resampleOhlcv(data, interval);
+}
+```
+
+```rust
+// Rust implementation
+if self.resample_map.contains_key(interval) && !["1m", "1H", "1D"].contains(&interval) {
+    result = self.resample_ohlcv(result, interval)?;
+}
+```
+
+#### Testing Results
+
+Weekly aggregation has been successfully tested across all three implementations:
+
+- **Python**: Perfect 7-day intervals with proper OHLC aggregation
+- **JavaScript**: Identical functionality with object-based data structures
+- **Rust**: Memory-efficient HashMap-based weekly grouping
+
+All implementations correctly handle:
+- Week boundary detection (Monday start)
+- OHLC aggregation rules (first open, max high, min low, last close)
+- Volume summation
+- Proper time series sorting
+
 ## Code Walkthrough
 
 ### Core Request Flow

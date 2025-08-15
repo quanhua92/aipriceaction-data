@@ -117,6 +117,16 @@ class VCIClient:
             '1M': 'ONE_DAY'
         }
         
+        # Resample mapping for client-side aggregation (cloned from vnstock)
+        self.resample_map = {
+            '5m': '5min',
+            '15m': '15min',
+            '30m': '30min',
+            '1H': '1H',
+            '1W': '1W',
+            '1M': 'M'
+        }
+        
         # Initialize session with realistic browser behavior
         self._setup_session()
         
@@ -377,6 +387,20 @@ class VCIClient:
         # Sort by time
         df = df.sort_values('time').reset_index(drop=True)
         
+        # Apply resampling if needed (cloned from vnstock logic)
+        if interval in self.resample_map and interval not in ["1m", "1H", "1D"]:
+            print(f"Applying {interval} resampling using pandas resample...")
+            df = df.set_index('time').resample(self.resample_map[interval]).agg({
+                'open': 'first',
+                'high': 'max',
+                'low': 'min', 
+                'close': 'last',
+                'volume': 'sum'
+            }).reset_index()
+            
+            # Remove rows with NaN values (weekends, holidays)
+            df = df.dropna().reset_index(drop=True)
+        
         print(f"Successfully fetched {len(df)} data points")
         return df
 
@@ -553,6 +577,21 @@ class VCIClient:
             if symbol == 'VND' and not df.empty:
                 last_row = df.iloc[-1]
                 print(f"    VND after sorting: close={last_row['close']}, open={last_row['open']}")
+            
+            # Apply resampling if needed (cloned from vnstock logic)
+            if interval in self.resample_map and interval not in ["1m", "1H", "1D"]:
+                if not df.empty:
+                    print(f"    Applying {interval} resampling for {symbol}...")
+                    df = df.set_index('time').resample(self.resample_map[interval]).agg({
+                        'open': 'first',
+                        'high': 'max',
+                        'low': 'min',
+                        'close': 'last',
+                        'volume': 'sum'
+                    }).reset_index()
+                    
+                    # Remove rows with NaN values (weekends, holidays)
+                    df = df.dropna().reset_index(drop=True)
             
             # Add symbol column for identification
             df['symbol'] = symbol
@@ -1852,6 +1891,190 @@ def test_batch_history():
     print("="*60)
 
 
+def test_1w_interval():
+    """Test 1W interval specifically"""
+    print("\n" + "="*50)
+    print("VCI CLIENT - 1W INTERVAL TEST")
+    print("="*50)
+    
+    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    test_symbol = "VCI"
+    
+    print(f"\n📈 Testing 1W interval for {test_symbol}")
+    print("-" * 30)
+    
+    try:
+        # Test single symbol 1W interval
+        df = client.get_history(
+            symbol=test_symbol,
+            start="2025-07-01",  # More data for weekly aggregation
+            end="2025-08-13", 
+            interval="1W"
+        )
+        
+        if df is not None and len(df) > 0:
+            print(f"✅ Success! Retrieved {len(df)} weekly data points")
+            print(f"📅 Date range: {df['time'].min()} to {df['time'].max()}")
+            print(f"📊 Sample data:")
+            print(df.head(3).to_string(index=False))
+            
+            # Check if data looks weekly aggregated
+            if len(df) >= 2:
+                time_diff = df['time'].iloc[1] - df['time'].iloc[0]
+                print(f"⏱️  Time difference between points: {time_diff}")
+                
+                # Latest data
+                latest = df.iloc[-1] 
+                print(f"💹 Latest weekly close: {latest['close']:.0f} VND")
+                print(f"📊 Latest weekly volume: {latest['volume']:,}")
+        else:
+            print("❌ Failed to retrieve 1W data")
+            
+    except Exception as e:
+        print(f"💥 Error in 1W test: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    print(f"\n{'='*50}")
+    print("✅ 1W INTERVAL TEST COMPLETED")
+    print("="*50)
+
+
+def test_batch_vnindex_vix():
+    """Test batch history with VNINDEX and VIX"""
+    print("\n" + "="*60)
+    print("VCI CLIENT - BATCH TEST: VNINDEX & VIX")
+    print("="*60)
+    
+    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    test_symbols = ["VNINDEX", "VIX"]
+    
+    print(f"\n📊 Testing batch history for {test_symbols}")
+    print("-" * 40)
+    
+    try:
+        # Test batch with 1W interval
+        batch_data = client.get_batch_history(
+            symbols=test_symbols,
+            start="2025-07-01",
+            end="2025-08-13", 
+            interval="1W"
+        )
+        
+        if batch_data:
+            print(f"✅ Batch request successful!")
+            print(f"📈 Results for {len(test_symbols)} symbols:")
+            print("-" * 50)
+            
+            for symbol, df in batch_data.items():
+                print(f"\n🔍 {symbol}:")
+                if df is not None and len(df) > 0:
+                    print(f"  📊 Data points: {len(df)}")
+                    print(f"  📅 Date range: {df['time'].min()} to {df['time'].max()}")
+                    
+                    # Show sample data
+                    print(f"  📋 Sample weekly data:")
+                    display_df = df.drop('symbol', axis=1) if 'symbol' in df.columns else df
+                    print(display_df.head(3).to_string(index=False, float_format='%.0f'))
+                    
+                    # Latest data
+                    latest = df.iloc[-1]
+                    print(f"  💹 Latest weekly close: {latest['close']:.0f}")
+                    print(f"  📊 Latest weekly volume: {latest['volume']:,}")
+                    
+                    # Weekly change
+                    if len(df) >= 2:
+                        first_close = df['close'].iloc[0]
+                        last_close = df['close'].iloc[-1]
+                        weekly_change = ((last_close - first_close) / first_close) * 100
+                        print(f"  📈 Period change: {weekly_change:+.2f}%")
+                else:
+                    print(f"  ❌ No data available")
+        else:
+            print("❌ Batch request failed")
+            
+    except Exception as e:
+        print(f"💥 Error in batch test: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    print(f"\n{'='*60}")
+    print("✅ BATCH TEST COMPLETED")
+    print("="*60)
+
+
+def test_batch_1m_interval():
+    """Test batch history with VNINDEX and VIX using 1M interval"""
+    print("\n" + "="*60)
+    print("VCI CLIENT - BATCH TEST: 1M INTERVAL")
+    print("="*60)
+    
+    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    test_symbols = ["VNINDEX", "VIX"]
+    
+    print(f"\n📊 Testing batch history for {test_symbols} with 1M interval")
+    print("-" * 40)
+    
+    try:
+        # Test batch with 1M interval - need longer date range for monthly data
+        batch_data = client.get_batch_history(
+            symbols=test_symbols,
+            start="2025-01-01",  # Longer range for monthly aggregation
+            end="2025-08-13", 
+            interval="1M"
+        )
+        
+        if batch_data:
+            print(f"✅ Batch request successful!")
+            print(f"📈 Results for {len(test_symbols)} symbols:")
+            print("-" * 50)
+            
+            for symbol, df in batch_data.items():
+                print(f"\n🔍 {symbol}:")
+                if df is not None and len(df) > 0:
+                    print(f"  📊 Data points: {len(df)} monthly periods")
+                    print(f"  📅 Date range: {df['time'].min()} to {df['time'].max()}")
+                    
+                    # Show all monthly data (should be manageable number)
+                    print(f"  📋 Monthly data:")
+                    display_df = df.drop('symbol', axis=1) if 'symbol' in df.columns else df
+                    print(display_df.to_string(index=False, float_format='%.0f'))
+                    
+                    # Latest data
+                    latest = df.iloc[-1]
+                    print(f"  💹 Latest monthly close: {latest['close']:.0f}")
+                    print(f"  📊 Latest monthly volume: {latest['volume']:,}")
+                    
+                    # Monthly change analysis
+                    if len(df) >= 2:
+                        first_close = df['close'].iloc[0]
+                        last_close = df['close'].iloc[-1]
+                        period_change = ((last_close - first_close) / first_close) * 100
+                        print(f"  📈 YTD change: {period_change:+.2f}%")
+                        
+                        # Month-over-month changes
+                        print(f"  📊 Month-over-month changes:")
+                        for i in range(1, len(df)):
+                            prev_close = df['close'].iloc[i-1]
+                            curr_close = df['close'].iloc[i]
+                            mom_change = ((curr_close - prev_close) / prev_close) * 100
+                            month_label = df['time'].iloc[i].strftime('%Y-%m')
+                            print(f"    {month_label}: {mom_change:+.2f}%")
+                else:
+                    print(f"  ❌ No data available")
+        else:
+            print("❌ Batch request failed")
+            
+    except Exception as e:
+        print(f"💥 Error in 1M batch test: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    print(f"\n{'='*60}")
+    print("✅ 1M BATCH TEST COMPLETED")
+    print("="*60)
+
+
 def main():
     """Test VCI client: 1. Company Info, 2. Financial Info, 3. History, 4. Batch History."""
     print("\n" + "="*60)
@@ -1868,15 +2091,15 @@ def main():
         company_data = client.company_info(test_symbol)
         if company_data:
             print(f"✅ Success! Company data retrieved")
-            print(f"📊 Exchange: {company_data.get('exchange', 'N/A')}")
-            print(f"🏭 Industry: {company_data.get('industry', 'N/A')}")
-            if company_data.get('market_cap'):
-                market_cap_b = company_data['market_cap'] / 1_000_000_000
+            print(f"📊 Exchange: {company_data.get('TickerPriceInfo', {}).get('exchange', 'N/A')}")
+            print(f"🏭 Industry: {company_data.get('CompanyListingInfo', {}).get('icbName3', 'N/A')}")
+            if company_data.get('CompanyListingInfo', {}).get('issueShare') and company_data.get('TickerPriceInfo', {}).get('matchPrice'):
+                market_cap_b = (company_data['CompanyListingInfo']['issueShare'] * company_data['TickerPriceInfo']['matchPrice']) / 1_000_000_000
                 print(f"💰 Market Cap: {market_cap_b:,.1f}B VND")
-            if company_data.get('outstanding_shares'):
-                print(f"📈 Outstanding Shares: {company_data['outstanding_shares']:,.0f}")
-            print(f"👥 Shareholders: {len(company_data.get('shareholders', []))} major")
-            print(f"👔 Officers: {len(company_data.get('officers', []))} management")
+            if company_data.get('CompanyListingInfo', {}).get('issueShare'):
+                print(f"📈 Outstanding Shares: {company_data['CompanyListingInfo']['issueShare']:,.0f}")
+            print(f"👥 Shareholders: {len(company_data.get('OrganizationShareHolders', []))} major")
+            print(f"👔 Officers: {len(company_data.get('OrganizationManagers', []))} management")
         else:
             print("❌ Failed to retrieve company data")
     except Exception as e:
@@ -1888,27 +2111,30 @@ def main():
     print(f"\n💹 Step 2: Financial Information for {test_symbol}")
     print("-" * 40)
     try:
-        financial_data = client.financial_info(test_symbol, period="quarter")
-        if financial_data:
+        # Extract financial ratios from company data
+        if company_data and company_data.get('TickerPriceInfo', {}).get('financialRatio'):
+            ratios = company_data['TickerPriceInfo']['financialRatio']
             print(f"✅ Success! Financial data retrieved")
             
             # Key metrics
-            if financial_data.get('total_revenue'):
-                print(f"💵 Revenue: {financial_data['total_revenue']:,.0f} VND")
-            if financial_data.get('net_income'):
-                print(f"💰 Net Income: {financial_data['net_income']:,.0f} VND")
-            if financial_data.get('total_assets'):
-                print(f"🏦 Total Assets: {financial_data['total_assets']:,.0f} VND")
+            if ratios.get('revenue'):
+                print(f"💵 Revenue: {ratios['revenue']:,.0f} VND")
+            if ratios.get('netProfit'):
+                print(f"💰 Net Income: {ratios['netProfit']:,.0f} VND")
+            if company_data.get('CompanyListingInfo', {}).get('issueShare') and company_data.get('TickerPriceInfo', {}).get('matchPrice'):
+                total_assets = company_data['CompanyListingInfo']['issueShare'] * company_data['TickerPriceInfo']['matchPrice']
+                print(f"🏦 Total Assets: {total_assets:,.0f} VND")
             
-            # Key ratios
-            ratios = []
-            if financial_data.get('pe'): ratios.append(f"PE: {financial_data['pe']:.1f}")
-            if financial_data.get('pb'): ratios.append(f"PB: {financial_data['pb']:.1f}")
-            if financial_data.get('roe'): ratios.append(f"ROE: {financial_data['roe']:.1%}")
-            if financial_data.get('roa'): ratios.append(f"ROA: {financial_data['roa']:.1%}")
-            
-            if ratios:
-                print(f"📊 Ratios: {' | '.join(ratios)}")
+            # Financial ratios
+            pe = ratios.get('pe', 'N/A')
+            pb = ratios.get('pb', 'N/A') 
+            roe = ratios.get('roe', 'N/A')
+            roa = ratios.get('roa', 'N/A')
+            if roe != 'N/A' and isinstance(roe, (int, float)):
+                roe = f"{roe:.1%}"
+            if roa != 'N/A' and isinstance(roa, (int, float)):
+                roa = f"{roa:.1%}"
+            print(f"📊 Ratios: PE: {pe} | PB: {pb} | ROE: {roe} | ROA: {roa}")
         else:
             print("❌ Failed to retrieve financial data")
     except Exception as e:
@@ -1916,40 +2142,32 @@ def main():
     
     time.sleep(2)
     
-    # 3. HISTORICAL DATA (Single Symbol)
+    # 3. HISTORICAL DATA
     print(f"\n📈 Step 3: Historical Data for {test_symbol}")
     print("-" * 40)
     try:
-        df = client.get_history(
+        hist_data = client.get_history(
             symbol=test_symbol,
             start="2025-08-01",
-            end="2025-08-13", 
-            interval="1D",
+            end="2025-08-13",
+            interval="1D"
         )
-        
-        if df is not None:
-            data_count = len(df)
-            print(f"✅ Success! Retrieved {data_count} data points")
-            print(f"📅 Range: {df['time'].min()} to {df['time'].max()}")
-            
-            # Latest data
-            latest = df.iloc[-1]
+        if hist_data is not None:
+            print(f"✅ Success! Retrieved {len(hist_data)} data points")
+            print(f"📅 Range: {hist_data['time'].iloc[0]} to {hist_data['time'].iloc[-1]}")
+            latest = hist_data.iloc[-1]
             print(f"💹 Latest: {latest['close']:.0f} VND (Vol: {latest['volume']:,})")
-            
-            # Price change
-            if len(df) > 1:
-                first_price = df['open'].iloc[0]
-                last_price = df['close'].iloc[-1]
-                change_pct = ((last_price - first_price) / first_price) * 100
-                print(f"📊 Change: {change_pct:+.2f}% | Range: {df['low'].min():.0f}-{df['high'].max():.0f}")
+            price_range = f"{hist_data['low'].min():.0f}-{hist_data['high'].max():.0f}"
+            change = ((latest['close'] - hist_data['close'].iloc[0]) / hist_data['close'].iloc[0]) * 100
+            print(f"📊 Change: {change:+.2f}% | Range: {price_range}")
         else:
             print("❌ Failed to retrieve historical data")
     except Exception as e:
         print(f"💥 Error in historical data: {e}")
     
-    time.sleep(3)
+    time.sleep(2)
     
-    # 4. BATCH HISTORICAL DATA (2025-08-14 only)
+    # 4. BATCH HISTORICAL DATA
     print(f"\n📊 Step 4: Batch Historical Data (10 symbols - 2025-08-14)")
     print("-" * 40)
     try:
@@ -1962,24 +2180,26 @@ def main():
         )
         
         if batch_data:
-            print(f"✅ Batch request successful for {len(test_symbols)} symbols!")
-            print("📈 2025-08-14 closing prices:")
+            successful_count = sum(1 for df in batch_data.values() if df is not None and len(df) > 0)
+            print(f"✅ Batch request successful for {successful_count}/{len(test_symbols)} symbols!")
+            print(f"📈 2025-08-14 closing prices:")
             print("-" * 40)
             
-            for symbol, df in batch_data.items():
+            for symbol in test_symbols:
+                df = batch_data.get(symbol)
                 if df is not None and len(df) > 0:
-                    close_price = df.iloc[-1]['close']
-                    print(f"  {symbol}: {close_price:.0f} VND")
+                    latest = df.iloc[-1]
+                    print(f"  {symbol}: {latest['close']:.0f} VND")
                 else:
                     print(f"  {symbol}: ❌ No data")
         else:
-            print("❌ Batch request failed - no data received")
+            print("❌ Batch request failed")
     except Exception as e:
-        print(f"💥 Error in batch history: {e}")
+        print(f"💥 Error in batch data: {e}")
     
     print(f"\n{'='*60}")
     print("✅ VCI CLIENT TESTING COMPLETED")
     print("="*60)
-
+    
 if __name__ == "__main__":
     main()
