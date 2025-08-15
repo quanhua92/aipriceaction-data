@@ -462,20 +462,68 @@ class VCIClient {
       console.log(`Warning: Expected ${symbols.length} responses, got ${responseData.length}`);
     }
     
+    // Debug: Show VCI batch response structure
+    console.log(`🔍 VCI BATCH DEBUG:`);
+    console.log(`  Requested symbols: ${symbols.join(', ')}`);
+    console.log(`  Response array length: ${responseData.length}`);
+    
+    // Debug: Check if response includes symbol identifiers
+    for (let i = 0; i < responseData.length; i++) {
+      const item = responseData[i];
+      if (typeof item === 'object' && item !== null) {
+        // Check for symbol field or any identifier
+        const symbolFields = ['symbol', 'ticker', 'Symbol', 'Ticker', 's'];
+        let foundSymbol = null;
+        for (const field of symbolFields) {
+          if (field in item) {
+            foundSymbol = item[field];
+            break;
+          }
+        }
+        console.log(`    response[${i}] symbol field: ${foundSymbol}`);
+        if ('c' in item && Array.isArray(item.c) && item.c.length > 0) {
+          console.log(`    response[${i}] last close: ${item.c[item.c.length - 1]}`);
+        }
+      }
+    }
+    
     const results = {};
     const startDt = new Date(start + 'T00:00:00.000Z');
     
-    // Process each symbol's data
-    for (let i = 0; i < symbols.length; i++) {
-      const symbol = symbols[i];
+    // Create a mapping from response data using symbol field
+    const responseMap = {};
+    for (let i = 0; i < responseData.length; i++) {
+      const dataItem = responseData[i];
+      // Find symbol identifier in response
+      const symbolFields = ['symbol', 'ticker', 'Symbol', 'Ticker', 's'];
+      let responseSymbol = null;
+      for (const field of symbolFields) {
+        if (field in dataItem) {
+          responseSymbol = dataItem[field];
+          break;
+        }
+      }
       
-      if (i >= responseData.length) {
+      if (responseSymbol) {
+        responseMap[responseSymbol.toUpperCase()] = dataItem;
+        console.log(`  Mapped response[${i}] -> symbol: ${responseSymbol}`);
+      } else {
+        console.log(`  WARNING: No symbol field found in response[${i}]`);
+      }
+    }
+    
+    // Process each requested symbol using correct mapping
+    for (const symbol of symbols) {
+      const symbolUpper = symbol.toUpperCase();
+      console.log(`  Processing symbol: ${symbol}`);
+      
+      if (!(symbolUpper in responseMap)) {
         console.log(`No data available for symbol: ${symbol}`);
         results[symbol] = null;
         continue;
       }
       
-      const dataItem = responseData[i];
+      const dataItem = responseMap[symbolUpper];
       
       // Check if we have the required OHLCV arrays
       const requiredKeys = ['o', 'h', 'l', 'c', 'v', 't'];

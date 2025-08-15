@@ -429,17 +429,56 @@ class VCIClient:
         if len(response_data) != len(symbols):
             print(f"Warning: Expected {len(symbols)} responses, got {len(response_data)}")
         
+        # Debug: Show VCI batch response structure
+        print(f"🔍 VCI BATCH DEBUG:")
+        print(f"  Requested symbols: {symbols}")
+        print(f"  Response array length: {len(response_data)}")
+        
+        # Debug: Check if response includes symbol identifiers
+        for i, item in enumerate(response_data):
+            if isinstance(item, dict):
+                # Check for symbol field or any identifier
+                symbol_fields = ['symbol', 'ticker', 'Symbol', 'Ticker', 's']
+                found_symbol = None
+                for field in symbol_fields:
+                    if field in item:
+                        found_symbol = item[field]
+                        break
+                print(f"    response[{i}] symbol field: {found_symbol}")
+                if 'c' in item and len(item['c']) > 0:
+                    print(f"    response[{i}] last close: {item['c'][-1]}")
+        
         results = {}
         start_dt = datetime.strptime(start, "%Y-%m-%d")
         
-        # Process each symbol's data
-        for i, symbol in enumerate(symbols):
-            if i >= len(response_data):
+        # Create a mapping from response data using symbol field
+        response_map = {}
+        for i, data_item in enumerate(response_data):
+            # Find symbol identifier in response
+            symbol_fields = ['symbol', 'ticker', 'Symbol', 'Ticker', 's']
+            response_symbol = None
+            for field in symbol_fields:
+                if field in data_item:
+                    response_symbol = data_item[field]
+                    break
+            
+            if response_symbol:
+                response_map[response_symbol.upper()] = data_item
+                print(f"  Mapped response[{i}] -> symbol: {response_symbol}")
+            else:
+                print(f"  WARNING: No symbol field found in response[{i}]")
+        
+        # Process each requested symbol using correct mapping
+        for symbol in symbols:
+            symbol_upper = symbol.upper()
+            print(f"  Processing symbol: {symbol}")
+            
+            if symbol_upper not in response_map:
                 print(f"No data available for symbol: {symbol}")
                 results[symbol] = None
                 continue
                 
-            data_item = response_data[i]
+            data_item = response_map[symbol_upper]
             
             # Check if we have the required OHLCV arrays
             required_keys = ['o', 'h', 'l', 'c', 'v', 't']
@@ -456,6 +495,10 @@ class VCIClient:
             volumes = data_item['v']
             times = data_item['t']
             
+            # Debug: Show last close price for this response item
+            if len(closes) > 0:
+                print(f"    Last close price in response[{i}]: {closes[-1]}")
+            
             # Check if all arrays have the same length
             lengths = [len(arr) for arr in [opens, highs, lows, closes, volumes, times]]
             if not all(length == lengths[0] for length in lengths):
@@ -471,25 +514,53 @@ class VCIClient:
             # Convert to DataFrame
             df_data = []
             for j in range(len(times)):
+                close_val = float(closes[j])
+                # Debug: Track VND close price transformation
+                if symbol == 'VND' and j == len(times) - 1:  # Last row
+                    print(f"    VND DataFrame conversion: raw_close={closes[j]} -> float_close={close_val}")
+                
                 df_data.append({
                     'time': pd.to_datetime(int(times[j]), unit='s'),
                     'open': float(opens[j]),
                     'high': float(highs[j]),
                     'low': float(lows[j]),
-                    'close': float(closes[j]),
+                    'close': close_val,
                     'volume': int(volumes[j]) if volumes[j] is not None else 0
                 })
                 
             df = pd.DataFrame(df_data)
             
+            # Debug: Show VND data after DataFrame creation
+            if symbol == 'VND' and not df.empty:
+                print(f"    VND DataFrame before filtering: {len(df)} rows")
+                for i, row in df.iterrows():
+                    print(f"      Row {i}: time={row['time']}, close={row['close']}, open={row['open']}")
+                last_row = df.iloc[-1]
+                print(f"    VND after DataFrame creation: close={last_row['close']}, open={last_row['open']}")
+            
             # Filter by start date
             df = df[df['time'] >= start_dt].reset_index(drop=True)
+            
+            # Debug: Show VND data after filtering
+            if symbol == 'VND' and not df.empty:
+                last_row = df.iloc[-1]
+                print(f"    VND after filtering: close={last_row['close']}, open={last_row['open']}")
             
             # Sort by time
             df = df.sort_values('time').reset_index(drop=True)
             
+            # Debug: Show VND data after sorting
+            if symbol == 'VND' and not df.empty:
+                last_row = df.iloc[-1]
+                print(f"    VND after sorting: close={last_row['close']}, open={last_row['open']}")
+            
             # Add symbol column for identification
             df['symbol'] = symbol
+            
+            # Debug: Show final VND data before returning to main pipeline
+            if symbol == 'VND' and not df.empty:
+                last_row = df.iloc[-1]
+                print(f"    VND FINAL VCI CLIENT DATA: close={last_row['close']}, open={last_row['open']}")
             
             results[symbol] = df
             print(f"✅ {symbol}: {len(df)} data points")

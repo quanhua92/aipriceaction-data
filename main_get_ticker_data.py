@@ -244,6 +244,12 @@ def update_last_row_and_append_new_data(existing_df, new_df):
         print(f"   - Adding {len(new_rows)} rows (including any updated last row)")
         combined = pd.concat([existing_df, new_rows], ignore_index=True)
         result = combined.sort_values(by='time')
+        
+        # Debug for VND: show final price values
+        ticker = new_df['ticker'].iloc[0] if not new_df.empty else 'UNKNOWN'
+        if ticker == 'VND' and not result.empty:
+            last_row = result.iloc[-1]
+            print(f"   - DEBUG VND FINAL RESULT: close={last_row['close']}, open={last_row['open']}")
         print(f"   - DEBUG: Final result has {len(result)} rows")
         return result
     else:
@@ -347,6 +353,12 @@ def download_stock_data_batch(tickers, fetch_start_date, end_date, batch_size=15
                     if ticker in batch_data and batch_data[ticker] is not None:
                         df = batch_data[ticker]
                         if not df.empty:
+                            # Debug: Show raw VCI batch data for ALL tickers
+                            last_row = df.iloc[-1]
+                            print(f"   - DEBUG {ticker} RAW VCI BATCH DATA: close={last_row.get('close', 'N/A')}, open={last_row.get('open', 'N/A')}")
+                            if ticker == 'VND':
+                                print(f"   - DEBUG VND RAW COLUMNS: {list(df.columns)}")
+                            
                             # Remove symbol column if it exists (VCI adds it)
                             if 'symbol' in df.columns:
                                 df = df.drop('symbol', axis=1)
@@ -404,8 +416,18 @@ def normalize_price_data(df, ticker):
     scale_factor = 1000.0
     print(f"   - {ticker} is an individual stock - scaling down by {scale_factor}")
     
+    # Debug: Show before scaling for VND
+    if ticker == 'VND' and not df_normalized.empty:
+        last_row = df_normalized.iloc[-1]
+        print(f"   - DEBUG VND BEFORE scaling: close={last_row['close']}, open={last_row['open']}")
+    
     for col in price_columns:
         df_normalized[col] = df_normalized[col] / scale_factor
+    
+    # Debug: Show after scaling for VND
+    if ticker == 'VND' and not df_normalized.empty:
+        last_row = df_normalized.iloc[-1]
+        print(f"   - DEBUG VND AFTER scaling: close={last_row['close']}, open={last_row['open']}")
         
     # Round to reasonable precision (2 decimal places)
     for col in price_columns:
@@ -499,6 +521,9 @@ def smart_dividend_check_and_merge(ticker, recent_data, start_date, end_date):
             
             if existing_row['close'] > 0 and recent_row['close'] > 0:
                 ratio = existing_row['close'] / recent_row['close']
+                # Debug for VND specifically
+                if ticker == 'VND':
+                    print(f"   - DEBUG VND dividend check {date_str}: existing_close={existing_row['close']}, recent_close={recent_row['close']}, ratio={ratio:.4f}")
                 if ratio > 1.02:  # 2% difference indicates possible dividend
                     is_dividend = True
                     print(f"   - 💰 DIVIDEND DETECTED for {ticker} on {date_str}: ratio={ratio:.4f}")
@@ -530,6 +555,10 @@ def process_ticker_with_fallback(ticker, start_date, end_date, batch_result=None
     # Check if we have a valid batch result first
     if batch_result is not None:
         print(f"   ✅ Using batch result for {ticker}")
+        # Debug: Show batch result before dividend merge
+        if ticker == 'VND' and not batch_result.empty:
+            last_row = batch_result.iloc[-1]
+            print(f"   - DEBUG VND BATCH RESULT before merge: close={last_row.get('close', 'N/A')}, open={last_row.get('open', 'N/A')}")
         return smart_dividend_check_and_merge(ticker, batch_result, start_date, end_date)
     
     print(f"   🔄 Batch failed for {ticker}, trying individual VCI...")
