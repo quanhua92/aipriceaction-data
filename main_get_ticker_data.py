@@ -324,7 +324,7 @@ def download_stock_data_individual(ticker, start_date, end_date, client_type="VC
         print(f"   - No existing data found, downloading full history")
         return download_full_data(ticker, start_date, end_date, client_type)
 
-def download_stock_data_batch(tickers, fetch_start_date, end_date, batch_size=15):
+def download_stock_data_batch(tickers, fetch_start_date, end_date, batch_size=10):
     """
     Optimized batch data fetching using VCI's batch history capability with intelligent fallback.
     """
@@ -595,12 +595,14 @@ def main():
     parser.add_argument('--end-date', default=datetime.now().strftime('%Y-%m-%d'), type=str, help="The end date for data download in 'YYYY-MM-DD' format.")
     parser.add_argument('--resume-days', default=5, type=int, help="Number of recent days to fetch for resume mode (default: 5)")
     parser.add_argument('--full-download', action='store_true', help="Force full download from start-date (disable resume mode)")
+    parser.add_argument('--batch-size', default=10, type=int, help="Number of tickers per batch request (default: 10, recommended: 2 for full downloads)")
     args = parser.parse_args()
 
     START_DATE = args.start_date
     END_DATE = args.end_date
     RESUME_DAYS = args.resume_days
     FULL_DOWNLOAD = args.full_download
+    BATCH_SIZE = 2 if args.full_download else args.batch_size
 
     # Smart resume mode: use last N days unless full download is requested
     if not FULL_DOWNLOAD:
@@ -616,6 +618,7 @@ def main():
     print(f"--- {mode_description} ---")
     print(f"--- Fetch period: {FETCH_START_DATE} to {END_DATE} ---")
     print(f"--- Full data period: {START_DATE} to {END_DATE} ---")
+    print(f"--- Batch size: {BATCH_SIZE} tickers ---")
     print(f"--- Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---")
     
     setup_directories()
@@ -647,13 +650,22 @@ def main():
     full_history_set = set(full_history_tickers)
     resume_set = set(resume_tickers)
     
-    # Batch process tickers that need full history
-    print(f"\\n🚀 Batch processing {len(full_history_tickers)} tickers needing full history...")
-    full_history_results = download_stock_data_batch(full_history_tickers, START_DATE, END_DATE) if full_history_tickers else {}
+    # Calculate years span for date range logic
+    start_dt = datetime.strptime(START_DATE, "%Y-%m-%d")
+    end_dt = datetime.strptime(END_DATE, "%Y-%m-%d")
+    years_span = (end_dt - start_dt).days / 365.25
+    
+    # For full downloads with long date ranges, use individual requests to avoid VCI batch API limitations
+    print(f"\\n🚀 Processing {len(full_history_tickers)} tickers needing full history...")
+    if years_span > 2:  # Long date range - use individual requests
+        print(f"   📅 Long date range ({years_span:.1f} years) detected - using individual requests for better reliability")
+        full_history_results = {}
+    else:
+        full_history_results = download_stock_data_batch(full_history_tickers, START_DATE, END_DATE, BATCH_SIZE) if full_history_tickers else {}
     
     # Batch process tickers that can use resume mode  
     print(f"\\n⚡ Batch processing {len(resume_tickers)} tickers using resume mode...")
-    resume_results = download_stock_data_batch(resume_tickers, FETCH_START_DATE, END_DATE) if resume_tickers else {}
+    resume_results = download_stock_data_batch(resume_tickers, FETCH_START_DATE, END_DATE, BATCH_SIZE) if resume_tickers else {}
     
     # Combine batch results
     batch_results = {**full_history_results, **resume_results}

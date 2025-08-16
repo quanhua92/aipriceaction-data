@@ -423,16 +423,25 @@ class VCIClient:
         
         if not symbols or len(symbols) == 0:
             raise ValueError("Symbols list cannot be empty")
+        
+        # Calculate date range for validation
+        start_dt = datetime.strptime(start, "%Y-%m-%d")
+        end_dt = datetime.strptime(end, "%Y-%m-%d") if end else datetime.now()
+        years_span = (end_dt - start_dt).days / 365.25
+        
+        # VCI batch API works best with smaller batches and shorter date ranges
+        if len(symbols) > 10:
+            print(f"Warning: Large batch size ({len(symbols)} symbols). VCI API works better with ≤10 symbols per batch.")
+        
+        # Check if date range is too long for reliable batch processing
+        if years_span > 2:
+            print(f"Warning: Long date range ({years_span:.1f} years). VCI batch API may return truncated data for multi-symbol requests.")
             
         # Prepare request parameters
         end_timestamp = self._calculate_timestamp(end)
         original_count_back = self._calculate_count_back(start, end, interval)
         count_back = original_count_back * 2  # Double countBack to fix batch history bug
         interval_value = self.interval_map[interval]
-        
-        start_dt = datetime.strptime(start, "%Y-%m-%d")
-        end_dt = datetime.strptime(end, "%Y-%m-%d") if end else datetime.now()
-        years_span = (end_dt - start_dt).days / 365.25
         
         url = f"{self.base_url}chart/OHLCChart/gap-chart"
         payload = {
