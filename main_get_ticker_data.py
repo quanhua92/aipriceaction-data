@@ -62,23 +62,71 @@ tcbs_client = None
 
 # --- Core Functions ---
 
-def setup_directories():
+def get_data_directory(interval, year=None, month=None):
     """
-    Creates the main data directory if it doesn't already exist.
-    Uses the global DATA_DIR variable.
+    Get the appropriate data directory based on interval and time period.
+    
+    Args:
+        interval: '1D', '1H', or '1m'  
+        year: Year for 1H and 1m intervals (e.g., 2025)
+        month: Month for 1m interval (e.g., '08')
+    
+    Returns:
+        str: Path to the appropriate directory
+    """
+    if interval == '1D':
+        return DATA_DIR
+    elif interval == '1H':
+        if year is None:
+            return "market_data_hour"
+        return os.path.join("market_data_hour", str(year))
+    elif interval == '1m':
+        if year is None:
+            return "market_data_minutes"
+        elif month is None:
+            return os.path.join("market_data_minutes", str(year))
+        return os.path.join("market_data_minutes", str(year), f"{month:02d}")
+    else:
+        raise ValueError(f"Invalid interval: {interval}")
+
+def setup_directories(interval=None):
+    """
+    Creates the data directories based on interval.
+    For 1D: creates market_data/
+    For 1H: creates market_data_hour/ 
+    For 1m: creates market_data_minutes/
     """
     print("Setting up base directories...")
-    if not os.path.exists(DATA_DIR):
-        os.makedirs(DATA_DIR)
-        print(f"  - Created directory: {DATA_DIR}")
+    
+    if interval is None or interval == '1D':
+        # Daily data directory (existing behavior)
+        if not os.path.exists(DATA_DIR):
+            os.makedirs(DATA_DIR)
+            print(f"  - Created directory: {DATA_DIR}")
+    
+    if interval == '1H':
+        # Hourly data directory
+        hour_dir = get_data_directory('1H')
+        if not os.path.exists(hour_dir):
+            os.makedirs(hour_dir)
+            print(f"  - Created directory: {hour_dir}")
+    
+    if interval == '1m':
+        # Minute data directory  
+        minute_dir = get_data_directory('1m')
+        if not os.path.exists(minute_dir):
+            os.makedirs(minute_dir)
+            print(f"  - Created directory: {minute_dir}")
 
-def check_for_dividend_simple(ticker, client_type="VCI"):
+def check_for_dividend_simple(ticker, client_type="VCI", interval="1D"):
     """
     Simple dividend detection adapted for VCI/TCBS APIs.
     Get last 30 days from API, compare with same dates from existing file.
     If prices differ significantly for matching dates from a week ago, it's likely a dividend.
     """
-    file_path = os.path.join(DATA_DIR, f"{ticker}.csv")
+    # Get appropriate directory for interval
+    base_dir = get_data_directory(interval)
+    file_path = os.path.join(base_dir, f"{ticker}.csv")
     
     if not os.path.exists(file_path):
         return False  # No existing data to compare
@@ -96,14 +144,14 @@ def check_for_dividend_simple(ticker, client_type="VCI"):
                 symbol=ticker,
                 start=start_date,
                 end=end_date,
-                interval='1D'
+                interval=interval
             )
         else:  # TCBS
             api_df = tcbs_client.get_history(
                 symbol=ticker,
                 start=start_date,
                 end=end_date,
-                interval='1D'
+                interval=interval
             )
         
         time.sleep(1)  # Rate limiting
@@ -166,25 +214,195 @@ def check_for_dividend_simple(ticker, client_type="VCI"):
         print(f"   - ERROR checking dividend for {ticker}: {e}")
         return False
 
-def download_full_data(ticker, start_date, end_date, client_type="VCI"):
+def download_hourly_chunks(ticker, start_date, end_date, client_type="VCI"):
+    """
+    Download hourly data in yearly chunks to manage large datasets.
+    Each year is saved in market_data_hour/YYYY/TICKER.csv
+    """
+    print(f"   - Starting chunked hourly download for {ticker}")
+    
+    start_year = datetime.strptime(start_date, "%Y-%m-%d").year
+    end_year = datetime.strptime(end_date, "%Y-%m-%d").year
+    
+    all_chunks = []
+    
+    for year in range(start_year, end_year + 1):
+        year_start = f"{year}-01-01"
+        year_end = f"{year}-12-31"
+        
+        # Adjust for actual start/end dates
+        if year == start_year:
+            year_start = start_date
+        if year == end_year:
+            year_end = end_date
+            
+        print(f"   - Downloading {year} chunk: {year_start} to {year_end}")
+        
+        # Create year directory
+        year_dir = get_data_directory('1H', year)
+        if not os.path.exists(year_dir):
+            os.makedirs(year_dir)
+            print(f"     - Created directory: {year_dir}")
+        
+        try:
+            if client_type == "VCI":
+                chunk_df = vci_client.get_history(
+                    symbol=ticker,
+                    start=year_start,
+                    end=year_end,
+                    interval='1H'
+                )
+            else:  # TCBS
+                chunk_df = tcbs_client.get_history(
+                    symbol=ticker,
+                    start=year_start,
+                    end=year_end,
+                    interval='1H'
+                )
+            
+            time.sleep(2)  # Rate limiting between chunks
+            
+            if chunk_df is not None and not chunk_df.empty:
+                chunk_df.insert(0, 'ticker', ticker)
+                chunk_df = normalize_price_data(chunk_df, ticker)
+                
+                # Save chunk to year-specific file
+                chunk_file = os.path.join(year_dir, f"{ticker}.csv")
+                chunk_df.to_csv(chunk_file, index=False)
+                print(f"     - Saved {len(chunk_df)} records to {chunk_file}")
+                
+                all_chunks.append(chunk_df)
+            else:
+                print(f"     - No data for {year}")
+                
+        except Exception as e:
+            print(f"     - ERROR downloading {year} chunk: {e}")
+    
+    # Combine all chunks
+    if all_chunks:
+        combined_df = pd.concat(all_chunks, ignore_index=True).sort_values(by='time')
+        print(f"   - Combined {len(combined_df)} total records from {len(all_chunks)} yearly chunks")
+        return combined_df
+    else:
+        print(f"   - No data downloaded for any chunks")
+        return None
+
+def download_minute_chunks(ticker, start_date, end_date, client_type="VCI"):
+    """
+    Download minute data in monthly chunks to manage extremely large datasets.
+    Each month is saved in market_data_minutes/YYYY/MM/TICKER.csv
+    """
+    print(f"   - Starting chunked minute download for {ticker}")
+    
+    start_dt = datetime.strptime(start_date, "%Y-%m-%d")
+    end_dt = datetime.strptime(end_date, "%Y-%m-%d")
+    
+    all_chunks = []
+    current_dt = start_dt.replace(day=1)  # Start from beginning of start month
+    
+    while current_dt <= end_dt:
+        # Calculate month range
+        year = current_dt.year
+        month = current_dt.month
+        
+        # First day of month
+        month_start = current_dt.strftime("%Y-%m-%d")
+        
+        # Last day of month
+        if month == 12:
+            next_month = current_dt.replace(year=year+1, month=1, day=1)
+        else:
+            next_month = current_dt.replace(month=month+1, day=1)
+        month_end = (next_month - timedelta(days=1)).strftime("%Y-%m-%d")
+        
+        # Adjust for actual start/end dates
+        if current_dt.year == start_dt.year and current_dt.month == start_dt.month:
+            month_start = start_date
+        if current_dt.year == end_dt.year and current_dt.month == end_dt.month:
+            month_end = end_date
+            
+        print(f"   - Downloading {year}-{month:02d} chunk: {month_start} to {month_end}")
+        
+        # Create month directory
+        month_dir = get_data_directory('1m', year, month)
+        if not os.path.exists(month_dir):
+            os.makedirs(month_dir, exist_ok=True)
+            print(f"     - Created directory: {month_dir}")
+        
+        try:
+            if client_type == "VCI":
+                chunk_df = vci_client.get_history(
+                    symbol=ticker,
+                    start=month_start,
+                    end=month_end,
+                    interval='1m'
+                )
+            else:  # TCBS
+                chunk_df = tcbs_client.get_history(
+                    symbol=ticker,
+                    start=month_start,
+                    end=month_end,
+                    interval='1m'
+                )
+            
+            time.sleep(3)  # Longer rate limiting for minute data
+            
+            if chunk_df is not None and not chunk_df.empty:
+                chunk_df.insert(0, 'ticker', ticker)
+                chunk_df = normalize_price_data(chunk_df, ticker)
+                
+                # Save chunk to month-specific file
+                chunk_file = os.path.join(month_dir, f"{ticker}.csv")
+                chunk_df.to_csv(chunk_file, index=False)
+                print(f"     - Saved {len(chunk_df)} records to {chunk_file}")
+                
+                all_chunks.append(chunk_df)
+            else:
+                print(f"     - No data for {year}-{month:02d}")
+                
+        except Exception as e:
+            print(f"     - ERROR downloading {year}-{month:02d} chunk: {e}")
+        
+        # Move to next month
+        current_dt = next_month
+    
+    # Combine all chunks
+    if all_chunks:
+        combined_df = pd.concat(all_chunks, ignore_index=True).sort_values(by='time')
+        print(f"   - Combined {len(combined_df)} total records from {len(all_chunks)} monthly chunks")
+        return combined_df
+    else:
+        print(f"   - No data downloaded for any chunks")
+        return None
+
+def download_full_data(ticker, start_date, end_date, client_type="VCI", interval="1D"):
     """
     Downloads complete historical data for a ticker using VCI or TCBS client.
+    Uses chunked downloading for 1H and 1M intervals to handle large datasets.
     """
-    print(f"   - Downloading full history from {start_date} to {end_date} using {client_type}...")
+    print(f"   - Downloading full history from {start_date} to {end_date} using {client_type} [{interval}]...")
+    
     try:
+        # Use chunked downloading for high-frequency data
+        if interval == '1H':
+            return download_hourly_chunks(ticker, start_date, end_date, client_type)
+        elif interval == '1m':
+            return download_minute_chunks(ticker, start_date, end_date, client_type)
+        
+        # Standard download for daily data
         if client_type == "VCI":
             df = vci_client.get_history(
                 symbol=ticker,
                 start=start_date,
                 end=end_date,
-                interval='1D'
+                interval=interval
             )
         else:  # TCBS
             df = tcbs_client.get_history(
                 symbol=ticker,
                 start=start_date,
                 end=end_date,
-                interval='1D'
+                interval=interval
             )
         
         time.sleep(1)  # Rate limiting
@@ -256,20 +474,22 @@ def update_last_row_and_append_new_data(existing_df, new_df):
         print(f"   - No new data to add")
         return existing_df
 
-def download_stock_data_individual(ticker, start_date, end_date, client_type="VCI"):
+def download_stock_data_individual(ticker, start_date, end_date, client_type="VCI", interval="1D"):
     """
     Smart data fetching for individual ticker with dividend detection and last row validation.
     """
-    print(f"\\n-> Processing individual ticker: {ticker} with {client_type}")
+    print(f"\\n-> Processing individual ticker: {ticker} with {client_type} [{interval}]")
     
-    file_path = os.path.join(DATA_DIR, f"{ticker}.csv")
+    # Get appropriate directory for interval
+    base_dir = get_data_directory(interval)
+    file_path = os.path.join(base_dir, f"{ticker}.csv")
     
     if os.path.exists(file_path):
         # Step 1: Check for dividend
-        if check_for_dividend_simple(ticker, client_type):
+        if check_for_dividend_simple(ticker, client_type, interval):
             # Dividend detected - download full history from start_date
             print(f"   - Dividend detected, downloading full history from {start_date}")
-            return download_full_data(ticker, start_date, end_date, client_type)
+            return download_full_data(ticker, start_date, end_date, client_type, interval)
         else:
             # Step 2: No dividend - load existing data and update last row + append new records
             print(f"   - No dividend, loading existing data from {file_path}")
@@ -293,14 +513,14 @@ def download_stock_data_individual(ticker, start_date, end_date, client_type="VC
                             symbol=ticker,
                             start=last_date_str,
                             end=today_str,
-                            interval='1D'
+                            interval=interval
                         )
                     else:  # TCBS
                         new_df = tcbs_client.get_history(
                             symbol=ticker,
                             start=last_date_str,
                             end=today_str,
-                            interval='1D'
+                            interval=interval
                         )
                     
                     time.sleep(1)  # Rate limiting
@@ -322,13 +542,13 @@ def download_stock_data_individual(ticker, start_date, end_date, client_type="VC
     else:
         # No existing data - download full history
         print(f"   - No existing data found, downloading full history")
-        return download_full_data(ticker, start_date, end_date, client_type)
+        return download_full_data(ticker, start_date, end_date, client_type, interval)
 
-def download_stock_data_batch(tickers, fetch_start_date, end_date, batch_size=10):
+def download_stock_data_batch(tickers, fetch_start_date, end_date, batch_size=10, interval="1D"):
     """
     Optimized batch data fetching using VCI's batch history capability with intelligent fallback.
     """
-    print(f"\\n-> Processing batch of {len(tickers)} tickers using VCI batch history")
+    print(f"\\n-> Processing batch of {len(tickers)} tickers using VCI batch history [{interval}]")
     results = {}
     
     # Group tickers into smaller batches to respect rate limits
@@ -344,7 +564,7 @@ def download_stock_data_batch(tickers, fetch_start_date, end_date, batch_size=10
                 symbols=ticker_batch,
                 start=fetch_start_date,
                 end=end_date,
-                interval='1D'
+                interval=interval
             )
             
             if batch_data:
@@ -435,19 +655,29 @@ def normalize_price_data(df, ticker):
     
     return df_normalized
 
-def save_data_to_csv(df, ticker, start_date, end_date):
+def save_data_to_csv(df, ticker, start_date, end_date, interval="1D"):
     """
-    Saves the DataFrame to a CSV file in the main data directory.
-    The 'time' column is saved as is (datetime objects).
+    Saves the DataFrame to a CSV file in the appropriate interval directory.
+    For 1D: saves to market_data/
+    For 1H and 1M: consolidated data goes to main interval directory (not chunks)
     """
     file_name = f"{ticker}.csv"
-    output_file = os.path.join(DATA_DIR, file_name)
+    
+    # Get base directory for interval (without year/month subfolders)
+    base_dir = get_data_directory(interval)
+    
+    # Ensure directory exists
+    if not os.path.exists(base_dir):
+        os.makedirs(base_dir)
+        print(f"   - Created directory: {base_dir}")
+    
+    output_file = os.path.join(base_dir, file_name)
     
     df.to_csv(output_file, index=False)
     print(f"   - Data saved to: {output_file}")
     return output_file
 
-def categorize_tickers_by_data_needs(tickers):
+def categorize_tickers_by_data_needs(tickers, interval="1D"):
     """
     Pre-scan all tickers to categorize them into:
     - resume_tickers: Tickers with sufficient existing data that can use resume mode
@@ -456,10 +686,13 @@ def categorize_tickers_by_data_needs(tickers):
     resume_tickers = []
     full_history_tickers = []
     
-    print(f"\\n🔍 Pre-scanning {len(tickers)} tickers to categorize data needs...")
+    print(f"\\n🔍 Pre-scanning {len(tickers)} tickers to categorize data needs for {interval}...")
+    
+    # Get appropriate directory for interval
+    base_dir = get_data_directory(interval)
     
     for ticker in tickers:
-        file_path = os.path.join(DATA_DIR, f"{ticker}.csv")
+        file_path = os.path.join(base_dir, f"{ticker}.csv")
         
         if not os.path.exists(file_path):
             print(f"   🆕 {ticker}: No existing file - needs full history")
@@ -484,7 +717,7 @@ def categorize_tickers_by_data_needs(tickers):
     
     return resume_tickers, full_history_tickers
 
-def smart_dividend_check_and_merge(ticker, recent_data, start_date, end_date):
+def smart_dividend_check_and_merge(ticker, recent_data, start_date, end_date, interval="1D"):
     """
     Smart dividend detection using recent data comparison with existing file.
     If dividend detected, downloads full history and merges properly.
@@ -494,7 +727,10 @@ def smart_dividend_check_and_merge(ticker, recent_data, start_date, end_date):
     (new/insufficient tickers are handled separately in the categorization phase).
     """
     print(f"   - DEBUG: smart_dividend_check_and_merge called for {ticker}")
-    file_path = os.path.join(DATA_DIR, f"{ticker}.csv")
+    
+    # Get appropriate directory for interval
+    base_dir = get_data_directory(interval)
+    file_path = os.path.join(base_dir, f"{ticker}.csv")
     
     # Load existing data (should exist since this is a resume ticker)
     existing_df = pd.read_csv(file_path)
@@ -532,7 +768,7 @@ def smart_dividend_check_and_merge(ticker, recent_data, start_date, end_date):
         if is_dividend:
             print(f"   - Downloading full history due to dividend detection...")
             # Download full history from start_date
-            full_data = download_full_data(ticker, start_date, end_date, "VCI")
+            full_data = download_full_data(ticker, start_date, end_date, "VCI", interval)
             if full_data is not None and not full_data.empty:
                 print(f"   - Full history downloaded: {len(full_data)} records")
                 return full_data
@@ -545,7 +781,7 @@ def smart_dividend_check_and_merge(ticker, recent_data, start_date, end_date):
     merged_data = update_last_row_and_append_new_data(existing_df, recent_data)
     return merged_data
 
-def process_ticker_with_fallback(ticker, start_date, end_date, batch_result=None):
+def process_ticker_with_fallback(ticker, start_date, end_date, batch_result=None, interval="1D"):
     """
     Process a single ticker with intelligent fallback strategy and smart dividend detection:
     1. Use batch result if available and check for dividends
@@ -559,13 +795,13 @@ def process_ticker_with_fallback(ticker, start_date, end_date, batch_result=None
         if ticker == 'VND' and not batch_result.empty:
             last_row = batch_result.iloc[-1]
             print(f"   - DEBUG VND BATCH RESULT before merge: close={last_row.get('close', 'N/A')}, open={last_row.get('open', 'N/A')}")
-        return smart_dividend_check_and_merge(ticker, batch_result, start_date, end_date)
+        return smart_dividend_check_and_merge(ticker, batch_result, start_date, end_date, interval)
     
     print(f"   🔄 Batch failed for {ticker}, trying individual VCI...")
     
     # Try individual VCI call
     try:
-        df = download_stock_data_individual(ticker, start_date, end_date, "VCI")
+        df = download_stock_data_individual(ticker, start_date, end_date, "VCI", interval)
         if df is not None and not df.empty:
             print(f"   ✅ Individual VCI success for {ticker}")
             return df
@@ -576,7 +812,7 @@ def process_ticker_with_fallback(ticker, start_date, end_date, batch_result=None
     
     # Try TCBS as last resort
     try:
-        df = download_stock_data_individual(ticker, start_date, end_date, "TCBS")
+        df = download_stock_data_individual(ticker, start_date, end_date, "TCBS", interval)
         if df is not None and not df.empty:
             print(f"   ✅ TCBS success for {ticker}")
             return df
@@ -596,6 +832,7 @@ def main():
     parser.add_argument('--resume-days', default=5, type=int, help="Number of recent days to fetch for resume mode (default: 5)")
     parser.add_argument('--full-download', action='store_true', help="Force full download from start-date (disable resume mode)")
     parser.add_argument('--batch-size', default=10, type=int, help="Number of tickers per batch request (default: 10, recommended: 2 for full downloads)")
+    parser.add_argument('--interval', default='1D', type=str, help="Data interval: 1D (daily), 1H (hourly), 1m (minute). Default: 1D")
     args = parser.parse_args()
 
     START_DATE = args.start_date
@@ -603,6 +840,17 @@ def main():
     RESUME_DAYS = args.resume_days
     FULL_DOWNLOAD = args.full_download
     BATCH_SIZE = 2 if args.full_download else args.batch_size
+    INTERVAL = args.interval
+    
+    # Normalize and validate interval parameter
+    if INTERVAL.upper() == '1M':
+        INTERVAL = '1m'  # Keep original case for minute
+    else:
+        INTERVAL = INTERVAL.upper()
+    
+    if INTERVAL not in ['1D', '1H', '1m']:
+        print(f"❌ Invalid interval: {args.interval}. Valid options: 1D, 1H, 1m")
+        sys.exit(1)
 
     # Smart resume mode: use last N days unless full download is requested
     if not FULL_DOWNLOAD:
@@ -616,12 +864,13 @@ def main():
     start_time = time.time()
     print("--- AIPriceAction Data Pipeline with VCI/TCBS: START ---")
     print(f"--- {mode_description} ---")
+    print(f"--- Interval: {INTERVAL} ---")
     print(f"--- Fetch period: {FETCH_START_DATE} to {END_DATE} ---")
     print(f"--- Full data period: {START_DATE} to {END_DATE} ---")
     print(f"--- Batch size: {BATCH_SIZE} tickers ---")
     print(f"--- Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---")
     
-    setup_directories()
+    setup_directories(INTERVAL)
     
     # Initialize clients (price scaling handled in main script)
     print("\\n🔗 Initializing API clients...")
@@ -639,7 +888,7 @@ def main():
     
     # Pre-scan tickers to categorize data needs (unless full download mode is forced)
     if not FULL_DOWNLOAD:
-        resume_tickers, full_history_tickers = categorize_tickers_by_data_needs(tickers_sorted)
+        resume_tickers, full_history_tickers = categorize_tickers_by_data_needs(tickers_sorted, INTERVAL)
     else:
         # Force full download for all tickers
         resume_tickers = []
@@ -655,17 +904,24 @@ def main():
     end_dt = datetime.strptime(END_DATE, "%Y-%m-%d")
     years_span = (end_dt - start_dt).days / 365.25
     
-    # For full downloads with long date ranges, use individual requests to avoid VCI batch API limitations
+    # For full downloads with long date ranges or high-frequency data, use individual requests
     print(f"\\n🚀 Processing {len(full_history_tickers)} tickers needing full history...")
-    if years_span > 2:  # Long date range - use individual requests
-        print(f"   📅 Long date range ({years_span:.1f} years) detected - using individual requests for better reliability")
+    if years_span > 2 or INTERVAL != '1D':  # Long date range or high-frequency data - use individual requests
+        if INTERVAL != '1D':
+            print(f"   🔄 High-frequency interval ({INTERVAL}) detected - using individual chunked requests")
+        else:
+            print(f"   📅 Long date range ({years_span:.1f} years) detected - using individual requests for better reliability")
         full_history_results = {}
     else:
-        full_history_results = download_stock_data_batch(full_history_tickers, START_DATE, END_DATE, BATCH_SIZE) if full_history_tickers else {}
+        full_history_results = download_stock_data_batch(full_history_tickers, START_DATE, END_DATE, BATCH_SIZE, INTERVAL) if full_history_tickers else {}
     
-    # Batch process tickers that can use resume mode  
+    # Batch process tickers that can use resume mode (only for daily data)
     print(f"\\n⚡ Batch processing {len(resume_tickers)} tickers using resume mode...")
-    resume_results = download_stock_data_batch(resume_tickers, FETCH_START_DATE, END_DATE, BATCH_SIZE) if resume_tickers else {}
+    if INTERVAL == '1D':
+        resume_results = download_stock_data_batch(resume_tickers, FETCH_START_DATE, END_DATE, BATCH_SIZE, INTERVAL) if resume_tickers else {}
+    else:
+        print(f"   🔄 High-frequency interval ({INTERVAL}) - skipping batch processing, will use individual requests")
+        resume_results = {}
     
     # Combine batch results
     batch_results = {**full_history_results, **resume_results}
@@ -694,16 +950,16 @@ def main():
                 stock_df = batch_result
             else:
                 print(f"   🔄 Batch failed for {ticker}, trying individual VCI/TCBS for full history...")
-                stock_df = download_full_data(ticker, START_DATE, END_DATE, "VCI")
+                stock_df = download_full_data(ticker, START_DATE, END_DATE, "VCI", INTERVAL)
                 if stock_df is None:
-                    stock_df = download_full_data(ticker, START_DATE, END_DATE, "TCBS")
+                    stock_df = download_full_data(ticker, START_DATE, END_DATE, "TCBS", INTERVAL)
         else:
             # Resume ticker - use smart dividend detection and merging
-            stock_df = process_ticker_with_fallback(ticker, START_DATE, END_DATE, batch_result)
+            stock_df = process_ticker_with_fallback(ticker, START_DATE, END_DATE, batch_result, INTERVAL)
         
         if stock_df is not None and not stock_df.empty:
             # Save to CSV
-            csv_path = save_data_to_csv(stock_df, ticker, START_DATE, END_DATE)
+            csv_path = save_data_to_csv(stock_df, ticker, START_DATE, END_DATE, INTERVAL)
             successful_tickers += 1
             
             # Track success method
