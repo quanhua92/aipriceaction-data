@@ -945,6 +945,7 @@ def main():
     print("\\n🔄 Processing individual tickers with fallback strategy...")
     
     for i, ticker in enumerate(tickers_sorted, 1):
+        ticker_start_time = time.time()
         print(f"\\n{'='*20} [{i:3d}/{len(tickers_sorted)}] {ticker} {'='*20}")
         
         # Get batch result if available
@@ -983,12 +984,22 @@ def main():
             failed_tickers += 1
             print(f"   ❌ FAILED: {ticker} - no data available")
         
-        # Show progress every 10 tickers
+        # Calculate and show progress with estimated time after each ticker
+        ticker_elapsed = time.time() - ticker_start_time
+        total_elapsed = time.time() - start_time
+        progress = (i / len(tickers_sorted)) * 100
+        
+        if i > 0:
+            avg_time_per_ticker = total_elapsed / i
+            remaining_tickers = len(tickers_sorted) - i
+            estimated_remaining_time = avg_time_per_ticker * remaining_tickers
+            
+            print(f"📊 Progress: {progress:.1f}% ({i}/{len(tickers_sorted)}) | This ticker: {ticker_elapsed:.1f}s")
+            print(f"⏱️  Elapsed: {total_elapsed/60:.1f}min | ETA: {estimated_remaining_time/60:.1f}min | Success: {successful_tickers} | Failed: {failed_tickers}")
+        
+        # Show detailed progress every 10 tickers
         if i % 10 == 0 or i == len(tickers_sorted):
-            elapsed = time.time() - start_time
-            progress = (i / len(tickers_sorted)) * 100
-            print(f"\\n📈 Progress: {progress:.1f}% ({i}/{len(tickers_sorted)})")
-            print(f"⏱️  Elapsed: {elapsed/60:.1f}min | Success: {successful_tickers} | Failed: {failed_tickers}")
+            print(f"\\n📈 Milestone: {progress:.1f}% complete")
     
     # Final summary
     total_time = time.time() - start_time
