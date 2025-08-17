@@ -59,6 +59,7 @@ DATA_DIR = "market_data"
 # Global clients - will be initialized in main()
 vci_client = None
 tcbs_client = None
+precision_decimals = 6  # Default precision for price data
 
 # --- Core Functions ---
 
@@ -616,7 +617,11 @@ def normalize_price_data(df, ticker):
     Intelligent price normalization that distinguishes between market indices and individual stocks.
     Market indices (VNINDEX, HNXINDEX, UPCOMINDEX) should not be scaled.
     Individual stocks always need 1000x scaling correction from VCI/TCBS APIs.
+    
+    Uses global precision_decimals variable to control decimal places.
     """
+    global precision_decimals
+    
     if df is None or df.empty:
         return df
     
@@ -643,15 +648,16 @@ def normalize_price_data(df, ticker):
     
     for col in price_columns:
         df_normalized[col] = df_normalized[col] / scale_factor
+        
+        # Apply precision rounding if specified
+        if precision_decimals is not None:
+            df_normalized[col] = df_normalized[col].round(precision_decimals)
     
     # Debug: Show after scaling for VND
     if ticker == 'VND' and not df_normalized.empty:
         last_row = df_normalized.iloc[-1]
         print(f"   - DEBUG VND AFTER scaling: close={last_row['close']}, open={last_row['open']}")
         
-    # Round to reasonable precision (2 decimal places)
-    for col in price_columns:
-        df_normalized[col] = df_normalized[col].round(2)
     
     return df_normalized
 
@@ -824,7 +830,7 @@ def process_ticker_with_fallback(ticker, start_date, end_date, batch_result=None
 
 def main():
     """Main function to orchestrate the data download with VCI/TCBS clients."""
-    global vci_client, tcbs_client
+    global vci_client, tcbs_client, precision_decimals
     
     parser = argparse.ArgumentParser(description="AIPriceAction Data Pipeline with VCI/TCBS")
     parser.add_argument('--start-date', default="2015-01-05", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
@@ -833,6 +839,7 @@ def main():
     parser.add_argument('--full-download', action='store_true', help="Force full download from start-date (disable resume mode)")
     parser.add_argument('--batch-size', default=10, type=int, help="Number of tickers per batch request (default: 10, recommended: 2 for full downloads)")
     parser.add_argument('--interval', default='1D', type=str, help="Data interval: 1D (daily), 1H (hourly), 1m (minute). Default: 1D")
+    parser.add_argument('--precision', default=6, type=int, help="Number of decimal places for price data (default: 6, use 0 for no rounding)")
     args = parser.parse_args()
 
     START_DATE = args.start_date
@@ -841,6 +848,7 @@ def main():
     FULL_DOWNLOAD = args.full_download
     BATCH_SIZE = 2 if args.full_download else args.batch_size
     INTERVAL = args.interval
+    precision_decimals = None if args.precision == 0 else args.precision
     
     # Normalize and validate interval parameter
     if INTERVAL.upper() == '1M':
@@ -874,9 +882,9 @@ def main():
     
     # Initialize clients (price scaling handled in main script)
     print("\\n🔗 Initializing API clients...")
-    vci_client = VCIClient(random_agent=True, rate_limit_per_minute=30)
+    vci_client = VCIClient(random_agent=True, rate_limit_per_minute=60)
     tcbs_client = TCBSClient(random_agent=True, rate_limit_per_minute=30)
-    print("   ✅ VCI client: 30 calls/minute")
+    print("   ✅ VCI client: 60 calls/minute")
     print("   ✅ TCBS client: 30 calls/minute")
     
     # Ensure VNINDEX is first, then sort the rest

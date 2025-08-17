@@ -26,6 +26,10 @@ python main_get_ticker_data.py --interval 1H
 
 # Download minute data
 python main_get_ticker_data.py --interval 1m
+
+# Download with custom precision
+python main_get_ticker_data.py --precision 3  # Clean VND display
+python main_get_ticker_data.py --precision 0  # No rounding for crypto
 ```
 
 ### Common Commands
@@ -42,6 +46,12 @@ python main_get_ticker_data.py --interval 1H --resume-days 30
 
 # Minute data from specific date range
 python main_get_ticker_data.py --interval 1m --start-date 2024-08-01 --end-date 2024-08-31
+
+# Clean Vietnamese stock display (3 decimal places)
+python main_get_ticker_data.py --precision 3
+
+# High precision for cryptocurrency or future assets
+python main_get_ticker_data.py --precision 0
 ```
 
 ## Command Line Options
@@ -54,6 +64,7 @@ python main_get_ticker_data.py --interval 1m --start-date 2024-08-01 --end-date 
 | `--resume-days` | `5` | Days to fetch in resume mode |
 | `--full-download` | `false` | Force full download from start-date |
 | `--batch-size` | `10` | Tickers per batch (2 for full downloads) |
+| `--precision` | `6` | Decimal places for price data (0 = no rounding) |
 
 ## Interval Types
 
@@ -225,7 +236,13 @@ All CSV files contain the following columns:
 ### Price Scaling
 - **Individual stocks**: Automatically scaled down by 1000x
 - **Market indices**: No scaling applied
+- **Precision control**: Configurable decimal places (default: 6)
 - **Consistent across intervals**: Same scaling rules apply
+
+### Price Precision Options
+- **Default (6 decimals)**: `5.207860` - Clean, precise values
+- **Display-friendly (3 decimals)**: `5.208` - Represents 5,208 VND clearly
+- **No rounding (0)**: `5.207859999999999` - Full precision for crypto/future assets
 
 ## Troubleshooting
 
