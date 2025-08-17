@@ -70,12 +70,17 @@ jobs:
         run: |
           python main_get_ticker_data.py
 
-      # Step 7: Run the report generation script (original main.py - currently commented out)
+      # Step 7: Prepare aggregated data files
+      - name: Prepare data files
+        run: |
+          python main_prepare_data.py
+
+      # Step 8: Run the report generation script (original main.py - currently commented out)
       # - name: Generate market report
       #   run: |
       #     python main.py
 
-      # Step 8: Commit and push the updated report, data, and charts to the repository.
+      # Step 9: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
