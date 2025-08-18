@@ -184,12 +184,12 @@ def create_ticker_days_csv(days, filename):
         print("No data found to combine")
 
 def create_ticker_60_days():
-    """Create ticker_60_days.csv with last 60 rows from all market data CSVs"""
-    create_ticker_days_csv(60, 'ticker_60_days.csv')
+    """Create ticker_60_days.csv with last 65 rows from all market data CSVs"""
+    create_ticker_days_csv(65, 'ticker_60_days.csv')
 
 def create_ticker_180_days():
-    """Create ticker_180_days.csv with last 180 rows from all market data CSVs"""
-    create_ticker_days_csv(180, 'ticker_180_days.csv')
+    """Create ticker_180_days.csv with last 190 rows from all market data CSVs"""
+    create_ticker_days_csv(190, 'ticker_180_days.csv')
 
 def main():
     """Main function to run both data preparation tasks"""
