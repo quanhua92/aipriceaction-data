@@ -1345,6 +1345,231 @@ class VCIClient:
         else:
             return company_data
 
+    def get_intraday(self, symbol: str, page_size: int = 1000, last_time: Optional[str] = None) -> Optional[pd.DataFrame]:
+        """
+        Fetch intraday tick-by-tick trading data for a single symbol from VCI API.
+        
+        This method retrieves real-time trading transactions (matches) for a stock,
+        including timestamp, price, volume, and match type for each trade.
+        
+        Args:
+            symbol: Stock symbol (e.g., "VCI", "VCB")
+            page_size: Number of records to fetch (default: 1000, max: 30000)
+            last_time: Optional timestamp filter to get data after this time (ISO format)
+            
+        Returns:
+            DataFrame with columns: time, price, volume, match_type, id
+            
+        Note:
+            - This returns very large datasets, so use one symbol per call
+            - Data is ordered from newest to oldest
+            - Only available during trading hours (except preparation periods)
+        """
+        if page_size > 30000:
+            print(f"Warning: page_size {page_size} exceeds recommended maximum of 30,000")
+            page_size = 30000
+        
+        # VCI intraday endpoint
+        url = f"{self.base_url}market-watch/LEData/getAll"
+        
+        payload = {
+            "symbol": symbol.upper(),
+            "limit": page_size
+        }
+        
+        # Add time filter if provided
+        if last_time:
+            payload["truncTime"] = last_time
+        
+        print(f"Fetching intraday data for {symbol} (limit: {page_size})...")
+        
+        # Make the request
+        response_data = self._make_request(url, payload)
+        
+        if not response_data:
+            print("No intraday data received from API")
+            return None
+            
+        if not isinstance(response_data, list) or len(response_data) == 0:
+            print("Empty or invalid intraday data response")
+            return None
+        
+        # Transform data to DataFrame
+        df_data = []
+        for record in response_data:
+            try:
+                # Get timestamp and handle different formats
+                timestamp = record.get('truncTime')
+                if timestamp:
+                    # VCI API returns timestamps in milliseconds, convert to seconds
+                    if isinstance(timestamp, (int, float)) and timestamp > 1e10:
+                        timestamp = timestamp / 1000
+                    # Ensure timestamp is numeric for pd.to_datetime
+                    if isinstance(timestamp, str):
+                        timestamp = float(timestamp)
+                    time_val = pd.to_datetime(float(timestamp), unit='s')
+                else:
+                    time_val = pd.NaT
+                
+                # Map VCI fields to standard format
+                df_data.append({
+                    'time': time_val,
+                    'price': float(record.get('matchPrice', 0)),
+                    'volume': int(float(record.get('matchVol', 0))),  # Convert to float first, then int
+                    'match_type': str(record.get('matchType', '')),
+                    'id': str(record.get('id', ''))
+                })
+            except (ValueError, TypeError) as e:
+                print(f"Error processing record: {e}")
+                continue
+        
+        if not df_data:
+            print("No valid intraday records found")
+            return None
+            
+        df = pd.DataFrame(df_data)
+        
+        # Sort by time (newest first, matching VCI API behavior)
+        df = df.sort_values('time', ascending=False).reset_index(drop=True)
+        
+        # Add symbol column for identification
+        df['symbol'] = symbol.upper()
+        
+        print(f"Successfully retrieved {len(df)} intraday records for {symbol}")
+        if len(df) > 0:
+            print(f"Time range: {df['time'].min()} to {df['time'].max()}")
+            print(f"Price range: {df['price'].min():.0f} - {df['price'].max():.0f} VND")
+            print(f"Total volume: {df['volume'].sum():,}")
+        
+        return df
+
+    def get_intraday_full(self, symbol: str, max_records: int = 100000, chunk_size: int = 5000) -> Optional[pd.DataFrame]:
+        """
+        Fetch ALL available intraday tick-by-tick trading data for a symbol from VCI API.
+        
+        This method automatically paginates through the API to download the complete
+        intraday dataset until no more data is available or max_records is reached.
+        
+        Args:
+            symbol: Stock symbol (e.g., "VCI", "VCB")
+            max_records: Maximum total records to fetch (default: 100,000)
+            chunk_size: Records per API call (default: 5,000, max: 30,000)
+            
+        Returns:
+            DataFrame with ALL intraday data: time, price, volume, match_type, id
+            
+        Note:
+            - This can take several minutes and return very large datasets
+            - Data is sorted chronologically (oldest to newest)
+            - Automatically handles pagination using timestamps
+            - Only available during trading hours
+        """
+        if chunk_size > 30000:
+            print(f"Warning: chunk_size {chunk_size} exceeds API maximum of 30,000")
+            chunk_size = 30000
+        
+        print(f"📊 Starting full intraday download for {symbol}")
+        print(f"⚙️  Settings: max_records={max_records:,}, chunk_size={chunk_size:,}")
+        print("-" * 60)
+        
+        all_data = []
+        total_fetched = 0
+        page = 1
+        last_timestamp = None
+        
+        while total_fetched < max_records:
+            # Calculate remaining records needed
+            remaining = max_records - total_fetched
+            current_chunk_size = min(chunk_size, remaining)
+            
+            print(f"📥 Page {page}: Fetching {current_chunk_size:,} records...")
+            
+            try:
+                # Get chunk of data
+                df_chunk = self.get_intraday(
+                    symbol=symbol, 
+                    page_size=current_chunk_size,
+                    last_time=last_timestamp
+                )
+                
+                if df_chunk is None or len(df_chunk) == 0:
+                    print(f"✅ No more data available. Stopping pagination.")
+                    break
+                
+                # Check if we got any new data (avoid infinite loops)
+                if last_timestamp is not None:
+                    # Filter out any records we already have
+                    if 'time' in df_chunk.columns:
+                        new_data = df_chunk[df_chunk['time'] > pd.to_datetime(last_timestamp)]
+                        if len(new_data) == 0:
+                            print(f"✅ No new records found. Reached end of available data.")
+                            break
+                        df_chunk = new_data
+                
+                all_data.append(df_chunk)
+                total_fetched += len(df_chunk)
+                
+                print(f"   ✓ Got {len(df_chunk):,} records (Total: {total_fetched:,})")
+                
+                # Update timestamp for next pagination
+                if 'time' in df_chunk.columns and len(df_chunk) > 0:
+                    # Get the oldest timestamp from this chunk for next call
+                    oldest_time = df_chunk['time'].min()
+                    last_timestamp = oldest_time.isoformat()
+                    print(f"   📅 Oldest record: {oldest_time}")
+                
+                # Check if we got fewer records than requested (end of data)
+                if len(df_chunk) < current_chunk_size:
+                    print(f"✅ Received fewer records than requested. Reached end of data.")
+                    break
+                
+                page += 1
+                
+                # Small delay to be respectful to the API
+                if page > 1:
+                    import time
+                    time.sleep(0.5)
+                
+            except Exception as e:
+                print(f"❌ Error on page {page}: {e}")
+                break
+        
+        if not all_data:
+            print("❌ No intraday data retrieved")
+            return None
+        
+        # Combine all data
+        print(f"\n🔄 Combining {len(all_data)} chunks...")
+        full_df = pd.concat(all_data, ignore_index=True)
+        
+        # Remove duplicates based on id and time
+        if 'id' in full_df.columns and 'time' in full_df.columns:
+            before_dedup = len(full_df)
+            full_df = full_df.drop_duplicates(subset=['id', 'time']).reset_index(drop=True)
+            after_dedup = len(full_df)
+            if before_dedup != after_dedup:
+                print(f"🧹 Removed {before_dedup - after_dedup:,} duplicate records")
+        
+        # Sort chronologically (oldest to newest for analysis)
+        full_df = full_df.sort_values('time', ascending=True).reset_index(drop=True)
+        
+        print(f"\n✅ DOWNLOAD COMPLETE!")
+        print(f"📊 Final dataset: {len(full_df):,} unique intraday records")
+        if len(full_df) > 0:
+            print(f"📅 Time span: {full_df['time'].min()} to {full_df['time'].max()}")
+            time_span = (full_df['time'].max() - full_df['time'].min()).total_seconds() / 3600
+            print(f"⏱️  Duration: {time_span:.1f} hours")
+            print(f"💰 Price range: {full_df['price'].min():.0f} - {full_df['price'].max():.0f} VND")
+            print(f"📊 Total volume: {full_df['volume'].sum():,}")
+            print(f"📈 Total trades: {len(full_df):,}")
+            
+            # Trading activity summary
+            if 'match_type' in full_df.columns:
+                match_summary = full_df['match_type'].value_counts()
+                print(f"🔍 Trade types: {dict(match_summary)}")
+        
+        return full_df
+
     def financial_ratios(self, symbol: str, period: str = "quarter") -> Optional[pd.DataFrame]:
         """Get financial ratios data using direct VCI GraphQL API call."""
         period_map = {"quarter": "Q", "year": "Y"}
@@ -2030,6 +2255,68 @@ def test_batch_1m_interval():
     
     print(f"\n{'='*60}")
     print("✅ 1M BATCH TEST COMPLETED")
+    print("="*60)
+
+
+def test_intraday():
+    """Test the new intraday functionality"""
+    print("\n" + "="*60)
+    print("VCI CLIENT - INTRADAY DATA TEST")
+    print("="*60)
+    
+    client = VCIClient(random_agent=True, rate_limit_per_minute=6)
+    test_symbol = "VCI"
+    
+    print(f"\n📈 Testing intraday data for {test_symbol}")
+    print("-" * 40)
+    
+    try:
+        # Test intraday data fetch
+        intraday_df = client.get_intraday(
+            symbol=test_symbol,
+            page_size=500  # Start with smaller size for testing
+        )
+        
+        if intraday_df is not None and len(intraday_df) > 0:
+            print(f"\n✅ SUCCESS! Retrieved {len(intraday_df)} intraday records")
+            
+            # Show basic statistics
+            print(f"\n📊 Intraday Summary:")
+            print(f"  🕐 Time range: {intraday_df['time'].min()} to {intraday_df['time'].max()}")
+            print(f"  💰 Price range: {intraday_df['price'].min():.0f} - {intraday_df['price'].max():.0f} VND")
+            print(f"  📊 Total volume: {intraday_df['volume'].sum():,}")
+            print(f"  📈 Average price: {intraday_df['price'].mean():.0f} VND")
+            print(f"  📊 Average volume per trade: {intraday_df['volume'].mean():.0f}")
+            
+            # Show latest 10 trades
+            print(f"\n📋 Latest 10 trades:")
+            latest_trades = intraday_df.head(10)[['time', 'price', 'volume', 'match_type']]
+            print(latest_trades.to_string(index=False))
+            
+            # Match type distribution
+            if 'match_type' in intraday_df.columns:
+                match_types = intraday_df['match_type'].value_counts()
+                print(f"\n🔍 Match type distribution:")
+                for match_type, count in match_types.items():
+                    print(f"  {match_type}: {count:,} trades")
+            
+            # Volume distribution
+            print(f"\n📊 Volume statistics:")
+            print(f"  Min volume: {intraday_df['volume'].min():,}")
+            print(f"  Max volume: {intraday_df['volume'].max():,}")
+            print(f"  Median volume: {intraday_df['volume'].median():,.0f}")
+            
+        else:
+            print("❌ No intraday data received")
+            print("Note: Intraday data may only be available during trading hours")
+            
+    except Exception as e:
+        print(f"💥 Error in intraday test: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    print(f"\n{'='*60}")
+    print("✅ INTRADAY TEST COMPLETED")
     print("="*60)
 
 
