@@ -5,6 +5,7 @@ Creates:
 1. ticker_info.json - contains ticker, company name, and market cap
 2. ticker_60_days.csv - last 60 rows from all market data CSVs
 3. ticker_180_days.csv - last 180 rows from all market data CSVs
+4. ticker_365_days.csv - last 365 rows from all market data CSVs
 """
 
 import json
@@ -191,6 +192,10 @@ def create_ticker_180_days():
     """Create ticker_180_days.csv with last 190 rows from all market data CSVs"""
     create_ticker_days_csv(190, 'ticker_180_days.csv')
 
+def create_ticker_365_days():
+    """Create ticker_365_days.csv with last 365 rows from all market data CSVs"""
+    create_ticker_days_csv(365, 'ticker_365_days.csv')
+
 def main():
     """Main function to run both data preparation tasks"""
     print("Starting data preparation...")
@@ -221,11 +226,17 @@ def main():
     # Create ticker_180_days.csv
     create_ticker_180_days()
     
+    print()
+    
+    # Create ticker_365_days.csv
+    create_ticker_365_days()
+    
     print("\nData preparation completed!")
     print("Created files:")
     print("- ticker_info.json")
     print("- ticker_60_days.csv")
     print("- ticker_180_days.csv")
+    print("- ticker_365_days.csv")
 
 if __name__ == "__main__":
     main()
