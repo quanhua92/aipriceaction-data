@@ -121,9 +121,10 @@ def setup_directories(interval=None):
 
 def check_for_dividend_simple(ticker, client_type="VCI", interval="1D"):
     """
-    Simple dividend detection adapted for VCI/TCBS APIs.
-    Get last 30 days from API, compare with same dates from existing file.
-    If prices differ significantly for matching dates from a week ago, it's likely a dividend.
+    Enhanced dividend detection with multiple validation approaches.
+    1. Compare last 60 days from API with existing file
+    2. Look for significant price gaps and volume spikes
+    3. Use both price ratio analysis and volatility detection
     """
     # Get appropriate directory for interval
     base_dir = get_data_directory(interval)
@@ -133,11 +134,11 @@ def check_for_dividend_simple(ticker, client_type="VCI", interval="1D"):
         return False  # No existing data to compare
     
     try:
-        # Download last 30 days from API
+        # Download last 60 days from API for better dividend detection
         end_date = datetime.now().strftime('%Y-%m-%d')
-        start_date = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+        start_date = (datetime.now() - timedelta(days=60)).strftime('%Y-%m-%d')
         
-        print(f"   - DEBUG: Checking dividend by downloading {start_date} to {end_date}")
+        print(f"   - DEBUG: Enhanced dividend check: downloading {start_date} to {end_date}")
         
         # Use appropriate client based on type
         if client_type == "VCI":
@@ -165,51 +166,70 @@ def check_for_dividend_simple(ticker, client_type="VCI", interval="1D"):
         existing_df = pd.read_csv(file_path)
         existing_df['time'] = pd.to_datetime(existing_df['time'])
         
-        # Get dates from a week ago (more stable than very recent dates)
-        week_ago = datetime.now() - timedelta(days=7)
-        two_weeks_ago = datetime.now() - timedelta(days=14)
+        # Method 1: Compare overlapping dates (broader window)
+        three_weeks_ago = datetime.now() - timedelta(days=21)
+        one_week_ago = datetime.now() - timedelta(days=7)
         
-        # Filter both datasets to the comparison period
-        api_compare = api_df[(api_df['time'] >= two_weeks_ago) & (api_df['time'] <= week_ago)].copy()
-        existing_compare = existing_df[(existing_df['time'] >= two_weeks_ago) & (existing_df['time'] <= week_ago)].copy()
+        api_compare = api_df[(api_df['time'] >= three_weeks_ago) & (api_df['time'] <= one_week_ago)].copy()
+        existing_compare = existing_df[(existing_df['time'] >= three_weeks_ago) & (existing_df['time'] <= one_week_ago)].copy()
         
         print(f"   - DEBUG: API compare data: {len(api_compare)} rows")
         print(f"   - DEBUG: Existing compare data: {len(existing_compare)} rows")
         
-        if len(api_compare) < 3 or len(existing_compare) < 3:
-            print(f"   - DEBUG: Not enough data for comparison")
-            return False
+        dividend_detected = False
+        detection_method = ""
         
-        # Merge on matching dates
-        merged = pd.merge(api_compare, existing_compare, on='time', suffixes=('_api', '_existing'))
-        print(f"   - DEBUG: Merged {len(merged)} matching dates")
+        # Enhanced ratio analysis with multiple thresholds
+        if len(api_compare) >= 2 and len(existing_compare) >= 2:
+            merged = pd.merge(api_compare, existing_compare, on='time', suffixes=('_api', '_existing'))
+            
+            if len(merged) >= 2:
+                price_ratios = []
+                for _, row in merged.iterrows():
+                    if row['close_existing'] > 0 and row['close_api'] > 0:
+                        ratio = row['close_existing'] / row['close_api']
+                        price_ratios.append(ratio)
+                        print(f"   - DEBUG: Date {row['time'].strftime('%Y-%m-%d')}: existing={row['close_existing']}, api={row['close_api']}, ratio={ratio:.4f}")
+                
+                if len(price_ratios) >= 2:
+                    avg_ratio = sum(price_ratios) / len(price_ratios)
+                    ratio_consistency = all(abs(r - avg_ratio) < 0.05 for r in price_ratios)  # Check consistency
+                    
+                    # Lower threshold (1% for small dividends) but require consistency
+                    if avg_ratio > 1.01 and ratio_consistency:
+                        dividend_detected = True
+                        detection_method = f"consistent_ratio_avg={avg_ratio:.4f}"
         
-        if len(merged) < 3:
-            print(f"   - DEBUG: Not enough matching dates")
-            return False
+        # Method 2: Recent price gap analysis (look for sudden drops in recent data)
+        if not dividend_detected and len(api_df) >= 10:
+            api_sorted = api_df.sort_values('time').tail(10)  # Last 10 days
+            for i in range(1, len(api_sorted)):
+                prev_close = api_sorted.iloc[i-1]['close']
+                curr_open = api_sorted.iloc[i]['open']
+                if prev_close > 0 and curr_open > 0:
+                    gap_ratio = prev_close / curr_open
+                    if gap_ratio > 1.05:  # 5% gap might indicate dividend
+                        dividend_detected = True
+                        detection_method = f"price_gap={gap_ratio:.4f}_on_{api_sorted.iloc[i]['time'].strftime('%Y-%m-%d')}"
+                        print(f"   - DEBUG: Price gap detected: {prev_close} -> {curr_open} (ratio={gap_ratio:.4f})")
+                        break
         
-        # Compare close prices - if they're consistently different, it's likely a dividend
-        price_diffs = []
-        for _, row in merged.iterrows():
-            if row['close_existing'] > 0 and row['close_api'] > 0:
-                ratio = row['close_existing'] / row['close_api']
-                price_diffs.append(ratio)
-                print(f"   - DEBUG: Date {row['time'].strftime('%Y-%m-%d')}: existing={row['close_existing']}, api={row['close_api']}, ratio={ratio:.4f}")
+        # Method 3: Volume spike analysis (dividends often have higher volume)
+        if not dividend_detected and len(api_df) >= 15:
+            api_sorted = api_df.sort_values('time').tail(15)
+            avg_volume = api_sorted['volume'].mean()
+            for _, row in api_sorted.iterrows():
+                if row['volume'] > avg_volume * 2:  # Volume spike
+                    date_str = row['time'].strftime('%Y-%m-%d')
+                    print(f"   - DEBUG: Volume spike detected on {date_str}: {row['volume']} vs avg {avg_volume:.0f}")
+                    # This alone doesn't indicate dividend, but combined with price analysis it might
         
-        if len(price_diffs) < 3:
-            return False
-        
-        avg_ratio = sum(price_diffs) / len(price_diffs)
-        
-        # If average ratio > 1.02 (2% difference), likely dividend
-        is_dividend = avg_ratio > 1.02
-        
-        if is_dividend:
-            print(f"   - DIVIDEND DETECTED for {ticker}: avg_ratio={avg_ratio:.4f}")
+        if dividend_detected:
+            print(f"   - DIVIDEND DETECTED for {ticker}: method={detection_method}")
         else:
-            print(f"   - No dividend detected for {ticker}: avg_ratio={avg_ratio:.4f}")
+            print(f"   - No dividend detected for {ticker}")
         
-        return is_dividend
+        return dividend_detected
         
     except Exception as e:
         print(f"   - ERROR checking dividend for {ticker}: {e}")
@@ -835,7 +855,7 @@ def main():
     parser = argparse.ArgumentParser(description="AIPriceAction Data Pipeline with VCI/TCBS")
     parser.add_argument('--start-date', default="2015-01-05", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
     parser.add_argument('--end-date', default=datetime.now().strftime('%Y-%m-%d'), type=str, help="The end date for data download in 'YYYY-MM-DD' format.")
-    parser.add_argument('--resume-days', default=5, type=int, help="Number of recent days to fetch for resume mode (default: 5)")
+    parser.add_argument('--resume-days', default=30, type=int, help="Number of recent days to fetch for resume mode (default: 30)")
     parser.add_argument('--full-download', action='store_true', help="Force full download from start-date (disable resume mode)")
     parser.add_argument('--batch-size', default=10, type=int, help="Number of tickers per batch request (default: 10, recommended: 2 for full downloads)")
     parser.add_argument('--interval', default='1D', type=str, help="Data interval: 1D (daily), 1H (hourly), 1m (minute). Default: 1D")
