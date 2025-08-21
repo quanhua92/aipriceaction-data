@@ -15,12 +15,12 @@ on:
     # 10:00
     - cron: "00 2 * * *"
     # 11:00
-    - cron: "00 3 * * *"
+    # - cron: "00 3 * * *"
     # 12:30
     - cron: "30 4 * * *"
-    - cron: "15 6 * * *"
+    # - cron: "15 6 * * *"
     # 7:00 UTC -> 2:00 PM
-    - cron: "00 7 * * *"
+    # - cron: "00 7 * * *"
     # Runs at 8:30 UTC, which is 3:30 PM in Vietnam (ICT), after the market closes.
     # If we download at 3:00PM then the volume & price may not correct.
     # Format is: Minute Hour Day(month) Month Day(week)

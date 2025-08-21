@@ -63,6 +63,7 @@
         "ORS",
         "APG",
         "TVB",
+        "EVF",
         "EVS",
         "TCI",
         "SBS",
@@ -103,8 +104,7 @@
         "SHB",
         "EIB",
         "OCB",
-        "MSB",
-        "EVF"
+        "MSB"
     ],
     "NHUA": ["NTP", "BMP", "AAA", "APH", "NHH", "HCD"],
     "NONG_NGHIEP": ["HAG", "DBC", "PAN", "VLC", "BAF", "LTG", "NAF", "TSC"],
