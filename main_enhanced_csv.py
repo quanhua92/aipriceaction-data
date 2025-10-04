@@ -18,11 +18,12 @@ ma10_score,ma20_score,ma50_score,money_flow,dollar_flow,trend_score
 
 import sys
 from pathlib import Path
+
+# Add packages/python to path for imports BEFORE other imports
+sys.path.insert(0, str(Path(__file__).parent / "packages" / "python"))
+
 import pandas as pd
 import numpy as np
-
-# Add packages/python to path for imports
-sys.path.insert(0, str(Path(__file__).parent / "packages" / "python"))
 
 from aipriceaction.core.matrix_utils import (
     vectorize_ticker_data,
@@ -33,11 +34,13 @@ from aipriceaction.core.matrix_utils import (
     calculate_vnindex_volume_scaling,
     apply_vnindex_volume_scaling
 )
-from aipriceaction.models import StockDataPoint
+from aipriceaction.data.types import StockDataPoint
 
 
 def load_csv_files(data_dir: Path) -> dict:
     """Load all CSV files from market_data directory into StockDataPoint format"""
+    from datetime import datetime
+
     stock_data = {}
 
     csv_files = list(data_dir.glob("*.csv"))
@@ -53,6 +56,7 @@ def load_csv_files(data_dir: Path) -> dict:
             points = []
             for _, row in df.iterrows():
                 point = StockDataPoint(
+                    date=datetime.strptime(row['time'], '%Y-%m-%d'),
                     time=row['time'],
                     open=float(row['open']),
                     high=float(row['high']),
