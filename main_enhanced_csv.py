@@ -290,6 +290,46 @@ def enhance_csvs(data_dir: Path):
             print(f"  Progress: {i}/{len(tickers)}")
 
     print(f"✅ Written {len(tickers)} enhanced CSVs")
+
+    # Step 6: Generate enhanced cache files (60d, 180d, 365d)
+    print(f"\n📦 Generating enhanced cache files...")
+
+    def generate_cache_file(days: int, output_filename: str):
+        """Generate cache file for specified number of days"""
+        # Calculate cutoff date
+        max_date = pd.to_datetime(all_tickers_df['time'].max())
+        cutoff_date = max_date - pd.Timedelta(days=days)
+
+        # Filter data
+        cache_df = all_tickers_df[
+            pd.to_datetime(all_tickers_df['time']) >= cutoff_date
+        ].copy()
+
+        # Select and order columns
+        cache_df = cache_df[columns]
+
+        # Format output
+        cache_df = cache_df.round({
+            'open': 2, 'high': 2, 'low': 2, 'close': 2,
+            'ma10': 2, 'ma20': 2, 'ma50': 2,
+            'ma10_score': 4, 'ma20_score': 4, 'ma50_score': 4,
+            'money_flow': 4, 'dollar_flow': 4, 'trend_score': 4
+        })
+
+        # Save to root directory
+        output_path = data_dir.parent / output_filename
+        cache_df.to_csv(output_path, index=False)
+
+        tickers = cache_df['ticker'].nunique()
+        rows = len(cache_df)
+        date_range = f"{cache_df['time'].min()} to {cache_df['time'].max()}"
+
+        print(f"✅ {output_filename}: {tickers} tickers, {rows:,} rows ({date_range})")
+
+    generate_cache_file(60, "ticker_60_days.csv")
+    generate_cache_file(180, "ticker_180_days.csv")
+    generate_cache_file(365, "ticker_365_days.csv")
+
     print("=" * 70)
 
 
