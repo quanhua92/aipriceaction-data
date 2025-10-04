@@ -1,0 +1,68 @@
+🚀 Starting Money Flow Analysis with Vectorized Calculations...
+📊 Fetching VNINDEX data for volume weighting...
+✅ VNINDEX data loaded: 2685 points
+📊 Fetching ALL stock ticker data for complete market context...
+✅ Stock data loaded for 287 tickers
+📈 Using 63 dates for money flow calculations
+📊 Using 286 tickers for complete market context (excluding VNINDEX)
+💰 Calculating vectorized money flow...
+📊 Calculating VNINDEX volume scaling...
+📊 Applying VNINDEX volume scaling to flows...
+
+📊 === Single Date Money Flow Results (2025-09-26) ===
+
+BID: MF:-0.38% AF:-0.38 DF:-0.55 TS:0.69
+CTG: MF:-0.16% AF:-0.16 DF:-0.28 TS:0.78
+TCB: MF:+0.17% AF:+0.17 DF:+0.23 TS:1.74
+VCB: MF:-0.40% AF:-0.40 DF:-0.89 TS:0.66
+VIC: MF:+0.36% AF:+0.36 DF:+2.09 TS:0.32
+VIX: MF:-3.40% AF:-3.40 DF:-4.35 TS:4.39
+
+✅ Money Flow Analysis completed successfully!
+
+🔍 Validating results against expected values (10% tolerance for flows, 5% for trend scores):
+
+📊 Validating BID:
+✅ Money Flow %: -0.3806913046366935 (expected: -0.38) - PASS
+✅ Activity Flow %: -0.3806913046366935 (expected: -0.38) - PASS
+✅ Dollar Flow %: -0.5483670159829228 (expected: -0.55) - PASS
+✅ Trend Score: 0.6909026168749565 (expected: 0.69) - PASS
+
+📊 Validating CTG:
+✅ Money Flow %: -0.15511985814829346 (expected: -0.16) - PASS
+✅ Activity Flow %: -0.15511985814829346 (expected: -0.16) - PASS
+✅ Dollar Flow %: -0.27937199350526126 (expected: -0.28) - PASS
+✅ Trend Score: 0.7829192549637666 (expected: 0.78) - PASS
+
+📊 Validating TCB:
+✅ Money Flow %: 0.17256429027218217 (expected: 0.17) - PASS
+✅ Activity Flow %: 0.17256429027218217 (expected: 0.17) - PASS
+✅ Dollar Flow %: 0.23110935653948253 (expected: 0.23) - PASS
+✅ Trend Score: 1.7426035834752256 (expected: 1.74) - PASS
+
+📊 Validating VCB:
+✅ Money Flow %: -0.39628984513080084 (expected: -0.4) - PASS
+✅ Activity Flow %: -0.39628984513080084 (expected: -0.4) - PASS
+✅ Dollar Flow %: -0.88687211844955 (expected: -0.89) - PASS
+✅ Trend Score: 0.6554191641898619 (expected: 0.66) - PASS
+
+📊 Validating VIC:
+✅ Money Flow %: 0.3585062929245238 (expected: 0.36) - PASS
+✅ Activity Flow %: 0.3585062929245238 (expected: 0.36) - PASS
+✅ Dollar Flow %: 2.0885656927094796 (expected: 2.09) - PASS
+✅ Trend Score: 0.31944116985410353 (expected: 0.32) - PASS
+
+📊 Validating VIX:
+✅ Money Flow %: -3.403340076830986 (expected: -3.4) - PASS
+✅ Activity Flow %: -3.403340076830986 (expected: -3.4) - PASS
+✅ Dollar Flow %: -4.352265265046251 (expected: -4.35) - PASS
+✅ Trend Score: 4.3894025546173765 (expected: 4.39) - PASS
+
+📈 Validation Summary: 24/24 tests passed (100.0%)
+🎉 ALL TESTS PASSED! Data matches expected values within tolerance.
+
+📊 Summary Statistics:
+Total tickers analyzed: 286 (validation tickers: 6)
+Date range analyzed: 63 dates
+Total calculations: 18018
+VNINDEX volume weighting: enabled

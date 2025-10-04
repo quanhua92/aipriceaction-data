@@ -1,0 +1,84 @@
+🚀 Starting Enhanced CSV Example...
+============================================================
+📁 Output directory: /tmp/enhanced_csv
+
+📊 Processing 6 tickers for validation...
+Tickers: VCB, VIC, CTG, BID, TCB, VIX
+
+📊 Fetching VNINDEX data for volume weighting...
+✅ VNINDEX data loaded: 2685 points
+
+📊 Downloading data for 6 tickers...
+✅ VCB: 2685 rows
+✅ VIC: 2685 rows
+✅ CTG: 2685 rows
+✅ BID: 2685 rows
+✅ TCB: 1835 rows
+✅ VIX: 2678 rows
+
+✅ Downloaded 6/6 tickers
+
+============================================================
+📈 Enhancing CSVs with calculated columns...
+============================================================
+📊 Enhancing VCB: 2685 rows
+✅ Written: /tmp/enhanced_csv/VCB.csv
+📊 Enhancing VIC: 2685 rows
+✅ Written: /tmp/enhanced_csv/VIC.csv
+📊 Enhancing CTG: 2685 rows
+✅ Written: /tmp/enhanced_csv/CTG.csv
+📊 Enhancing BID: 2685 rows
+✅ Written: /tmp/enhanced_csv/BID.csv
+📊 Enhancing TCB: 1835 rows
+✅ Written: /tmp/enhanced_csv/TCB.csv
+📊 Enhancing VIX: 2678 rows
+✅ Written: /tmp/enhanced_csv/VIX.csv
+
+✅ Enhanced 6 CSV files
+
+============================================================
+🔍 Validating Enhanced Data (2025-09-26)
+============================================================
+
+📊 Validating VCB (2025-09-26):
+✅   MA10: 63.6 (expected: 63.6) - PASS
+✅   MA20: 65.225 (expected: 65.225) - PASS
+✅   MA50: 63.744 (expected: 63.744) - PASS
+✅   Ma10 Score: -0.9433962264150966 (expected: -0.94) - PASS
+✅   Ma20 Score: -3.4112686853200374 (expected: -3.41) - PASS
+✅   Ma50 Score: -1.1671686746987948 (expected: -1.17) - PASS
+
+📊 Validating VIC (2025-09-26):
+✅   MA10: 148.31 (expected: 148.31) - PASS
+✅   MA20: 138.77 (expected: 138.77) - PASS
+✅   MA50: 126.19200000000001 (expected: 126.192) - PASS
+✅   Ma10 Score: 10.579192232486008 (expected: 10.58) - PASS
+✅   Ma20 Score: 18.1811630755927 (expected: 18.18) - PASS
+✅   Ma50 Score: 29.960694814251294 (expected: 29.96) - PASS
+
+📊 Validating CTG (2025-09-26):
+✅   MA10: 50.870000000000005 (expected: 50.87) - PASS
+✅   MA20: 50.705 (expected: 50.705) - PASS
+✅   MA50: 48.8 (expected: 48.8) - PASS
+✅   Ma10 Score: -0.33418517790446567 (expected: -0.33) - PASS
+✅   Ma20 Score: -0.009860960457539598 (expected: -0.01) - PASS
+✅   Ma50 Score: 3.8934426229508317 (expected: 3.89) - PASS
+
+============================================================
+📈 Validation Summary: 18/18 tests passed (100.0%)
+🎉 ALL TESTS PASSED! MA and MA Score calculations match Example 02.
+
+📝 Note: money_flow, dollar_flow, and trend_score columns are placeholders (NaN).
+   Full implementation requires vectorized matrix calculations with complete market context.
+
+============================================================
+📊 Enhanced CSV Summary
+============================================================
+
+============================================================
+✅ Enhanced CSV Example completed successfully!
+📁 Enhanced CSVs saved to: /tmp/enhanced_csv
+
+📝 Note: These enhanced CSVs are compatible with existing parsers.
+   TypeScript and Python parsers will ignore the extra columns.
+============================================================

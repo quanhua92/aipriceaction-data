@@ -1,0 +1,72 @@
+🚀 Starting VNINDEX OHLCV data fetch...
+📊 VNINDEX data loaded: 2685 points
+📈 Calculating moving averages using vectorized-ma-score system...
+
+📈 VNINDEX: === 10 LATEST DATES ===
+VNINDEX[0] 2025-09-22: O:1.7k H:1.7k L:1.6k C:1.6k V:1212.5M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[1] 2025-09-23: O:1.6k H:1.6k L:1.6k C:1.6k V:797.2M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[2] 2025-09-24: O:1.6k H:1.7k L:1.6k C:1.7k V:998.1M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[3] 2025-09-25: O:1.7k H:1.7k L:1.7k C:1.7k V:995.6M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[4] 2025-09-26: O:1.7k H:1.7k L:1.7k C:1.7k V:963.9M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[5] 2025-09-29: O:1.7k H:1.7k L:1.7k C:1.7k V:932.8M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[6] 2025-09-30: O:1.7k H:1.7k L:1.6k C:1.7k V:1144.3M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[7] 2025-10-01: O:1.7k H:1.7k L:1.7k C:1.7k V:721.2M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[8] 2025-10-02: O:1.7k H:1.7k L:1.7k C:1.7k V:781.2M | MA10:1.7k MA20:1.7k MA50:1.6k
+VNINDEX[9] 2025-10-03: O:1.7k H:1.7k L:1.6k C:1.6k V:860.6M | MA10:1.7k MA20:1.7k MA50:1.6k
+
+✅ Fetch completed successfully!
+
+🔍 Validating against expected values (5% tolerance):
+
+📊 Validating 2025-09-22:
+✅ Open: 1656.66 (expected: 1656.66) - PASS
+✅ High: 1659.13 (expected: 1659.13) - PASS
+✅ Low: 1616.02 (expected: 1616.02) - PASS
+✅ Close: 1634.45 (expected: 1634.45) - PASS
+✅ Volume: 1212478380.0 (expected: 1212478380) - PASS
+✅ MA10: 1660.0610000000001 (expected: 1660.06) - PASS
+✅ MA20: 1661.634 (expected: 1661.63) - PASS
+✅ MA50: 1594.9123999999993 (expected: 1594.91) - PASS
+
+📊 Validating 2025-09-23:
+✅ Open: 1635.12 (expected: 1635.12) - PASS
+✅ High: 1643.59 (expected: 1643.59) - PASS
+✅ Low: 1626.65 (expected: 1626.65) - PASS
+✅ Close: 1635.26 (expected: 1635.26) - PASS
+✅ Volume: 797233705.0 (expected: 797233705) - PASS
+✅ MA10: 1659.855 (expected: 1659.86) - PASS
+✅ MA20: 1661.1235000000001 (expected: 1661.12) - PASS
+✅ MA50: 1598.4623999999997 (expected: 1598.46) - PASS
+
+📊 Validating 2025-09-24:
+✅ Open: 1635.36 (expected: 1635.36) - PASS
+✅ High: 1657.46 (expected: 1657.46) - PASS
+✅ Low: 1619.09 (expected: 1619.09) - PASS
+✅ Close: 1657.46 (expected: 1657.46) - PASS
+✅ Volume: 998074719.0 (expected: 998074719) - PASS
+✅ MA10: 1661.275 (expected: 1661.28) - PASS
+✅ MA20: 1663.2949999999996 (expected: 1663.29) - PASS
+✅ MA50: 1602.2031999999997 (expected: 1602.2) - PASS
+
+📊 Validating 2025-09-25:
+✅ Open: 1661.08 (expected: 1661.08) - PASS
+✅ High: 1668.21 (expected: 1668.21) - PASS
+✅ Low: 1654.47 (expected: 1654.47) - PASS
+✅ Close: 1666.09 (expected: 1666.09) - PASS
+✅ Volume: 995617724.0 (expected: 995617724) - PASS
+✅ MA10: 1662.109 (expected: 1662.11) - PASS
+✅ MA20: 1663.218 (expected: 1663.22) - PASS
+✅ MA50: 1606.312 (expected: 1606.31) - PASS
+
+📊 Validating 2025-09-26:
+✅ Open: 1666.68 (expected: 1666.68) - PASS
+✅ High: 1671.43 (expected: 1671.43) - PASS
+✅ Low: 1657.94 (expected: 1657.94) - PASS
+✅ Close: 1660.7 (expected: 1660.7) - PASS
+✅ Volume: 963931987.0 (expected: 963931987) - PASS
+✅ MA10: 1661.4530000000002 (expected: 1661.45) - PASS
+✅ MA20: 1662.614 (expected: 1662.61) - PASS
+✅ MA50: 1610.0165999999997 (expected: 1610.02) - PASS
+
+📈 Validation Summary: 40/40 tests passed (100.0%)
+🎉 ALL TESTS PASSED! Data matches expected values within tolerance.
