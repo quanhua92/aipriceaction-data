@@ -216,9 +216,9 @@ class BulkCSVProcessor:
         cache_dir = self.output_dir.parent / "cache"
         cache_dir.mkdir(exist_ok=True)
 
-        self.generate_cache_file(60, str(cache_dir / "ticker_60_days.csv"))
-        self.generate_cache_file(180, str(cache_dir / "ticker_180_days.csv"))
-        self.generate_cache_file(365, str(cache_dir / "ticker_365_days.csv"))
+        self.generate_cache_file(72, str(cache_dir / "ticker_60_days.csv"))   # 60 + 20% buffer
+        self.generate_cache_file(216, str(cache_dir / "ticker_180_days.csv"))  # 180 + 20% buffer
+        self.generate_cache_file(438, str(cache_dir / "ticker_365_days.csv"))  # 365 + 20% buffer
 
     def process_all(self, tickers: List[str]):
         """Complete pipeline: download → enhance → write"""

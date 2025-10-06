@@ -326,9 +326,9 @@ def enhance_csvs(data_dir: Path):
 
         print(f"✅ {output_filename}: {tickers} tickers, {rows:,} rows ({date_range})")
 
-    generate_cache_file(60, "ticker_60_days.csv")
-    generate_cache_file(180, "ticker_180_days.csv")
-    generate_cache_file(365, "ticker_365_days.csv")
+    generate_cache_file(72, "ticker_60_days.csv")   # 60 + 20% buffer
+    generate_cache_file(216, "ticker_180_days.csv")  # 180 + 20% buffer
+    generate_cache_file(438, "ticker_365_days.csv")  # 365 + 20% buffer
 
     print("=" * 70)
 
