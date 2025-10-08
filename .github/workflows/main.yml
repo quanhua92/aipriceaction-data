@@ -12,8 +12,8 @@ on:
 
   # Sets up a scheduled run
   schedule:
-    # 10:00
-    - cron: "00 2 * * *"
+    # 09:20
+    - cron: "20 1 * * *"
     # 11:00
     # - cron: "00 3 * * *"
     # 12:30
