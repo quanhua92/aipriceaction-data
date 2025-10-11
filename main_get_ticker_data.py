@@ -43,13 +43,15 @@ def load_tickers_from_groups():
         tickers = []
         for group, group_tickers in ticker_groups.items():
             tickers.extend(group_tickers)
-        # Add VNINDEX if not already in the list
+        # Add VNINDEX and VN30 if not already in the list
         if "VNINDEX" not in tickers:
             tickers.insert(0, "VNINDEX")
+        if "VN30" not in tickers:
+            tickers.insert(1, "VN30")
         return sorted(list(set(tickers)))  # Remove duplicates and sort
     except FileNotFoundError:
         print("ticker_group.json not found. Using default list.")
-        return ["VNINDEX", "TCB", "FPT"]
+        return ["VNINDEX", "VN30", "TCB", "FPT"]
 
 TICKERS_TO_DOWNLOAD = load_tickers_from_groups()
 
@@ -649,7 +651,7 @@ def normalize_price_data(df, ticker):
     df_normalized = df.copy()
     
     # Define market indices that should NOT be scaled
-    market_indices = {'VNINDEX', 'HNXINDEX', 'UPCOMINDEX'}
+    market_indices = {'VNINDEX', 'VN30', 'HNXINDEX', 'UPCOMINDEX'}
     
     # Check if this ticker is a market index
     if ticker.upper() in market_indices:
@@ -907,8 +909,10 @@ def main():
     print("   ✅ VCI client: 60 calls/minute")
     print("   ✅ TCBS client: 30 calls/minute")
     
-    # Ensure VNINDEX is first, then sort the rest
-    tickers_sorted = sorted([t for t in TICKERS_TO_DOWNLOAD if t != 'VNINDEX'])
+    # Ensure VNINDEX is first, VN30 is second, then sort the rest
+    tickers_sorted = sorted([t for t in TICKERS_TO_DOWNLOAD if t not in ['VNINDEX', 'VN30']])
+    if 'VN30' in TICKERS_TO_DOWNLOAD:
+        tickers_sorted = ['VN30'] + tickers_sorted
     if 'VNINDEX' in TICKERS_TO_DOWNLOAD:
         tickers_sorted = ['VNINDEX'] + tickers_sorted
     

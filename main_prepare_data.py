@@ -77,8 +77,10 @@ def create_ticker_info():
     for tickers in ticker_groups.values():
         all_tickers.update(tickers)
     
-    # Add VNINDEX
+    # Add VNINDEX and VN30
     all_tickers.add('VNINDEX')
+    all_tickers.add('VN30')
+    all_tickers.add('VN30')
     
     ticker_info = {}
     
@@ -91,6 +93,12 @@ def create_ticker_info():
             # Special case for VNINDEX
             ticker_info[ticker] = {
                 "company_name": "VN-Index",
+                "market_cap": None
+            }
+        elif ticker == 'VN30':
+            # Special case for VN30
+            ticker_info[ticker] = {
+                "company_name": "VN30 Index",
                 "market_cap": None
             }
         elif os.path.exists(company_info_file):
@@ -142,8 +150,9 @@ def create_ticker_days_csv(days, filename):
     for tickers in ticker_groups.values():
         all_tickers.update(tickers)
     
-    # Add VNINDEX
+    # Add VNINDEX and VN30
     all_tickers.add('VNINDEX')
+    all_tickers.add('VN30')
     
     combined_data = []
     
