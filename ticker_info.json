@@ -1083,6 +1083,10 @@
     "company_name": "Công ty Chăn nuôi Việt Nam - CTCP",
     "market_cap": 3378616614900
   },
+  "VN30": {
+    "company_name": "VN30 Index",
+    "market_cap": null
+  },
   "VNA": {
     "company_name": "Công ty Cổ phần Vận tải biển Vinaship",
     "market_cap": 669799212000
