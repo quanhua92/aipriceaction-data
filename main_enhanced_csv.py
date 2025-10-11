@@ -89,13 +89,19 @@ def enhance_csvs(data_dir: Path):
         print("❌ No CSV files found. Exiting.")
         return
 
-    # Separate VNINDEX from stock data
+    # Separate VNINDEX and VN30 from stock data
     vnindex_data = stock_data.pop("VNINDEX", None)
+    vn30_data = stock_data.pop("VN30", None)
 
     if vnindex_data is None:
         print("⚠️  VNINDEX not found. Money flow calculations may be inaccurate.")
     else:
         print(f"✅ VNINDEX: {len(vnindex_data)} rows")
+
+    if vn30_data is None:
+        print("⚠️  VN30 not found.")
+    else:
+        print(f"✅ VN30: {len(vn30_data)} rows (excluded from money flow)")
 
     # Step 2: Convert to DataFrame
     print(f"\n📈 Converting to DataFrame...")
@@ -117,6 +123,19 @@ def enhance_csvs(data_dir: Path):
         for p in vnindex_data:
             all_rows.append({
                 'ticker': 'VNINDEX',
+                'time': p.time,
+                'open': p.open,
+                'high': p.high,
+                'low': p.low,
+                'close': p.close,
+                'volume': p.volume
+            })
+
+    # Add VN30 rows
+    if vn30_data:
+        for p in vn30_data:
+            all_rows.append({
+                'ticker': 'VN30',
                 'time': p.time,
                 'open': p.open,
                 'high': p.high,
@@ -156,7 +175,7 @@ def enhance_csvs(data_dir: Path):
     if vnindex_data:
         print(f"\n💰 Calculating money flow...")
 
-        # Add VNINDEX back to stock_data for calculations
+        # Add VNINDEX back to stock_data for calculations (but NOT VN30)
         stock_data_with_vnindex = stock_data.copy()
         stock_data_with_vnindex["VNINDEX"] = vnindex_data
 
@@ -168,7 +187,7 @@ def enhance_csvs(data_dir: Path):
         date_range = sorted(list(all_dates), reverse=True)
         print(f"   Date range: {len(date_range)} days")
 
-        all_tickers = [ticker for ticker in stock_data_with_vnindex.keys() if ticker != "VNINDEX"]
+        all_tickers = [ticker for ticker in stock_data_with_vnindex.keys() if ticker not in ["VNINDEX", "VN30"]]
 
         # Vectorize data
         matrix, dates, ticker_index, date_index = vectorize_ticker_data(
