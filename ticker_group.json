@@ -5,6 +5,7 @@
         "VHM",
         "VIC",
         "VRE",
+        "CRV",
         "KDH",
         "SSH",
         "NVL",
@@ -45,6 +46,7 @@
     ],
     "CAO_SU": ["GVR", "PHR", "DRC", "DPR", "DRG", "DRI", "VRG"],
     "CHUNG_KHOAN": [
+        "TCX",
         "SSI",
         "VND",
         "VCI",
