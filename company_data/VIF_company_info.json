@@ -5,31 +5,35 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 5670000000000,
-  "current_price": 16200,
+  "market_cap": 5530000000000,
+  "current_price": 15800,
   "outstanding_shares": 350000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng c&ocirc;ng ty L&acirc;m nghiệp Việt Nam (VIF) c&oacute; tiền th&acirc;n l&agrave; Tổng C&ocirc;ng ty L&acirc;m Sản Việt Nam, được th&agrave;nh lập năm 1995 tr&ecirc;n cơ sở s&aacute;p nhập 10 Tổng c&ocirc;ng ty, Li&ecirc;n hiệp c&aacute;c x&iacute; nghiệp trực thuộc Bộ L&acirc;m nghiệp (nay l&agrave; Bộ N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n). Vinafor hoạt động ch&iacute;nh trong lĩnh vực trồng, chăm s&oacute;c, quản l&yacute; rừng v&agrave; chế biến l&acirc;m sản. B&igrave;nh qu&acirc;n mỗi năm Tổng C&ocirc;ng ty L&acirc;m nghiệp Việt Nam trồng từ 5.000 &ndash; 6.000 ha rừng. Ngo&agrave;i ra, Vinafor c&ograve;n đẩy mạnh chế biến c&aacute;c sản phẩm gỗ chất lượng cao (nội thất trong nh&agrave;, nội thất ngo&agrave;i trời, plywood). Nh&agrave; m&aacute;y MDF Gia Lai của VINAFOR c&oacute; c&ocirc;ng suất 54.000 m3 sản phẩm/năm sử dụng d&acirc;y chuyền c&ocirc;ng nghệ hiện đại của Ch&acirc;u &Acirc;u.&nbsp;B&ecirc;n cạnh đ&oacute;, Tổng c&ocirc;ng ty c&ograve;n tham gia chế biến v&agrave; xuất khẩu khoảng 01 triệu tấn dăm gỗ/năm. Ng&agrave;y 03/02/2020, VIF ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
   "website": null,
-  "price_change": 100,
-  "percent_price_change": 0.00621118,
-  "volume": 401,
+  "price_change": -100,
+  "percent_price_change": -0.00628931,
+  "volume": 5600,
   "high_52w": 22701,
   "low_52w": 14140,
-  "pe": 21.934263606,
-  "pb": 1.188044391,
-  "roe": 0.0529878863,
-  "roa": 0.0473482841,
-  "eps": 251.63555343428573,
-  "revenue": 548693170105,
-  "net_profit": 88072443702,
+  "pe": 21.7024620349,
+  "pb": 1.1862261454,
+  "roe": 0.0535337182,
+  "roa": 0.0478331583,
+  "eps": 259.5241423685714,
+  "revenue": 548166965898,
+  "net_profit": 90833449829,
   "dividend": 0.0407407407,
   "shareholders": [
     {
-      "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
+      "shareholder_name": "Ủy Ban Quản Lý Vốn Nhà Nước Tại Doanh Nghiệp",
       "shareholder_percent": 0.51
     },
     {
-      "shareholder_name": "Ủy Ban Quản Lý Vốn Nhà Nước Tại Doanh Nghiệp",
+      "shareholder_name": "Bộ Tài Chính",
+      "shareholder_percent": 0.51
+    },
+    {
+      "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
       "shareholder_percent": 0.51
     },
     {
@@ -61,11 +65,11 @@
       "shareholder_percent": 1.3e-05
     },
     {
-      "shareholder_name": "Nguyễn Tân Việt",
+      "shareholder_name": "Hà Xuân Mai",
       "shareholder_percent": 1.2e-05
     },
     {
-      "shareholder_name": "Hà Xuân Mai",
+      "shareholder_name": "Nguyễn Tân Việt",
       "shareholder_percent": 1.2e-05
     },
     {
@@ -73,11 +77,11 @@
       "shareholder_percent": 1.1e-05
     },
     {
-      "shareholder_name": "Đào Quốc Hoàn",
+      "shareholder_name": "Nguyễn Tấn Cường",
       "shareholder_percent": 1e-05
     },
     {
-      "shareholder_name": "Nguyễn Tấn Cường",
+      "shareholder_name": "Đào Quốc Hoàn",
       "shareholder_percent": 1e-05
     },
     {
@@ -134,7 +138,7 @@
     },
     {
       "officer_name": "Nguyễn Trung Kiên",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 7.7e-06
     },
     {
@@ -154,7 +158,7 @@
     },
     {
       "officer_name": "Lê Quốc Khánh",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -164,5 +168,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:16:58.719338"
+  "created_at": "2025-10-21T14:25:26.316216"
 }

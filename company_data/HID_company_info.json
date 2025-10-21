@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 229527445680,
-  "current_price": 2990,
+  "market_cap": 267909961680,
+  "current_price": 3490,
   "outstanding_shares": 76765032,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Halcom Vietnam (HID) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Nước v&agrave; M&ocirc;i trường Đường Th&agrave;nh,&nbsp;được th&agrave;nh lập v&agrave;o năm 2001. C&ocirc;ng ty hoạt động ch&iacute;nh trong&nbsp;lĩnh vực tư vấn ph&aacute;t triển cơ sở hạ tầng v&agrave; đầu tư x&acirc;y dựng dự &aacute;n cấp nước, xử l&yacute; nước thải v&agrave; năng lượng t&aacute;i tạo. HALCOM ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2007. HALCOM đ&atilde; tham gia hơn 200 dự &aacute;n ph&aacute;t triển cơ sở hạ tầng đ&ocirc; thị, cấp tho&aacute;t nước, vệ sinh m&ocirc;i trường, ph&aacute;t triển kinh tế-x&atilde; hội tổng hợp, giao th&ocirc;ng v&agrave; cải thiện hệ thống thủy lợi tại hơn 40 tỉnh th&agrave;nh tr&ecirc;n cả nước với nguồn t&agrave;i trợ từ c&aacute;c tổ chức quốc tế như Ng&acirc;n h&agrave;ng Thế giới (WB), Ng&acirc;n h&agrave;ng Ph&aacute;t triển Ch&acirc;u &Aacute; (ADB), Cơ quan Hợp t&aacute;c Quốc tế Nhật Bản (JICA). B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty đ&atilde; v&agrave; đang tham gia đầu tư&nbsp;ph&aacute;t triển&nbsp;c&ocirc;ng tr&igrave;nh cấp nước, xử l&yacute; nước thải v&agrave; năng lượng t&aacute;i tạo.</div>\r\n",
   "website": null,
-  "price_change": -20,
-  "percent_price_change": -0.00664452,
-  "volume": 139940,
-  "high_52w": 3100,
+  "price_change": 60,
+  "percent_price_change": 0.01749271,
+  "volume": 1163109,
+  "high_52w": 4060,
   "low_52w": 2330,
-  "pe": 155.3991698352,
-  "pb": 0.2927061739,
+  "pe": 175.6686267702,
+  "pb": 0.3308852401,
   "roe": 0.0018623205,
   "roa": 0.0008617172,
   "eps": -193.11096451587355,
@@ -26,7 +26,7 @@
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Quang Huân",
-      "shareholder_percent": 0.26662129
+      "shareholder_percent": 0.2666213
     },
     {
       "shareholder_name": "Bùi Thị Xuyến",
@@ -109,7 +109,7 @@
     {
       "officer_name": "Nguyễn Quang Huân",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.26662129
+      "officer_percent": 0.2666213
     },
     {
       "officer_name": "Trần Bắc Mỹ",
@@ -118,7 +118,7 @@
     },
     {
       "officer_name": "Bùi Thị Xuyến",
-      "officer_position": "Trưởng phòng Tài chính - Kế toán/Kế toán trưởng",
+      "officer_position": "Kế toán trưởng/Trưởng phòng Tài chính - Kế toán",
       "officer_percent": 0.052113
     },
     {
@@ -142,13 +142,13 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Hoàng Hải",
-      "officer_position": "Giám đốc Tài chính",
+      "officer_name": "Nguyễn Văn Lâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Văn Lâm",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Olli Mikko Keski-Saari",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -157,13 +157,13 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Võ Huyền My",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Nguyễn Hoàng Hải",
+      "officer_position": "Giám đốc Tài chính",
       "officer_percent": 0
     },
     {
-      "officer_name": "Olli Mikko Keski-Saari",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Võ Huyền My",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -173,5 +173,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:43.512860"
+  "created_at": "2025-10-21T14:11:11.131965"
 }

@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2306900320000,
-  "current_price": 16000,
+  "market_cap": 1722966176500,
+  "current_price": 11950,
   "outstanding_shares": 144181270,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Bệnh viện TNH (TNH)&nbsp;được th&agrave;nh lập v&agrave;o năm 2012.&nbsp;C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực quản l&yacute; vận h&agrave;nh bệnh viện v&agrave; cung cấp kinh doanh c&aacute;c dịch vụ kh&aacute;m&nbsp;chữa bệnh,&nbsp;chăm s&oacute;c y tế, thiết bị vật tư y tế. TNH trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ cuối năm 2019. C&ocirc;ng ty hiện đang quản l&yacute; v&agrave; khai th&aacute;c kh&aacute;m chữa bệnh tại 2 bệnh viện: Bệnh viện Quốc tế Th&aacute;i Nguy&ecirc;n v&agrave; Bệnh viện Đa khoa Y&ecirc;n B&igrave;nh tại Th&aacute;i Nguy&ecirc;n. C&ocirc;ng ty đ&atilde; k&yacute; kết hợp đồng kh&aacute;m&nbsp;chữa bệnh ch&iacute;nh thức với Sam Sung Th&aacute;i Nguy&ecirc;n, nh&agrave; m&aacute;y lớn nhất ch&acirc;u &Aacute; của Tập đo&agrave;n Samsung c&oacute; quy m&ocirc; hơn 180.000 c&ocirc;ng nh&acirc;n v&agrave; c&aacute;n bộ trong khu c&ocirc;ng nghiệp. TNH được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2020.</div>\r\n",
   "website": null,
-  "price_change": -50,
-  "percent_price_change": -0.00311526,
-  "volume": 358665,
-  "high_52w": 21600,
-  "low_52w": 14100,
-  "pe": -35.241578849,
-  "pb": 1.3212230505,
-  "roe": -0.0362842692,
-  "roa": -0.0242831766,
-  "eps": -140.71533522412972,
+  "price_change": -550,
+  "percent_price_change": -0.044,
+  "volume": 192128,
+  "high_52w": 18783,
+  "low_52w": 11850,
+  "pe": -33.2405068457,
+  "pb": 1.219533404,
+  "roe": -0.0356798682,
+  "roa": -0.0238834,
+  "eps": -116.05653463139193,
   "revenue": 122846840944,
-  "net_profit": -20281761405,
+  "net_profit": -19236596113,
   "dividend": 0,
   "shareholders": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "shareholder_name": "Cao Thị Cẩm Anh",
-      "shareholder_percent": 0.0101
+      "shareholder_percent": 0.0104
     },
     {
       "shareholder_name": "Vũ Văn Thành",
@@ -125,12 +125,12 @@
     },
     {
       "officer_name": "Nguyễn Văn Thuỷ",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 0.0237
     },
     {
       "officer_name": "Lê Xuân Tân",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0181
     },
     {
@@ -154,18 +154,8 @@
       "officer_percent": 0.00019
     },
     {
-      "officer_name": "Vũ Hồng Minh",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Nguyễn Xuân Đôn",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Hoàng Thắng",
-      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -177,8 +167,18 @@
       "officer_name": "Lê Thị Hảo",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thắng",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Hồng Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:15:46.924648"
+  "created_at": "2025-10-21T14:22:59.841698"
 }

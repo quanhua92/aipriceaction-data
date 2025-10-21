@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2957934841400,
-  "current_price": 22300,
+  "market_cap": 2453892133000,
+  "current_price": 18500,
   "outstanding_shares": 132642818,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Bảo Minh (BMI) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Bảo hiểm Th&agrave;nh phố Hồ Ch&iacute; Minh&nbsp;được th&agrave;nh lập&nbsp;th&agrave;nh lập bởi Bộ T&agrave;i ch&iacute;nh v&agrave;o năm 1994.&nbsp;Tổng C&ocirc;ng ty&nbsp;hoạt động ch&iacute;nh trong lĩnh vực bảo hiểm phi nh&acirc;n thọ v&agrave; đầu tư t&agrave;i ch&iacute;nh. BMI ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2004. C&aacute;c nh&oacute;m nghiệp vụ bảo hiểm ch&iacute;nh của Bảo Minh gồm: bảo hiểm xe cơ giới, bảo hiểm con người, bảo hiểm t&agrave;i sản kỹ thuật, bảo hiểm h&agrave;ng hải v&agrave; bảo hiểm h&agrave;ng kh&ocirc;ng. BMI hiện c&oacute; 1 trung t&acirc;m đ&agrave;o tạo, 2 trung t&acirc;m bồi thường&nbsp;v&agrave; 65 đơn vị th&agrave;nh vi&ecirc;n&nbsp;trải d&agrave;i cả nước. BMI được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2008.<!--?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p></p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -200,
-  "percent_price_change": -0.00888889,
-  "volume": 943132,
-  "high_52w": 23098,
-  "low_52w": 16857,
-  "pe": 12.4015802125,
-  "pb": 1.0456482402,
-  "roe": 0.0850224685,
-  "roa": 0.0308951218,
-  "eps": 612.1464012020613,
-  "revenue": 1724987871897,
-  "net_profit": 81196823684,
-  "dividend": 0.0448430493,
+  "price_change": -500,
+  "percent_price_change": -0.02631579,
+  "volume": 938053,
+  "high_52w": 21631,
+  "low_52w": 14852,
+  "pe": 12.25306746,
+  "pb": 1.0300506621,
+  "roe": 0.084754612,
+  "roa": 0.0307982244,
+  "eps": 534.2523030450071,
+  "revenue": 1724987871848,
+  "net_profit": 80431469454,
+  "dividend": 0.0516795866,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
@@ -164,12 +164,7 @@
       "officer_percent": 2e-07
     },
     {
-      "officer_name": "Lê Việt Thành",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Lê Minh Tuyết",
+      "officer_name": "Nicolas De Nazelle",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
@@ -184,8 +179,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Phan Thị Hồng Phương",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Lê Việt Thành",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -194,12 +189,17 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Lê Minh Tuyết",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Trần Tiến Dũng",
       "officer_position": "Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nicolas De Nazelle",
+      "officer_name": "Phan Thị Hồng Phương",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
@@ -225,5 +225,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:01:33.837772"
+  "created_at": "2025-10-21T14:02:21.519835"
 }

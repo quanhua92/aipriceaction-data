@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 7106332920000,
-  "current_price": 15000,
-  "outstanding_shares": 473755528,
+  "market_cap": 7287393493950,
+  "current_price": 14650,
+  "outstanding_shares": 497433003,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Hạ tầng giao th&ocirc;ng Đ&egrave;o Cả (HHV) c&oacute; tiền th&acirc;n l&agrave; Xưởng Thống Nhất được th&agrave;nh lập v&agrave;o năm 1974. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực quản l&yacute;, vận h&agrave;nh, duy tu v&agrave; bảo dưỡng hầm đường bộ Hải V&acirc;n. Ngo&agrave;i ra, C&ocirc;ng ty c&ograve;n được ph&eacute;p cung cấp dịch vụ vận chuyển xe m&aacute;y v&agrave; người đi bộ qua hầm Hải V&acirc;n v&agrave; tham gia sản xuất nhựa đường. Hiện nay, C&ocirc;ng ty đang quản l&yacute; vận h&agrave;nh 03 nh&agrave; m&aacute;y sản xuất nhựa đường tại Đ&agrave; Nẵng, B&igrave;nh Định v&agrave; Long An. Ng&agrave;y 20/01/2022, HHV ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -50,
-  "percent_price_change": -0.00332226,
-  "volume": 20598540,
-  "high_52w": 15500,
+  "price_change": -1050,
+  "percent_price_change": -0.06687898,
+  "volume": 21218994,
+  "high_52w": 17350,
   "low_52w": 9257,
-  "pe": 13.9257859744,
-  "pb": 1.2156527918,
-  "roe": 0.0521631312,
-  "roa": 0.0127407825,
-  "eps": 262.6407038698234,
+  "pe": 14.2955660182,
+  "pb": 1.2480590521,
+  "roe": 0.0521688006,
+  "roa": 0.0127421796,
+  "eps": 262.75091518002876,
   "revenue": 947061532948,
-  "net_profit": 130646154036,
-  "dividend": 0.0333333333,
+  "net_profit": 130700976779,
+  "dividend": 0.0324675325,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Quốc Ánh",
@@ -67,6 +67,10 @@
     {
       "shareholder_name": "Hồ Minh Hoàng",
       "shareholder_percent": 0.0047
+    },
+    {
+      "shareholder_name": "Nguyễn Quang Huy",
+      "shareholder_percent": 0.0006
     },
     {
       "shareholder_name": "Trần Thị Hồng Lam",
@@ -176,5 +180,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:13:05.683638"
+  "created_at": "2025-10-21T14:11:05.786675"
 }

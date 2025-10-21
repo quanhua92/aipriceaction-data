@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1280654782900,
-  "current_price": 19700,
+  "market_cap": 1196144568800,
+  "current_price": 18400,
   "outstanding_shares": 65007857,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&aacute;t triển Khu c&ocirc;ng nghiệp T&iacute;n Nghĩa (TIP) tiền th&acirc;n l&agrave; X&iacute; nghiệp Dịch vụ v&agrave; Ph&aacute;t triển Khu C&ocirc;ng nghiệp Tam Phước, được th&agrave;nh lập v&agrave;o năm 2002.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực kinh doanh&nbsp;bất động sản, cung cấp c&aacute;c dịch vụ hạ tầng kỹ thuật khu c&ocirc;ng nghiệp.&nbsp;Một số dự &aacute;n ti&ecirc;u biểu của c&ocirc;ng ty như: Khu c&ocirc;ng nghiệp Tam Phước, Khu đ&ocirc; thị Bi&ecirc;n H&ograve;a Dragon City II, dự &aacute;n Khu t&aacute;i định cư&hellip; Năm 2007, c&ocirc;ng ty hoạt động dưới h&igrave;nh thức c&ocirc;ng ty cổ phần. TIP ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)&nbsp;từ năm 2016.</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 314061,
+  "price_change": -400,
+  "percent_price_change": -0.0212766,
+  "volume": 184800,
   "high_52w": 21617,
   "low_52w": 15276,
-  "pe": 7.1924995986,
-  "pb": 0.6970996432,
-  "roe": 0.0990170645,
-  "roa": 0.0842391577,
-  "eps": 1092.8954856795233,
-  "revenue": 35855087397,
-  "net_profit": 71046793449,
-  "dividend": 0.076142132,
+  "pe": 6.7178676454,
+  "pb": 0.6510981439,
+  "roe": null,
+  "roa": null,
+  "eps": 432.0603367220673,
+  "revenue": 38630640412,
+  "net_profit": 28087316585,
+  "dividend": 0.0815217391,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Tổng Công ty Tín Nghĩa",
@@ -82,7 +82,7 @@
     },
     {
       "shareholder_name": "Nguyễn Thị Ngọc Dung",
-      "shareholder_percent": 0.0002307412
+      "shareholder_percent": 0.00023074
     },
     {
       "shareholder_name": "Nguyễn Thị Ly",
@@ -126,7 +126,7 @@
     },
     {
       "officer_name": "Nguyễn Quốc Hùng",
-      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin/Phó Giám đốc",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty/Phó Giám đốc",
       "officer_percent": 0.0001
     },
     {
@@ -176,5 +176,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:15:27.944771"
+  "created_at": "2025-10-21T14:22:38.184569"
 }

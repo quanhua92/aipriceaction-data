@@ -5,28 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 17925255401200,
-  "current_price": 46550,
+  "market_cap": 13843457178800,
+  "current_price": 35950,
   "outstanding_shares": 385075304,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty cổ phần Đầu tư Nam Long (NLG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Nam Long&nbsp;được th&agrave;nh lập năm 1992.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh c&aacute;c dự &aacute;n bất động nh&agrave; ở, khu đ&ocirc; thị. NLG chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2005.&nbsp;NLG hiện sở hữu 681ha đất sạch trải khắp c&aacute;c tỉnh miền Nam, chủ yếu tập trung trong c&aacute;c khu đ&ocirc; thị v&agrave; d&acirc;n cư trọng điểm của Th&agrave;nh phố Hồ Ch&iacute; Minh, B&igrave;nh Dương, Cần Thơ, Long An, Đồng Nai&nbsp;v&agrave; Hải Ph&ograve;ng. Một số dự &aacute;n ti&ecirc;u biểu m&agrave; Nam Long tham gia đầu tư, ph&aacute;t triển v&agrave; kinh doanh bất động sản: Khu đ&ocirc; thị Mizuki Park-Q.B&igrave;nh Ch&aacute;nh, Th&agrave;nh phố Hồ Ch&iacute; Minh (26ha), Khu đ&ocirc; thị Kikyo Residences -&nbsp;Quận 9, Th&agrave;nh phố Hồ Ch&iacute; Minh&nbsp;(18ha), Khu đ&ocirc; thị Fuji Residences - Quận 9, Th&agrave;nh phố Hồ Ch&iacute; Minh (5ha), Khu biệt thự Thảo Nguy&ecirc;n S&agrave;i Gòn - District 9,Th&agrave;nh phố Hồ Ch&iacute; Minh (7,7ha), Khu d&acirc;n cư Dalia Garden - Cần Thơ (15ha). NLG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;sở Giao dịch Chứng&nbsp;kho&aacute;n Hồ Ch&iacute; Minh&nbsp;(HOSE) từ năm 2013.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 3000,
-  "percent_price_change": 0.06888634,
-  "volume": 6700904,
-  "high_52w": 46550,
-  "low_52w": 25413,
-  "pe": 27.2427511271,
-  "pb": 1.8537312654,
+  "price_change": -2700,
+  "percent_price_change": -0.0698577,
+  "volume": 5140370,
+  "high_52w": 45632,
+  "low_52w": 23286,
+  "pe": 23.2046204552,
+  "pb": 1.578956921,
   "roe": 0.0686844166,
   "roa": 0.0224625287,
   "eps": 257.9483669173446,
   "revenue": 772555911115,
   "net_profit": 99329545807,
-  "dividend": 0.0107411386,
+  "dividend": 0.0126103405,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Xuân Quang",
-      "shareholder_percent": 0.0947
+      "shareholder_percent": 0.0869
     },
     {
       "shareholder_name": "Ibeworth Pte. Ltd.",
@@ -41,12 +41,12 @@
       "shareholder_percent": 0.0449
     },
     {
-      "shareholder_name": "Công Ty Cổ Phần Đầu Tư Thái Bình",
+      "shareholder_name": "Ctcp Đầu Tư Thái Bình",
       "shareholder_percent": 0.0447
     },
     {
-      "shareholder_name": "Ctcp Đầu Tư Thái Bình",
-      "shareholder_percent": 0.0447
+      "shareholder_name": "Công Ty Cổ Phần Đầu Tư Thái Bình",
+      "shareholder_percent": 0.0443
     },
     {
       "shareholder_name": "CTBC Vietnam Equity Fund",
@@ -134,7 +134,7 @@
     },
     {
       "shareholder_name": "Chu Chee Kwang",
-      "shareholder_percent": 0.0041
+      "shareholder_percent": 0.00398
     },
     {
       "shareholder_name": "Cao Duy Thông",
@@ -147,10 +147,6 @@
     {
       "shareholder_name": "Hanoi Investments Holdings Limited",
       "shareholder_percent": 0.002887
-    },
-    {
-      "shareholder_name": "Bùi Đức Khang",
-      "shareholder_percent": 0.0027
     },
     {
       "shareholder_name": "Quỹ Đầu tư Bất động sản Techcom Việt Nam",
@@ -179,6 +175,10 @@
     {
       "shareholder_name": "KB Vietnam Focus Balanced Fund",
       "shareholder_percent": 0.000724
+    },
+    {
+      "shareholder_name": "Bùi Đức Khang",
+      "shareholder_percent": 0.0007
     },
     {
       "shareholder_name": "Wareham Group Limited",
@@ -245,12 +245,8 @@
       "shareholder_percent": 2e-06
     },
     {
-      "shareholder_name": "Nguyễn Lưu Tuyền",
-      "shareholder_percent": 5e-07
-    },
-    {
       "shareholder_name": "Công ty TNHH MTV Đầu tư Xây dựng Phát triển Nam Khang",
-      "shareholder_percent": 1.2e-07
+      "shareholder_percent": 1e-07
     },
     {
       "shareholder_name": "Lâm Ngọc Minh",
@@ -261,11 +257,11 @@
       "shareholder_percent": 2e-08
     },
     {
-      "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
-      "shareholder_percent": 1.2e-08
+      "shareholder_name": "Nguyễn Thị Tơ",
+      "shareholder_percent": 1e-08
     },
     {
-      "shareholder_name": "Nguyễn Thị Tơ",
+      "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
       "shareholder_percent": 1e-08
     },
     {
@@ -277,11 +273,11 @@
     {
       "officer_name": "Nguyễn Xuân Quang",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.0947
+      "officer_percent": 0.0869
     },
     {
       "officer_name": "Trần Thanh Phong",
-      "officer_position": "Phụ trách Công bố thông tin/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
       "officer_percent": 0.0408
     },
     {
@@ -351,5 +347,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:15:10.283887"
+  "created_at": "2025-10-21T14:16:19.636877"
 }

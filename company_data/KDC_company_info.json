@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 15939347380000,
-  "current_price": 55000,
+  "market_cap": 15011967168800,
+  "current_price": 51800,
   "outstanding_shares": 289806316,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n KIDO&nbsp;(KDC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH X&acirc;y dựng v&agrave; Chế biến thực phẩm Kinh Đ&ocirc; được th&agrave;nh lập v&agrave;o năm 1993. C&ocirc;ng ty hoạt động&nbsp;ch&iacute;nh trong lĩnh vực sản xuất, chế biến v&agrave; kinh doanh ph&acirc;n phối c&aacute;c mặt h&agrave;ng thực phẩm ti&ecirc;u d&ugrave;ng như dầu ăn, kem, nước giải kh&aacute;t. KDC ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2002. KDC hiện đang sở hữu&nbsp;Nh&agrave; m&aacute;y sản xuất c&aacute;c loại b&aacute;nh từ bột với quy m&ocirc; 19.044 tấn sản phẩm/ năm; 01 nh&agrave; m&aacute;y sản xuất b&aacute;nh bao với diện t&iacute;ch 22.716 m2; 04 nh&agrave; m&aacute;y dầu ăn ở Nghệ An, B&agrave; Rịa- Vũng T&agrave;u, Nh&agrave; B&egrave;,... C&ocirc;ng ty&nbsp;đ&atilde; ph&aacute;t&nbsp;triển một&nbsp;mạng lưới ph&acirc;n phối b&aacute;n lẻ&nbsp;rộng khắp cả nước&nbsp;với 15 kho trung chuyển, 405 nh&agrave; ph&acirc;n phối, đại l&yacute;, 450.000 điểm b&aacute;n lẻ ng&agrave;nh h&agrave;ng kh&ocirc;, 120.000 điểm b&aacute;n lẻ ng&agrave;nh h&agrave;ng lạnh, hơn 4.600 điểm b&aacute;n tại si&ecirc;u thị, cửa h&agrave;ng tiện lợi,&nbsp;hơn 10.000 điểm b&aacute;n ng&agrave;nh hấp v&agrave; hơn 300 cửa h&agrave;ng miniBAO. KDC được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phồ Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -300,
-  "percent_price_change": -0.00542495,
-  "volume": 406195,
+  "price_change": -200,
+  "percent_price_change": -0.00384615,
+  "volume": 186839,
   "high_52w": 60000,
   "low_52w": 48850,
-  "pe": 181.1813628709,
-  "pb": 2.4029269686,
-  "roe": 0.0132314671,
-  "roa": 0.0066489773,
-  "eps": 474.26951416062303,
-  "revenue": 2078027636127,
-  "net_profit": 137446300690,
-  "dividend": 0.0181818182,
+  "pe": 279.0873437764,
+  "pb": 2.2646609118,
+  "roe": 0.0080796395,
+  "roa": 0.0040582366,
+  "eps": 355.95294881702995,
+  "revenue": 2067342555746,
+  "net_profit": 103157412766,
+  "dividend": 0.0193423598,
   "shareholders": [
     {
       "shareholder_name": "Trần Lệ Nguyên",
@@ -162,11 +162,7 @@
     },
     {
       "shareholder_name": "Cô Gia Thọ",
-      "shareholder_percent": 0.0030078991
-    },
-    {
-      "shareholder_name": "Trần Quốc Nguyên",
-      "shareholder_percent": 0.0022
+      "shareholder_percent": 0.0030079
     },
     {
       "shareholder_name": "Allright Assets Limited",
@@ -177,11 +173,15 @@
       "shareholder_percent": 0.0009
     },
     {
-      "shareholder_name": "Bùi Thanh Tùng",
+      "shareholder_name": "MAI XUÂN TRẦM",
       "shareholder_percent": 0.00065
     },
     {
-      "shareholder_name": "MAI XUÂN TRẦM",
+      "shareholder_name": "Trần Quốc Nguyên",
+      "shareholder_percent": 0.00065
+    },
+    {
+      "shareholder_name": "Bùi Thanh Tùng",
       "shareholder_percent": 0.00065
     },
     {
@@ -332,23 +332,23 @@
       "officer_percent": 0.0030928
     },
     {
-      "officer_name": "Trần Quốc Nguyên",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
-      "officer_percent": 0.0022
-    },
-    {
       "officer_name": "Trần Tiến Hoàng",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0009
     },
     {
-      "officer_name": "Bùi Thanh Tùng",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "MAI XUÂN TRẦM",
+      "officer_position": "Phó tổng giám đốc Phát triển Kinh doanh",
       "officer_percent": 0.00065
     },
     {
-      "officer_name": "MAI XUÂN TRẦM",
-      "officer_position": "Phó tổng giám đốc Phát triển Kinh doanh",
+      "officer_name": "Trần Quốc Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.00065
+    },
+    {
+      "officer_name": "Bùi Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.00065
     },
     {
@@ -387,8 +387,8 @@
       "officer_percent": 1e-05
     },
     {
-      "officer_name": "Nguyễn Thị Xuân Liễu",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_name": "Kelly Yin Hon Wong",
+      "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
@@ -397,11 +397,11 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Kelly Yin Hon Wong",
-      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_name": "Nguyễn Thị Xuân Liễu",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:04.042134"
+  "created_at": "2025-10-21T14:13:04.566565"
 }

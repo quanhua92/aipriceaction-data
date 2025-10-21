@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 29750580288000,
-  "current_price": 88000,
+  "market_cap": 28364473706400,
+  "current_price": 83900,
   "outstanding_shares": 338074776,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần V&agrave;ng Bạc Đ&aacute; Qu&yacute; Ph&uacute; Nhuận (PNJ)&nbsp;c&oacute; tiền th&acirc;n l&agrave; cửa h&agrave;ng Kinh doanh V&agrave;ng bạc Ph&uacute; Nhuận trực thuộc UBND Quận Ph&uacute; Nhuận,&nbsp;được th&agrave;nh lập v&agrave;o ng&agrave;y 28/04/1988. PNJ chuy&ecirc;n sản xuất, kinh doanh trang sức bằng v&agrave;ng, bạc, đ&aacute; qu&yacute;. C&ocirc;ng ty&nbsp;ch&iacute;nh thức&nbsp;hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm&nbsp;2004. PNJ hiện quản l&yacute; v&agrave; vận h&agrave;nh 2 nh&agrave; m&aacute;y với tổng&nbsp;c&ocirc;ng suất sản xuất đạt tr&ecirc;n 5&nbsp;triệu sản phẩm/năm. Tại thời điểm cuối năm 2024, PNJ c&oacute; 429 cửa&nbsp;h&agrave;ng tại 58/63 tỉnh th&agrave;nh phố&nbsp;. Sản phẩm của PNJ đ&atilde; được xuất khẩu tới 13 quốc gia v&agrave; v&ugrave;ng l&atilde;nh thổ. PNJ được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2009.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 500,
-  "percent_price_change": 0.00571429,
-  "volume": 1129320,
-  "high_52w": 107972,
-  "low_52w": 62800,
-  "pe": 14.3579921462,
-  "pb": 2.4833472262,
-  "roe": 0.1816965764,
-  "roa": 0.1238244466,
-  "eps": 1306.9833863500248,
+  "price_change": -6200,
+  "percent_price_change": -0.06881243,
+  "volume": 2298748,
+  "high_52w": 97780,
+  "low_52w": 61783,
+  "pe": 13.8473818719,
+  "pb": 2.4010885118,
+  "roe": 0.1813070798,
+  "roa": 0.1235440649,
+  "eps": 1280.9567483757182,
   "revenue": 7664650341452,
-  "net_profit": 441636504780,
-  "dividend": 0.0227272727,
+  "net_profit": 436997250814,
+  "dividend": 0.0236127509,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Dragon Capital Việt Nam",
@@ -57,16 +57,20 @@
       "shareholder_percent": 0.0363
     },
     {
+      "shareholder_name": "Trần Phương Ngọc Thảo",
+      "shareholder_percent": 0.0355
+    },
+    {
       "shareholder_name": "Vietnam Investment Limited",
       "shareholder_percent": 0.0328
     },
     {
-      "shareholder_name": "Trần Phương Ngọc Giao",
-      "shareholder_percent": 0.0286
+      "shareholder_name": "Cao Thị Ngọc Dung",
+      "shareholder_percent": 0.0296
     },
     {
-      "shareholder_name": "Cao Thị Ngọc Dung",
-      "shareholder_percent": 0.0285
+      "shareholder_name": "Trần Phương Ngọc Giao",
+      "shareholder_percent": 0.0289
     },
     {
       "shareholder_name": "Cao Ngọc Duy",
@@ -75,6 +79,10 @@
     {
       "shareholder_name": "Vietnam Enterprise Investments Limited",
       "shareholder_percent": 0.022606
+    },
+    {
+      "shareholder_name": "T.ROWE PRICE INTERNATIONAL DISCOVERY FUND",
+      "shareholder_percent": 0.022278
     },
     {
       "shareholder_name": "Deutsche Asset Management (Asia) Limited",
@@ -103,6 +111,10 @@
     {
       "shareholder_name": "Asia Value Investment Limited",
       "shareholder_percent": 0.0117
+    },
+    {
+      "shareholder_name": "T.ROWE PRICE GLOBAL EQUITY FUND",
+      "shareholder_percent": 0.010679
     },
     {
       "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
@@ -145,6 +157,10 @@
       "shareholder_percent": 0.006449
     },
     {
+      "shareholder_name": "Đặng Thị Lài",
+      "shareholder_percent": 0.0061
+    },
+    {
       "shareholder_name": "Phạm Thị Mỹ Hạnh",
       "shareholder_percent": 0.005748
     },
@@ -153,8 +169,12 @@
       "shareholder_percent": 0.0055318775
     },
     {
-      "shareholder_name": "Đặng Thị Lài",
-      "shareholder_percent": 0.0055
+      "shareholder_name": "T.ROWE PRICE FUNDS SICAV",
+      "shareholder_percent": 0.004581
+    },
+    {
+      "shareholder_name": "Lê Trí Thông",
+      "shareholder_percent": 0.0045
     },
     {
       "shareholder_name": "Wareham Group Limited",
@@ -173,16 +193,28 @@
       "shareholder_percent": 0.00433
     },
     {
+      "shareholder_name": "DELAWARE PUBLIC EMPLOYEES' RETIREMENT SYSTEM",
+      "shareholder_percent": 0.00416
+    },
+    {
       "shareholder_name": "VOF Investment Limited",
       "shareholder_percent": 0.0038
     },
     {
-      "shareholder_name": "Lê Trí Thông",
-      "shareholder_percent": 0.0036
+      "shareholder_name": "T.ROWE PRICE INTERNATIONAL SMALL-CAP EQUITY TRUST",
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "T.ROWE PRICE GLOBAL GROWTH STOCK FUND",
+      "shareholder_percent": 0.003566
     },
     {
       "shareholder_name": "Lê Nguyên Đăng Hằng",
       "shareholder_percent": 0.0033
+    },
+    {
+      "shareholder_name": "T ROWE PRICE GLOBAL GROWTH EQUITY POOL",
+      "shareholder_percent": 0.003085
     },
     {
       "shareholder_name": "Vietnam Co-Investment Fund",
@@ -198,7 +230,11 @@
     },
     {
       "shareholder_name": "Dương Quang Hải",
-      "shareholder_percent": 0.0022
+      "shareholder_percent": 0.0024
+    },
+    {
+      "shareholder_name": "COLONIAL FIRST STATE GLOBAL SHARES FUND 7",
+      "shareholder_percent": 0.002322
     },
     {
       "shareholder_name": "Trần Thị Môn",
@@ -207,6 +243,10 @@
     {
       "shareholder_name": "Quỹ Đầu tư Tăng trưởng TVAM",
       "shareholder_percent": 0.0019544782
+    },
+    {
+      "shareholder_name": "Đào Trung Kiên",
+      "shareholder_percent": 0.0019
     },
     {
       "shareholder_name": "Trần Thị Thu Hà",
@@ -225,16 +265,36 @@
       "shareholder_percent": 0.001639
     },
     {
-      "shareholder_name": "Đào Trung Kiên",
-      "shareholder_percent": 0.0016
+      "shareholder_name": "T.ROWE PRICE FUNDS SICAV-GLOBAL GROWTH EQUITY FUND",
+      "shareholder_percent": 0.001594
+    },
+    {
+      "shareholder_name": "T ROWE PRICE GLOBAL GROWTH EQUITY TRUST",
+      "shareholder_percent": 0.001495
+    },
+    {
+      "shareholder_name": "HARBOUR T.ROWE PRICE GLOBAL EQUITY FUND",
+      "shareholder_percent": 0.001225
     },
     {
       "shareholder_name": "Trần Văn Dân",
       "shareholder_percent": 0.0012
     },
     {
+      "shareholder_name": "Đặng Hải Anh",
+      "shareholder_percent": 0.0011
+    },
+    {
       "shareholder_name": "Nguyễn Anh Hùng",
       "shareholder_percent": 0.0011
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Văn Quân",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Đặng Ngọc Thảo",
+      "shareholder_percent": 0.001
     },
     {
       "shareholder_name": "Trần Thị Xuân Lan",
@@ -245,16 +305,12 @@
       "shareholder_percent": 0.0009
     },
     {
-      "shareholder_name": "Đặng Hải Anh",
-      "shareholder_percent": 0.0009
-    },
-    {
       "shareholder_name": "Phạm Vũ Thanh Giang",
       "shareholder_percent": 0.000883
     },
     {
-      "shareholder_name": "Đặng Ngọc Thảo",
-      "shareholder_percent": 0.0008
+      "shareholder_name": "SELECT INVESTMENT SERIES III SICAV - T.ROWE PRICE GLOBAL EQUITY NET ZERO TRANSITION FUND",
+      "shareholder_percent": 0.000803
     },
     {
       "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Vàng Bạc Đá Quý Phú Nhuận",
@@ -265,7 +321,7 @@
       "shareholder_percent": 0.00071
     },
     {
-      "shareholder_name": "Nguyễn Ngọc Văn Quân",
+      "shareholder_name": "Trương Hoài Anh",
       "shareholder_percent": 0.0007
     },
     {
@@ -278,6 +334,10 @@
     },
     {
       "shareholder_name": "Trịnh Thị Ngọc Hiếu",
+      "shareholder_percent": 0.0006
+    },
+    {
+      "shareholder_name": "Nguyễn Khoa Hồng Thành",
       "shareholder_percent": 0.0006
     },
     {
@@ -297,11 +357,11 @@
       "shareholder_percent": 0.0005
     },
     {
-      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+      "shareholder_name": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận",
       "shareholder_percent": 0.0005
     },
     {
-      "shareholder_name": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận",
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
       "shareholder_percent": 0.0005
     },
     {
@@ -313,7 +373,7 @@
       "shareholder_percent": 0.0004284883
     },
     {
-      "shareholder_name": "Trương Hoài Anh",
+      "shareholder_name": "Nguyễn Chí Kiên",
       "shareholder_percent": 0.0004
     },
     {
@@ -333,10 +393,6 @@
       "shareholder_percent": 0.0003
     },
     {
-      "shareholder_name": "Nguyễn Khoa Hồng Thành",
-      "shareholder_percent": 0.0003
-    },
-    {
       "shareholder_name": "Quỹ Đầu tư Cân bằng Manulife",
       "shareholder_percent": 0.0002917325
     },
@@ -345,32 +401,20 @@
       "shareholder_percent": 0.00029
     },
     {
+      "shareholder_name": "T.ROWE PRICE GLOBAL ALLOCATION FUND",
+      "shareholder_percent": 0.000247
+    },
+    {
       "shareholder_name": "Quỹ Đầu tư Cân bằng Bản Việt",
       "shareholder_percent": 0.0002100176
     },
     {
+      "shareholder_name": "Võ Thị Trang",
+      "shareholder_percent": 0.0002056
+    },
+    {
       "shareholder_name": "Bùi Việt",
       "shareholder_percent": 0.0002035129
-    },
-    {
-      "shareholder_name": "Trần Quang Minh",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Cao Ngọc Huy",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Cao Ngọc Hiệp",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Phan Nguyễn Hoài Anh",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Cao Thị Ngọc Tâm",
-      "shareholder_percent": 0.0002
     },
     {
       "shareholder_name": "Nguyễn Tuấn Hải",
@@ -381,12 +425,44 @@
       "shareholder_percent": 0.0002
     },
     {
+      "shareholder_name": "Tiêu Yến Trinh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Cao Ngọc Hiệp",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Cao Ngọc Huy",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Trần Quang Minh",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Cao Thị Ngọc Tâm",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Minh Hải",
+      "shareholder_percent": 0.0002
+    },
+    {
       "shareholder_name": "Lê Quang Phúc",
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Tiêu Yến Trinh",
+      "shareholder_name": "Phan Nguyễn Hoài Anh",
       "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "CITI RETIREMENT SAVINGS PLAN",
+      "shareholder_percent": 0.000178
+    },
+    {
+      "shareholder_name": "CANADA LIFE GLOBAL GROWTH EQUITY FUND",
+      "shareholder_percent": 0.000171
     },
     {
       "shareholder_name": "Quỹ Đầu tư Cổ phiếu Techcom",
@@ -398,10 +474,6 @@
     },
     {
       "shareholder_name": "Nguyễn Thành Dư",
-      "shareholder_percent": 0.0001
-    },
-    {
-      "shareholder_name": "Nguyễn Chí Kiên",
       "shareholder_percent": 0.0001
     },
     {
@@ -429,11 +501,11 @@
       "shareholder_percent": 7.5e-05
     },
     {
-      "shareholder_name": "Lê Anh Thơ",
+      "shareholder_name": "Lâm Thị Hương",
       "shareholder_percent": 7e-05
     },
     {
-      "shareholder_name": "Lâm Thị Hương",
+      "shareholder_name": "Lê Anh Thơ",
       "shareholder_percent": 7e-05
     },
     {
@@ -457,8 +529,8 @@
       "shareholder_percent": 3.997e-05
     },
     {
-      "shareholder_name": "Võ Thị Trang",
-      "shareholder_percent": 2e-05
+      "shareholder_name": "T.ROWE PRICE GLOBAL EX-U.S. EQUITY MACRO POOL",
+      "shareholder_percent": 2.6e-05
     },
     {
       "shareholder_name": "Lê Anh Đức",
@@ -470,7 +542,7 @@
     },
     {
       "shareholder_name": "Phạm Văn Tân",
-      "shareholder_percent": 1.017e-07
+      "shareholder_percent": 1e-07
     },
     {
       "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
@@ -485,12 +557,12 @@
     {
       "officer_name": "Trần Phương Ngọc Thảo",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0351
+      "officer_percent": 0.0355
     },
     {
       "officer_name": "Cao Thị Ngọc Dung",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.0285
+      "officer_percent": 0.0296
     },
     {
       "officer_name": "Lê Hữu Hạnh",
@@ -498,34 +570,34 @@
       "officer_percent": 0.0102
     },
     {
+      "officer_name": "Đặng Thị Lài",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0061
+    },
+    {
       "officer_name": "Phạm Thị Mỹ Hạnh",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.005748
     },
     {
-      "officer_name": "Đặng Thị Lài",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0055
-    },
-    {
       "officer_name": "Lê Trí Thông",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
-      "officer_percent": 0.0036
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0.0045
     },
     {
       "officer_name": "Dương Quang Hải",
       "officer_position": "Kế toán trưởng",
-      "officer_percent": 0.0022
+      "officer_percent": 0.0024
+    },
+    {
+      "officer_name": "Đào Trung Kiên",
+      "officer_position": "Giám đốc khối",
+      "officer_percent": 0.0019
     },
     {
       "officer_name": "Trần Thị Thu Hà",
       "officer_position": "Giám đốc khối",
       "officer_percent": 0.001888
-    },
-    {
-      "officer_name": "Đào Trung Kiên",
-      "officer_position": "Giám đốc khối",
-      "officer_percent": 0.0016
     },
     {
       "officer_name": "Nguyễn Anh Hùng",
@@ -553,7 +625,12 @@
       "officer_percent": 0.00034
     },
     {
-      "officer_name": "Nguyễn Tuấn Hải",
+      "officer_name": "Lê Quang Phúc",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0002
+    },
+    {
+      "officer_name": "Tiêu Yến Trinh",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0002
     },
@@ -563,12 +640,7 @@
       "officer_percent": 0.0002
     },
     {
-      "officer_name": "Tiêu Yến Trinh",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0002
-    },
-    {
-      "officer_name": "Lê Quang Phúc",
+      "officer_name": "Nguyễn Tuấn Hải",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0002
     },
@@ -589,5 +661,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:16:13.082318"
+  "created_at": "2025-10-21T14:18:14.414382"
 }

@@ -5,20 +5,20 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 388799481200,
-  "current_price": 5200,
+  "market_cap": 358891828800,
+  "current_price": 4800,
   "outstanding_shares": 74769131,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Xi măng Ho&agrave;ng Mai (HOM)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Xi măng Nghệ An th&agrave;nh lập năm 1995. Năm 2008, c&ocirc;ng ty&nbsp;chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty đang sản xuất c&aacute;c sản phẩm xi măng PCB30, PCB40, PC40, PC50, Clinker, xi măng thương phẩm CPC 40, CPC 50, v&agrave; c&aacute;c loại xi măng đặc biệt kh&aacute;c theo đơn đặt h&agrave;ng lu&ocirc;n c&oacute; hệ số dư m&aacute;c cao. Hiện tại C&ocirc;ng ty đang khai th&aacute;c nguy&ecirc;n vật liệu tr&ecirc;n Mỏ đ&aacute; Ho&agrave;ng Mai B với trữ lượng 132.646.000 tấn v&agrave; Mỏ s&eacute;t Quỳnh Vinh với trữ lượng 4.297.000 tấn đủ nguy&ecirc;n liệu cho c&aacute;c nh&agrave; m&aacute;y hoạt động li&ecirc;n tục tr&ecirc;n 80 năm với chất lượng ổn định. Ng&agrave;y 09/07/2009, HOM ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch chứng kho&aacute;n H&agrave; Nội (HNX)</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 100,
-  "percent_price_change": 0.01960784,
-  "volume": 95498,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 22915,
   "high_52w": 5900,
   "low_52w": 3500,
-  "pe": -16.9421277674,
-  "pb": 0.4317726876,
+  "pe": -15.6388871699,
+  "pb": 0.398559404,
   "roe": -0.0255168202,
-  "roa": -0.0165428244,
+  "roa": -0.0165429155,
   "eps": 102.05913018286645,
   "revenue": 520199823087,
   "net_profit": 7348025801,
@@ -101,11 +101,11 @@
       "shareholder_percent": 0.0025
     },
     {
-      "shareholder_name": "Doanh nghiệp Tư nhân Thanh Bình",
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Vina",
       "shareholder_percent": 0.0013888888
     },
     {
-      "shareholder_name": "Công ty Cổ phần Chứng khoán Vina",
+      "shareholder_name": "Doanh nghiệp Tư nhân Thanh Bình",
       "shareholder_percent": 0.0013888888
     },
     {
@@ -114,23 +114,19 @@
     },
     {
       "shareholder_name": "CTCP Xây dựng thương mại 423",
-      "shareholder_percent": 0.0006944444
+      "shareholder_percent": 0.00069444
     },
     {
       "shareholder_name": "Công ty TNHH Thành Luân",
-      "shareholder_percent": 0.0004861111
+      "shareholder_percent": 0.00048611
     },
     {
       "shareholder_name": "Công ty cổ phần Vật liệu xây dựng Miền Trung",
-      "shareholder_percent": 0.0003472222
+      "shareholder_percent": 0.00034722
     },
     {
       "shareholder_name": "Nguyễn Hữu Quang",
       "shareholder_percent": 0.0003235656
-    },
-    {
-      "shareholder_name": "Đậu Phi Tuấn",
-      "shareholder_percent": 0.0001661163
     },
     {
       "shareholder_name": "Nguyễn Quang Điển",
@@ -142,11 +138,7 @@
     },
     {
       "shareholder_name": "Nguyễn Công Hòa",
-      "shareholder_percent": 7.22244e-05
-    },
-    {
-      "shareholder_name": "Lê Văn Chiên",
-      "shareholder_percent": 3.90012e-05
+      "shareholder_percent": 7.222e-05
     },
     {
       "shareholder_name": "Hoàng Xuân Vinh",
@@ -217,5 +209,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:55.548786"
+  "created_at": "2025-10-21T14:11:21.854072"
 }

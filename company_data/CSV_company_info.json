@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 4011146733000,
-  "current_price": 36300,
+  "market_cap": 3116097462000,
+  "current_price": 28200,
   "outstanding_shares": 110499910,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần H&oacute;a chất Cơ bản miền Nam (CSV), tiền th&acirc;n l&agrave; C&ocirc;ng ty H&oacute;a chất Cơ bản miền Nam được th&agrave;nh lập năm 1976 bởi Tổng Cục H&oacute;a Chất. Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; sản xuất h&oacute;a chất trong lĩnh lực c&ocirc;ng nghiệp phục vụ&nbsp;nhu cầu của c&aacute;c ng&agrave;nh c&ocirc;ng nghiệp như thực phẩm, dược phẩm, xử l&yacute; nước sinh hoạt, xử l&yacute; nước thải, sản xuất giấy, dầu kh&iacute;. Hiện nay, C&ocirc;ng ty l&agrave; một trong những doanh nghiệp sản xuất h&oacute;a chất cơ bản h&agrave;ng đầu tại Việt Nam. C&aacute;c sản phẩm của C&ocirc;ng ty ti&ecirc;u thụ rộng khắp ở c&aacute;c tỉnh miền Trung - T&acirc;y Nguy&ecirc;n đến c&aacute;c tỉnh miền T&acirc;y Nam Bộ v&agrave; Th&agrave;nh phố Hồ Ch&iacute; Minh. Với kinh nghiệm hơn 37 năm tồn tại v&agrave; ph&aacute;t triển, C&ocirc;ng ty đ&atilde; đầu tư d&acirc;y chuyền sản xuất ti&ecirc;n tiến, đảm bảo chất lượng sản phẩm v&agrave; m&ocirc;i trường sinh th&aacute;i. CSV&nbsp;được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</div>\r\n",
   "website": null,
-  "price_change": -400,
-  "percent_price_change": -0.01089918,
-  "volume": 1556475,
+  "price_change": -2100,
+  "percent_price_change": -0.06930693,
+  "volume": 961046,
   "high_52w": 46840,
   "low_52w": 27628,
-  "pe": 16.6974780918,
-  "pb": 2.6872163481,
+  "pe": 14.2595542933,
+  "pb": 2.2948679557,
   "roe": 0.1603815008,
   "roa": 0.1263438867,
   "eps": 566.8694731606569,
   "revenue": 523585483782,
   "net_profit": 62639025766,
-  "dividend": 0.0137741047,
+  "dividend": 0.0161290323,
   "shareholders": [
     {
       "shareholder_name": "Tập đoàn Hóa chất Việt Nam",
@@ -46,7 +46,7 @@
     },
     {
       "shareholder_name": "Công đoàn CTCP Hóa chất cơ bản miền Nam",
-      "shareholder_percent": 0.0036199095
+      "shareholder_percent": 0.00361991
     },
     {
       "shareholder_name": "Vietnam Investment Limited",
@@ -54,7 +54,7 @@
     },
     {
       "shareholder_name": "Nguyễn Hữu Thọ",
-      "shareholder_percent": 0.0012081447
+      "shareholder_percent": 0.00120814
     },
     {
       "shareholder_name": "Nguyễn Kim Thảo Vân",
@@ -62,7 +62,7 @@
     },
     {
       "shareholder_name": "Nguyễn Hoài Phú",
-      "shareholder_percent": 0.0005226244
+      "shareholder_percent": 0.00052262
     },
     {
       "shareholder_name": "Ngô Tuấn Anh",
@@ -102,7 +102,7 @@
     },
     {
       "shareholder_name": "Hoàng Minh Đức",
-      "shareholder_percent": 4.29864e-05
+      "shareholder_percent": 4.299e-05
     },
     {
       "shareholder_name": "Lê Thanh Bình",
@@ -122,7 +122,7 @@
     },
     {
       "officer_name": "Lê Thanh Bình",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 4e-05
     },
     {
@@ -136,13 +136,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Đỗ Thị Thoa",
-      "officer_position": "Trưởng Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Thị Minh Hà",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Đỗ Trung Hiếu",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -151,8 +146,18 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Nguyễn Thị Minh Hà",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Lê Hoàng",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Thị Thoa",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -164,13 +169,8 @@
       "officer_name": "Lê Phương Đông",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
-    },
-    {
-      "officer_name": "Đỗ Trung Hiếu",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:03:08.879758"
+  "created_at": "2025-10-21T14:04:35.136256"
 }

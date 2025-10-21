@@ -5,22 +5,22 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 947440000000,
-  "current_price": 13000,
-  "outstanding_shares": 72880000,
+  "market_cap": 1259548600000,
+  "current_price": 11150,
+  "outstanding_shares": 112964000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Nhựa H&agrave; Nội (NHH) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Nhựa H&agrave; Nội trực thuộc Sở C&ocirc;ng nghiệp H&agrave; Nội, được th&agrave;nh lập v&agrave;o năm 1972. C&ocirc;ng ty hoạt động trong lĩnh vực sản xuất chế tạo c&aacute;c sản phẩm nhựa phục vụ cho ng&agrave;nh&nbsp;c&ocirc;ng nghiệp phụ trợ. NHH ch&iacute;nh thức chuyển đổi th&agrave;nh c&ocirc;ng ty cổ phần từ năm 2008. C&ocirc;ng ty đ&atilde; tham gia chuỗi cung cấp phụ t&ugrave;ng xe m&aacute;y cho c&aacute;c thương hiệu lớn như Honda, SYM, Ford Việt Nam từ những năm 1997. Đến nay, C&ocirc;ng ty đ&atilde; ph&aacute;t triển&nbsp;th&ecirc;m nhiều ng&agrave;nh h&agrave;ng như điện&nbsp; - điện tử, phụ t&ugrave;ng &ocirc; t&ocirc;, c&aacute;c linh kiện cho ng&agrave;nh x&acirc;y dựng, khu&ocirc;n mẫu ch&iacute;nh x&aacute;c, k&iacute;ch thước lớn cung cấp cho c&aacute;c c&ocirc;ng ty Panasonic, LG Việt Nam, Toyota Việt Nam v&agrave; c&aacute;c tập đo&agrave;n tại Nhật Bản (Lixil Group, Housetec, Hashimoto, Shoden Corp). NHH được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 11/2019.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.015625,
-  "volume": 447535,
-  "high_52w": 15305,
+  "price_change": -300,
+  "percent_price_change": -0.02620087,
+  "volume": 206800,
+  "high_52w": 14146,
   "low_52w": 9704,
-  "pe": 9.6833201394,
-  "pb": 0.8129063723,
-  "roe": 0.0735178186,
+  "pe": 9.524352023,
+  "pb": 0.7392295529,
+  "roe": 0.0736634543,
   "roa": 0.0494455606,
   "eps": 626.7522681208172,
-  "revenue": 636272288222,
+  "revenue": 636410152578,
   "net_profit": 70800443216,
   "dividend": 0,
   "shareholders": [
@@ -69,6 +69,10 @@
       "shareholder_percent": 2.9e-05
     },
     {
+      "shareholder_name": "Lâm Thị Hiền",
+      "shareholder_percent": 1.4e-05
+    },
+    {
       "shareholder_name": "Nguyễn Hạnh Dung",
       "shareholder_percent": 1e-05
     }
@@ -90,18 +94,13 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Hòa Thị Thu Hà",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Phạm Thị Thanh Hiền",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
-      "officer_name": "Mẫn Chí Trung",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Bùi Văn Hưởng",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -110,13 +109,18 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Trần Hoa Tùng",
-      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_name": "Hòa Thị Thu Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
-      "officer_name": "Bùi Văn Hưởng",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Mẫn Chí Trung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Hoa Tùng",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -126,5 +130,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:11:06.655079"
+  "created_at": "2025-10-21T14:16:06.719547"
 }

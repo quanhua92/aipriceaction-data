@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 7462163010000,
-  "current_price": 34500,
+  "market_cap": 6413134297000,
+  "current_price": 29650,
   "outstanding_shares": 216294580,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n PAN (PAN) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Xuy&ecirc;n Th&aacute;i B&igrave;nh, được th&agrave;nh lập v&agrave;o năm 1998. C&ocirc;ng ty nắm giữ cổ phần chi phối tại những c&ocirc;ng ty c&oacute; c&aacute;c uy t&iacute;n trong lĩnh vực n&ocirc;ng nghiệp, thủy sản, thực phẩm v&agrave; ph&acirc;n phối. Th&ocirc;ng qua c&aacute;c c&ocirc;ng ty con v&agrave; c&ocirc;ng ty li&ecirc;n kết, PAN cung cấp c&aacute;c sản phẩm về n&ocirc;ng nghiệp v&agrave; thực phẩm như giống c&acirc;y trồng, thủy hải sản, thực phẩm tiện lợi, thực phẩm h&agrave;ng ng&agrave;y, c&aacute;c sản phẩm n&ocirc;ng dược, khử tr&ugrave;ng, v&agrave; kiểm so&aacute;t dịch hại. Cổ phiếu của C&ocirc;ng ty (PAN) được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010. <!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p></p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -400,
-  "percent_price_change": -0.01146132,
-  "volume": 4203665,
+  "price_change": -2200,
+  "percent_price_change": -0.06907378,
+  "volume": 2370413,
   "high_52w": 35600,
-  "low_52w": 20400,
-  "pe": 10.5978260577,
-  "pb": 1.3713262534,
-  "roe": 0.1331096037,
-  "roa": 0.0288914423,
-  "eps": 670.152706609429,
-  "revenue": 4227449966050,
-  "net_profit": 139991382109,
-  "dividend": 0.0144927536,
+  "low_52w": 20102,
+  "pe": 9.4899923207,
+  "pb": 1.2358944789,
+  "roe": 0.1331893185,
+  "roa": 0.0288574558,
+  "eps": 665.5610183645114,
+  "revenue": 4192692249250,
+  "net_profit": 139032202541,
+  "dividend": 0.0162074554,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Chứng khoán SSI",
@@ -34,7 +34,7 @@
     },
     {
       "shareholder_name": "Công ty TNHH Ndh Việt Nam",
-      "shareholder_percent": 0.1076857642
+      "shareholder_percent": 0.10768576
     },
     {
       "shareholder_name": "The Asian Entrepreneur Legacy (TAEL)",
@@ -45,7 +45,7 @@
       "shareholder_percent": 0.0711
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Csc Việt Nam",
+      "shareholder_name": "Công ty Cổ phần CSC Việt Nam",
       "shareholder_percent": 0.0499
     },
     {
@@ -61,7 +61,7 @@
       "shareholder_percent": 0.0277
     },
     {
-      "shareholder_name": "Công Ty TNHH Một Thành Viên Nguyễn Sài Gòn",
+      "shareholder_name": "Công ty TNHH Nguyễn Sài Gòn",
       "shareholder_percent": 0.0176
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "officer_name": "Nguyễn Vũ Thùy Hương",
-      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị độc lập",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0.0007424
     },
     {
@@ -226,12 +226,12 @@
     },
     {
       "officer_name": "Phạm Viết Muôn",
-      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị độc lập",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
       "officer_percent": 0.0002693
     },
     {
       "officer_name": "Nguyễn Anh Tuấn",
-      "officer_position": "Người phụ trách quản trị công ty/Trưởng phòng Tài chính - Kế toán/Phụ trách Công bố thông tin",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán/Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
       "officer_percent": 0.0002514
     },
     {
@@ -251,5 +251,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:15:38.285035"
+  "created_at": "2025-10-21T14:17:21.044154"
 }

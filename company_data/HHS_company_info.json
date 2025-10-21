@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 7883743916000,
-  "current_price": 18250,
+  "market_cap": 7278963560800,
+  "current_price": 16850,
   "outstanding_shares": 431985968,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p align=\"left\">C&ocirc;ng ty Cổ phần đầu tư dịch vụ Ho&agrave;ng Huy (HHS)&nbsp;l&agrave; một th&agrave;nh vi&ecirc;n của Tập đo&agrave;n Ho&agrave;ng Huy (trước l&agrave; Cổ phần đầu tư dịch vụ t&agrave;i ch&iacute;nh Ho&agrave;ng Huy), c&oacute; lĩnh vực hoạt động ch&iacute;nh l&agrave;: nhập khẩu, ph&acirc;n phối &ocirc; t&ocirc; tải v&agrave; phụ t&ugrave;ng đi k&egrave;m. Ngo&agrave;i ra, c&ocirc;ng ty cũng tham gia kinh doanh bất động sản v&agrave; cho thu&ecirc; văn ph&ograve;ng. C&ocirc;ng ty l&agrave; nh&agrave; ph&acirc;n phối độc quyền sản phẩm &ocirc; t&ocirc; tải của nh&atilde;n hiệu Dongfeng &ndash; Hồ Bắc Trung Quốc, l&agrave; nh&agrave; sản xuất &ocirc; t&ocirc; c&oacute; doanh thu lớn thứ ba ở Trung Quốc. Sản phẩm ch&iacute;nh của c&ocirc;ng ty l&agrave; d&ograve;ng xe tải hạng trung v&agrave; hạng nặng nh&atilde;n hiệu Dongfeng, đặc biệt l&agrave; &ocirc; t&ocirc; tải 300 v&agrave; 375 m&atilde; lực, c&aacute;c loại xe &ocirc; t&ocirc; tải th&ugrave;ng phục vụ cho thị trường trong nước.&nbsp;Ng&agrave;y 15/02/2012, HHS ch&iacute;nh thức ni&ecirc;m yết cổ phiếu tr&ecirc;n Sở giao dịch Th&agrave;nh phố Hồ&nbsp;Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -300,
-  "percent_price_change": -0.01617251,
-  "volume": 8588165,
-  "high_52w": 19500,
+  "price_change": -1250,
+  "percent_price_change": -0.06906077,
+  "volume": 7657814,
+  "high_52w": 20200,
   "low_52w": 6870,
-  "pe": 1.843599879,
-  "pb": 0.8603380786,
-  "roe": 0.6267931484,
-  "roa": 0.393496063,
-  "eps": 8122.947536349144,
-  "revenue": 186341440899,
-  "net_profit": 3508999354503,
-  "dividend": 0.0547945205,
+  "pe": 1.8192979688,
+  "pb": 0.8622510115,
+  "roe": 0.6303659445,
+  "roa": 0.3962773653,
+  "eps": 8118.478269398324,
+  "revenue": 187751762891,
+  "net_profit": 3507068693893,
+  "dividend": 0.0555555556,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy",
@@ -61,19 +61,23 @@
       "shareholder_percent": 8.9e-06
     },
     {
+      "shareholder_name": "Hồ Thị Xuân Hòa",
+      "shareholder_percent": 4.5e-06
+    },
+    {
       "shareholder_name": "Bùi Thị Trà",
       "shareholder_percent": 9e-07
     }
   ],
   "officers": [
     {
-      "officer_name": "Nguyễn Trọng Cường",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Phùng Thị Thu Hương",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 8.9e-06
     },
     {
-      "officer_name": "Phùng Thị Thu Hương",
-      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_name": "Nguyễn Trọng Cường",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 8.9e-06
     },
     {
@@ -92,13 +96,13 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "ĐỖ HỮU HẠ",
-      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_name": "Nguyễn Thị Hà",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thị Hà",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Bùi Thị Hằng Nga",
+      "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
@@ -107,8 +111,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Bùi Thị Hằng Nga",
-      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_name": "Đỗ Hữu Hạ",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -123,5 +127,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:37.595312"
+  "created_at": "2025-10-21T14:11:00.410557"
 }

@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2340996000000,
-  "current_price": 4060,
+  "market_cap": 1839354000000,
+  "current_price": 3190,
   "outstanding_shares": 576600000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tư vấn - Thương mại - Dịch vụ Địa ốc Ho&agrave;ng Qu&acirc;n (HQC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Tư vấn - Thương mại - Dịch vụ&nbsp;Địa ốc Ho&agrave;ng Qu&acirc;n, được th&agrave;nh lập năm 2000. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản. HQC ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2007. HQC l&agrave; đơn vị ti&ecirc;n phong trong lĩnh vực đầu tư v&agrave; ph&aacute;t triển Nh&agrave; ở x&atilde; hội, Nh&agrave; ở cho c&ocirc;ng nh&acirc;n tại Th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave; c&aacute;c tỉnh th&agrave;nh ph&iacute;a Nam. B&ecirc;n cạnh đ&oacute;,&nbsp;HQC cũng đẩy mạnh đầu tư, hợp t&aacute;c đầu tư v&agrave;o c&aacute;c ph&acirc;n kh&uacute;c bất động sản thương mại kh&aacute;c như Nh&agrave; phố thương mại KDC Thường Thạnh (Cần Thơ), Khu đ&ocirc; thị HQC Paradise City, Cao ốc Officetel Golden King (TP. HCM), Khu c&ocirc;ng nghiệp H&agrave;m Kiệm I (B&igrave;nh Thuận). HQC c&ograve;n mở rộng đầu tư v&agrave;o lĩnh vực Gi&aacute;o dục v&agrave; T&agrave;i ch&iacute;nh. HQC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010.</div>\r\n",
   "website": null,
-  "price_change": -40,
-  "percent_price_change": -0.0097561,
-  "volume": 10347979,
+  "price_change": -240,
+  "percent_price_change": -0.06997085,
+  "volume": 10408243,
   "high_52w": 4290,
   "low_52w": 2540,
-  "pe": 82.578162399,
-  "pb": 0.4348423421,
-  "roe": 0.0052657172,
-  "roa": 0.0028099865,
-  "eps": 8.492689926626582,
-  "revenue": 22011081171,
-  "net_profit": 4896878846,
+  "pe": 71.2839008551,
+  "pb": 0.3663320148,
+  "roe": 0.005138568,
+  "roa": 0.0027423585,
+  "eps": 7.304321670026938,
+  "revenue": 12078749774,
+  "net_profit": 4211666572,
   "dividend": 0,
   "shareholders": [
     {
@@ -169,36 +169,6 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Lý Quang Minh",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trương Nguyễn Song Vân",
-      "officer_position": "Phó Tổng Giám đốc Tài chính",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Anh Tuấn",
-      "officer_position": "Phó Tổng Giám đốc Dự án",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Lê Tuyển Cử",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Hồng Phượng",
-      "officer_position": "Kế toán trưởng",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Văn Hảo",
-      "officer_position": "Giám đốc Tài chính",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Yu Trần Đan Phượng",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
@@ -209,7 +179,37 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Trần Anh Tuấn",
+      "officer_position": "Phó Tổng Giám đốc Dự án",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lý Quang Minh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Nguyễn Long Triều",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Hảo",
+      "officer_position": "Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trương Nguyễn Song Vân",
+      "officer_position": "Phó Tổng Giám đốc Tài chính",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Hồng Phượng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Tuyển Cử",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
@@ -230,5 +230,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:08:01.623472"
+  "created_at": "2025-10-21T14:11:35.247222"
 }

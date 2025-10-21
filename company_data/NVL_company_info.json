@@ -5,21 +5,21 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 35979428726100,
-  "current_price": 18450,
+  "market_cap": 30129115112100,
+  "current_price": 15450,
   "outstanding_shares": 1950104538,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Đầu tư Địa ốc Nova (Novaland) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại&nbsp;Th&agrave;nh Nhơn,&nbsp;được th&agrave;nh lập năm 1992. Hoạt&nbsp;động ch&iacute;nh của&nbsp;Novaland l&agrave; đầu tư, thi c&ocirc;ng x&acirc;y dựng v&agrave; kinh doanh bất&nbsp;động sản.&nbsp;Tập đo&agrave;n đ&atilde; v&agrave; đang triển khai hơn 40 dự &aacute;n nh&agrave;&nbsp;ở v&agrave;&nbsp;hơn 5&nbsp;dự&nbsp;&aacute;n&nbsp;bất&nbsp;động sản du lịch nghỉ dưỡng&nbsp;tại c&aacute;c vị tr&iacute; chiến lược của hầu hết c&aacute;c quận, huyện tại Th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave; c&aacute;c tỉnh l&acirc;n cận. Novaland được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) v&agrave;o th&aacute;ng 12/2016.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -50,
-  "percent_price_change": -0.0027027,
-  "volume": 36577437,
+  "price_change": -1150,
+  "percent_price_change": -0.06927711,
+  "volume": 70846920,
   "high_52w": 19300,
   "low_52w": 7880,
-  "pe": 217.2781675985,
-  "pb": 0.920711245,
+  "pe": 182.6622394595,
+  "pb": 0.8021645007,
   "roe": 0.0044556461,
   "roa": 0.00070223,
-  "eps": -82.33993142781969,
+  "eps": -78.41898234667727,
   "revenue": 1936653018314,
   "net_profit": -160571473936,
   "dividend": 0,
@@ -34,7 +34,7 @@
     },
     {
       "shareholder_name": "Công ty CP Diamond Properties",
-      "shareholder_percent": 0.08483
+      "shareholder_percent": 0.08079
     },
     {
       "shareholder_name": "Bùi Thành Nhơn",
@@ -73,12 +73,20 @@
       "shareholder_percent": 0.0102
     },
     {
-      "shareholder_name": "Bùi Cao Ngọc Quỳnh",
-      "shareholder_percent": 0.00397
+      "shareholder_name": "Trần Thị Thanh Vân",
+      "shareholder_percent": 0.00873
     },
     {
-      "shareholder_name": "Trần Thị Thanh Vân",
-      "shareholder_percent": 0.0038
+      "shareholder_name": "Dương Văn Bắc",
+      "shareholder_percent": 0.00718
+    },
+    {
+      "shareholder_name": "Cao Trần Duy Nam",
+      "shareholder_percent": 0.00512
+    },
+    {
+      "shareholder_name": "Bùi Cao Ngọc Quỳnh",
+      "shareholder_percent": 0.00397
     },
     {
       "shareholder_name": "Hoàng Thu Châu",
@@ -87,6 +95,10 @@
     {
       "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Tập Đoàn Đầu Tư Địa Ốc No Va",
       "shareholder_percent": 0.00202
+    },
+    {
+      "shareholder_name": "Bùi Đạt Chương",
+      "shareholder_percent": 0.00148
     },
     {
       "shareholder_name": "Phan Lê Hòa",
@@ -125,6 +137,10 @@
       "shareholder_percent": 1.109e-05
     },
     {
+      "shareholder_name": "Nguyễn Thuỳ Xuân Mai",
+      "shareholder_percent": 1e-05
+    },
+    {
       "shareholder_name": "Nguyễn Ngọc Huyên",
       "shareholder_percent": 1e-05
     },
@@ -141,8 +157,8 @@
       "shareholder_percent": 7e-06
     },
     {
-      "shareholder_name": "Cao Trần Duy Nam",
-      "shareholder_percent": 6.5e-06
+      "shareholder_name": "Huỳnh Văn Phước",
+      "shareholder_percent": 6e-06
     },
     {
       "shareholder_name": "Phạm Tiến Vân",
@@ -197,5 +213,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:15:30.228121"
+  "created_at": "2025-10-21T14:16:58.963581"
 }

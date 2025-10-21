@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 125848086675500,
-  "current_price": 24500,
+  "market_cap": 127389083655200,
+  "current_price": 24800,
   "outstanding_shares": 5136656599,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần &Aacute; Ch&acirc;u (ACB) được th&agrave;nh lập năm 1993. Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động, kinh doanh vốn v&agrave; cung cấp c&aacute;c dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. Năm 2024, so với c&ugrave;ng kỳ, Bi&ecirc;n l&atilde;i thuần (NIM) ở mức 3.6%, giảm 0.27%. Tỷ lệ nợ xấu ở mức 1.49%, tăng 0.28%. Tỷ lệ bao phủ nợ xấu ở mức 77.92%, giảm 13.25%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 16,8 ngh&igrave;n tỷ đồng, tăng 4.64%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 21.75%, giảm 3.05%. Ng&agrave;y 09/12/2020, ACB ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 250,
-  "percent_price_change": 0.01030928,
-  "volume": 22680616,
-  "high_52w": 24800,
+  "price_change": -950,
+  "percent_price_change": -0.0368932,
+  "volume": 33117732,
+  "high_52w": 29500,
   "low_52w": 17337,
-  "pe": 7.4136507965,
-  "pb": 1.4430361083,
+  "pe": 7.9583271815,
+  "pb": 1.5490550877,
   "roe": 0.2017246139,
   "roa": 0.0195870449,
   "eps": 950.259941641857,
   "revenue": 14298695000000,
   "net_profit": 4881159000000,
-  "dividend": 0.0408163265,
+  "dividend": 0.0380228137,
   "shareholders": [
     {
       "shareholder_name": "Vietnam Enterprise Investments Limited",
@@ -57,7 +57,7 @@
       "shareholder_percent": 0.01842
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Đầu Tư Thương Mại Giang Sen",
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Thương Mại Giang Sen",
       "shareholder_percent": 0.018
     },
     {
@@ -69,6 +69,10 @@
       "shareholder_percent": 0.01555
     },
     {
+      "shareholder_name": "NGUYỄN THIÊN HƯƠNG JENNY",
+      "shareholder_percent": 0.01344
+    },
+    {
       "shareholder_name": "Nguyễn Thiên Hương Jenny",
       "shareholder_percent": 0.01344
     },
@@ -77,7 +81,7 @@
       "shareholder_percent": 0.01311
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Đầu Tư Thương Mại Bách Thanh",
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Thương Mại Bách Thanh",
       "shareholder_percent": 0.01252
     },
     {
@@ -89,6 +93,10 @@
       "shareholder_percent": 0.0119
     },
     {
+      "shareholder_name": "NGUYỄN ĐỨC HIẾU JOHNNY",
+      "shareholder_percent": 0.01069
+    },
+    {
       "shareholder_name": "Nguyễn Đức Hiếu Johnny",
       "shareholder_percent": 0.01069
     },
@@ -97,7 +105,11 @@
       "shareholder_percent": 0.0103
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Đầu Tư Thương Mại Vân Môn",
+      "shareholder_name": "Employees Provident Fund Board",
+      "shareholder_percent": 0.01021
+    },
+    {
+      "shareholder_name": "Công ty Cổ phần Đầu Tư Thương Mại Vân Môn",
       "shareholder_percent": 0.0099
     },
     {
@@ -138,7 +150,7 @@
     },
     {
       "shareholder_name": "Phạm Trung Cang",
-      "shareholder_percent": 0.0017125445
+      "shareholder_percent": 0.00171254
     },
     {
       "shareholder_name": "Lê Vũ Kỳ",
@@ -185,7 +197,7 @@
       "shareholder_percent": 0.000528816
     },
     {
-      "shareholder_name": "Công ty CP Thương Mại Và Đầu Tư Huy Quân",
+      "shareholder_name": "Thương Mại Và Đầu Tư Huy Quân",
       "shareholder_percent": 0.0005
     },
     {
@@ -201,11 +213,11 @@
       "shareholder_percent": 0.000301
     },
     {
-      "shareholder_name": "Trần Phú Hòa",
+      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Thiên Việt",
       "shareholder_percent": 0.0003
     },
     {
-      "shareholder_name": "Công ty Cổ phần Quản Lý Quỹ Thiên Việt",
+      "shareholder_name": "Trần Phú Hòa",
       "shareholder_percent": 0.0003
     },
     {
@@ -221,11 +233,19 @@
       "shareholder_percent": 0.000217
     },
     {
-      "shareholder_name": "Nguyễn Thiện",
+      "shareholder_name": "Huỳnh Nghĩa Hiệp",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Bích Đào",
       "shareholder_percent": 0.0002
     },
     {
       "shareholder_name": "Phạm Thị Hường",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Nguyễn Thiện",
       "shareholder_percent": 0.0002
     },
     {
@@ -234,14 +254,6 @@
     },
     {
       "shareholder_name": "Huỳnh Hiếu Nghĩa",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Huỳnh Nghĩa Hiệp",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Nguyễn Thị Bích Đào",
       "shareholder_percent": 0.0002
     },
     {
@@ -273,7 +285,7 @@
       "shareholder_percent": 0.00010609
     },
     {
-      "shareholder_name": "Đặng Thị Hường",
+      "shareholder_name": "Bùi Thị Tuyết Loan",
       "shareholder_percent": 0.0001
     },
     {
@@ -289,11 +301,11 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Bùi Thị Tuyết Loan",
+      "shareholder_name": "Trần Thị Đoan Trinh",
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Trần Thị Đoan Trinh",
+      "shareholder_name": "Đặng Thị Hường",
       "shareholder_percent": 0.0001
     },
     {
@@ -327,10 +339,6 @@
     {
       "shareholder_name": "Phan Lạc Kim Trinh",
       "shareholder_percent": 2e-05
-    },
-    {
-      "shareholder_name": "Nguyễn Văn Hòa",
-      "shareholder_percent": 1.98778e-05
     },
     {
       "shareholder_name": "Nguyễn Thị Tuyết Vân",
@@ -467,5 +475,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:09:00.627625"
+  "created_at": "2025-10-21T14:00:23.010687"
 }

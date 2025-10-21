@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1336257442000,
-  "current_price": 5200,
+  "market_cap": 1120400470600,
+  "current_price": 4360,
   "outstanding_shares": 256972585,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư LDG (LDG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Địa ốc Long Điền được th&agrave;nh lập v&agrave;o năm 2010. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;đầu tư, ph&aacute;t triển v&agrave; kinh doanh bất động sản. C&ocirc;ng ty&nbsp;đ&atilde; triển khai&nbsp;đầu tư,&nbsp;ph&aacute;t triển v&agrave; kinh doanh c&aacute;c dự &aacute;n bất động sản v&agrave; du lịch sinh th&aacute;i với tổng diện t&iacute;ch tr&ecirc;n 400 ha ở Đồng Nai, Ph&uacute; Quốc, Bi&ecirc;n H&ograve;a, B&igrave;nh Dương. C&ocirc;ng ty c&oacute; quỹ đất lớn, nằm ở những vị tr&iacute; trọng điểm như khu vực tam gi&aacute;c ph&aacute;t triển nhất Việt Nam (TPHCM, Đồng Nai, B&igrave;nh Dương), khu du lịch hấp dẫn v&agrave; đẹp nhất tại Việt Nam (Ph&uacute; Quốc, Ki&ecirc;n Giang). LDG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 08/2015.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 10,
-  "percent_price_change": 0.00192678,
-  "volume": 6494159,
+  "price_change": -320,
+  "percent_price_change": -0.06837607,
+  "volume": 3168777,
   "high_52w": 7220,
   "low_52w": 1600,
-  "pe": -1.1446730559,
-  "pb": 1.1486282582,
-  "roe": -0.7975452069,
-  "roa": -0.1837549054,
-  "eps": -258.85928948404137,
+  "pe": -1.0058637517,
+  "pb": 1.0783287912,
+  "roe": -0.829276279,
+  "roa": -0.1900981363,
+  "eps": -408.85484702476333,
   "revenue": 8372208162,
-  "net_profit": -66168537053,
+  "net_profit": -104509778840,
   "dividend": 0,
   "shareholders": [
     {
@@ -131,7 +131,7 @@
     },
     {
       "officer_name": "Trịnh Quốc Nam",
-      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Trưởng Ban Kiểm toán nội bộ ",
       "officer_percent": 0
     },
     {
@@ -156,10 +156,10 @@
     },
     {
       "officer_name": "Lê Văn Vũ",
-      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:09:26.154240"
+  "created_at": "2025-10-21T14:13:47.856264"
 }

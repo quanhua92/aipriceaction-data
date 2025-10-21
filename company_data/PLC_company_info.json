@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2391645634400,
-  "current_price": 29600,
+  "market_cap": 2011891091100,
+  "current_price": 24900,
   "outstanding_shares": 80798839,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Ho&aacute; dầu Petrolimex - C&ocirc;ng ty Cổ phần (PLC)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Dầu nhờn th&agrave;nh lập năm 1994. Petrolimex chuy&ecirc;n kinh doanh c&aacute;c sản phẩm h&oacute;a dầu: Dầu mỡ nhờn, Nhựa đường, Dung m&ocirc;i h&oacute;a chất. C&ocirc;ng ty đ&atilde; tự nhập khẩu nguy&ecirc;n vật liệu v&agrave; sản xuất ra c&aacute;c sản phẩm mang thương hiệu PETROLIMEX - PLC đ&aacute;p ứng nhu cầu thị trường trong nước. Hiện nay c&ocirc;ng ty c&oacute; 2 nh&agrave; m&aacute;y sản xuất dầu nhờn c&oacute; tổng c&ocirc;ng suất l&agrave; 50.000 MT/năm, 5 kho nhựa đường c&oacute; c&oacute; sức chứa 17.000 m3, 2 kho h&oacute;a chất c&oacute; sức chứa 16.000 m3 được ph&acirc;n bổ trải đều từ Hải ph&ograve;ng, Đ&agrave; nẵng, Quy nhơn, S&agrave;i g&ograve;n, Cần thơ.&nbsp;C&ocirc;ng ty đang từng bước mở rộng xuất khẩu sang c&aacute;c nước như: L&agrave;o, Campuchia, Trung Quốc, Hong Kong, Đ&agrave;i Loan, Philippin. Ng&agrave;y 27/12/2006, PLC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 400,
-  "percent_price_change": 0.01369863,
-  "volume": 1260899,
+  "price_change": -2500,
+  "percent_price_change": -0.09124088,
+  "volume": 501488,
   "high_52w": 31700,
   "low_52w": 17269,
-  "pe": 25.4837132481,
-  "pb": 1.870261163,
+  "pe": 23.5035598539,
+  "pb": 1.7249368159,
   "roe": 0.0744330874,
   "roa": 0.0220053265,
   "eps": 438.8996584624839,
   "revenue": 2139637203726,
   "net_profit": 35462024122,
-  "dividend": 0.0405405405,
+  "dividend": 0.043956044,
   "shareholders": [
     {
       "shareholder_name": "Tập đoàn Xăng dầu Việt Nam",
@@ -46,7 +46,7 @@
     },
     {
       "shareholder_name": "Nguyễn Thanh Sơn",
-      "shareholder_percent": 0.0010709109
+      "shareholder_percent": 0.00107091
     },
     {
       "shareholder_name": "Ngô Đức Giang",
@@ -125,7 +125,7 @@
     },
     {
       "officer_name": "Phương Thảo Hiền",
-      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng",
       "officer_percent": 0.000233
     },
     {
@@ -175,5 +175,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:12:13.655581"
+  "created_at": "2025-10-21T14:18:02.127699"
 }

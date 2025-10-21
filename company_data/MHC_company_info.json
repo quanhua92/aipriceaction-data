@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 539106343200,
-  "current_price": 12400,
+  "market_cap": 569539765800,
+  "current_price": 13100,
   "outstanding_shares": 43476318,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần MHC (MHC), tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần H&agrave;ng hải H&agrave; Nội được th&agrave;nh lập theo Giấy ph&eacute;p số 3829/GP-UB do UBND Th&agrave;nh phố H&agrave; Nội cấp ng&agrave;y 17 th&aacute;ng 11 năm 1998, ch&iacute;nh thức đi v&agrave;o hoạt động l&agrave; năm 1999. MHC&nbsp;l&agrave; một trong những đơn vị h&agrave;ng đầu về thị phần vận tải đặc biệt dịch vụ vận tải đa phương thức. Cơ cấu hoạt động C&ocirc;ng ty chủ yếu tập trung v&agrave;o 2 mảng: kinh doanh dịch vụ vận tải đa phương thức v&agrave; kinh doanh cao ốc văn ph&ograve;ng cho thu&ecirc; (t&ograve;a nh&agrave; Ocean Park Building). So với c&aacute;c doanh nghiệp kh&aacute;c c&ugrave;ng ng&agrave;nh, C&ocirc;ng ty l&agrave; một trong những doanh nghiệp h&agrave;ng đầu về thị phần vận tải.&nbsp;C&ugrave;ng với hệ thống vận chuyển: Hơn 1000 container 20 feet v&agrave; h&agrave;ng trăm đầu k&eacute;o, đ&acirc;y l&agrave; điều kiện cần v&agrave; c&oacute; cho MHC thực hiện hoạt động kinh doanh của m&igrave;nh. Ng&agrave;y 21/03/2005, MHC ch&iacute;nh thức&nbsp;giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 780948,
-  "high_52w": 13000,
+  "price_change": -950,
+  "percent_price_change": -0.06761566,
+  "volume": 445491,
+  "high_52w": 16150,
   "low_52w": 5850,
-  "pe": 19.4065751943,
-  "pb": 0.9415791943,
+  "pe": 22.1454063709,
+  "pb": 1.0744633548,
   "roe": 0.0506476652,
   "roa": 0.0314519127,
   "eps": 855.7488658736902,
@@ -33,6 +33,10 @@
       "shareholder_percent": 0.1886
     },
     {
+      "shareholder_name": "Công ty Cổ Phần Bất Động Sản Peaceful Land",
+      "shareholder_percent": 0.1636
+    },
+    {
       "shareholder_name": "Võ Trung Cương",
       "shareholder_percent": 0.0646251964
     },
@@ -43,10 +47,6 @@
     {
       "shareholder_name": "Bùi Thu Nga",
       "shareholder_percent": 0.0518
-    },
-    {
-      "shareholder_name": "Nguyễn Quốc Việt",
-      "shareholder_percent": 0.0516399597
     },
     {
       "shareholder_name": "Công ty Cổ phần SCI",
@@ -177,22 +177,7 @@
     },
     {
       "officer_name": "Nguyễn Thị Thùy Linh",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Thị Thơm",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Huy Quảng",
-      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty/Kế toán trưởng",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Thị Nhiên",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -201,11 +186,26 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Nguyễn Thị Thơm",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Nguyễn Thúy Nga",
       "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Huy Quảng",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng/Người phụ trách quản trị công ty",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Nhiên",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:10:07.555278"
+  "created_at": "2025-10-21T14:14:48.223796"
 }

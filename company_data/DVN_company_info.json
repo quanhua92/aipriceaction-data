@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 5474700000000,
-  "current_price": 23100,
+  "market_cap": 4740000000000,
+  "current_price": 20000,
   "outstanding_shares": 237000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Dược Việt Nam (DVN) với tiền th&acirc;n l&agrave; Tổng C&ocirc;ng ty Dược&nbsp;được th&agrave;nh lập v&agrave;o ng&agrave;y 01/04/1971&nbsp;tr&ecirc;n cơ sở s&aacute;t nhập 03 cục trực thuộc Bộ y tế l&agrave; Cục ph&acirc;n phối dược phẩm, Cục dược liệu, Cục sản xuất. VINAPHARM chuy&ecirc;n kinh doanh dược phẩm, thực phẩm chức năng, thiết bị y tế, nghi&ecirc;n cứu v&agrave; ph&aacute;t triển khoa học c&ocirc;ng nghệ dược. Tổng C&ocirc;ng ty Dược Việt Nam ch&iacute;nh thức hoạt động dưới h&igrave;nh thức c&ocirc;ng ty cổ phần từ th&aacute;ng 12/2016. VINAPHARM hiện&nbsp;l&agrave; một trong 3 đơn vị được Bộ Y tế cho ph&eacute;p tiến h&agrave;nh nghi&ecirc;n cứu tương đương sinh học với&nbsp;năng lực nghi&ecirc;n cứu tương đương sinh học l&agrave; khoảng 20 nghi&ecirc;n cứu/năm. Ngo&agrave;i ra, Tổng C&ocirc;ng ty l&agrave; đơn vị đầu mối thực hiện c&aacute;c nhiệm vụ của Bộ Y tế để cung ứng thuốc trong c&aacute;c trường hợp khẩn cấp thi&ecirc;n tai, dịch bệnh.&nbsp;DVN được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 05/2017.</div>\r\n",
   "website": null,
   "price_change": -276,
-  "percent_price_change": -0.01189655,
-  "volume": 65320,
-  "high_52w": 30700,
-  "low_52w": 17600,
-  "pe": 17.8002196651,
-  "pb": 1.689935445,
-  "roe": 0.0944283061,
-  "roa": 0.0466491185,
-  "eps": 594.0070817974683,
-  "revenue": 1407613723892,
-  "net_profit": 140779678386,
+  "percent_price_change": -0.01333333,
+  "volume": 10210,
+  "high_52w": 29349,
+  "low_52w": 16826,
+  "pe": 16.2481340384,
+  "pb": 1.549107788,
+  "roe": 0.0948594096,
+  "roa": 0.046871047,
+  "eps": 600.0294564050633,
+  "revenue": 1407213636555,
+  "net_profit": 142206981168,
   "dividend": 0,
   "shareholders": [
     {
@@ -62,13 +62,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Phạm Thị Xuân Hương",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Đinh Xuân Hấn",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -78,7 +73,12 @@
     },
     {
       "officer_name": "Hàn Thị Khánh Vinh",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Thị Xuân Hương",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -93,5 +93,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:11:34.133452"
+  "created_at": "2025-10-21T14:07:23.286028"
 }

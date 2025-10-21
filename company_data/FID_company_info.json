@@ -5,8 +5,8 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 44488724400,
-  "current_price": 1800,
+  "market_cap": 42017128600,
+  "current_price": 1700,
   "outstanding_shares": 24715958,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Ph&aacute;t triển doanh nghiệp Việt Nam (FID)&nbsp;được th&agrave;nh lập năm 2010. Từ ng&agrave;y đầu th&agrave;nh lập đến năm 2013, C&ocirc;ng ty chủ yếu hoạt động m&ocirc;i giới bất động sản. Đến năm 2014, C&ocirc;ng ty mở rộng kinh doanh thương mại c&aacute;c mặt h&agrave;ng quặng kim loại, vật liệu x&acirc;y dựng v&agrave; đẩy mạnh dịch vụ m&ocirc; giới bất động sản, tư vấn t&aacute;i cấu tr&uacute;c doanh nghiệp. Hiện tại C&ocirc;ng ty đang nắm quyền kiểm so&aacute;t C&ocirc;ng ty con l&agrave; C&ocirc;ng ty cổ phần Đầu tư X&acirc;y lắp v&agrave; thương mại Việt Nam. Hoạt động ch&iacute;nh của C&ocirc;ng ty n&agrave;y l&agrave; lắp đặt hệ thống điện, m&aacute;y m&oacute;c, bu&ocirc;n b&aacute;n nguy&ecirc;n vật liệu x&acirc;y dựng. Doanh thu hoạt động thương mại chiếm tỷ trọng lớn trong cơ cấu doanh thu thuần c&aacute;c năm của C&ocirc;ng ty.</div>\r\n",
   "website": null,
@@ -15,8 +15,8 @@
   "volume": 0,
   "high_52w": 2400,
   "low_52w": 1200,
-  "pe": 144.4349619872,
-  "pb": 0.2038553849,
+  "pe": 136.4107974323,
+  "pb": 0.1925300858,
   "roe": 0.0013876042,
   "roa": 0.0008915057,
   "eps": -140.80083762077925,
@@ -34,15 +34,15 @@
     },
     {
       "shareholder_name": "Lê Đức Tự",
-      "shareholder_percent": 0.0454546266
-    },
-    {
-      "shareholder_name": "Bùi Đình Như",
-      "shareholder_percent": 0.0454546266
+      "shareholder_percent": 0.04545463
     },
     {
       "shareholder_name": "Hoàng Ngọc Chiến",
-      "shareholder_percent": 0.0454546266
+      "shareholder_percent": 0.04545463
+    },
+    {
+      "shareholder_name": "Bùi Đình Như",
+      "shareholder_percent": 0.04545463
     },
     {
       "shareholder_name": "Nguyễn Thị Thu",
@@ -57,6 +57,10 @@
       "shareholder_percent": 0.0285
     },
     {
+      "shareholder_name": "Nguyễn Tấn Bình",
+      "shareholder_percent": 0.0249
+    },
+    {
       "shareholder_name": "Trần Ngọc Xuân Trang",
       "shareholder_percent": 0.0237
     },
@@ -65,16 +69,8 @@
       "shareholder_percent": 0.0150834
     },
     {
-      "shareholder_name": "Phùng Thị Diệp Linh",
-      "shareholder_percent": 0.0106
-    },
-    {
       "shareholder_name": "Nguyễn Văn Thiện",
       "shareholder_percent": 0.0015
-    },
-    {
-      "shareholder_name": "Nguyễn Hải Hoàn",
-      "shareholder_percent": 0.001
     },
     {
       "shareholder_name": "Nguyễn Thị Hương",
@@ -82,6 +78,10 @@
     },
     {
       "shareholder_name": "Lê Thị Nhung",
+      "shareholder_percent": 0.001
+    },
+    {
+      "shareholder_name": "Nguyễn Hải Hoàn",
       "shareholder_percent": 0.001
     },
     {
@@ -153,5 +153,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:06:24.599521"
+  "created_at": "2025-10-21T14:08:23.737311"
 }

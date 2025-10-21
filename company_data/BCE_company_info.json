@@ -5,27 +5,27 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 414750000000,
-  "current_price": 11850,
+  "market_cap": 374500000000,
+  "current_price": 10700,
   "outstanding_shares": 35000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần X&acirc;y Dựng v&agrave; Giao Th&ocirc;ng B&igrave;nh Dương (BCE)&nbsp;được th&agrave;nh lập năm 2002. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;x&acirc;y dựng d&acirc;n dụng c&ocirc;ng nghiệp, giao th&ocirc;ng v&agrave; kinh doanh bất động sản. C&aacute;c hoạt động sản xuất kinh doanh của c&ocirc;ng ty chủ yếu diễn ra tại B&igrave;nh Dương.&nbsp;C&ocirc;ng ty đ&atilde; tham gia thi c&ocirc;ng th&agrave;nh&nbsp;c&ocirc;ng nhiều c&ocirc;ng tr&igrave;nh với tiến độ thi c&ocirc;ng đảm bảo v&agrave; chất lượng cao như: Trung t&acirc;m thương mại Mỹ Phước II, dự &aacute;n phố thương mại Rich Town tại th&agrave;nh phố mới B&igrave;nh Dương, Văn ph&ograve;ng Khu Li&ecirc;n Hợp Tỉnh B&igrave;nh Dương. So với c&aacute;c đơn vị c&ugrave;ng ng&agrave;nh c&oacute; thương hiệu mạnh như C&ocirc;ng ty CP X&acirc;y Dựng v&agrave; Đĩa ốc H&ograve;a B&igrave;nh, COTECCONS, Cơ kh&iacute; Hai Th&agrave;nh, Ti&ecirc;n Tiến, Đại Dũng, tr&igrave;nh độ khoa học kỹ thuật c&ocirc;ng nghệ của c&ocirc;ng ty đạt v&agrave;o hạng kh&aacute;. Trong lĩnh vực bất động sản, BCE đ&atilde; thực hiện th&agrave;nh c&ocirc;ng nhiều dự &aacute;n lớn như Trung t&acirc;m thương mại Mỹ Phước II, phố thương mại Rich Town...&nbsp;Ng&agrave;y 28/06/2010 BCE ch&iacute;nh thức giao dịch tại Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": -50,
-  "percent_price_change": -0.00420168,
-  "volume": 163428,
+  "price_change": -300,
+  "percent_price_change": -0.02727273,
+  "volume": 64601,
   "high_52w": 12300,
-  "low_52w": 5290,
-  "pe": 4.49249827,
-  "pb": 1.1003603659,
-  "roe": 0.2542613277,
-  "roa": 0.1417466127,
-  "eps": 185.86336282857144,
-  "revenue": 118152014480,
-  "net_profit": 6505217699,
-  "dividend": 0.0843881857,
+  "low_52w": 5500,
+  "pe": 4.2322748411,
+  "pb": 1.0056523099,
+  "roe": 0.2503545502,
+  "roa": 0.1402887884,
+  "eps": 159.02183857142856,
+  "revenue": 117973529093,
+  "net_profit": 5565764350,
+  "dividend": 0.0904977376,
   "shareholders": [
     {
-      "shareholder_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP",
+      "shareholder_name": "Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP",
       "shareholder_percent": 0.4442
     },
     {
@@ -35,6 +35,10 @@
     {
       "shareholder_name": "Lê Tuấn Dũ",
       "shareholder_percent": 0.0119596
+    },
+    {
+      "shareholder_name": "Lê Phan Minh Vũ",
+      "shareholder_percent": 0.0045583333
     },
     {
       "shareholder_name": "Đỗ Văn Minh",
@@ -69,11 +73,11 @@
       "shareholder_percent": 0.0003333333
     },
     {
-      "shareholder_name": "Quảng Văn Viết Cương",
+      "shareholder_name": "Lai Nhật Xuân Trang",
       "shareholder_percent": 0.0003
     },
     {
-      "shareholder_name": "Lai Nhật Xuân Trang",
+      "shareholder_name": "Quảng Văn Viết Cương",
       "shareholder_percent": 0.0003
     },
     {
@@ -160,5 +164,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:01:07.498758"
+  "created_at": "2025-10-21T14:01:41.967825"
 }

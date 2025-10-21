@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 3000000000000,
-  "current_price": 75000,
+  "market_cap": 2808000000000,
+  "current_price": 70200,
   "outstanding_shares": 40000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Ph&aacute;t triển Cảng Đ&igrave;nh Vũ được th&agrave;nh lập năm 2002 tr&ecirc;n cơ sở quyết định của Tổng Gi&aacute;m đốc Tổng C&ocirc;ng ty H&agrave;ng Hải Việt Nam.&nbsp;Hoạt động chủ yếu của c&ocirc;ng ty l&agrave; hoạt động khai th&aacute;c cảng biển v&agrave; xếp dỡ h&agrave;ng h&oacute;a, chiếm 90% tổng doanh thu h&agrave;ng năm. Cảng Đ&igrave;nh Vũ c&oacute; vị tr&iacute; địa l&yacute; thuận lợi, nằm trong khu c&ocirc;ng nghiệp Đ&igrave;nh Vũ, một khu vực trọng điểm kinh tế c&oacute; tốc độ ph&aacute;t triển nhanh ch&oacute;ng của Hải Ph&ograve;ng. Cảng l&agrave; đầu mối đưa đ&oacute;n h&agrave;ng xuất nhập khẩu của c&aacute;c doanh nghiệp trong khu c&ocirc;ng nghiệp. DVP được ni&ecirc;m yết tr&ecirc;n s&agrave;n Chứng kho&aacute;n th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ 2009.</div>\r\n",
   "website": null,
-  "price_change": 300,
-  "percent_price_change": 0.00401606,
-  "volume": 5850,
-  "high_52w": 83838,
-  "low_52w": 63831,
-  "pe": 9.3186976988,
-  "pb": 2.382734463,
-  "roe": 0.2296134345,
-  "roa": 0.20793779,
-  "eps": 1684.3801956,
-  "revenue": 148228595181,
-  "net_profit": 67375207824,
-  "dividend": 0.08,
+  "price_change": -300,
+  "percent_price_change": -0.00425532,
+  "volume": 15141,
+  "high_52w": 82706,
+  "low_52w": 62969,
+  "pe": 8.722301046,
+  "pb": 2.2302394573,
+  "roe": null,
+  "roa": null,
+  "eps": 2033.34842545,
+  "revenue": 129235433235,
+  "net_profit": 81333937018,
+  "dividend": 0.0854700855,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Cảng Hải Phòng",
@@ -89,16 +89,16 @@
       "shareholder_percent": 0.0005875
     },
     {
-      "shareholder_name": "Nguyễn Ngọc Hồng",
-      "shareholder_percent": 0.000535
-    },
-    {
       "shareholder_name": "Đặng Ngọc Kiển",
       "shareholder_percent": 0.00045
     },
     {
       "shareholder_name": "Bùi Chiến Thắng",
       "shareholder_percent": 0.0003875
+    },
+    {
+      "shareholder_name": "Nguyễn Ngọc Hồng",
+      "shareholder_percent": 0.0002675
     },
     {
       "shareholder_name": "Lê Thành Đỏ",
@@ -166,23 +166,8 @@
       "officer_percent": 0.0001
     },
     {
-      "officer_name": "Cao Văn Tĩnh",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Vũ Tuấn Dương",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Việt Hải",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Thị Thanh Hải",
-      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -191,8 +176,23 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Cao Văn Tĩnh",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Cao Xuân Hợp",
       "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Thanh Hải",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Việt Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -202,5 +202,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:05:17.024260"
+  "created_at": "2025-10-21T14:07:28.677681"
 }

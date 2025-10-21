@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 935718054900,
-  "current_price": 12700,
+  "market_cap": 806780527650,
+  "current_price": 10950,
   "outstanding_shares": 73678587,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Đầu tư Thương mại SMC (SMC),&nbsp;tiền th&acirc;n l&agrave; Cửa h&agrave;ng Vật Liệu X&acirc;y Dựng số 1 được th&agrave;nh lập v&agrave;o năm 1988. Năm 2004, chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. Sản phẩm kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; c&aacute;c loại th&eacute;p gồm th&eacute;p x&acirc;y dựng, th&eacute;p h&igrave;nh, th&eacute;p tấm, v&agrave; c&aacute;c loại vật liệu x&acirc;y dựng kh&aacute;c.&nbsp;C&ocirc;ng ty&nbsp;l&agrave; nh&agrave; ph&acirc;n phối chiến lược của c&aacute;c nh&agrave; sản xuất th&eacute;p lớn trong v&agrave; ngo&agrave;i nước như Pomina, Vinakyoei, th&eacute;p T&acirc;y Đ&ocirc;, th&eacute;p tấm l&aacute; Ph&uacute; Mỹ, t&ocirc;n Phương Nam v&agrave; Posco, với thị phần chiếm khoảng 5% so với cả nước v&agrave; khoảng 17% so với khu vực ph&iacute;a Nam. Hệ thống đại l&yacute;, cửa h&agrave;ng ph&acirc;n phối của C&ocirc;ng ty phủ khắp tr&ecirc;n địa b&agrave;n Th&agrave;nh phố Hồ Ch&iacute; Minh, H&agrave; Nội, B&igrave;nh Dương. Đ&agrave; Nẵng, Cần Thơ v&agrave; c&aacute;c tỉnh l&acirc;n cận, c&aacute;c cửa h&agrave;ng trong th&agrave;nh phố đa số nằm ở những vị tr&iacute; thuận lợi. Sản phẩm th&eacute;p của c&ocirc;ng ty gắn liền với c&aacute;c c&ocirc;ng tr&igrave;nh trọng điểm quốc gia như: Nh&agrave; m&aacute;y điện Ph&uacute; Mỹ, Thủy điện H&agrave;m Thuận-Đami, Cầu Mỹ Thuận, Nh&agrave; ga quốc tế T&acirc;n Sơn Nhất, Khu đ&ocirc; thị Ph&uacute; Mỹ Hưng. Ng&agrave;y 30/10/2006, SMC&nbsp;ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 436604,
-  "high_52w": 14100,
+  "price_change": -800,
+  "percent_price_change": -0.06808511,
+  "volume": 662685,
+  "high_52w": 16900,
   "low_52w": 5700,
-  "pe": -5.6376839876,
-  "pb": 1.1907694064,
-  "roe": -0.1992769804,
-  "roa": -0.0342929868,
-  "eps": -902.3455557939543,
-  "revenue": 1953316882927,
-  "net_profit": -66418802243,
+  "pe": -4.3021977472,
+  "pb": 1.1721778481,
+  "roe": -0.2474966095,
+  "roa": -0.0421850162,
+  "eps": -1415.6755895107951,
+  "revenue": 1950572125786,
+  "net_profit": -104203402362,
   "dividend": 0,
   "shareholders": [
     {
@@ -102,7 +102,7 @@
     },
     {
       "shareholder_name": "Đặng Huy Hiệp",
-      "shareholder_percent": 0.0028
+      "shareholder_percent": 0.003
     },
     {
       "shareholder_name": "Nguyễn Đức Dũng",
@@ -170,11 +170,11 @@
     },
     {
       "shareholder_name": "Trần Thụy Bích Hân",
-      "shareholder_percent": 7.74948e-05
+      "shareholder_percent": 7.749e-05
     },
     {
       "shareholder_name": "Võ Hữu Tuấn",
-      "shareholder_percent": 6.77698e-05
+      "shareholder_percent": 6.777e-05
     },
     {
       "shareholder_name": "Vũ Thị Thanh Quyên",
@@ -194,8 +194,8 @@
     },
     {
       "officer_name": "Nguyễn Ngọc Ý Nhi",
-      "officer_position": "Phó Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.019
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.032
     },
     {
       "officer_name": "Nguyễn Văn Tiến",
@@ -218,11 +218,6 @@
       "officer_percent": 0.0004
     },
     {
-      "officer_name": "Võ Thị Tố Ngân",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0.0002
-    },
-    {
       "officer_name": "Lê Thị Cẩm Tú",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0.0002
@@ -233,21 +228,26 @@
       "officer_percent": 0.0002
     },
     {
-      "officer_name": "Trương Văn Minh",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
+      "officer_name": "Võ Thị Tố Ngân",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0.0002
     },
     {
-      "officer_name": "Vũ Anh Nguyên",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Trương Văn Minh",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
       "officer_name": "Kishimoto  Hideki",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Vũ Anh Nguyên",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:19.113608"
+  "created_at": "2025-10-21T14:21:06.954898"
 }

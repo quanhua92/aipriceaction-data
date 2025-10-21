@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 883138716900,
-  "current_price": 10300,
+  "market_cap": 818832499650,
+  "current_price": 9550,
   "outstanding_shares": 85741623,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ Phần M&iacute;a Đường Lam Sơn (LSS) tiền th&acirc;n l&agrave; nh&agrave; m&aacute;y Đường Lam Sơn th&agrave;nh lập năm 1980. Năm 1999, C&ocirc;ng ty thực hiện cổ phần h&oacute;a v&agrave; đổi t&ecirc;n th&agrave;nh C&ocirc;ng ty Cổ phần M&iacute;a đường Lam Sơn. Hoạt động sản xuất kinh doanh ch&iacute;nh của Lasuco l&agrave; sản xuất đường, c&aacute;c sản phẩm n&ocirc;ng nghiệp c&ocirc;ng nghệ cao v&agrave; điện. C&ocirc;ng ty c&oacute; v&ugrave;ng nguy&ecirc;n liệu ổn định rộng nằm tr&ecirc;n khu vực rộng hơn 15.300 ha. C&ocirc;ng ty hiện&nbsp;sở hữu 2 nh&agrave; m&aacute;y đường, 1 nh&agrave; m&aacute;y điện, 1 x&iacute; nghiệp cơ kh&iacute; v&agrave; nh&agrave; m&aacute;y Lavina Food.&nbsp;Với v&ugrave;ng nguy&ecirc;n liệu m&iacute;a ổn định nằm tại c&aacute;c huyện ph&iacute;a T&acirc;y tỉnh Thanh H&oacute;a với diện t&iacute;ch m&iacute;a h&agrave;ng năm từ 14.500 - 15.000 ha, sản lượng v&agrave; chất lượng m&iacute;a&nbsp;đạt năng suất b&igrave;nh qu&acirc;n vụ đạt khoảng 70 tấn/ha. Ng&agrave;y 09/01/2008, LSS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -100,
-  "percent_price_change": -0.00961538,
-  "volume": 654570,
-  "high_52w": 11853,
+  "price_change": -410,
+  "percent_price_change": -0.04116466,
+  "volume": 330149,
+  "high_52w": 11450,
   "low_52w": 8470,
-  "pe": 7.6043536599,
-  "pb": 0.4942300822,
+  "pe": 7.4566963073,
+  "pb": 0.4846333816,
   "roe": 0.0661948101,
   "roa": 0.0361321431,
   "eps": 672.3891120535473,
@@ -26,7 +26,7 @@
   "shareholders": [
     {
       "shareholder_name": "Hiệp Hội Mía Đường Lam Sơn",
-      "shareholder_percent": 0.2222
+      "shareholder_percent": 0.2211
     },
     {
       "shareholder_name": "Công ty Cổ Phần Thương Mại Và Đầu Tư Thăng Long Hà Nội",
@@ -74,7 +74,7 @@
     },
     {
       "shareholder_name": "Lê Thanh Tùng",
-      "shareholder_percent": 0.00802929
+      "shareholder_percent": 0.00853
     },
     {
       "shareholder_name": "Lê Thu Thủy",
@@ -106,7 +106,7 @@
     },
     {
       "shareholder_name": "Hà Đức Chính",
-      "shareholder_percent": 0.0007856
+      "shareholder_percent": 0.0007846
     },
     {
       "shareholder_name": "Trần Quốc Vinh",
@@ -142,7 +142,7 @@
     },
     {
       "shareholder_name": "Lê Thị Tình",
-      "shareholder_percent": 0.0001293571
+      "shareholder_percent": 0.00012936
     },
     {
       "shareholder_name": "Phạm Văn Ngọc",
@@ -236,13 +236,13 @@
       "officer_percent": 0.0001
     },
     {
-      "officer_name": "Phùng Thanh Hải",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Đỗ Thị Thanh Hà",
+      "officer_position": "Kế toán trưởng/Trưởng phòng Tài chính - Kế toán",
       "officer_percent": 7e-05
     },
     {
-      "officer_name": "Đỗ Thị Thanh Hà",
-      "officer_position": "Trưởng phòng Tài chính - Kế toán/Kế toán trưởng",
+      "officer_name": "Phùng Thanh Hải",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 7e-05
     },
     {
@@ -272,5 +272,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:09:44.722462"
+  "created_at": "2025-10-21T14:14:10.258165"
 }

@@ -5,15 +5,15 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 836154159500,
-  "current_price": 8300,
+  "market_cap": 654819522500,
+  "current_price": 6500,
   "outstanding_shares": 100741465,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Lộc Trời (LTG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Bảo vệ thực vật An Giang, được th&agrave;nh lập v&agrave;o năm 1993. Tập đo&agrave;n hoạt động&nbsp;ch&iacute;nh trong lĩnh vực&nbsp;sản xuất thuốc bảo vệ c&acirc;y trồng, kinh doanh h&oacute;a chất, hạt giống v&agrave; bao b&igrave; giấy ở Việt Nam.&nbsp;LTG cũng tham gia v&agrave;o chế biến gạo cho xuất khẩu. Tập đo&agrave;n Lộc Trời chiếm hơn 20% thị phần ng&agrave;nh thuốc bảo vệ thực vật v&agrave; l&agrave; nh&agrave; ph&acirc;n phối hạt giống lớn thứ 2 tại Việt Nam. Hơn nữa,&nbsp;LTG đ&atilde; thiết lập mối quan hệ chặt chẽ với c&aacute;c c&ocirc;ng ty h&oacute;a chất n&ocirc;ng nghiệp quốc tế h&agrave;ng đầu như Syngenta (Thụy Sĩ), DEVI CropScience (Ấn Độ), ITOCHU (Nhật Bản) v&agrave; được chuyển giao c&ocirc;ng nghệ ti&ecirc;n tiến trong lĩnh vực sản phẩm bảo vệ thực vật từ c&aacute;c c&ocirc;ng ty n&agrave;y. LTG được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 07/2017.</div>\r\n",
   "website": null,
   "price_change": 0,
   "percent_price_change": 0,
   "volume": 0,
-  "high_52w": 18200,
+  "high_52w": 9800,
   "low_52w": 5800,
   "pe": 2644.1306142402,
   "pb": 0.7233783593,
@@ -171,5 +171,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:09:50.730306"
+  "created_at": "2025-10-21T14:14:15.652654"
 }

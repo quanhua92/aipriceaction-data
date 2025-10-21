@@ -5,28 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2032001320000,
-  "current_price": 20000,
+  "market_cap": 1483360963600,
+  "current_price": 14600,
   "outstanding_shares": 101600066,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu B&igrave;nh Thạnh (GIL)&nbsp;c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Cung ứng h&agrave;ng xuất khẩu quận B&igrave;nh Thạnh, được th&agrave;nh lập v&agrave;o ng&agrave;y 19/03/1982. GIL chuy&ecirc;n sản xuất v&agrave; xuất khẩu h&agrave;ng gia dụng v&agrave; h&agrave;ng may mặc.C&ocirc;ng ty hiện&nbsp;đang quản l&yacute; v&agrave; vận h&agrave;nh 52 d&acirc;y chuyền may của Nh&agrave; m&aacute;y may B&igrave;nh Thạnh, Nh&agrave; M&aacute;y may&nbsp;Thạnh Mỹ, Nh&agrave; m&aacute;y tại Huế.&nbsp;Đối với mặt h&agrave;ng gia dụng,&nbsp;GIL c&oacute; Nh&agrave; m&aacute;y sản xuất thiết bị chiếu s&aacute;ng v&agrave; chao&nbsp;đ&egrave;n với c&ocirc;ng suất 8.000 sản phẩm/ng&agrave;y v&agrave; 3.000 sản phẩm&nbsp;đ&egrave;n/ng&agrave;y. Thị trường xuất khẩu chủ yếu của c&ocirc;ng ty&nbsp;l&agrave; Ch&acirc;u &Acirc;u v&agrave;&nbsp;Mỹ.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -800,
-  "percent_price_change": -0.03846154,
-  "volume": 2075998,
+  "price_change": -600,
+  "percent_price_change": -0.03947368,
+  "volume": 445188,
   "high_52w": 23100,
   "low_52w": 13250,
-  "pe": 84.7446834702,
-  "pb": 0.8167106373,
-  "roe": 0.0096204842,
-  "roa": 0.007080301,
-  "eps": 28.21955693271968,
-  "revenue": 126021139906,
-  "net_profit": 2867000258,
-  "dividend": 0.0505050505,
+  "pe": -32.9174033507,
+  "pb": 0.6968980599,
+  "roe": -0.0206563269,
+  "roa": -0.014972126,
+  "eps": -696.0388610233503,
+  "revenue": 128933218150,
+  "net_profit": -70714915861,
+  "dividend": 0.0609756098,
   "shareholders": [
     {
       "shareholder_name": "Lê Hùng",
-      "shareholder_percent": 0.089
+      "shareholder_percent": 0.0891
     },
     {
       "shareholder_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre",
@@ -82,10 +82,10 @@
     },
     {
       "shareholder_name": "Công ty CP May Hàng Gia Dụng Gilimex-ppj",
-      "shareholder_percent": 0.0284
+      "shareholder_percent": 0.028
     },
     {
-      "shareholder_name": "Công Ty TNHH Một Thành Viên Nguyễn Sài Gòn",
+      "shareholder_name": "Công ty TNHH Nguyễn Sài Gòn",
       "shareholder_percent": 0.02518
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "shareholder_name": "Nguyễn Việt Cường",
-      "shareholder_percent": 0.0142
+      "shareholder_percent": 0.0139
     },
     {
       "shareholder_name": "Tổng Công ty Bến Thành - TNHH MTV",
@@ -153,7 +153,7 @@
       "shareholder_percent": 0.0005461561
     },
     {
-      "shareholder_name": "Phạm Thị Ánh Nguyệt",
+      "shareholder_name": "Hoàng Tiến Đạt",
       "shareholder_percent": 0.0005
     },
     {
@@ -161,12 +161,16 @@
       "shareholder_percent": 0.0004389
     },
     {
+      "shareholder_name": "Phạm Thị Ánh Nguyệt",
+      "shareholder_percent": 0.0004
+    },
+    {
       "shareholder_name": "Đào Sỹ Trung",
-      "shareholder_percent": 0.0003595079
+      "shareholder_percent": 0.00035951
     },
     {
       "shareholder_name": "Nguyễn Văn Luân",
-      "shareholder_percent": 0.000359077
+      "shareholder_percent": 0.00035908
     },
     {
       "shareholder_name": "Nguyễn Mạnh Hùng",
@@ -189,6 +193,10 @@
       "shareholder_percent": 7.18154e-05
     },
     {
+      "shareholder_name": "Đinh Thị Hậu",
+      "shareholder_percent": 4e-05
+    },
+    {
       "shareholder_name": "Công đoàn Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
       "shareholder_percent": 1e-05
     },
@@ -200,8 +208,8 @@
   "officers": [
     {
       "officer_name": "Lê Hùng",
-      "officer_position": "Phụ trách Công bố thông tin/Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.089
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0891
     },
     {
       "officer_name": "Nguyễn Hữu Phúc",
@@ -211,7 +219,7 @@
     {
       "officer_name": "Nguyễn Việt Cường",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0142
+      "officer_percent": 0.0139
     },
     {
       "officer_name": "Nguyễn Thị Minh Hiếu",
@@ -239,16 +247,16 @@
       "officer_percent": 0.000176
     },
     {
-      "officer_name": "Trần Thanh Tùng",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Đinh Thị Hậu",
       "officer_position": "Người phụ trách quản trị công ty",
+      "officer_percent": 4e-05
+    },
+    {
+      "officer_name": "Trần Thanh Tùng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:05.217724"
+  "created_at": "2025-10-21T14:09:39.070667"
 }

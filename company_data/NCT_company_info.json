@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2904530340000,
-  "current_price": 111000,
+  "market_cap": 2731828536000,
+  "current_price": 104400,
   "outstanding_shares": 26166940,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dịch vụ H&agrave;ng h&oacute;a Nội B&agrave;i (NCT), đơn vị th&agrave;nh vi&ecirc;n của Tổng C&ocirc;ng ty H&agrave;ng kh&ocirc;ng Việt Nam, được th&agrave;nh lập năm 2005. C&ocirc;ng ty l&agrave; doanh nghiệp hoạt động l&acirc;u đời nhất s&acirc;n bay Quốc tế Nội B&agrave;i v&agrave; c&oacute; mạng lưới kh&aacute;ch h&agrave;ng rộng lớn. Kh&aacute;ch h&agrave;ng của c&ocirc;ng ty NCT bao gồm hơn 30 h&atilde;ng h&agrave;ng kh&ocirc;ng trong v&agrave; ngo&agrave;i nước đang khai th&aacute;c tại s&acirc;n bay Quốc tế Nội B&agrave;i, tr&ecirc;n 400 c&ocirc;ng ty, đại l&yacute; giao nhận h&agrave;ng ho&aacute;.&nbsp;C&ocirc;ng ty cung cấp dịch vụ phục vụ h&agrave;ng h&oacute;a, xử l&yacute; h&agrave;ng h&oacute;a, lưu kho v&agrave; dịch vụ kh&aacute;c. Sản lượng h&agrave;ng th&ocirc;ng qua bao gồm thiết bị điện tử (40 - 45%), dệt may (25 - 30%). NCT được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</div>\r\n",
   "website": null,
-  "price_change": 500,
-  "percent_price_change": 0.00452489,
-  "volume": 8524,
-  "high_52w": 122000,
+  "price_change": -1300,
+  "percent_price_change": -0.01229896,
+  "volume": 14355,
+  "high_52w": 117900,
   "low_52w": 89600,
-  "pe": 9.6045241626,
-  "pb": 4.259353395,
-  "roe": 0.5159719207,
-  "roa": 0.4092475358,
-  "eps": 3263.362770817954,
-  "revenue": 280429229182,
-  "net_profit": 85388275680,
-  "dividend": 0.0720720721,
+  "pe": 9.0334443475,
+  "pb": 4.0060945445,
+  "roe": null,
+  "roa": null,
+  "eps": 4369.993244179066,
+  "revenue": 317598481991,
+  "net_profit": 114344072069,
+  "dividend": 0.0766283525,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Hàng không Việt Nam - CTCP",
@@ -33,7 +33,7 @@
       "shareholder_percent": 0.1202
     },
     {
-      "shareholder_name": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài",
+      "shareholder_name": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Việt Nam",
       "shareholder_percent": 0.0698
     },
     {
@@ -78,11 +78,11 @@
     },
     {
       "shareholder_name": "Phạm Hải Phong",
-      "shareholder_percent": 0.000128597
+      "shareholder_percent": 0.0001286
     },
     {
       "shareholder_name": "Đỗ Khắc Thanh",
-      "shareholder_percent": 0.000128597
+      "shareholder_percent": 0.0001286
     },
     {
       "shareholder_name": "Ngô Quang Huy",
@@ -94,7 +94,7 @@
     },
     {
       "shareholder_name": "Tạ Mạnh Hùng",
-      "shareholder_percent": 7.643e-06
+      "shareholder_percent": 7.64e-06
     },
     {
       "shareholder_name": "Đào Mạnh Kiên",
@@ -122,7 +122,7 @@
     },
     {
       "officer_name": "Đinh Văn Đình",
-      "officer_position": "Phụ trách Công bố thông tin/Trưởng phòng Tài chính - Kế toán/Kế toán trưởng",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng/Trưởng phòng Tài chính - Kế toán",
       "officer_percent": 1.9e-07
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "officer_name": "Nguyễn Xuân Phúc",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "officer_name": "Nguyễn Thị Thu Hà",
-      "officer_position": "Thành viên Ban kiểm soát/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -172,5 +172,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:10:49.052111"
+  "created_at": "2025-10-21T14:15:50.689549"
 }

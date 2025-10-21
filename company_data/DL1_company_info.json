@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 764899876800,
-  "current_price": 7200,
+  "market_cap": 573674907600,
+  "current_price": 5400,
   "outstanding_shares": 106236094,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Alpha Seven (DL1)&nbsp;tiền th&acirc;n l&agrave; Chi nh&aacute;nh Bến xe Li&ecirc;n tỉnh Đức Long Gia Lai được th&agrave;nh lập năm 2005 với&nbsp;hoạt động kinh doanh chủ yếu l&agrave; khai th&aacute;c,&nbsp;điều h&agrave;nh Bến xe Đức Long Gia Lai v&agrave;&nbsp;kinh doanh&nbsp;đ&aacute;. Hiện tại c&ocirc;ng ty đang điều h&agrave;nh Bến xe Đức Long Gia Lai, bến xe kh&aacute;ch duy nhất tại Th&agrave;nh Phố Pleiku v&agrave; bến xe kh&aacute;ch lớn nhất yếu tr&ecirc;n địa b&agrave;n tỉnh Gia Lai. C&ocirc;ng ty cũng&nbsp;đang thực hiện đầu tư v&agrave;o lĩnh vực mới l&agrave; năng lượng t&aacute;i tạo, th&ocirc;ng qua dự &aacute;n nh&agrave; m&aacute;y&nbsp;Điện gi&oacute; Ia Bo&ograve;ng - Chư P&ocirc;ng với sản lượng điện h&agrave;ng năm ước t&iacute;nh l&agrave; 130.640,9 kWh/ năm. Ng&agrave;y 10/03/2010, DL1 ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -100,
-  "percent_price_change": -0.01369863,
-  "volume": 2831040,
+  "price_change": -600,
+  "percent_price_change": -0.1,
+  "volume": 810278,
   "high_52w": 10000,
   "low_52w": 4800,
-  "pe": -42.529428801,
-  "pb": 0.6209753723,
-  "roe": -0.0144885846,
-  "roa": -0.006828666,
-  "eps": 9.016195192567979,
-  "revenue": 270444483357,
-  "net_profit": 957845360,
+  "pe": -23.6135519183,
+  "pb": 0.5203950304,
+  "roe": -0.0220481007,
+  "roa": -0.0103877511,
+  "eps": -80.01550342202906,
+  "revenue": 269853217944,
+  "net_profit": -8500534543,
   "dividend": 0,
   "shareholders": [
     {
@@ -41,8 +41,8 @@
       "shareholder_percent": 0.0572
     },
     {
-      "shareholder_name": "Nguyễn Thị Diễm",
-      "shareholder_percent": 0.0546
+      "shareholder_name": "Nguyễn Tường Cọt",
+      "shareholder_percent": 0.05717
     },
     {
       "shareholder_name": "America Limited Liability Company",
@@ -63,6 +63,10 @@
     {
       "shareholder_name": "Công ty TNHH Global Capital",
       "shareholder_percent": 0.0448
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Diễm",
+      "shareholder_percent": 0.0443
     },
     {
       "shareholder_name": "Võ Thị Việt Hà",
@@ -91,10 +95,6 @@
     {
       "shareholder_name": "Nguyễn Thị Lệ Hòa",
       "shareholder_percent": 0.0096
-    },
-    {
-      "shareholder_name": "Nguyễn Tường Cọt",
-      "shareholder_percent": 0.0095
     },
     {
       "shareholder_name": "Võ Châu Hoàng",
@@ -192,5 +192,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:04:23.604257"
+  "created_at": "2025-10-21T14:06:23.084197"
 }

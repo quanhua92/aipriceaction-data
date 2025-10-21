@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 280520962800,
-  "current_price": 9200,
+  "market_cap": 298815808200,
+  "current_price": 9800,
   "outstanding_shares": 30491409,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần SCI E&amp;C (SCI)&nbsp;được chuyển đổi từ C&ocirc;ng ty TNHH Một th&agrave;nh vi&ecirc;n Cơ kh&iacute; v&agrave; Sửa chữa S&ocirc;ng Đ&agrave; 9. Th&aacute;ng 05, 2010, C&ocirc;ng ty ch&iacute;nh thức&nbsp;hoạt&nbsp;động l&agrave;&nbsp;C&ocirc;ng ty Cổ phần vớ số vốn&nbsp;điều lệ ban&nbsp;đầu l&agrave; 50 tỷ&nbsp;đồng. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vự x&acirc;y lắp thi c&ocirc;ng cơ giới c&aacute;c c&ocirc;ng tr&igrave;nh thủy điện v&agrave; thủy lợi; X&acirc;y dựng c&aacute;c c&ocirc;ng tr&igrave;nh c&ocirc;ng nghiệp: Nh&agrave; m&aacute;y lọc dầu, xưởng h&oacute;a chất; Ph&aacute; dỡ mặt bằng... Doanh thu từ lĩnh vực x&acirc;y dựng c&ocirc;ng tr&igrave;nh thủy điện, thủy lợi chiếm khoảng 70-80% tổng doanh thu của C&ocirc;ng ty. C&ocirc;ng ty đ&atilde; tham gia x&acirc;y dựng Nh&agrave; m&aacute;y thủy điện Sơn La, thủy điện Lai Ch&acirc;u, thủy&nbsp;điện Xekaman 3, thủy điện Trung Sơn, thủy điện Nậm Kh&aacute;nh, Nhiệt điện Long Ph&uacute;, Nhiệt điện Vũng &Aacute;ng,. C&aacute;c c&ocirc;ng tr&igrave;nh giao th&ocirc;ng m&agrave; C&ocirc;ng ty đ&atilde; đảm nhận thi c&ocirc;ng bao gồm: C&ocirc;ng tr&igrave;nh đường giao th&ocirc;ng b&ecirc;n L&agrave;o; C&ocirc;ng tr&igrave;nh thủy điện Ca Nan v&agrave; Giao Th&ocirc;ng L&agrave;o...Tỷ trọng gi&aacute; trị sản lượng của lĩnh vực n&agrave;y chiếm khoảng 15 - 20% tổng sản lượng v&agrave; doanh thu trong qu&aacute; tr&igrave;nh ph&aacute;t triển của C&ocirc;ng ty. Ng&agrave;y 30/06/2014, SCI ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</div>\r\n",
   "website": null,
   "price_change": -100,
-  "percent_price_change": -0.01075269,
-  "volume": 60735,
-  "high_52w": 10400,
+  "percent_price_change": -0.01010101,
+  "volume": 66301,
+  "high_52w": 11900,
   "low_52w": 5700,
-  "pe": -16.9044499783,
-  "pb": 0.5782468685,
-  "roe": -0.0338362713,
-  "roa": -0.0104902552,
-  "eps": 267.1207187900041,
-  "revenue": 275913091593,
-  "net_profit": 8144887089,
-  "dividend": 0.0543478261,
+  "pe": -32.2684147597,
+  "pb": 0.60617057,
+  "roe": -0.0189732528,
+  "roa": -0.0060587466,
+  "eps": 256.9069829472295,
+  "revenue": 201287473256,
+  "net_profit": 7833455892,
+  "dividend": 0.0510204082,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần SCI",
@@ -37,12 +37,12 @@
       "shareholder_percent": 0.0534
     },
     {
-      "shareholder_name": "Nguyễn Đăng Lanh",
-      "shareholder_percent": 0.00412
+      "shareholder_name": "Đào Gia Thắng",
+      "shareholder_percent": 0.02184
     },
     {
-      "shareholder_name": "Đào Gia Thắng",
-      "shareholder_percent": 0.0021
+      "shareholder_name": "Nguyễn Đăng Lanh",
+      "shareholder_percent": 0.00412
     },
     {
       "shareholder_name": "Hoàng Công Tuấn",
@@ -81,11 +81,11 @@
       "shareholder_percent": 0.00074
     },
     {
-      "shareholder_name": "Quản Thanh Sơn",
+      "shareholder_name": "Trần Nhân Nghĩa",
       "shareholder_percent": 0.0005
     },
     {
-      "shareholder_name": "Trần Nhân Nghĩa",
+      "shareholder_name": "Quản Thanh Sơn",
       "shareholder_percent": 0.0005
     },
     {
@@ -109,13 +109,13 @@
       "officer_percent": 0.00084
     },
     {
-      "officer_name": "Nguyễn Công Hùng",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Nguyễn Cao Hải",
+      "officer_position": "Phó Giám đốc",
       "officer_percent": 0.0008
     },
     {
-      "officer_name": "Nguyễn Cao Hải",
-      "officer_position": "Phó Giám đốc",
+      "officer_name": "Nguyễn Công Hùng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0008
     },
     {
@@ -134,11 +134,6 @@
       "officer_percent": 0.0002
     },
     {
-      "officer_name": "NGUYỄN ĐỨC DUY",
-      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Lê Tuấn Anh",
       "officer_position": "Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0
@@ -149,26 +144,31 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Trần Thị Len",
-      "officer_position": "Trưởng Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Quách Thị Thanh Thủy",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
       "officer_name": "Cao Lữ Phi Hùng",
-      "officer_position": "Thành viên Ban kiểm soát/Kế toán trưởng/Người phụ trách quản trị công ty",
+      "officer_position": "Kế toán trưởng/Thành viên Ban kiểm soát/Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
       "officer_name": "NGUYỄN CHÍNH ĐẠI",
-      "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc điều hành/Phụ trách Công bố thông tin/Giám đốc",
+      "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị/Giám đốc điều hành/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Thị Len",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "NGUYỄN ĐỨC DUY",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:13:41.977320"
+  "created_at": "2025-10-21T14:20:04.700170"
 }

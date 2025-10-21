@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2302270560000,
-  "current_price": 20400,
+  "market_cap": 1895987520000,
+  "current_price": 16800,
   "outstanding_shares": 112856400,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty cổ phần Supe Phốt ph&aacute;t v&agrave; H&oacute;a chất L&acirc;m Thao (LAS), tiền th&acirc;n l&agrave; nh&agrave; m&aacute;y Supe Phốt ph&aacute;t L&acirc;m Thao,&nbsp;được&nbsp;h&igrave;nh th&agrave;nh năm 1962.&nbsp;C&ocirc;ng ty&nbsp;chuyển từ doanh nghiệp nh&agrave; nước sang m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần v&agrave;o năm 2010. Với kinh nghiệm l&acirc;u năm, hiện nay CTCP Supe Phốt ph&aacute;t v&agrave; H&oacute;a chất L&acirc;m Thao sản xuất hơn 50 loại ph&acirc;n b&oacute;n h&oacute;a chất, trong đ&oacute; chiếm tỷ trọng lớn nhất l&agrave;: supe l&acirc;n L&acirc;m Thao, NPK L&acirc;m Thao v&agrave; c&aacute;c loại axit Sunfuric. LAS&nbsp;l&agrave; c&ocirc;ng ty c&oacute; uy t&iacute;n l&acirc;u năm, c&oacute; mạng lưới kh&aacute;ch h&agrave;ng v&agrave; nh&agrave; cung cấp truyền thống, sản phẩm đa dạng v&agrave; thường xuy&ecirc;n được nghi&ecirc;n cứu ph&aacute;t triển, C&ocirc;ng ty&nbsp;đ&atilde;&nbsp;đạt&nbsp;được&nbsp;doanh thu v&agrave; lợi nhuận cao nhất Tập đo&agrave;n H&oacute;a chất Việt Nam trong nhiều năm liền. C&aacute;c c&ocirc;ng tr&igrave;nh&nbsp;lớn m&agrave; c&ocirc;ng ty thực hiện đầu tư: Dự &aacute;n đầu tư x&acirc;y dựng d&acirc;y chuyền sản xuất NPK số 4 c&ocirc;ng suất 150.000 tấn/năm, gi&aacute; trị thực hiện 7,011 tỷ đồng; Dự &aacute;n đầu tư hệ thống quan trắc kh&iacute; thải tự động, li&ecirc;n tục (tại d&acirc;y chuyền Axit số 1), gi&aacute; trị thực hiện 4,753 tỷ đồng; Đầu tư mua sắm xe x&uacute;c lật gi&aacute; trị thực hiện 2,017 tỷ đồng. Ng&agrave;y 01/03/2012, LAS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n H&agrave; Nội (HNX)</div>\r\n",
   "website": null,
-  "price_change": -100,
-  "percent_price_change": -0.00487805,
-  "volume": 1226591,
-  "high_52w": 24465,
+  "price_change": -600,
+  "percent_price_change": -0.03448276,
+  "volume": 283703,
+  "high_52w": 22252,
   "low_52w": 11742,
-  "pe": 13.3987926414,
-  "pb": 1.6081135821,
-  "roe": 0.1170516852,
-  "roa": 0.0664460281,
-  "eps": 453.5291653286832,
+  "pe": 11.6189400909,
+  "pb": 1.3951815896,
+  "roe": 0.1171150835,
+  "roa": 0.0664822937,
+  "eps": 454.37867775332194,
   "revenue": 1132423410865,
-  "net_profit": 51183668894,
+  "net_profit": 51279541808,
   "dividend": 0,
   "shareholders": [
     {
@@ -122,7 +122,7 @@
     },
     {
       "shareholder_name": "Nguyễn Văn Hiệu",
-      "shareholder_percent": 1.60602e-05
+      "shareholder_percent": 1.606e-05
     },
     {
       "shareholder_name": "Nguyễn Quốc An",
@@ -142,7 +142,7 @@
     },
     {
       "shareholder_name": "Nguyễn Văn Thiệu",
-      "shareholder_percent": 1.927e-07
+      "shareholder_percent": 1.9e-07
     }
   ],
   "officers": [
@@ -158,7 +158,7 @@
     },
     {
       "officer_name": "Nguyễn Thành Công",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 5.3e-05
     },
     {
@@ -208,5 +208,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:09:14.464938"
+  "created_at": "2025-10-21T14:13:37.162504"
 }

@@ -5,44 +5,44 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 12620656000000,
-  "current_price": 38600,
+  "market_cap": 9972280000000,
+  "current_price": 30500,
   "outstanding_shares": 326960000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Cảng Hải Ph&ograve;ng (PHP) c&oacute; tiền th&acirc;n l&agrave; Bến S&aacute;u Kho&nbsp;được thực d&acirc;n Ph&aacute;p x&acirc;y dựng v&agrave;o năm 1874. Năm 2014, C&ocirc;ng ty chuyển&nbsp;đổi m&ocirc; h&igrave;nh kinh doanh hoạt&nbsp;động l&agrave;&nbsp;một C&ocirc;ng ty Cổ phần.&nbsp;Hoạt động sản xuất ch&iacute;nh của c&ocirc;ng ty l&agrave; (i) Bốc xếp h&agrave;ng h&oacute;a, (ii) Cho thu&ecirc; kho b&atilde;i, văn ph&ograve;ng, v&agrave; (iii) Hoạt động lai dắt, hỗ trợ t&agrave;u biển, kinh doanh dịch vụ (đại l&yacute; t&agrave;u biển, m&ocirc;i giới h&agrave;ng hải, dịch vụ vận tải, c&acirc;n, đếm h&agrave;ng).&nbsp;PHP ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2014. C&ocirc;ng ty&nbsp;dẫn đầu thị trường khu vực ph&iacute;a Bắc (30% thị phần) v&agrave; đứng thứ 2 cả nước (9% thị phần), sau T&acirc;n Cảng S&agrave;i G&ograve;n (SNP). Hiện nay, PHP hiện c&oacute; 03 cảng ch&iacute;nh: Ho&agrave;ng Diệu, Ch&ugrave;a Vẽ v&agrave; T&acirc;n Vũ với tổng diện t&iacute;ch khoảng 2,1 triệu km2 v&agrave; c&oacute; cầu t&agrave;u d&agrave;i nhất (21 cầu t&agrave;u) với tổng chiều d&agrave;i gần 4.000m. To&agrave;n cảng hiện c&oacute; 19 cầu t&agrave;u với tổng chiều d&agrave;i l&agrave; 3.567m, bảo đảm an to&agrave;n với độ s&acirc;u trước bến thiết kế từ -7,5 m đến -9,4m. PHP được&nbsp;giao dịch tại Thị trường UPCoM từ&nbsp;Ng&agrave;y 14/09/2022.</div>\r\n",
   "website": null,
-  "price_change": -281,
-  "percent_price_change": -0.00722365,
-  "volume": 303517,
-  "high_52w": 59900,
-  "low_52w": 24300,
-  "pe": 16.1581755076,
-  "pb": 2.2120681989,
-  "roe": 0.1397676339,
-  "roa": 0.09109313,
-  "eps": 436.65513705346217,
-  "revenue": 658829854204,
-  "net_profit": 142768763611,
-  "dividend": 0.010357596,
+  "price_change": -575,
+  "percent_price_change": -0.0181962,
+  "volume": 94756,
+  "high_52w": 58894,
+  "low_52w": 23892,
+  "pe": 13.159389127,
+  "pb": 1.8946091458,
+  "roe": 0.1478914569,
+  "roa": 0.0962223963,
+  "eps": 580.9078601082701,
+  "revenue": 658497010944,
+  "net_profit": 189933633941,
+  "dividend": 0.011994003,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Hàng hải Việt Nam - CTCP",
       "shareholder_percent": 0.9256
     },
     {
-      "shareholder_name": "Công ty Cổ phần Bảo hiểm Petrolimex",
-      "shareholder_percent": 0.0022632737
+      "shareholder_name": "Công ty Cổ Phần Bảo Hiểm Petrolimex",
+      "shareholder_percent": 0.0022633
     },
     {
       "shareholder_name": "Công đoàn công ty cổ phần Cảng Hải Phòng",
-      "shareholder_percent": 0.0021409346
+      "shareholder_percent": 0.00214093
     },
     {
       "shareholder_name": "Nguyễn Hùng Việt",
-      "shareholder_percent": 7.79911e-05
+      "shareholder_percent": 7.799e-05
     },
     {
       "shareholder_name": "Bùi Chiến Thắng",
-      "shareholder_percent": 4.19011e-05
+      "shareholder_percent": 4.19e-05
     },
     {
       "shareholder_name": "Cao Trung Ngoan",
@@ -58,11 +58,11 @@
     },
     {
       "shareholder_name": "Phùng Xuân Hà",
-      "shareholder_percent": 1.10105e-05
+      "shareholder_percent": 1.101e-05
     },
     {
       "shareholder_name": "Trương Văn Thái",
-      "shareholder_percent": 1.03988e-05
+      "shareholder_percent": 1.04e-05
     },
     {
       "shareholder_name": "Phạm Thị Thu Hương",
@@ -211,5 +211,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:12:06.811527"
+  "created_at": "2025-10-21T14:17:49.563028"
 }

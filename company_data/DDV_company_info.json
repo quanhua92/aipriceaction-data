@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 4938514620000,
-  "current_price": 33800,
+  "market_cap": 5055402540000,
+  "current_price": 34600,
   "outstanding_shares": 146109900,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần DAP - Vinachem (DDV) được th&agrave;nh lập năm 2008, với ng&agrave;nh nghề kinh doanh ch&iacute;nh l&agrave; sản xuất ph&acirc;n b&oacute;n v&agrave; h&oacute;a chất cơ bản. C&aacute;c sản phẩm ch&iacute;nh của c&ocirc;ng ty bao gồm ph&acirc;n b&oacute;n DAP, axit sulfuric v&agrave; axit phốt phoric.&nbsp; C&ocirc;ng ty c&oacute; 01 nh&agrave; m&aacute;y sản xuất ph&acirc;n b&oacute;n DAP c&ocirc;ng suất 330.000 tấn/năm, nh&agrave; m&aacute;y sản xuất Axit Sulfuric (H2SO4) c&ocirc;ng suất 414.000 tấn/năm, nh&agrave; m&aacute;y sản xuất Axit Phốt phoric (H3PO4&not;) c&ocirc;ng suất 161.700 tấn/năm, nh&agrave; m&aacute;y nhiệt điện c&ocirc;ng suất 12 MW, v&agrave; nh&agrave; m&aacute;y xử l&yacute; nước thải c&ocirc;ng suất 40 m3/giờ. Từ năm 2015, DDV được giao dịch tr&ecirc;n thị trường UPCOM.</div>\r\n",
   "website": null,
-  "price_change": -608,
-  "percent_price_change": -0.01757225,
-  "volume": 2335168,
-  "high_52w": 35300,
+  "price_change": 417,
+  "percent_price_change": 0.01198276,
+  "volume": 2650464,
+  "high_52w": 36800,
   "low_52w": 12198,
-  "pe": 14.0693975752,
-  "pb": 2.609741457,
-  "roe": 0.1934882493,
-  "roa": 0.1472235925,
-  "eps": 1049.0847143759595,
-  "revenue": 1609647595686,
-  "net_profit": 153281662709,
+  "pe": 9.2984124416,
+  "pb": 2.4228250275,
+  "roe": 0.2873993475,
+  "roa": 0.2159303015,
+  "eps": 1513.2511032175096,
+  "revenue": 1403088003913,
+  "net_profit": 221100967366,
   "dividend": 0,
   "shareholders": [
     {
@@ -46,11 +46,11 @@
     },
     {
       "shareholder_name": "Cao Thị Hồng",
-      "shareholder_percent": 0.0020532489
+      "shareholder_percent": 0.00205325
     },
     {
       "shareholder_name": "Nguyễn Văn Sinh",
-      "shareholder_percent": 0.0013873119
+      "shareholder_percent": 0.00138731
     },
     {
       "shareholder_name": "Nguyễn Huyền Linh Phương",
@@ -82,11 +82,11 @@
     },
     {
       "shareholder_name": "Nguyễn Danh Sao",
-      "shareholder_percent": 2.39545e-05
+      "shareholder_percent": 2.395e-05
     },
     {
       "shareholder_name": "Lâm Thái Dương",
-      "shareholder_percent": 2.12169e-05
+      "shareholder_percent": 2.122e-05
     },
     {
       "shareholder_name": "Vũ Văn Bằng",
@@ -171,5 +171,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:03:50.757747"
+  "created_at": "2025-10-21T14:05:36.767069"
 }

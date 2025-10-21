@@ -5,48 +5,84 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 17373611918000,
-  "current_price": 26000,
+  "market_cap": 15235321220400,
+  "current_price": 22800,
   "outstanding_shares": 668215843,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Dịch vụ T&agrave;i ch&iacute;nh Ho&agrave;ng Huy (TCH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại Ho&agrave;ng Huy, được th&agrave;nh lập v&agrave;o th&aacute;ng 10/1995. TCH chuy&ecirc;n hoạt động trong lĩnh vực đầu tư kinh doanh bất động sản v&agrave;&nbsp;lắp r&aacute;p ph&acirc;n phối xe &ocirc; t&ocirc; đầu k&eacute;o.&nbsp;TCH hiện đang l&agrave;&nbsp;nh&agrave;&nbsp;ph&acirc;n phối ch&iacute;nh h&atilde;ng xe tải thương hiệu International của h&atilde;ng Navistar (Hoa Kỳ) v&agrave;&nbsp;c&aacute;c d&ograve;ng xe&nbsp;Dongfeng (Trung Quốc) tại thị trường Việt Nam. C&ocirc;ng ty đ&atilde; x&acirc;y dựng hệ thống ph&acirc;n phối xe tải với&nbsp;hơn 25 đại l&yacute; tr&ecirc;n to&agrave;n quốc.&nbsp;Trong lĩnh vực đầu tư kinh doanh bất động sản, TCH đ&atilde; triển khai&nbsp;thực hiện&nbsp;nhiều dự &aacute;n quy m&ocirc;&nbsp;lớn&nbsp;như&nbsp;Hoang Huy Commerce, Hoang Huy New&nbsp;City, Hoang Huy Green River, ....&nbsp;TCH được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Dịch vụ T&agrave;i ch&iacute;nh Ho&agrave;ng Huy (TCH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại Ho&agrave;ng Huy, được th&agrave;nh lập v&agrave;o th&aacute;ng 10/1995. TCH chuy&ecirc;n hoạt động trong lĩnh vực đầu tư kinh doanh bất động sản v&agrave;&nbsp;lắp r&aacute;p ph&acirc;n phối xe &ocirc; t&ocirc; đầu k&eacute;o.&nbsp;TCH hiện đang l&agrave;&nbsp;nh&agrave;&nbsp;ph&acirc;n phối ch&iacute;nh h&atilde;ng xe tải thương hiệu International của h&atilde;ng Navistar (Hoa Kỳ) v&agrave;&nbsp;c&aacute;c d&ograve;ng xe&nbsp;Dongfeng (Trung Quốc) tại thị trường Việt Nam. C&ocirc;ng ty đ&atilde; x&acirc;y dựng hệ thống ph&acirc;n phối xe tải với&nbsp;hơn 25 đại l&yacute; tr&ecirc;n to&agrave;n quốc.&nbsp;Trong lĩnh vực đầu tư kinh doanh bất động sản, TCH đ&atilde; triển khai&nbsp;thực hiện&nbsp;nhiều dự &aacute;n quy m&ocirc;&nbsp;lớn&nbsp;như&nbsp;Hoang Huy Commerce, Hoang Huy New&nbsp;City, Hoang Huy Green River, ....&nbsp;TCH được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>",
   "website": null,
-  "price_change": 650,
-  "percent_price_change": 0.02564103,
-  "volume": 14326840,
-  "high_52w": 27050,
-  "low_52w": 13300,
-  "pe": 23.1075266558,
-  "pb": 1.879989576,
+  "price_change": -1700,
+  "percent_price_change": -0.06938776,
+  "volume": 14595420,
+  "high_52w": 26250,
+  "low_52w": 11457,
+  "pe": 22.2949647238,
+  "pb": 1.9079179815,
   "roe": 0.0795469909,
   "roa": 0.0496892975,
-  "eps": 56.677713166702034,
+  "eps": 43.59824094263323,
   "revenue": 390355429992,
   "net_profit": 37872945883,
-  "dividend": 0.0384615385,
+  "dividend": 0.04048583,
   "shareholders": [
     {
-      "shareholder_name": "ĐỖ HỮU HẠ",
-      "shareholder_percent": 0.39226991
+      "shareholder_name": "Đỗ Hữu Hạ",
+      "shareholder_percent": 0.3017
+    },
+    {
+      "shareholder_name": "CÔNG TY CỔ PHẦN HH FINANCE",
+      "shareholder_percent": 0.0581
     },
     {
       "shareholder_name": "Nguyễn Thị Hà",
-      "shareholder_percent": 0.0488823
+      "shareholder_percent": 0.0489
     },
     {
       "shareholder_name": "Trần Thị Hoàng Hà",
       "shareholder_percent": 0.0346
     },
     {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.014627
+    },
+    {
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.012992
+    },
+    {
       "shareholder_name": "Hoàng Thị Huyên",
-      "shareholder_percent": 0.0098311
+      "shareholder_percent": 0.0098
+    },
+    {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.007561
+    },
+    {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.006761
     },
     {
       "shareholder_name": "Đỗ Thị Huyền Trang",
-      "shareholder_percent": 0.00606253
+      "shareholder_percent": 0.0061
     },
     {
       "shareholder_name": "Đỗ Hữu Hưng",
-      "shareholder_percent": 0.0037891
+      "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Saigon Investments Limited",
+      "shareholder_percent": 0.003218
+    },
+    {
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.002828
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.001394
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.001151
     },
     {
       "shareholder_name": "Quỹ ETF SSIAM VNX50",
@@ -85,14 +121,6 @@
       "shareholder_percent": 6.8e-07
     },
     {
-      "shareholder_name": "Trần Thu Minh Duyên",
-      "shareholder_percent": 4.9e-07
-    },
-    {
-      "shareholder_name": "Phùng Thị Dung",
-      "shareholder_percent": 4.9e-07
-    },
-    {
       "shareholder_name": "Phùng Thị Hồng Hòa",
       "shareholder_percent": 4.9e-07
     },
@@ -101,23 +129,31 @@
       "shareholder_percent": 4.9e-07
     },
     {
+      "shareholder_name": "Trần Thu Minh Duyên",
+      "shareholder_percent": 4.9e-07
+    },
+    {
+      "shareholder_name": "Phùng Thị Dung",
+      "shareholder_percent": 4.9e-07
+    },
+    {
+      "shareholder_name": "Bùi Sỹ Tiến",
+      "shareholder_percent": 4.5e-07
+    },
+    {
       "shareholder_name": "Trần Thị Bích Thủy",
       "shareholder_percent": 4.5e-07
     },
     {
       "shareholder_name": "Nguyễn Công Hoan",
       "shareholder_percent": 4.5e-07
-    },
-    {
-      "shareholder_name": "Bùi Sỹ Tiến",
-      "shareholder_percent": 4.5e-07
     }
   ],
   "officers": [
     {
-      "officer_name": "ĐỖ HỮU HẠ",
+      "officer_name": "Đỗ Hữu Hạ",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.39226991
+      "officer_percent": 0.3017
     },
     {
       "officer_name": "Nguyễn Thị Hà",
@@ -131,8 +167,8 @@
     },
     {
       "officer_name": "Đỗ Hữu Hưng",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0037891
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_percent": 0.0038
     },
     {
       "officer_name": "Phùng Thị Thu Hương",
@@ -160,8 +196,8 @@
       "officer_percent": 1e-06
     },
     {
-      "officer_name": "Phan Thị Phương Thủy",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_name": "Phạm Hồng Dung",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -180,16 +216,16 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Phạm Hồng Dung",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Nguyễn Thị Hải Yến",
+      "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thị Hải Yến",
-      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_name": "Phan Thị Phương Thủy",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:18:32.738025"
+  "created_at": "2025-10-21T14:21:53.864483"
 }

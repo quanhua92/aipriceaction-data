@@ -5,36 +5,36 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 6334825140000,
-  "current_price": 15800,
+  "market_cap": 6495200460000,
+  "current_price": 16200,
   "outstanding_shares": 400938300,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Thủy sản Minh Ph&uacute; (MPC) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp cung ứng h&agrave;ng xuất khẩu Minh Ph&uacute;,&nbsp;được&nbsp;th&agrave;nh lập năm 1992. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực chế biến kinh doanh xuất&nbsp;khẩu thủy sản với mặt h&agrave;ng ch&iacute;nh l&agrave; t&ocirc;m đ&ocirc;ng lạnh.&nbsp;MPC ch&iacute;nh thức chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần từ năm 2006.&nbsp;C&ocirc;ng ty l&agrave; doanh nghiệp thủy sản đầu ti&ecirc;n trong nước được c&ocirc;ng nhận ti&ecirc;u chuẩn Global Gap. MPC l&agrave; doanh nghiệp&nbsp;xuất khẩu thủy sản c&oacute; kim ngạch xuất khẩu lớn nhất trong tất cả c&aacute;c doanh nghiệp xuất khẩu thủy sản của&nbsp;Việt Nam. Từ năm những năm&nbsp;2000, C&ocirc;ng ty&nbsp;đ&atilde; vươn l&ecirc;n&nbsp;đứng v&agrave;&nbsp;giữ vững vị tr&iacute; n&agrave;y trong nhiều năm. MPC được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 10/2017.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -99,
-  "percent_price_change": -0.00630573,
-  "volume": 461235,
-  "high_52w": 17400,
+  "price_change": -443,
+  "percent_price_change": -0.02751553,
+  "volume": 104355,
+  "high_52w": 17800,
   "low_52w": 8800,
-  "pe": -261.5179015479,
-  "pb": 1.2475672441,
-  "roe": -0.0048270086,
-  "roa": -0.0025057378,
-  "eps": 401.22078004022063,
+  "pe": -224.7783536108,
+  "pb": 1.3073216549,
+  "roe": -0.0058802394,
+  "roa": -0.0030521385,
+  "eps": 388.0822604682705,
   "revenue": 3629253259113,
-  "net_profit": 160864777474,
+  "net_profit": 155657078098,
   "dividend": 0,
   "shareholders": [
     {
       "shareholder_name": "Mpm Investments Pte., Ltd.",
-      "shareholder_percent": 0.3511
+      "shareholder_percent": 0.3502
     },
     {
       "shareholder_name": "Chu Thị Bình",
-      "shareholder_percent": 0.17550001
+      "shareholder_percent": 0.17545
     },
     {
       "shareholder_name": "Lê Văn Quang",
-      "shareholder_percent": 0.16079
+      "shareholder_percent": 0.16076
     },
     {
       "shareholder_name": "Vietnam Investment Limited",
@@ -55,10 +55,6 @@
     {
       "shareholder_name": "Công ty Cổ Phần Đầu Tư Long Phụng",
       "shareholder_percent": 0.0409
-    },
-    {
-      "shareholder_name": "Lê Thị Dịu Minh",
-      "shareholder_percent": 0.03274
     },
     {
       "shareholder_name": "Công ty Cổ phần Đầu tư Minh Phú",
@@ -86,7 +82,7 @@
     },
     {
       "shareholder_name": "Chu Hồng Hà",
-      "shareholder_percent": 0.00077
+      "shareholder_percent": 0.0008
     },
     {
       "shareholder_name": "Bùi Anh Dũng",
@@ -94,7 +90,7 @@
     },
     {
       "shareholder_name": "Lê Ngọc Anh",
-      "shareholder_percent": 0.00065
+      "shareholder_percent": 0.00066
     },
     {
       "shareholder_name": "Nguyễn Văn Di",
@@ -110,7 +106,7 @@
     },
     {
       "shareholder_name": "Lê Thị Thúy",
-      "shareholder_percent": 0.00012
+      "shareholder_percent": 0.00013
     },
     {
       "shareholder_name": "Nguyễn Thị Huyền Trân",
@@ -125,16 +121,16 @@
       "shareholder_percent": 8e-05
     },
     {
-      "shareholder_name": "Nguyễn Quốc Toàn",
-      "shareholder_percent": 7.30323e-05
+      "shareholder_name": "Nguyễn Hoàng Liêm",
+      "shareholder_percent": 8e-05
     },
     {
       "shareholder_name": "Đinh Thị Ánh Tuyết",
       "shareholder_percent": 7.30323e-05
     },
     {
-      "shareholder_name": "Nguyễn Hoàng Liêm",
-      "shareholder_percent": 7e-05
+      "shareholder_name": "Nguyễn Quốc Toàn",
+      "shareholder_percent": 7.30323e-05
     },
     {
       "shareholder_name": "Ngô Thanh Hà",
@@ -169,12 +165,12 @@
     {
       "officer_name": "Chu Thị Bình",
       "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
-      "officer_percent": 0.17550001
+      "officer_percent": 0.17545
     },
     {
       "officer_name": "Lê Văn Quang",
       "officer_position": "Tổng Giám đốc",
-      "officer_percent": 0.16079
+      "officer_percent": 0.16076
     },
     {
       "officer_name": "Lê Thị Dịu Minh",
@@ -184,7 +180,7 @@
     {
       "officer_name": "Chu Hồng Hà",
       "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.00077
+      "officer_percent": 0.0008
     },
     {
       "officer_name": "Bùi Anh Dũng",
@@ -194,7 +190,7 @@
     {
       "officer_name": "Lê Ngọc Anh",
       "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.00065
+      "officer_percent": 0.00066
     },
     {
       "officer_name": "Thái Hoàng Hùng",
@@ -203,7 +199,7 @@
     },
     {
       "officer_name": "Lê Văn Điệp",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.00018
     },
     {
@@ -222,22 +218,22 @@
       "officer_percent": 2.19e-06
     },
     {
-      "officer_name": "Suzuki Yoshiaki",
-      "officer_position": "Phó Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Nhân Nghĩa",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Hồ Thu Lê",
       "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
     {
       "officer_name": "Phan Thanh Lộc",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Văn Khánh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Nhân Nghĩa",
       "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
@@ -257,16 +253,16 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Tsukahara Keiichi",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Suzuki Yoshiaki",
+      "officer_position": "Phó Giám đốc",
       "officer_percent": 0
     },
     {
-      "officer_name": "Trần Văn Khánh",
-      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_name": "Tsukahara Keiichi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:37.296960"
+  "created_at": "2025-10-21T14:14:58.905548"
 }

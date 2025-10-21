@@ -5,25 +5,29 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 49167367078000,
-  "current_price": 38000,
+  "market_cap": 42309813248700,
+  "current_price": 32700,
   "outstanding_shares": 1293878081,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tập đo&agrave;n Xăng dầu Việt Nam (PLX) c&oacute; tiền th&acirc;n Tổng C&ocirc;ng ty Xăng Dầu Việt Nam, được th&agrave;nh lập v&agrave;o năm 1995. Lĩnh vực kinh doanh ch&iacute;nh của Petrolimex l&agrave; xuất nhập khẩu v&agrave; kinh doanh xăng dầu, lọc - h&oacute;a dầu, đầu tư. Với mạng lưới ph&acirc;n phối gồm 4.365&nbsp;cửa h&agrave;ng bao gồm&nbsp;trạm b&aacute;n lẻ của Petrolimex v&agrave; c&aacute;c&nbsp;đại l&yacute; tr&ecirc;n to&agrave;n quốc, Petrolimex l&agrave; nh&agrave; cung cấp lớn nhất tất cả c&aacute;c loại sản phẩm xăng dầu tr&ecirc;n thị trường nội địa. B&ecirc;n cạnh đ&oacute;, Petrolimex cũng hoạt động tr&ecirc;n c&aacute;c lĩnh vực kinh doanh kh&aacute;c như bảo hiểm, ng&acirc;n h&agrave;ng, giao th&ocirc;ng vận tải với c&aacute;c thương hiệu như PLC, PGC, PG TANKER, PJJICO. PLX được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2017.</div>\r\n",
   "website": null,
-  "price_change": -500,
-  "percent_price_change": -0.01298701,
-  "volume": 3549439,
-  "high_52w": 50025,
+  "price_change": -850,
+  "percent_price_change": -0.02533532,
+  "volume": 2225022,
+  "high_52w": 43107,
   "low_52w": 29947,
-  "pe": 23.8045049825,
-  "pb": 1.9299382758,
-  "roe": 0.0790457152,
-  "roa": 0.0254402689,
-  "eps": 1010.3403003080685,
-  "revenue": 77083481942676,
-  "net_profit": 1283730540279,
-  "dividend": 0.0263157895,
+  "pe": 20.2238566726,
+  "pb": 1.7041972626,
+  "roe": 0.0822409149,
+  "roa": 0.026490644,
+  "eps": 1075.4079867920805,
+  "revenue": 76568084039970,
+  "net_profit": 1366405037475,
+  "dividend": 0.0297619048,
   "shareholders": [
+    {
+      "shareholder_name": "Bộ Tài Chính",
+      "shareholder_percent": 0.759
+    },
     {
       "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
       "shareholder_percent": 0.7587
@@ -145,15 +149,7 @@
       "shareholder_percent": 8.9e-07
     },
     {
-      "shareholder_name": "Lê Huy Hiệp",
-      "shareholder_percent": 8e-07
-    },
-    {
       "shareholder_name": "Vương Thái Dũng",
-      "shareholder_percent": 8e-07
-    },
-    {
-      "shareholder_name": "Nguyễn Thu Trang",
       "shareholder_percent": 8e-07
     },
     {
@@ -161,8 +157,12 @@
       "shareholder_percent": 8e-07
     },
     {
-      "shareholder_name": "Phạm Thị Dung",
-      "shareholder_percent": 3e-09
+      "shareholder_name": "Nguyễn Thu Trang",
+      "shareholder_percent": 8e-07
+    },
+    {
+      "shareholder_name": "Lê Huy Hiệp",
+      "shareholder_percent": 8e-07
     }
   ],
   "officers": [
@@ -198,7 +198,7 @@
     },
     {
       "officer_name": "Trần Ngọc Năm",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 4e-06
     },
     {
@@ -207,13 +207,13 @@
       "officer_percent": 2.4e-06
     },
     {
-      "officer_name": "Lê Huy Hiệp",
-      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_name": "Nguyễn Thu Trang",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 8e-07
     },
     {
-      "officer_name": "Nguyễn Thu Trang",
-      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_name": "Lê Huy Hiệp",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
       "officer_percent": 8e-07
     },
     {
@@ -237,11 +237,6 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Bá Tùng",
-      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Tống Văn Hải",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
@@ -262,13 +257,18 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Lưu Văn Tuyển",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Đặng Quang Tuấn",
       "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
-      "officer_name": "Lưu Văn Tuyển",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Nguyễn Bá Tùng",
+      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
@@ -283,5 +283,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:16:06.567151"
+  "created_at": "2025-10-21T14:18:08.340410"
 }

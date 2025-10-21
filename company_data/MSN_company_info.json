@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 123554403900300,
-  "current_price": 85900,
-  "outstanding_shares": 1438351617,
+  "market_cap": 118420475928300,
+  "current_price": 81900,
+  "outstanding_shares": 1445915457,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Masan (MSN) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần H&agrave;ng hải Ma San được th&agrave;nh lập v&agrave;o năm 2004. MSN l&agrave; c&ocirc;ng ty quản l&yacute; vốn đầu tư v&agrave; t&agrave;i sản, chủ yếu l&agrave; c&aacute;c cổ phần của những c&ocirc;ng ty kh&aacute;c, hiện nay bao gồm cổ phần của C&ocirc;ng ty Cổ phần Thực phẩm Ma San (Masan Food) v&agrave; Ng&acirc;n h&agrave;ng Thương mại cổ phần Kỹ thương Việt Nam (Techcombank). MSN&nbsp;l&agrave; nh&agrave; cung cấp&nbsp;vonfram v&agrave; bismut lớn nhất b&ecirc;n ngo&agrave;i&nbsp;Trung Quốc v&agrave; nh&agrave; cung cấp đơn nhất về florit cấp axit lớn thứ 2 b&ecirc;n ngo&agrave;i Trung Quốc. MSN l&agrave; c&ocirc;ng ty sản xuất đạm động vật lớn nhất Việt Nam sở hữu thương hiệu Bio-zeem, dẫn đầu trong lĩnh vực thức ăn chăn nu&ocirc;i. C&ocirc;ng ty nắm giữ vị thế thống lĩnh trong hầu hết c&aacute;c thị trường, c&aacute;c ng&agrave;nh h&agrave;ng ti&ecirc;u d&ugrave;ng&nbsp;m&agrave; C&ocirc;ng ty tham gia cạnh tranh. MSN được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ cuối năm 2009.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 2300,
-  "percent_price_change": 0.02751196,
-  "volume": 24224514,
-  "high_52w": 87400,
+  "price_change": -6100,
+  "percent_price_change": -0.06931818,
+  "volume": 33329253,
+  "high_52w": 94000,
   "low_52w": 50300,
-  "pe": 46.1298228234,
-  "pb": 3.8158528361,
+  "pe": 44.3415793764,
+  "pb": 3.6648179159,
   "roe": 0.0916581664,
   "roa": 0.0198265144,
   "eps": 713.8674636908595,
@@ -39,10 +39,6 @@
     {
       "shareholder_name": "Sk Investment Vina I Pte. Ltd.",
       "shareholder_percent": 0.0367
-    },
-    {
-      "shareholder_name": "Nguyễn Hoàng Yến",
-      "shareholder_percent": 0.0336
     },
     {
       "shareholder_name": "Ardolis Investment Pte Ltd",
@@ -109,10 +105,6 @@
       "shareholder_percent": 0.00187265
     },
     {
-      "shareholder_name": "Nguyễn Quỳnh Lâm",
-      "shareholder_percent": 0.00145
-    },
-    {
       "shareholder_name": "Dragon Capital Markets Limited",
       "shareholder_percent": 0.00126615
     },
@@ -131,10 +123,6 @@
     {
       "shareholder_name": "Trần Quang Chúc",
       "shareholder_percent": 0.0004025616
-    },
-    {
-      "shareholder_name": "Phạm Đình Toại",
-      "shareholder_percent": 0.0003
     },
     {
       "shareholder_name": "Trần Phương Bắc",
@@ -252,7 +240,7 @@
     },
     {
       "officer_name": "Nguyễn Thị Thu Hà",
-      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0
     },
     {
@@ -267,5 +255,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:47.551589"
+  "created_at": "2025-10-21T14:15:17.457892"
 }

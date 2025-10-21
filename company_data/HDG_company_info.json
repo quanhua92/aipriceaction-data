@@ -5,36 +5,36 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 11394861478000,
-  "current_price": 30800,
+  "market_cap": 11894311575250,
+  "current_price": 32150,
   "outstanding_shares": 369963035,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n H&agrave; Đ&ocirc; (HDG)&nbsp;tiền th&acirc;n l&agrave; x&iacute; nghiệp x&acirc;y dựng của Bộ Quốc ph&ograve;ng được th&agrave;nh lập năm 1990. Năm 2004 c&ocirc;ng ty chuyển đổi sang m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. Sản phẩm ch&iacute;nh của c&ocirc;ng ty bao gồm nh&agrave; biệt thự, nh&agrave; liền kề, chung cư cao cấp tại c&aacute;c dự &aacute;n khu đ&ocirc; thị tại H&agrave; Nội v&agrave; th&agrave;nh phố Hồ Ch&iacute; Minh, cao ốc văn ph&ograve;ng cho thu&ecirc;, kh&aacute;ch sạn v&agrave; x&acirc;y dựng c&ocirc;ng tr&igrave;nh d&acirc;n dụng, giao th&ocirc;ng. Doanh thu từ hoạt động kinh doanh nh&agrave;, x&acirc;y dựng khu&nbsp;đ&ocirc; thị&nbsp;chiếm hơn 90% doanh thu&nbsp;của c&ocirc;ng ty. C&ocirc;ng ty hiện đang sở hữu khoảng 67 ha đất với khoảng 11 dự &aacute;n đang v&agrave; sẽ triển khai. C&aacute;c dự &aacute;n n&agrave;y tập trung ở những vị tr&iacute; đẹp của th&agrave;nh phố H&agrave; Nội, Hồ Ch&iacute; Minh v&agrave; đều l&agrave; đất sạch. Phần quỹ đất c&oacute; nguồn gốc từ Bộ Quốc Ph&ograve;ng chiếm khoảng 50% tổng quỹ đất, phần đất kh&ocirc;ng c&oacute; nguồn gốc từ Bộ Quốc Ph&ograve;ng đều l&agrave; đất sạch. Ng&agrave;y 02/02/2010, HDG ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 2000,
-  "percent_price_change": 0.06944444,
-  "volume": 13857864,
-  "high_52w": 30800,
+  "price_change": -2400,
+  "percent_price_change": -0.06946454,
+  "volume": 8970250,
+  "high_52w": 36400,
   "low_52w": 17909,
-  "pe": 58.9658927208,
-  "pb": 1.8293793464,
-  "roe": 0.0312087018,
-  "roa": 0.0137965081,
-  "eps": -67.23684382143746,
-  "revenue": 583784306587,
-  "net_profit": -24875146804,
-  "dividend": 0.0487012987,
+  "pe": 61.8615203111,
+  "pb": 1.9836271613,
+  "roe": 0.0322583251,
+  "roa": 0.0142665752,
+  "eps": -49.65709665561588,
+  "revenue": 589767169651,
+  "net_profit": -18371290188,
+  "dividend": 0.0449101796,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Trọng Thông",
       "shareholder_percent": 0.3183
     },
     {
-      "shareholder_name": "Nguyễn Văn Tô",
-      "shareholder_percent": 0.0805
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0827
     },
     {
-      "shareholder_name": "PYN Elite Fund",
-      "shareholder_percent": 0.0719
+      "shareholder_name": "Nguyễn Văn Tô",
+      "shareholder_percent": 0.0805
     },
     {
       "shareholder_name": "CTBC Vietnam Equity Fund",
@@ -255,5 +255,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:13:00.430269"
+  "created_at": "2025-10-21T14:10:55.067082"
 }

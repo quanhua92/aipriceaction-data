@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 353610277370,
-  "current_price": 9730,
+  "market_cap": 381593824500,
+  "current_price": 10500,
   "outstanding_shares": 36342269,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần X&acirc;y dựng 47 (C47) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty X&acirc;y dựng Thủy lợi 7, được th&agrave;nh lập v&agrave;o năm 1975.&nbsp;C&ocirc;ng ty c&oacute; hoạt động kinh doanh (i) X&acirc;y dựng nặng (thủy lợi, nh&agrave; m&aacute;y thủy điện v&agrave; c&aacute;c c&ocirc;ng tr&igrave;nh x&acirc;y dựng c&ocirc;ng nghiệp kh&aacute;c), (ii) Kh&aacute;ch sạn v&agrave; Du lịch, (iii) Dịch vụ xuất khẩu lao động v&agrave; (iv) Gia c&ocirc;ng v&agrave; kinh doanh vật liệu x&acirc;y dựng. C&aacute;c dự &aacute;n của C47 chủ yếu được thực hiện ở miền Trung, T&acirc;y Nguy&ecirc;n v&agrave; Đ&ocirc;ng Nam Việt Nam. C47 đ&atilde; tham gia v&agrave;o c&aacute;c dự &aacute;n trọng điểm trong nhiều lĩnh vực như (i) X&acirc;y dựng thủy lực: Hồ chứa nước Ta Ruc (chiều d&agrave;i đập: 950 m&eacute;t, chiều cao đỉnh: 58 m&eacute;t), Đập b&ecirc; t&ocirc;ng đầm lăn (RCC) tại Hồ chứa nước trọng (chiều d&agrave;i đập: 517 m&eacute;t, Chiều cao đỉnh: 69m), (ii) C&ocirc;ng tr&igrave;nh thủy điện: C&ocirc;ng tr&igrave;nh thủy điện Trung Sơn (c&ocirc;ng suất 260MW), c&ocirc;ng tr&igrave;nh thủy điện Thượng Kon Tum (c&ocirc;ng suất 220MW), (iii) X&acirc;y dựng d&acirc;n dụng &amp; c&ocirc;ng nghiệp Dự &aacute;n: Nh&agrave; m&aacute;y Phước An (tổng vốn đầu tư 85 tỷ đồng), Trung t&acirc;m quốc tế về gi&aacute;o dục khoa học v&agrave; li&ecirc;n ng&agrave;nh - tỉnh B&igrave;nh Định v&agrave; kh&aacute;ch sạn Seagull. Ng&agrave;y 30/03/2011, C47 ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 610,
-  "percent_price_change": 0.06688596,
-  "volume": 316845,
-  "high_52w": 10050,
-  "low_52w": 5550,
-  "pe": 12.3787776486,
-  "pb": 0.7964928204,
-  "roe": 0.0669356383,
-  "roa": 0.0147341812,
-  "eps": 478.74318736125144,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 67930,
+  "high_52w": 13250,
+  "low_52w": 5570,
+  "pe": 13.867284313,
+  "pb": 0.8920761728,
+  "roe": 0.066931887,
+  "roa": 0.0147371842,
+  "eps": 478.7431873887676,
   "revenue": 488696717652,
-  "net_profit": 17398613697,
-  "dividend": 0.1027749229,
+  "net_profit": 17398613698,
+  "dividend": 0.0917431193,
   "shareholders": [
     {
       "shareholder_name": "Công ty TNHH VPInvest",
@@ -51,10 +51,6 @@
     {
       "shareholder_name": "Nguyễn Đức Viện",
       "shareholder_percent": 0.0424
-    },
-    {
-      "shareholder_name": "Tô Thị Bình",
-      "shareholder_percent": 0.04018
     },
     {
       "shareholder_name": "Lê Trường Sơn",
@@ -86,7 +82,7 @@
     },
     {
       "shareholder_name": "Nguyễn Đức Thái",
-      "shareholder_percent": 0.0048586666
+      "shareholder_percent": 0.00485867
     },
     {
       "shareholder_name": "Vũ Xuân Chính",
@@ -114,7 +110,7 @@
     },
     {
       "shareholder_name": "Phùng Văn Viễn",
-      "shareholder_percent": 0.0025130833
+      "shareholder_percent": 0.00251308
     },
     {
       "shareholder_name": "Nguyễn Xuân Cần",
@@ -157,15 +153,19 @@
       "shareholder_percent": 0.0006
     },
     {
+      "shareholder_name": "Bùi Quốc Thanh",
+      "shareholder_percent": 0.000597
+    },
+    {
       "shareholder_name": "Vũ Thị Mão",
       "shareholder_percent": 0.0005
     },
     {
-      "shareholder_name": "Võ Thanh Quỳnh",
+      "shareholder_name": "Lê Thanh Sang",
       "shareholder_percent": 0.00036
     },
     {
-      "shareholder_name": "Lê Thanh Sang",
+      "shareholder_name": "Võ Thanh Quỳnh",
       "shareholder_percent": 0.00036
     },
     {
@@ -204,7 +204,7 @@
   "officers": [
     {
       "officer_name": "Dương Minh Quang",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0255
     },
     {
@@ -238,8 +238,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Trần Đức Dương",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Trịnh Quốc Thọ",
+      "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
@@ -248,26 +248,26 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Trịnh Quốc Thọ",
-      "officer_position": "Người phụ trách quản trị công ty",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Võ Trọng Hiếu",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Lê Trung Nam",
-      "officer_position": "Thành viên Hội đồng Quản trị/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ /Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
       "officer_name": "Bùi Văn Tuynh",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Trần Đức Dương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Trọng Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:02:14.288845"
+  "created_at": "2025-10-21T14:03:19.665627"
 }

@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 117101458320000,
-  "current_price": 39200,
+  "market_cap": 141895899750000,
+  "current_price": 47500,
   "outstanding_shares": 2987282100,
-  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Lộc Ph&aacute;t Việt Nam (LPB) được th&agrave;nh lập v&agrave;o năm 2008, một trong những ng&acirc;n h&agrave;ng mới với hiệu suất cao trong lĩnh vực ng&acirc;n h&agrave;ng Việt Nam. Ng&acirc;n h&agrave;ng được s&aacute;p nhập với C&ocirc;ng ty Dịch vụ Tiết kiệm Bưu điện - VPSC (một c&ocirc;ng ty con của VNPT), được đổi t&ecirc;n th&agrave;nh Ng&acirc;n h&agrave;ng Bưu điện Li&ecirc;n Việt.&nbsp;Ng&acirc;n h&agrave;ng c&oacute; quan hệ đối t&aacute;c với c&aacute;c Tổ chức quốc gia v&agrave; quốc tế như: (i) c&aacute;c tổ chức quốc gia Viettel, EVN, (ii) La Poste Group, Viện tiết kiệm Ng&acirc;n h&agrave;ng thế giới, Cơ quan Thương mại v&agrave; Ph&aacute;t triển Mỹ (USTDA), JP Morgan Chase, Wells Fargo v&agrave; Ng&acirc;n h&agrave;ng C&ocirc;ng thương Trung Quốc (ICBC). Năm 2024, so với c&ugrave;ng kỳ, bi&ecirc;n l&atilde;i thuần (NIM) ở mức 3.52%, tăng 0.29%. Tỷ lệ nợ xấu ở mức 1.57%, tăng 0.23%. Tỷ lệ bao phủ nợ xấu ở mức 83.29%, giảm 10.46%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 9,7 ngh&igrave;n tỷ đồng, tăng 74.45%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 25.1%, tăng 5.94%.&nbsp;LPB được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ&nbsp;th&aacute;ng 10/2020.</div>\r\n",
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Lộc Ph&aacute;t Việt Nam (LPB) được th&agrave;nh lập v&agrave;o năm 2008, một trong những ng&acirc;n h&agrave;ng mới với hiệu suất cao trong lĩnh vực ng&acirc;n h&agrave;ng Việt Nam. Ng&acirc;n h&agrave;ng được s&aacute;p nhập với C&ocirc;ng ty Dịch vụ Tiết kiệm Bưu điện - VPSC (một c&ocirc;ng ty con của VNPT), được đổi t&ecirc;n th&agrave;nh Ng&acirc;n h&agrave;ng Bưu điện Li&ecirc;n Việt.&nbsp;Ng&acirc;n h&agrave;ng c&oacute; quan hệ đối t&aacute;c với c&aacute;c Tổ chức quốc gia v&agrave; quốc tế như: (i) c&aacute;c tổ chức quốc gia Viettel, EVN, (ii) La Poste Group, Viện tiết kiệm Ng&acirc;n h&agrave;ng thế giới, Cơ quan Thương mại v&agrave; Ph&aacute;t triển Mỹ (USTDA), JP Morgan Chase, Wells Fargo v&agrave; Ng&acirc;n h&agrave;ng C&ocirc;ng thương Trung Quốc (ICBC). Năm 2024, so với c&ugrave;ng kỳ, bi&ecirc;n l&atilde;i thuần (NIM) ở mức 3.52%, tăng 0.29%. Tỷ lệ nợ xấu ở mức 1.57%, tăng 0.23%. Tỷ lệ bao phủ nợ xấu ở mức 83.29%, giảm 10.46%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 9,7 ngh&igrave;n tỷ đồng, tăng 74.45%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 25.1%, tăng 5.94%.&nbsp;LPB được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ&nbsp;th&aacute;ng 10/2020.</div>",
   "website": null,
-  "price_change": 1150,
-  "percent_price_change": 0.03022339,
-  "volume": 10621399,
-  "high_52w": 40200,
-  "low_52w": 22810,
-  "pe": 11.7922504926,
-  "pb": 2.8771947568,
+  "price_change": -2000,
+  "percent_price_change": -0.04040404,
+  "volume": 2597545,
+  "high_52w": 54700,
+  "low_52w": 24684,
+  "pe": 15.4923699073,
+  "pb": 3.7799880095,
   "roe": 0.2328629441,
   "roa": 0.0200852758,
   "eps": 802.0236856773587,
@@ -170,7 +170,7 @@
     },
     {
       "shareholder_name": "Quỹ Đầu tư Trái phiếu Ngân Hàng Công Thương Việt Nam",
-      "shareholder_percent": 5.91116e-05
+      "shareholder_percent": 5.911e-05
     },
     {
       "shareholder_name": "Nguyễn Thị Nguyệt",
@@ -273,7 +273,7 @@
     },
     {
       "officer_name": "Phạm Doãn Sơn",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0.0185
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "officer_name": "Nguyễn Thị Gấm",
-      "officer_position": "Kế toán trưởng/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Kế toán trưởng",
       "officer_percent": 0.00030411
     },
     {
@@ -388,5 +388,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:15.959275"
+  "created_at": "2025-10-21T14:14:04.821553"
 }

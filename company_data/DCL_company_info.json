@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1530209578500,
-  "current_price": 20950,
+  "market_cap": 2004976273500,
+  "current_price": 27450,
   "outstanding_shares": 73041030,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p align=\"left\">C&ocirc;ng ty Cổ phần Dược phẩm Cửu Long (DCL) th&agrave;nh lập&nbsp;năm&nbsp;1997. Năm 2004,&nbsp;c&ocirc;ng ty chuyển sang hoạt&nbsp;động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty chuy&ecirc;n sản xuất,&nbsp;kinh doanh v&agrave; xuất nhập khẩu dược phẩm, capsule, c&aacute;c loại dụng cụ, trang thiết bị y tế cho ng&agrave;nh dược, ng&agrave;nh y tế. DCL c&oacute;&nbsp;5 nh&agrave; m&aacute;y đang hoạt động trong đ&oacute; c&oacute; 4 nh&agrave; m&aacute;y đạt ti&ecirc;u chuẩn GMP-WHO.&nbsp;Ngo&agrave;i thị trường trong nước,sản phẩm của c&ocirc;ng ty c&ograve;n được xuất sang Campuchia, L&agrave;o, Myanmar v&agrave; Nigeria. DCL được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2008.</p>\r\n\r\n<p align=\"left\">&nbsp;</p>\r\n\r\n<p align=\"left\">&nbsp;</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -1450,
-  "percent_price_change": -0.06473214,
-  "volume": 1153164,
-  "high_52w": 30500,
+  "price_change": -2050,
+  "percent_price_change": -0.06949153,
+  "volume": 780853,
+  "high_52w": 31500,
   "low_52w": 19000,
-  "pe": 36.316876712,
-  "pb": 1.0174447729,
+  "pe": 51.6583735569,
+  "pb": 1.4472484121,
   "roe": 0.0282674028,
   "roa": 0.0171475314,
   "eps": -44.04014195856767,
@@ -137,8 +137,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Ngọc Bích",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Đỗ Thế Cao",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -162,16 +162,16 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Đỗ Thế Cao",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Nguyễn Trọng Đức",
+      "officer_position": "Phó Tổng Giám đốc Sản xuất",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Trọng Đức",
-      "officer_position": "Phó Tổng Giám đốc Sản xuất",
+      "officer_name": "Nguyễn Ngọc Bích",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:03:44.033325"
+  "created_at": "2025-10-21T14:05:25.506139"
 }

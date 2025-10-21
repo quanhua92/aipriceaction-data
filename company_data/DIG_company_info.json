@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 15740599500850,
-  "current_price": 24350,
+  "market_cap": 14803274273900,
+  "current_price": 22900,
   "outstanding_shares": 646431191,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Đầu tư Ph&aacute;t triển X&acirc;y dựng (DIG) với gần 3 thập kỷ hoạt động từ năm 1990 tr&ecirc;n nhiều lĩnh vực như kh&aacute;ch sạn, dịch vụ du lịch, thương mại, đầu tư ph&aacute;t triển Bất động sản, x&acirc;y dựng &hellip; C&ocirc;ng ty c&oacute; thế mạnh trong lĩnh vực đầu tư ph&aacute;t triển bất động sản v&agrave; doanh thu chủ yếu đến từ việc kinh doanh bất động sản. C&ocirc;ng ty l&agrave; một doanh nghiệp lớn trong ng&agrave;nh bất động sản, c&oacute; quỹ đất sạch lớn v&agrave; mức độ an to&agrave;n t&agrave;i ch&iacute;nh cao. C&ocirc;ng ty đ&atilde; thực hiện đầu tư v&agrave;o c&aacute;c dự &aacute;n lớn như Dự &aacute;n Khu đ&ocirc; thị Trung t&acirc;m Ch&iacute; Linh - Vũng T&agrave;u, Khu đ&ocirc; thị du lịch Đại Phước - Đồng Nai, Khu đ&ocirc; thị mới Nam Vĩnh Y&ecirc;n -&nbsp;th&agrave;nh phố Vĩnh Ph&uacute;c v&agrave; c&aacute;c dự &aacute;n tiềm năng kh&aacute;c tr&ecirc;n khắp Việt Nam. DIG ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2009.<o:p></o:p></p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 150,
-  "percent_price_change": 0.00619835,
-  "volume": 32716420,
-  "high_52w": 24750,
-  "low_52w": 12877,
-  "pe": 132.7990554341,
-  "pb": 2.0207685784,
-  "roe": 0.0152656087,
-  "roa": 0.006359491,
-  "eps": 75.10885647224285,
-  "revenue": 286737746633,
-  "net_profit": 48552707544,
-  "dividend": 0.0410677618,
+  "price_change": -1700,
+  "percent_price_change": -0.06910569,
+  "volume": 35186545,
+  "high_52w": 25100,
+  "low_52w": 11802,
+  "pe": 107.2120158629,
+  "pb": 1.8724328839,
+  "roe": 0.0175924504,
+  "roa": 0.007331881,
+  "eps": 83.77663804857185,
+  "revenue": 284674329583,
+  "net_profit": 66722327619,
+  "dividend": 0.0442477876,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Hùng Cường",
@@ -90,7 +90,7 @@
     },
     {
       "shareholder_name": "Vietnam Investment Property Holdings Limited",
-      "shareholder_percent": 0.0017524851
+      "shareholder_percent": 0.00175249
     },
     {
       "shareholder_name": "VietNam Infrastructure Holding Limited",
@@ -169,11 +169,15 @@
       "shareholder_percent": 1.6e-05
     },
     {
-      "shareholder_name": "Hoàng Văn Tăng",
+      "shareholder_name": "Chu Văn Thanh",
       "shareholder_percent": 1e-05
     },
     {
-      "shareholder_name": "Chu Văn Thanh",
+      "shareholder_name": "Phạm Thị Bích Vân",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Tăng",
       "shareholder_percent": 1e-05
     },
     {
@@ -279,5 +283,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:04:16.908954"
+  "created_at": "2025-10-21T14:06:17.740645"
 }

@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 127696277689500,
-  "current_price": 61100,
+  "market_cap": 114947549475000,
+  "current_price": 55000,
   "outstanding_shares": 2089955445,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Sữa Việt Nam (VNM) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Sữa &ndash; C&agrave; Ph&ecirc; Miền Nam,&nbsp;được th&agrave;nh lập v&agrave;o năm 1976. C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong lĩnh vực&nbsp;chế biến sản xuất, kinh doanh xuất nhập khẩu c&aacute;c&nbsp;sản phẩm sữa v&agrave; c&aacute;c sản phẩm dinh dưỡng kh&aacute;c. VNM ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm&nbsp;2003. C&ocirc;ng ty giữ vững vị thế top 1 thị phần ng&agrave;nh sữa Việt Nam&nbsp;, hiện nay VNM đang quản l&yacute; hơn 130.000 đ&agrave;n&nbsp;b&ograve; sữa đang khai th&aacute;c, 15 trang trại b&ograve; sữa c&ocirc;ng nghệ cao, 16 nh&agrave; m&aacute;y sữa&nbsp;hiện đại v&agrave; 1 nh&agrave; m&aacute;y thị b&ograve; m&aacute;t 10.000 tấn.&nbsp;Sản phẩm của VNM đ&atilde; c&oacute; mặt tại hơn&nbsp;200.000 điểm b&aacute;n trong hệ thống ph&acirc;n phối&nbsp;v&agrave; được xuất khẩu trực tiếp đến&nbsp;63&nbsp;quốc gia v&agrave; v&ugrave;ng l&atilde;nh thổ&nbsp;tr&ecirc;n thế giới. VNM được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Chứng kho&aacute;n Th&agrave;nh phố Hồ&nbsp;Ch&iacute; Minh (HOSE) từ năm 2006.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -700,
-  "percent_price_change": -0.01132686,
-  "volume": 6218119,
-  "high_52w": 70566,
-  "low_52w": 49642,
-  "pe": 14.8999723909,
-  "pb": 4.018847289,
+  "price_change": -3800,
+  "percent_price_change": -0.06462585,
+  "volume": 8762669,
+  "high_52w": 63234,
+  "low_52w": 47418,
+  "pe": 15.4852413555,
+  "pb": 4.1767070843,
   "roe": 0.2654937623,
   "roa": 0.1537106305,
   "eps": 1184.037345828681,
   "revenue": 16744609675338,
   "net_profit": 2474585297998,
-  "dividend": 0.0379050736,
+  "dividend": 0.0364724409,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
@@ -117,11 +117,11 @@
       "shareholder_percent": 0.0045
     },
     {
-      "shareholder_name": "KIM Vietnam Growth Equity Fund",
+      "shareholder_name": "Merrill Lynch International",
       "shareholder_percent": 0.0045
     },
     {
-      "shareholder_name": "Merrill Lynch International",
+      "shareholder_name": "KIM Vietnam Growth Equity Fund",
       "shareholder_percent": 0.0045
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "shareholder_name": "PXP Vietnam Emerging Equity Fund",
-      "shareholder_percent": 0.0010839182
+      "shareholder_percent": 0.00108392
     },
     {
       "shareholder_name": "Quỹ ETF DCVFMVN30",
@@ -235,10 +235,6 @@
     {
       "shareholder_name": "Nguyễn Minh Ân",
       "shareholder_percent": 0.00012
-    },
-    {
-      "shareholder_name": "Lê Quang Thanh Trúc",
-      "shareholder_percent": 0.0001062
     },
     {
       "shareholder_name": "Trịnh Quốc Dũng",
@@ -413,5 +409,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:21:23.826179"
+  "created_at": "2025-10-21T14:26:21.577585"
 }

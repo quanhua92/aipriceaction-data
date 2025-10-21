@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 42386629824400,
-  "current_price": 57100,
+  "market_cap": 34963402184400,
+  "current_price": 47100,
   "outstanding_shares": 742322764,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p align=\"left\">Tập đo&agrave;n Bảo Việt (BVH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Bảo hiểm Việt Nam được th&agrave;nh lập năm 1964. Từ năm 2008 đi v&agrave;o hoạt động theo m&ocirc; h&igrave;nh Tập đo&agrave;n. Tập đo&agrave;n Bảo Việt hoạt động&nbsp;hầu hết tất cả c&aacute;c lĩnh vực trong ng&agrave;nh t&agrave;i ch&iacute;nh như bảo hiểm, ng&acirc;n h&agrave;ng, chứng kho&aacute;n, quản l&yacute; quỹ, đầu tư bất động sản. Trong đ&oacute; bảo hiểm vẫn l&agrave; ng&agrave;nh nghề kinh doanh chủ đạo của Tập đo&agrave;n. Tại Việt Nam, BVH hiện giữ vị tr&iacute; số 1 tr&ecirc;n thị trường&nbsp;bảo hiểm nh&acirc;n thọ&nbsp;v&agrave; thị trường bảo hiểm phi nh&acirc;n thọ. BVH cung cấp cho kh&aacute;ch h&agrave;ng&nbsp;danh mục sản phẩm đa dạng với&nbsp;80 sản phẩm bảo hiểm phi nh&acirc;n thọ, v&agrave;&nbsp;55 sản phẩm bảo hiểm nh&acirc;n thọ. BVH ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ ng&agrave;y 25/06/2009.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 3700,
-  "percent_price_change": 0.06928839,
-  "volume": 2715609,
-  "high_52w": 59700,
+  "price_change": -3400,
+  "percent_price_change": -0.06732673,
+  "volume": 636227,
+  "high_52w": 65500,
   "low_52w": 39100,
-  "pe": 17.2441891319,
-  "pb": 1.7816167736,
-  "roe": 0.1063761251,
-  "roa": 0.009740083,
-  "eps": 912.3021376682448,
-  "revenue": 11364910983820,
-  "net_profit": 677222644437,
+  "pe": 15.8634295553,
+  "pb": 1.6225322145,
+  "roe": 0.1053214086,
+  "roa": 0.0096424365,
+  "eps": 895.2264079160046,
+  "revenue": 11364907796139,
+  "net_profit": 664546941530,
   "dividend": 0,
   "shareholders": [
     {
@@ -102,7 +102,7 @@
     },
     {
       "shareholder_name": "Công Đoàn Tập Đoàn Bảo Việt",
-      "shareholder_percent": 0.0003119
+      "shareholder_percent": 0.0003292
     },
     {
       "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
@@ -158,7 +158,7 @@
     },
     {
       "shareholder_name": "Nguyễn Đức Tuấn",
-      "shareholder_percent": 4.7026e-06
+      "shareholder_percent": 4.7e-06
     },
     {
       "shareholder_name": "Nguyễn Trung Thực",
@@ -194,11 +194,11 @@
     },
     {
       "shareholder_name": "Phan Kim Bằng",
-      "shareholder_percent": 7.347e-07
+      "shareholder_percent": 7.3e-07
     },
     {
       "shareholder_name": "Trần Nguyên Đán",
-      "shareholder_percent": 1.426e-07
+      "shareholder_percent": 1.4e-07
     }
   ],
   "officers": [
@@ -289,5 +289,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:09:54.521208"
+  "created_at": "2025-10-21T14:03:02.201867"
 }

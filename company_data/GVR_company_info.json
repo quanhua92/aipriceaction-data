@@ -5,25 +5,29 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 130600000000000,
-  "current_price": 32650,
+  "market_cap": 101000000000000,
+  "current_price": 25250,
   "outstanding_shares": 4000000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tập đo&agrave;n C&ocirc;ng nghiệp Cao su Việt Nam (GVR) c&oacute; tiền th&acirc;n l&agrave; Tổng C&ocirc;ng ty Cao su Việt Nam,&nbsp;được th&agrave;nh lập&nbsp;v&agrave;o năm 1995. Tập đo&agrave;n hoạt động ch&iacute;nh trong lĩnh vực trồng, khai th&aacute;c, chế biến v&agrave; kinh doanh sản phẩm từ c&acirc;y cao su.&nbsp;GVR&nbsp;hiện đang quản l&yacute; 395.000 ha cao su. Mỗi năm, GVR chế biến trung b&igrave;nh 400.000 tấn mủ cao su.&nbsp;Tập&nbsp;đo&agrave;n&nbsp;đang quản l&yacute; 10&nbsp;khu c&ocirc;ng nghiệp với tổng diện t&iacute;ch 6.000 ha, trong đ&oacute; diện t&iacute;ch đất thương phẩm l&agrave;&nbsp;4.013 ha.&nbsp;Hiện tại, Tập đo&agrave;n v&agrave; c&aacute;c đơn vị th&agrave;nh vi&ecirc;n sở hữu c&aacute;c d&acirc;y chuyền sản xuất mủ cốm SVR với c&aacute;c chủng loại sản phẩm sản xuất được như sau: SVR 3L, SVR 5, SVR 10, SVR 20, SVR CV50, SVR CV60, SVR 10CV, Skim Bloc&hellip;. C&ocirc;ng nghệ của c&aacute;c chuyền n&agrave;y chủ yếu l&agrave; c&ocirc;ng nghệ sản xuất trong nước, một số d&acirc;y chuyền được nhập khẩu từ Ch&acirc;u &Acirc;u. GVR được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 03/2020.</div>\r\n",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.00616333,
-  "volume": 9520035,
-  "high_52w": 36561,
+  "price_change": -1850,
+  "percent_price_change": -0.06826568,
+  "volume": 3353509,
+  "high_52w": 35669,
   "low_52w": 21700,
-  "pe": 24.7304780722,
-  "pb": 2.3219785922,
-  "roe": 0.0979007587,
-  "roa": 0.064340266,
-  "eps": 350.9929221665,
-  "revenue": 6017859341875,
-  "net_profit": 1403971688666,
-  "dividend": 0.0122511485,
+  "pe": 20.9250113607,
+  "pb": 1.9763416087,
+  "roe": 0.0986392541,
+  "roa": 0.0648421994,
+  "eps": 361.70277396425,
+  "revenue": 5891195424631,
+  "net_profit": 1446811095857,
+  "dividend": 0.0143626571,
   "shareholders": [
+    {
+      "shareholder_name": "Bộ Tài Chính",
+      "shareholder_percent": 0.9677
+    },
     {
       "shareholder_name": "Uỷ ban Quản lý Vốn Nhà nước tại Doanh nghiệp",
       "shareholder_percent": 0.9677
@@ -33,11 +37,11 @@
       "shareholder_percent": 0.0061825
     },
     {
-      "shareholder_name": "Nguyễn Cửu Tuệ",
+      "shareholder_name": "Phạm Văn Thành",
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Phạm Văn Thành",
+      "shareholder_name": "Nguyễn Cửu Tuệ",
       "shareholder_percent": 0.0001
     },
     {
@@ -57,10 +61,6 @@
       "shareholder_percent": 2.5e-05
     },
     {
-      "shareholder_name": "Lê Thị Kim Thảo",
-      "shareholder_percent": 2.5e-05
-    },
-    {
       "shareholder_name": "Huỳnh Kim Nhựt",
       "shareholder_percent": 1.13e-05
     },
@@ -69,19 +69,19 @@
       "shareholder_percent": 3.2e-06
     },
     {
-      "shareholder_name": "Giang Hoa Vũ",
-      "shareholder_percent": 2e-06
-    },
-    {
       "shareholder_name": "Trần Đức Thuận",
       "shareholder_percent": 2e-06
     },
     {
-      "shareholder_name": "Trần Thanh Phụng",
-      "shareholder_percent": 1.9e-06
+      "shareholder_name": "Giang Hoa Vũ",
+      "shareholder_percent": 2e-06
     },
     {
       "shareholder_name": "Trương Minh Trung",
+      "shareholder_percent": 1.9e-06
+    },
+    {
+      "shareholder_name": "Trần Thanh Phụng",
       "shareholder_percent": 1.9e-06
     },
     {
@@ -198,5 +198,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:12:25.939015"
+  "created_at": "2025-10-21T14:09:52.237422"
 }

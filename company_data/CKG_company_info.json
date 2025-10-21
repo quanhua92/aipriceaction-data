@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2467564771500,
-  "current_price": 15250,
+  "market_cap": 1876967301600,
+  "current_price": 11600,
   "outstanding_shares": 161807526,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n CIC&nbsp;(CKG), c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Tư vấn X&acirc;y dựng Ki&ecirc;n Giang được th&agrave;nh lập từ năm 1992. Năm 2006, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. C&ocirc;ng ty chủ yếu hoạt động trong lĩnh vực x&acirc;y dựng v&agrave; bất động sản, trong đ&oacute; tập trung tại địa b&agrave;n tỉnh Ki&ecirc;n Giang, chủ yếu ở th&agrave;nh phố Rạch Gi&aacute;, huyện đảo Ph&uacute; Quốc v&agrave; c&aacute;c huyện thị kh&aacute;c thuộc tỉnh Ki&ecirc;n Giang. C&ocirc;ng ty được tin tưởng giao cho thực hiện nhiều dự &aacute;n trọng điểm v&agrave; chiến lược của tỉnh Ki&ecirc;n Giang. Hiện tại thị trường Rạch Gi&aacute; v&agrave; Ph&uacute; Quốc l&agrave; hai thị trường trọng điểm để đ&acirc;u tư với c&aacute;c dự &aacute;n bao gồm: (i) Dự &aacute;n Khu d&acirc;n cư Trung t&acirc;m thương mại Rạch Sỏi (186 căn), (ii) Dự &aacute;n Bến xe tỉnh v&agrave; Khu d&acirc;n cư huyện Ch&acirc;u Th&agrave;nh (317 căn), (iii) Dự &aacute;n Khu d&acirc;n cư phường An B&igrave;nh (983 căn). Năm 2020, cổ phiếu CKG ch&iacute;nh thức được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": -250,
-  "percent_price_change": -0.01612903,
-  "volume": 419584,
-  "high_52w": 21365,
+  "price_change": -600,
+  "percent_price_change": -0.04918033,
+  "volume": 145846,
+  "high_52w": 20479,
   "low_52w": 10740,
-  "pe": 18.8772634713,
-  "pb": 1.2714102818,
-  "roe": 0.0631878379,
-  "roa": 0.0194166814,
-  "eps": 44.896886514413424,
-  "revenue": 163067053649,
-  "net_profit": 7264654132,
+  "pe": 15.3782615114,
+  "pb": 1.0311004029,
+  "roe": 0.0628427568,
+  "roa": 0.0193190597,
+  "eps": 41.3133893660793,
+  "revenue": 163053577816,
+  "net_profit": 6684817324,
   "dividend": 0,
   "shareholders": [
     {
@@ -42,7 +42,7 @@
     },
     {
       "shareholder_name": "Công ty TNHH MTV Phương Nam Kiên Giang",
-      "shareholder_percent": 0.01299
+      "shareholder_percent": 0.0092
     },
     {
       "shareholder_name": "Công ty Cổ phần Phát triển Đô thị Kiên Giang",
@@ -61,28 +61,28 @@
       "shareholder_percent": 0.00468
     },
     {
+      "shareholder_name": "Phạm Thị Như Phượng",
+      "shareholder_percent": 0.0036
+    },
+    {
+      "shareholder_name": "Trần Quốc Trưởng",
+      "shareholder_percent": 0.0036
+    },
+    {
       "shareholder_name": "Lê Trọng Ngọc",
       "shareholder_percent": 0.0035
     },
     {
-      "shareholder_name": "Trần Thọ Hùng",
-      "shareholder_percent": 0.0032
+      "shareholder_name": "Quảng Trọng Sang",
+      "shareholder_percent": 0.00309
     },
     {
-      "shareholder_name": "Phạm Thị Như Phượng",
-      "shareholder_percent": 0.00315
+      "shareholder_name": "Trần Thị Mai Hương",
+      "shareholder_percent": 0.0026
     },
     {
       "shareholder_name": "Hà Duy Nghiêm",
       "shareholder_percent": 0.0023
-    },
-    {
-      "shareholder_name": "Trần Quốc Trưởng",
-      "shareholder_percent": 0.002292
-    },
-    {
-      "shareholder_name": "Trần Thị Mai Hương",
-      "shareholder_percent": 0.002271
     },
     {
       "shareholder_name": "Nguyễn Thị Hoa Lệ",
@@ -90,7 +90,7 @@
     },
     {
       "shareholder_name": "Trần Quang Vũ",
-      "shareholder_percent": 0.001687
+      "shareholder_percent": 0.0019
     },
     {
       "shareholder_name": "Nguyễn Hoàng Sơn",
@@ -106,27 +106,23 @@
     },
     {
       "shareholder_name": "Trần Ngọc Hạnh",
-      "shareholder_percent": 0.001279
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Nguyễn Thanh Hồng",
+      "shareholder_percent": 0.0012
+    },
+    {
+      "shareholder_name": "Kha Thị Mỹ Ngọc",
+      "shareholder_percent": 0.0012
     },
     {
       "shareholder_name": "Phạm Văn Lợi",
       "shareholder_percent": 0.0012
     },
     {
-      "shareholder_name": "Nguyễn Thanh Hồng",
-      "shareholder_percent": 0.001
-    },
-    {
-      "shareholder_name": "Quảng Trọng Sang",
-      "shareholder_percent": 0.000926
-    },
-    {
-      "shareholder_name": "Kha Thị Mỹ Ngọc",
-      "shareholder_percent": 0.000919
-    },
-    {
       "shareholder_name": "Nguyễn Thành Hiếu",
-      "shareholder_percent": 0.0009
+      "shareholder_percent": 0.0006
     },
     {
       "shareholder_name": "Hà Minh Tuân",
@@ -134,7 +130,7 @@
     },
     {
       "shareholder_name": "Võ Văn Tám",
-      "shareholder_percent": 0.000424
+      "shareholder_percent": 0.0005
     },
     {
       "shareholder_name": "Phạm Hoàng Anh",
@@ -168,29 +164,34 @@
       "officer_percent": 0.0785
     },
     {
+      "officer_name": "Trần Quốc Trưởng",
+      "officer_position": "Phó Tổng Giám đốc/Người phụ trách quản trị công ty",
+      "officer_percent": 0.0036
+    },
+    {
+      "officer_name": "Phạm Thị Như Phượng",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0036
+    },
+    {
       "officer_name": "Lê Trọng Ngọc",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0035
     },
     {
-      "officer_name": "Phạm Thị Như Phượng",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.00315
+      "officer_name": "Quảng Trọng Sang",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.00309
+    },
+    {
+      "officer_name": "Trần Thị Mai Hương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0026
     },
     {
       "officer_name": "Hà Duy Nghiêm",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0023
-    },
-    {
-      "officer_name": "Trần Quốc Trưởng",
-      "officer_position": "Người phụ trách quản trị công ty/Phó Tổng Giám đốc",
-      "officer_percent": 0.002292
-    },
-    {
-      "officer_name": "Trần Thị Mai Hương",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.002271
     },
     {
       "officer_name": "Nguyễn Thị Hoa Lệ",
@@ -205,22 +206,17 @@
     {
       "officer_name": "Trần Ngọc Hạnh",
       "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.001279
-    },
-    {
-      "officer_name": "Nguyễn Thanh Hồng",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.001
-    },
-    {
-      "officer_name": "Quảng Trọng Sang",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.000926
+      "officer_percent": 0.0014
     },
     {
       "officer_name": "Kha Thị Mỹ Ngọc",
       "officer_position": "Kế toán trưởng",
-      "officer_percent": 0.000919
+      "officer_percent": 0.0012
+    },
+    {
+      "officer_name": "Nguyễn Thanh Hồng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0012
     },
     {
       "officer_name": "Hà Minh Tuân",
@@ -233,8 +229,8 @@
       "officer_percent": 1e-05
     },
     {
-      "officer_name": "Nguyễn Thanh Lâm",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Mã Hồng Phương",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -243,8 +239,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Mã Hồng Phương",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Nguyễn Thanh Lâm",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -254,5 +250,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:02:42.225287"
+  "created_at": "2025-10-21T14:03:52.028782"
 }

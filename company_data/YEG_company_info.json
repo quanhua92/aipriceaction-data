@@ -5,32 +5,32 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2992111746000,
-  "current_price": 15600,
+  "market_cap": 2320804623500,
+  "current_price": 12100,
   "outstanding_shares": 191802035,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n Yeah1 (YEG) c&oacute; tiền th&acirc;n l&agrave; trang th&ocirc;ng tin điện tử <a href=\"http://www.yeah1.com\">www.yeah1.com</a>&nbsp;được th&agrave;nh lập v&agrave;o năm 2006. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực cung cấp dịch vụ quảng c&aacute;o&nbsp;truyền h&igrave;nh, dịch vụ quảng c&aacute;o tr&ecirc;n nền tảng kỹ thuật số, đại l&yacute; mua b&aacute;n quảng c&aacute;o v&agrave; bản quyền phim truyền h&igrave;nh, đầu tư, sản xuất hoặc marketing cho c&aacute;c bộ phim chiếu rạp. YEG hiện sở hữu v&agrave; vận h&agrave;nh 4 k&ecirc;nh truyền h&igrave;nh trả tiền phủ s&oacute;ng cả nước l&agrave; Yeah1 TV, Yeah1 Family, iMovie TV v&agrave; UNI Channel. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n đ&oacute;ng vai tr&ograve; l&agrave; đại l&yacute; mua b&aacute;n c&aacute;c quảng c&aacute;o v&agrave; bản quyền phim cho 16 đ&agrave;i truyền h&igrave;nh quốc gia, địa phương v&agrave; c&aacute;c k&ecirc;nh truyền h&igrave;nh tư nh&acirc;n ở Việt Nam.&nbsp;YEG được ni&ecirc;m yết v&agrave;&nbsp;giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 06/2018.</div>\r\n",
   "website": null,
-  "price_change": -350,
-  "percent_price_change": -0.02194357,
-  "volume": 4970254,
+  "price_change": -900,
+  "percent_price_change": -0.06923077,
+  "volume": 2718919,
   "high_52w": 22635,
-  "low_52w": 8105,
-  "pe": 15.8784719465,
-  "pb": 1.4621418045,
-  "roe": 0.0876080544,
-  "roa": 0.0592396513,
-  "eps": 145.5143486199195,
-  "revenue": 463718577497,
-  "net_profit": 27909948187,
+  "low_52w": 8579,
+  "pe": 13.4897821566,
+  "pb": 1.2559776352,
+  "roe": 0.0885791751,
+  "roa": 0.0601237558,
+  "eps": 154.23107959203875,
+  "revenue": 459099147702,
+  "net_profit": 29581834926,
   "dividend": 0,
   "shareholders": [
     {
-      "shareholder_name": "Ancla Asset Limited",
-      "shareholder_percent": 0.0786
+      "shareholder_name": "PYN Elite Fund",
+      "shareholder_percent": 0.0835
     },
     {
-      "shareholder_name": "PYN Elite Fund",
-      "shareholder_percent": 0.0743
+      "shareholder_name": "Ancla Asset Limited",
+      "shareholder_percent": 0.0786
     },
     {
       "shareholder_name": "Lê Phương Thảo",
@@ -57,8 +57,12 @@
       "shareholder_percent": 0.0308
     },
     {
+      "shareholder_name": "Nguyễn Thị Khánh Hoà",
+      "shareholder_percent": 0.0289
+    },
+    {
       "shareholder_name": "Phạm Minh Tiến",
-      "shareholder_percent": 0.0224
+      "shareholder_percent": 0.0217
     },
     {
       "shareholder_name": "Ngô Thị Vân Hạnh",
@@ -97,10 +101,6 @@
       "shareholder_percent": 0.00037
     },
     {
-      "shareholder_name": "Vương Hồ Trí Dũng",
-      "shareholder_percent": 0.000369
-    },
-    {
       "shareholder_name": "Nguyễn Vũ Nghị",
       "shareholder_percent": 0.0003
     },
@@ -110,7 +110,15 @@
     },
     {
       "shareholder_name": "Phạm Lê Anh Thư",
-      "shareholder_percent": 0.00025
+      "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Đặng Phương Dung",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Vương Hồ Trí Dũng",
+      "shareholder_percent": 0.000184
     },
     {
       "shareholder_name": "Nguyễn Văn Nam",
@@ -122,7 +130,7 @@
     },
     {
       "shareholder_name": "Nguyễn Anh Vũ",
-      "shareholder_percent": 2.37e-07
+      "shareholder_percent": 2.4e-07
     }
   ],
   "officers": [
@@ -218,5 +226,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:18:11.904471"
+  "created_at": "2025-10-21T14:27:23.505851"
 }

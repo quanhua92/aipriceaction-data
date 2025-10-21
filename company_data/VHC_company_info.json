@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 13983431805700,
-  "current_price": 62300,
+  "market_cap": 11649118952100,
+  "current_price": 51900,
   "outstanding_shares": 224453159,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Vĩnh Ho&agrave;n (VHC), c&oacute; tiền th&acirc;n l&agrave; Doanh nghiệp tư nh&acirc;n Vĩnh Ho&agrave;n được th&agrave;nh lập v&agrave;o năm 1997. Năm 2007, VHC&nbsp;ch&iacute;nh thức chuyển đổi m&ocirc; h&igrave;nh kinh doanh sang C&ocirc;ng ty Cổ phần Vĩnh Ho&agrave;n.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực nu&ocirc;i trồng, chế biến xuất khẩu c&aacute; Tra, Basa đ&ocirc;ng lạnh với c&aacute;c sản phẩm ch&iacute;nh l&agrave; c&aacute; tra, basa, l&oacute;c, r&ocirc; phi, fillet mang thương hiệu Vĩnh ho&agrave;n. VHC l&agrave; C&ocirc;ng ty dẫn đầu ng&agrave;nh c&aacute; tra Việt Nam từ năm 2010 đến nay, chiếm thị phần khoảng 15% của to&agrave;n ng&agrave;nh. Sản phẩm của C&ocirc;ng ty đ&atilde; c&oacute; mặt tại c&aacute;c chuỗi b&aacute;n lẻ danh tiếng như Walmart, Target, Trader Joe, v&agrave; Kroger, v&agrave; được ph&acirc;n phối bởi c&aacute;c c&ocirc;ng ty về dịch vụ thực phẩm h&agrave;ng đầu của Mỹ như Sysco, Gordon Food Service, US Foods. VHC đang dẫn đầu trong số lượng c&aacute;c v&ugrave;ng nu&ocirc;i đạt chứng nhận tại Việt Nam với diện t&iacute;ch v&ugrave;ng nu&ocirc;i đạt chứng nhận Aquaculture Stewardship Council (ASC), Best Aquaculture Practices (BAP), Global Good Agricultural Practice (GlobalGAP) lần lượt đạt 180ha, 135ha, v&agrave; 155ha. Ng&agrave;y 24/12/2007, VHC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 2700,
-  "percent_price_change": 0.04530201,
-  "volume": 5129610,
-  "high_52w": 75300,
-  "low_52w": 43750,
-  "pe": 9.7776093376,
-  "pb": 1.4934384611,
-  "roe": 0.16063224,
-  "roa": 0.1135827716,
-  "eps": 2221.3213377495836,
-  "revenue": 3207128261359,
-  "net_profit": 498582591412,
-  "dividend": 0.0321027287,
+  "price_change": -2500,
+  "percent_price_change": -0.04595588,
+  "volume": 1468023,
+  "high_52w": 72770,
+  "low_52w": 42280,
+  "pe": 8.5508595124,
+  "pb": 1.3227941577,
+  "roe": 0.1625128538,
+  "roa": 0.1148482213,
+  "eps": 2293.417328405701,
+  "revenue": 3207153641359,
+  "net_profit": 514764764266,
+  "dividend": 0.0362976407,
   "shareholders": [
     {
       "shareholder_name": "Trương Thị Lệ Khanh",
@@ -130,19 +130,7 @@
     },
     {
       "shareholder_name": "Đặng Văn Viễn",
-      "shareholder_percent": 0.0002315702
-    },
-    {
-      "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Vĩnh Hoàn",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Tạ Khánh Toàn",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Trần Thị Hoàng Thư",
-      "shareholder_percent": 0.0002
+      "shareholder_percent": 0.00023157
     },
     {
       "shareholder_name": "Trương Chí Phước",
@@ -153,23 +141,27 @@
       "shareholder_percent": 0.0002
     },
     {
+      "shareholder_name": "Trần Thị Hoàng Thư",
+      "shareholder_percent": 0.0002
+    },
+    {
       "shareholder_name": "Nguyễn Quang Vinh",
       "shareholder_percent": 0.00016
     },
     {
+      "shareholder_name": "Công Đoàn Cơ Sở Công ty Cổ Phần Vĩnh Hoàn",
+      "shareholder_percent": 0.00016
+    },
+    {
       "shareholder_name": "Trần Minh Hảo",
-      "shareholder_percent": 0.000135492
+      "shareholder_percent": 0.00013549
     },
     {
       "shareholder_name": "Lê Mạnh Đức",
       "shareholder_percent": 0.0001082204
     },
     {
-      "shareholder_name": "Mai Thành Trọng Nhân",
-      "shareholder_percent": 0.0001
-    },
-    {
-      "shareholder_name": "Lê Thị Diệu Thi",
+      "shareholder_name": "Huỳnh Thị Hồng Diễm",
       "shareholder_percent": 0.0001
     },
     {
@@ -177,7 +169,11 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Huỳnh Thị Hồng Diễm",
+      "shareholder_name": "Lê Thị Diệu Thi",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Mai Thành Trọng Nhân",
       "shareholder_percent": 0.0001
     },
     {
@@ -193,11 +189,11 @@
       "shareholder_percent": 5.60606e-05
     },
     {
-      "shareholder_name": "Trương Tuyết Phương",
+      "shareholder_name": "Văn Thị Thảo",
       "shareholder_percent": 4e-05
     },
     {
-      "shareholder_name": "Văn Thị Thảo",
+      "shareholder_name": "Trương Tuyết Phương",
       "shareholder_percent": 4e-05
     },
     {
@@ -209,16 +205,20 @@
       "shareholder_percent": 1e-05
     },
     {
-      "shareholder_name": "Nguyễn Văn Hòa",
+      "shareholder_name": "Nguyễn Thị Cẩm Tú",
       "shareholder_percent": 1e-05
     },
     {
-      "shareholder_name": "Nguyễn Thị Cẩm Tú",
+      "shareholder_name": "Nguyễn Văn Hòa",
       "shareholder_percent": 1e-05
     },
     {
       "shareholder_name": "Trương Lệ Quyên",
       "shareholder_percent": 3.3e-07
+    },
+    {
+      "shareholder_name": "Tạ Khánh Toàn",
+      "shareholder_percent": 5e-08
     }
   ],
   "officers": [
@@ -274,7 +274,7 @@
     },
     {
       "officer_name": "Phan Thị Kiều Oanh",
-      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
       "officer_percent": 0.0001
     },
     {
@@ -289,7 +289,7 @@
     },
     {
       "officer_name": "Phan Thị Kim Hòa",
-      "officer_position": "Giám đốc Kinh doanh/Thành viên Ban kiểm soát",
+      "officer_position": "Thành viên Ban kiểm soát/Giám đốc Kinh doanh",
       "officer_percent": 0
     },
     {
@@ -314,5 +314,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:20:14.325071"
+  "created_at": "2025-10-21T14:25:02.186440"
 }

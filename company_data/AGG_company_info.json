@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 3404963296950,
-  "current_price": 20950,
+  "market_cap": 2722345356750,
+  "current_price": 16750,
   "outstanding_shares": 162528081,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Ph&aacute;t triển Bất động sản An Gia (AGG) được th&agrave;nh lập&nbsp;v&agrave;o năm 2012. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư ph&aacute;t triển v&agrave; kinh doanh&nbsp;c&aacute;c c&ocirc;ng tr&igrave;nh nh&agrave; ở. AGG trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ th&aacute;ng 11/2019. C&ocirc;ng ty đ&atilde; đầu tư ph&aacute;t triển một số dự &aacute;n nh&agrave; ở ti&ecirc;u biểu tại khu vực th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave; Vũng T&agrave;u như: Dự &aacute;n The Star tại quận B&igrave;nh T&acirc;n, dự &aacute;n The Garden tại quận T&acirc;n Ph&uacute; , dự &aacute;n Skyline, Riverside, River City, cụm dự &aacute;n Lacasa (River Panorama 1, River Panorama 2, Sky 89 v&agrave; Signial tại quận 7, v&agrave; The S&oacute;ng tại th&agrave;nh phố Vũng T&agrave;u. AGG lần lượt được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối năm 2019 v&agrave; đầu năm 2020.</div>\r\n",
   "website": null,
-  "price_change": 250,
-  "percent_price_change": 0.01207729,
-  "volume": 1625808,
-  "high_52w": 21750,
+  "price_change": -1200,
+  "percent_price_change": -0.06685237,
+  "volume": 607076,
+  "high_52w": 22100,
   "low_52w": 14150,
-  "pe": 20.7002734281,
-  "pb": 1.0552879716,
+  "pe": 17.489013827,
+  "pb": 0.8915798137,
   "roe": 0.0521312838,
   "roa": 0.023662494,
-  "eps": 495.90739844519544,
+  "eps": 495.90739845134823,
   "revenue": 193906331896,
-  "net_profit": 80598877823,
+  "net_profit": 80598877824,
   "dividend": 0,
   "shareholders": [
     {
@@ -151,5 +151,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:00:10.854167"
+  "created_at": "2025-10-21T14:00:53.317413"
 }

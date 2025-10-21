@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 104910246249300,
-  "current_price": 70900,
+  "market_cap": 119707178019300,
+  "current_price": 80900,
   "outstanding_shares": 1479693177,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Thế Giới Di Động (MWG) được th&agrave;nh lập từ&nbsp;th&aacute;ng 03/2004, với tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty TNHH Thế Giới Di Động. C&ocirc;ng ty&nbsp;quản l&yacute; vận h&agrave;nh c&aacute;c chuỗi cửa h&agrave;ng b&aacute;n lẻ Thế Giới Di Động, Điện M&aacute;y Xanh, B&aacute;ch Ho&aacute; Xanh,&nbsp;nh&agrave; thuốc An Khang&nbsp;với mạng lưới 5.750&nbsp;cửa h&agrave;ng tr&ecirc;n to&agrave;n quốc. Chuỗi của h&agrave;ng Thế Giới Di Động được th&agrave;nh lập từ 2004 l&agrave; chuỗi b&aacute;n lẻ thiết bị di động c&oacute; thị phần số 1 Việt Nam với hơn&nbsp;1.021&nbsp;cửa h&agrave;ng. Điện M&aacute;y Xanh ra đời cuối 2010, l&agrave; chuỗi b&aacute;n lẻ c&aacute;c sản phẩm điện tử ti&ecirc;u d&ugrave;ng (điện tử, điện lạnh v&agrave; gia dụng) c&oacute; thị phần số 1 Việt Nam với&nbsp;hơn&nbsp;2.026&nbsp;cửa h&agrave;ng. B&aacute;ch H&oacute;a Xanh ho&agrave;n tất giai đoạn thử nghiệm v&agrave;o cuối năm 2016, l&agrave; chuỗi cửa h&agrave;ng chuy&ecirc;n b&aacute;n lẻ thực phẩm tươi sống (thịt c&aacute;, rau củ, tr&aacute;i c&acirc;y&hellip;) v&agrave; nhu yếu phẩm với hơn&nbsp;1.770&nbsp;cửa h&agrave;ng. MWG&nbsp;ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 07/2014.</div>\r\n",
   "website": null,
-  "price_change": -1300,
-  "percent_price_change": -0.01800554,
-  "volume": 14374645,
-  "high_52w": 73700,
+  "price_change": -3600,
+  "percent_price_change": -0.04260355,
+  "volume": 17655862,
+  "high_52w": 87900,
   "low_52w": 45100,
-  "pe": 21.4553725284,
-  "pb": 3.5362890781,
+  "pe": 25.4801462185,
+  "pb": 4.1996550123,
   "roe": 0.1704377974,
   "roa": 0.0665420054,
   "eps": 1114.7747353528796,
@@ -26,7 +26,7 @@
   "shareholders": [
     {
       "shareholder_name": "Công ty TNHH Tư Vấn Đầu Tư Thế Giới Bán Lẻ",
-      "shareholder_percent": 0.10492
+      "shareholder_percent": 0.10369
     },
     {
       "shareholder_name": "Công ty TNHH Tri Tâm",
@@ -57,28 +57,28 @@
       "shareholder_percent": 0.022
     },
     {
-      "shareholder_name": "Vietnam Enterprise Investments Limited",
-      "shareholder_percent": 0.019399
-    },
-    {
       "shareholder_name": "J.p. Morgan Securties Plc",
       "shareholder_percent": 0.01887
     },
     {
-      "shareholder_name": "Norges Bank",
-      "shareholder_percent": 0.012881
+      "shareholder_name": "Vietnam Enterprise Investments Limited",
+      "shareholder_percent": 0.017254
     },
     {
       "shareholder_name": "Arisaig Global Emerging Markets Fund Pte. Ltd",
       "shareholder_percent": 0.01074
     },
     {
-      "shareholder_name": "Dragon Capital Markets Limited",
-      "shareholder_percent": 0.0088
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.009456
     },
     {
-      "shareholder_name": "Hanoi Investments Holdings Limited",
-      "shareholder_percent": 0.008483
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.008941
+    },
+    {
+      "shareholder_name": "Dragon Capital Markets Limited",
+      "shareholder_percent": 0.0088
     },
     {
       "shareholder_name": "ĐIÊU CHÍNH HẢI TRIỀU",
@@ -87,10 +87,6 @@
     {
       "shareholder_name": "Trần Huy Thanh Tùng",
       "shareholder_percent": 0.00752771
-    },
-    {
-      "shareholder_name": "Wareham Group Limited",
-      "shareholder_percent": 0.00702
     },
     {
       "shareholder_name": "Chambers Street Global Fund, Lp",
@@ -103,10 +99,6 @@
     {
       "shareholder_name": "Thanachart Securities Public Company Limited",
       "shareholder_percent": 0.00647
-    },
-    {
-      "shareholder_name": "Amersham Industries Limited",
-      "shareholder_percent": 0.006416
     },
     {
       "shareholder_name": "Nojima Corporation",
@@ -125,6 +117,10 @@
       "shareholder_percent": 0.00513
     },
     {
+      "shareholder_name": "Amersham Industries Limited",
+      "shareholder_percent": 0.005118
+    },
+    {
       "shareholder_name": "Robert Alan Willett",
       "shareholder_percent": 0.0047352
     },
@@ -137,12 +133,16 @@
       "shareholder_percent": 0.00454715
     },
     {
-      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
-      "shareholder_percent": 0.004185
+      "shareholder_name": "Wareham Group Limited",
+      "shareholder_percent": 0.004335
     },
     {
       "shareholder_name": "Phan Thị Thu Hiền",
       "shareholder_percent": 0.00396289
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.003847
     },
     {
       "shareholder_name": "Dempsey Hill Asia Master Fund",
@@ -165,12 +165,12 @@
       "shareholder_percent": 0.00246
     },
     {
-      "shareholder_name": "Phạm Văn Trọng",
-      "shareholder_percent": 0.00212
-    },
-    {
       "shareholder_name": "Idris Ltd",
       "shareholder_percent": 0.00207
+    },
+    {
+      "shareholder_name": "Phạm Văn Trọng",
+      "shareholder_percent": 0.00178
     },
     {
       "shareholder_name": "Viola Ltd",
@@ -193,12 +193,12 @@
       "shareholder_percent": 0.000984
     },
     {
-      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
-      "shareholder_percent": 0.000961
-    },
-    {
       "shareholder_name": "Vũ Đăng Linh",
       "shareholder_percent": 0.00094
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000933
     },
     {
       "shareholder_name": "Lumen Vietnam Fund",
@@ -257,6 +257,10 @@
       "shareholder_percent": 0.0002
     },
     {
+      "shareholder_name": "Quỹ Từ Thiện Mái Ấm Thế Giới Di Động",
+      "shareholder_percent": 0.0002
+    },
+    {
       "shareholder_name": "Nguyễn Thị Thu Tâm",
       "shareholder_percent": 0.00019069
     },
@@ -290,11 +294,7 @@
     },
     {
       "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
-      "shareholder_percent": 6.95042e-05
-    },
-    {
-      "shareholder_name": "Danang Investments Limited",
-      "shareholder_percent": 6.8e-05
+      "shareholder_percent": 6.95e-05
     },
     {
       "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
@@ -399,5 +399,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:54.021551"
+  "created_at": "2025-10-21T14:15:34.503251"
 }

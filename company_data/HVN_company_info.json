@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 70307015024500,
-  "current_price": 31750,
+  "market_cap": 72189250072400,
+  "current_price": 32600,
   "outstanding_shares": 2214394174,
   "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Tổng C&ocirc;ng ty H&agrave;ng kh&ocirc;ng Việt Nam (HVN) c&oacute; tiền th&acirc;n l&agrave; Cục H&agrave;ng kh&ocirc;ng d&acirc;n dụng, được th&agrave;nh lập v&agrave;o th&aacute;ng 01/1956. Hoạt động sản xuất ch&iacute;nh của Tổng C&ocirc;ng ty l&agrave; cung cấp dịch vụ vận tải h&agrave;ng kh&ocirc;ng. Vietnam Airlines ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần&nbsp;từ năm 2015.&nbsp;Năm 2024,&nbsp;HVN chiếm 30.6% thị phần h&agrave;ng kh&ocirc;ng. Ngo&agrave;i hệ thống kinh doanh trong nước, hiện tại mạng lưới gần 100 đường&nbsp;bay nội địa v&agrave; quốc tế, kết nối với hơn 1.150 điểm đến&nbsp;to&agrave;n cầu.&nbsp;HVN được Ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2019.</div>\r\n",
   "website": null,
-  "price_change": -650,
-  "percent_price_change": -0.02006173,
-  "volume": 1995200,
-  "high_52w": 34950,
-  "low_52w": 15053,
-  "pe": 8.3909156013,
+  "price_change": -2400,
+  "percent_price_change": -0.06857143,
+  "volume": 1402300,
+  "high_52w": 38450,
+  "low_52w": 15998,
+  "pe": 9.3162082673,
   "pb": 0,
   "roe": 0,
-  "roa": 0.1446618563,
-  "eps": 906.2895389175616,
-  "revenue": 28058368482050,
-  "net_profit": 2822542859962,
+  "roa": 0.1451647905,
+  "eps": 917.8251120537121,
+  "revenue": 28048946277519,
+  "net_profit": 2855811194166,
   "dividend": 0,
   "shareholders": [
     {
@@ -34,7 +34,11 @@
     },
     {
       "shareholder_name": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
-      "shareholder_percent": 0.3114
+      "shareholder_percent": 0.4713
+    },
+    {
+      "shareholder_name": "Bộ Tài Chính",
+      "shareholder_percent": 0.3929
     },
     {
       "shareholder_name": "Ana Holdings Inc.",
@@ -46,7 +50,7 @@
     },
     {
       "shareholder_name": "Công Đoàn Tổng Công ty Hàng Không Việt Nam",
-      "shareholder_percent": 0.00058
+      "shareholder_percent": 0.0005826
     },
     {
       "shareholder_name": "Quỹ Đầu tư Trái phiếu Bảo Việt",
@@ -90,14 +94,14 @@
     },
     {
       "shareholder_name": "Đặng Anh Tuấn",
+      "shareholder_percent": 9e-06
+    },
+    {
+      "shareholder_name": "Trần Thanh Hiền",
       "shareholder_percent": 8.9e-06
     },
     {
       "shareholder_name": "TRỊNH HỒNG QUANG",
-      "shareholder_percent": 8.9e-06
-    },
-    {
-      "shareholder_name": "Trần Thanh Hiền",
       "shareholder_percent": 8.9e-06
     },
     {
@@ -106,7 +110,7 @@
     },
     {
       "shareholder_name": "Lê Trường Giang",
-      "shareholder_percent": 8.59e-06
+      "shareholder_percent": 8.5e-06
     },
     {
       "shareholder_name": "Đinh Văn Tuấn",
@@ -129,7 +133,7 @@
       "shareholder_percent": 5.2e-06
     },
     {
-      "shareholder_name": "Trần Thị Hương",
+      "shareholder_name": "Nguyễn Xuân Tú",
       "shareholder_percent": 5e-06
     },
     {
@@ -138,6 +142,10 @@
     },
     {
       "shareholder_name": "Nguyễn Thái Trung",
+      "shareholder_percent": 5e-06
+    },
+    {
+      "shareholder_name": "Trần Thị Hương",
       "shareholder_percent": 5e-06
     },
     {
@@ -153,11 +161,11 @@
       "shareholder_percent": 4e-06
     },
     {
-      "shareholder_name": "Nguyễn Ngọc Trọng",
+      "shareholder_name": "Trịnh Hồng Minh",
       "shareholder_percent": 3e-06
     },
     {
-      "shareholder_name": "Trịnh Hồng Minh",
+      "shareholder_name": "Nguyễn Ngọc Trọng",
       "shareholder_percent": 3e-06
     },
     {
@@ -177,12 +185,24 @@
       "shareholder_percent": 2e-06
     },
     {
+      "shareholder_name": "Dương Thị Hồng",
+      "shareholder_percent": 1.7e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Diệu Thúy",
+      "shareholder_percent": 1.1e-06
+    },
+    {
       "shareholder_name": "Nguyễn Thị Phương Hiếu",
       "shareholder_percent": 1e-06
     },
     {
       "shareholder_name": "Kim Thị Thu Huyền",
       "shareholder_percent": 6e-07
+    },
+    {
+      "shareholder_name": "Đặng Thị Thu Hà",
+      "shareholder_percent": 5e-07
     }
   ],
   "officers": [
@@ -223,13 +243,13 @@
     },
     {
       "officer_name": "LÊ HỒNG HÀ",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 8.82e-06
     },
     {
       "officer_name": "Lê Trường Giang",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 8.59e-06
+      "officer_percent": 8.5e-06
     },
     {
       "officer_name": "Đinh Văn Tuấn",
@@ -243,7 +263,7 @@
     },
     {
       "officer_name": "Nguyễn Xuân Thủy",
-      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
       "officer_percent": 6e-06
     },
     {
@@ -278,5 +298,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:13:33.304593"
+  "created_at": "2025-10-21T14:12:04.251778"
 }

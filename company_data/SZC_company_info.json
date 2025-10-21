@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 7019448657000,
-  "current_price": 39000,
+  "market_cap": 5444572355750,
+  "current_price": 30250,
   "outstanding_shares": 179985863,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Sonadezi Ch&acirc;u Đức (SZC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần ph&aacute;t triển Hạ tầng Sonadezi được th&agrave;nh lập v&agrave;o năm&nbsp;2007. C&ocirc;ng ty hoạt động trong lĩnh vực&nbsp;lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh&nbsp;bất động sản. C&ocirc;ng ty hoạt động trong c&aacute;c lĩnh vực như: (i) Đầu tư v&agrave; ph&aacute;t triển khu đ&ocirc; thị, khu c&ocirc;ng nghiệp, khu d&acirc;n cư v&agrave; c&aacute;c s&acirc;n golf; (ii) Kinh doanh cơ sở hạ tầng của c&aacute;c c&ocirc;ng tr&igrave;nh; (iii) Giao dịch, mua b&aacute;n, chuyển nhượng, định gi&aacute;, quản l&yacute; bất động sản. Một số dự &aacute;n ti&ecirc;u biểu của c&ocirc;ng ty như: Dự &aacute;n Khu c&ocirc;ng nghiệp đ&ocirc; thị Ch&acirc;u Đức, dự &aacute;n BOT đường 768, dự &aacute;n khu dịch vụ thể dục thể thao Sonadezi&hellip; SZC được ni&ecirc;m yết va giao dịch&nbsp;tr&ecirc;n thị trường Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) lần lượt v&agrave;o cuối năm 2018 v&agrave; đầu năm 2019.</div>\r\n",
   "website": null,
-  "price_change": -750,
-  "percent_price_change": -0.01886792,
-  "volume": 3129113,
-  "high_52w": 47200,
-  "low_52w": 27700,
-  "pe": 19.7121650525,
-  "pb": 2.249029217,
-  "roe": 0.114052668,
-  "roa": 0.0436819799,
-  "eps": 527.4170538993943,
-  "revenue": 217842809146,
-  "net_profit": 94927613607,
-  "dividend": 0.0256410256,
+  "price_change": -2250,
+  "percent_price_change": -0.06923077,
+  "volume": 1689297,
+  "high_52w": 45874,
+  "low_52w": 26922,
+  "pe": 17.1574974746,
+  "pb": 1.7328791138,
+  "roe": 0.1007355809,
+  "roa": 0.0389347319,
+  "eps": 115.68236158080927,
+  "revenue": 86477663333,
+  "net_profit": 20821189683,
+  "dividend": 0.0330578512,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Cổ phần Phát triển Khu Công nghiệp",
@@ -66,7 +66,7 @@
     },
     {
       "shareholder_name": "Phạm Trọng Lập",
-      "shareholder_percent": 0.00045
+      "shareholder_percent": 0.0005
     },
     {
       "shareholder_name": "Nguyễn Minh Tân",
@@ -175,7 +175,7 @@
     },
     {
       "officer_name": "Trần Trung Chiến",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.00011
     },
     {
@@ -230,5 +230,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:34.484993"
+  "created_at": "2025-10-21T14:21:37.259133"
 }

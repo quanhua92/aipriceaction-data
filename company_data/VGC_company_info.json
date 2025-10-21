@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 29591100000000,
-  "current_price": 66000,
+  "market_cap": 20848275000000,
+  "current_price": 46500,
   "outstanding_shares": 448350000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Viglacera (VGC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Gạch ng&oacute;i S&agrave;nh sứ X&acirc;y Dựng,&nbsp;được th&agrave;nh lập v&agrave;o&nbsp;năm 1974. VGC ch&iacute;nh thức hoạt&nbsp;động&nbsp;dưới h&igrave;nh thức c&ocirc;ng ty cổ phần v&agrave;o&nbsp;ng&agrave;y&nbsp;22/07/2014. Hoạt động kinh doanh chủ yếu của c&ocirc;ng ty gồm: (i) Đầu tư, x&acirc;y dựng, kinh doanh ph&aacute;t triển nh&agrave; ở, bất động sản; v&agrave; (ii) Sản xuất v&agrave; kinh doanh vật liệu x&acirc;y dựng (cụ thể l&agrave;: k&iacute;nh x&acirc;y dựng, gạch ốp l&aacute;t, sứ vệ sinh, sản phẩm đất s&eacute;t nung).&nbsp;C&ocirc;ng ty đ&atilde; v&agrave; đang triển khai 1.327 ha diện t&iacute;ch khu c&ocirc;ng nghiệp v&agrave; dịch vụ, gồm 4 khu c&ocirc;ng nghiệp ở tỉnh Bắc Ninh v&agrave; khu c&ocirc;ng nghiệp Ph&uacute; H&agrave; ở Ph&uacute; Thọ. Ở mảng nh&agrave; ở thu nhập thấp, VIGLACERA ti&ecirc;n phong chuyển đổi dự &aacute;n v&agrave; l&agrave; đơn vị đầu ti&ecirc;n được hỗ trợ từ g&oacute;i 30.000 tỷ đồng của Ch&iacute;nh phủ. Ng&agrave;y 29/05/2019, VGC ch&iacute;nh thức&nbsp;giao dịch tr&ecirc;n s&agrave;n giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": -300,
-  "percent_price_change": -0.00452489,
-  "volume": 3030215,
-  "high_52w": 67700,
+  "price_change": -3500,
+  "percent_price_change": -0.07,
+  "volume": 2822190,
+  "high_52w": 69000,
   "low_52w": 36500,
-  "pe": 19.7427182518,
-  "pb": 3.2921407371,
-  "roe": 0.174877319,
-  "roa": 0.060852034,
-  "eps": 977.6355930433813,
-  "revenue": 3254052355613,
-  "net_profit": 438322918141,
-  "dividend": 0.0333333333,
+  "pe": 15.0467984373,
+  "pb": 2.2950040861,
+  "roe": 0.1580031254,
+  "roa": 0.0554904552,
+  "eps": 205.723661264637,
+  "revenue": 3336090653885,
+  "net_profit": 92236203528,
+  "dividend": 0.047311828,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Viglacera - Công ty Cổ phần",
@@ -175,7 +175,7 @@
     },
     {
       "officer_name": "Nguyễn Anh Tuấn",
-      "officer_position": "Người phụ trách quản trị công ty/Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -194,8 +194,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn  Trọng Hiền",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_name": "Đỗ Thị Phương Lan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -214,13 +214,13 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Đỗ Thị Phương Lan",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Nguyễn Thị Cẩm Vân",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thị Cẩm Vân",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Nguyễn  Trọng Hiền",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
     {
@@ -235,5 +235,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:19:48.631265"
+  "created_at": "2025-10-21T14:24:39.654486"
 }

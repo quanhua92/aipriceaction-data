@@ -5,27 +5,27 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 3702767250000,
-  "current_price": 11350,
+  "market_cap": 3294973500000,
+  "current_price": 10100,
   "outstanding_shares": 326235000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p align=\"left\">C&ocirc;ng ty Cổ phần Nhiệt điện Phả Lại (PPC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Nhiệt điện Phả Lại được th&agrave;nh lập v&agrave;o năm 1982. C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong&nbsp;lĩnh vực sản xuất v&agrave; kinh doanh&nbsp;điện năng. Từ năm 2006, PPC&nbsp;chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần. C&ocirc;ng ty&nbsp;hiện&nbsp;đang &nbsp;quản l&yacute; vận h&agrave;nh 02 Nh&agrave; m&aacute;y nhiệt điện, gồm 06 tổ m&aacute;y c&oacute; tổng c&ocirc;ng suất ph&aacute;t&nbsp;điện l&agrave; 1.040 MW. Mổi năm, PPC sản xuất v&agrave; cung cấp cho hệ thống điện lưới quốc gia khoảng 6 tỷ KWh. PPC được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 01/2007.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -50,
-  "percent_price_change": -0.00438596,
-  "volume": 1067378,
+  "price_change": -150,
+  "percent_price_change": -0.01463415,
+  "volume": 665111,
   "high_52w": 13150,
-  "low_52w": 10300,
-  "pe": 15.533880543,
-  "pb": 0.8050921411,
-  "roe": 0.051404789,
-  "roa": 0.0420822931,
-  "eps": 19.00061634421161,
-  "revenue": 1940199850554,
-  "net_profit": 6091845634,
-  "dividend": 0.0440528634,
+  "low_52w": 10100,
+  "pe": 14.3739874246,
+  "pb": 0.7186973648,
+  "roe": 0.0497129939,
+  "roa": 0.0411006346,
+  "eps": -44.562186416776406,
+  "revenue": 1496737230909,
+  "net_profit": -14287218680,
+  "dividend": 0.0495049505,
   "shareholders": [
     {
-      "shareholder_name": "Tổng Công ty Phát điện 2",
+      "shareholder_name": "Tổng Công ty Phát điện 2 - Công ty Cổ phần",
       "shareholder_percent": 0.51
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "shareholder_name": "Phạm Kim Lâm",
-      "shareholder_percent": 0.0003326684
+      "shareholder_percent": 0.00033267
     },
     {
       "shareholder_name": "Phạm Văn Thư",
@@ -106,7 +106,7 @@
     },
     {
       "shareholder_name": "Trịnh Thị Tuyết",
-      "shareholder_percent": 2.51607e-05
+      "shareholder_percent": 2.516e-05
     },
     {
       "shareholder_name": "Lê Thế Sơn",
@@ -156,7 +156,7 @@
     },
     {
       "officer_name": "Vũ Xuân Dũng",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -201,5 +201,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:12:20.937283"
+  "created_at": "2025-10-21T14:18:26.816108"
 }

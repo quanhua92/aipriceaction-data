@@ -5,28 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 694957542800,
-  "current_price": 11600,
+  "market_cap": 617074369900,
+  "current_price": 10300,
   "outstanding_shares": 59910133,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Cảng Đoạn x&aacute; (DXP)&nbsp;c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Xếp dỡ Đoạn X&aacute; được th&agrave;nh lập năm 1995. Năm 2001, c&ocirc;ng ty&nbsp;được cổ phần h&oacute;a. Hoạt động kinh doanh ch&iacute;nh của c&ocirc;ng ty l&agrave; b&ocirc;c xếp dỡ h&agrave;ng h&oacute;a tại cảng biển, kinh doanh kho b&atilde;i, dịch vụ vận tải, dịch vụ đại l&yacute; vận tải đường biển. So với c&aacute;c đơn vị kh&aacute;c c&ugrave;ng ng&agrave;nh, lợi thế lớn của c&ocirc;ng ty l&agrave; c&oacute; hệ thống kho b&atilde;i rộng r&atilde;i với diện t&iacute;ch gần 70.000 m2 b&atilde;i v&agrave; 800 m2 kho CFS. DXP ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2009.</p>\r\n</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Cảng Đoạn x&aacute; (DXP)&nbsp;c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp Xếp dỡ Đoạn X&aacute; được th&agrave;nh lập năm 1995. Năm 2001, c&ocirc;ng ty&nbsp;được cổ phần h&oacute;a. Hoạt động kinh doanh ch&iacute;nh của c&ocirc;ng ty l&agrave; b&ocirc;c xếp dỡ h&agrave;ng h&oacute;a tại cảng biển, kinh doanh kho b&atilde;i, dịch vụ vận tải, dịch vụ đại l&yacute; vận tải đường biển. So với c&aacute;c đơn vị kh&aacute;c c&ugrave;ng ng&agrave;nh, lợi thế lớn của c&ocirc;ng ty l&agrave; c&oacute; hệ thống kho b&atilde;i rộng r&atilde;i với diện t&iacute;ch gần 70.000 m2 b&atilde;i v&agrave; 800 m2 kho CFS. DXP ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2009.</p>\r\n</div>",
   "website": null,
-  "price_change": -100,
-  "percent_price_change": -0.00854701,
-  "volume": 374470,
+  "price_change": -500,
+  "percent_price_change": -0.0462963,
+  "volume": 184357,
   "high_52w": 12200,
   "low_52w": 7501,
-  "pe": 8.7819858115,
-  "pb": 0.7934895642,
+  "pe": 8.1763316176,
+  "pb": 0.738766146,
   "roe": 0.0914178489,
   "roa": 0.0814932344,
   "eps": 484.0017764106783,
   "revenue": 161266326383,
   "net_profit": 28996610797,
-  "dividend": 0.0431034483,
+  "dividend": 0.0462962963,
   "shareholders": [
     {
       "shareholder_name": "Hoàng Văn Quang",
-      "shareholder_percent": 0.2412707
+      "shareholder_percent": 0.1302811
     },
     {
       "shareholder_name": "Bùi Tuấn Minh",
@@ -106,7 +106,7 @@
     },
     {
       "shareholder_name": "Vũ Hữu Chinh",
-      "shareholder_percent": 0.0003809537
+      "shareholder_percent": 0.00038095
     },
     {
       "shareholder_name": "Dương Bá Linh",
@@ -115,10 +115,6 @@
     {
       "shareholder_name": "Hoàng Văn Minh",
       "shareholder_percent": 0.0002585
-    },
-    {
-      "shareholder_name": "Trần Việt Hùng",
-      "shareholder_percent": 0.000235
     },
     {
       "shareholder_name": "Hoàng Thị Hương",
@@ -197,5 +193,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:05:32.666778"
+  "created_at": "2025-10-21T14:07:40.745891"
 }

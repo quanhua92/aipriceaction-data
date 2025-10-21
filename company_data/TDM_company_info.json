@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 6446000000000,
-  "current_price": 58600,
-  "outstanding_shares": 110000000,
+  "market_cap": 6221600000000,
+  "current_price": 56000,
+  "outstanding_shares": 111100000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Nước Thủ Dầu Một (TDM)&nbsp;được th&agrave;nh lập năm 2013 l&agrave; c&ocirc;ng ty&nbsp;cổ phần&nbsp;với&nbsp;4 cổ&nbsp;đ&ocirc;ng s&aacute;ng lập l&agrave; C&ocirc;ng ty TNHH MTV Cấp tho&aacute;t nước&nbsp;m&ocirc;i trường B&igrave;nh Dương, C&ocirc;ng ty TNHH Thương mại NTP, C&ocirc;ng ty TNHH Thương mại Dịch vụ Kỹ thuật D&amp;B, v&agrave; C&ocirc;ng ty TNHH Sản xuất v&agrave; Thương mại Quỳnh Ph&uacute;c. Ng&agrave;nh nghề hoạt động ch&iacute;nh l&agrave; đầu tư, khai th&aacute;c c&aacute;c c&ocirc;ng tr&igrave;nh cấp nước, vệ sinh m&ocirc;i trường v&agrave; kinh doanh vật tư, thiết bị, c&ocirc;ng nghệ ng&agrave;nh nước. C&ocirc;ng ty hiện quản l&yacute; vận h&agrave;nh Nh&agrave; m&aacute;y nước Dĩ An&nbsp;với tổng c&ocirc;ng suất 200.000m3/ng&agrave;y đ&ecirc;m v&agrave; nh&agrave; m&aacute;y nước B&agrave;u B&agrave;ng với c&ocirc;ng suất<strong>&nbsp;6</strong>0.000 m3/ng&agrave;y đ&ecirc;m. TDM ch&iacute;nh thức được ni&ecirc;m yết tại&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ ng&agrave;y&nbsp;24/10/2018.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 1516,
+  "price_change": -2000,
+  "percent_price_change": -0.03448276,
+  "volume": 49527,
   "high_52w": 61000,
-  "low_52w": 44516,
-  "pe": 20.7182482216,
-  "pb": 2.5315363248,
-  "roe": 0.1243496223,
-  "roa": 0.1004082645,
-  "eps": 473.5965594239424,
-  "revenue": 99917812500,
-  "net_profit": 52616577752,
-  "dividend": 0.0221843003,
+  "low_52w": 45783,
+  "pe": 24.0049623049,
+  "pb": 2.416665112,
+  "roe": 0.1015399194,
+  "roa": 0.0798174835,
+  "eps": 28.280208838883887,
+  "revenue": 63954369100,
+  "net_profit": 3141931202,
+  "dividend": 0.0232142857,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Chứng khoán Vietcap",
@@ -73,11 +73,11 @@
       "shareholder_percent": 0.0167
     },
     {
-      "shareholder_name": "Công ty Tnhh Một Thành Viên Thương Mại Dịch Vụ Kỹ Thuật D&B",
+      "shareholder_name": "Ngô Văn Lui",
       "shareholder_percent": 0.014
     },
     {
-      "shareholder_name": "Ngô Văn Lui",
+      "shareholder_name": "Công ty Tnhh Một Thành Viên Thương Mại Dịch Vụ Kỹ Thuật D&B",
       "shareholder_percent": 0.014
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "shareholder_name": "Đặng Thị Mười",
-      "shareholder_percent": 0.006
+      "shareholder_percent": 0.0059
     },
     {
       "shareholder_name": "Trần Tấn Đức",
@@ -133,11 +133,11 @@
       "shareholder_percent": 0.001927
     },
     {
-      "shareholder_name": "Nguyễn Thị Ngọc Thanh",
+      "shareholder_name": "Nguyễn Hữu Nghĩa",
       "shareholder_percent": 0.0009
     },
     {
-      "shareholder_name": "Nguyễn Hữu Nghĩa",
+      "shareholder_name": "Nguyễn Thị Ngọc Thanh",
       "shareholder_percent": 0.0009
     },
     {
@@ -158,11 +158,7 @@
     },
     {
       "shareholder_name": "Quỹ Đầu tư Trái phiếu SSI",
-      "shareholder_percent": 0.0002089864
-    },
-    {
-      "shareholder_name": "Nguyễn Văn Tân",
-      "shareholder_percent": 0.00018
+      "shareholder_percent": 0.00020899
     },
     {
       "shareholder_name": "Nguyễn Minh Đức",
@@ -173,16 +169,16 @@
       "shareholder_percent": 0.00018
     },
     {
+      "shareholder_name": "Nguyễn Văn Tân",
+      "shareholder_percent": 0.00018
+    },
+    {
       "shareholder_name": "Phan Thành Đặng",
       "shareholder_percent": 0.000145
     },
     {
       "shareholder_name": "Nguyễn Phước Nguyên",
       "shareholder_percent": 9e-05
-    },
-    {
-      "shareholder_name": "Võ Trần Hồng Ngọc",
-      "shareholder_percent": 7e-05
     },
     {
       "shareholder_name": "Nguyễn Thành Đông",
@@ -251,5 +247,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:15:14.942889"
+  "created_at": "2025-10-21T14:22:27.346167"
 }

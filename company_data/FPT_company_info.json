@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 155687795822200,
-  "current_price": 105100,
-  "outstanding_shares": 1481330122,
+  "market_cap": 148205119527000,
+  "current_price": 87000,
+  "outstanding_shares": 1703507121,
   "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần FPT (FPT)&nbsp;c&oacute; tiền th&acirc;n&nbsp;l&agrave; C&ocirc;ng ty C&ocirc;ng nghệ Thực phẩm được th&agrave;nh lập năm 1988.&nbsp; C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực phần mềm, c&ocirc;ng nghệ th&ocirc;ng tin, t&iacute;ch hợp hệ thống, viễn th&ocirc;ng, v&agrave; gi&aacute;o dục&nbsp;đ&agrave;o tạo.&nbsp;FPT ch&iacute;nh thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ&nbsp;năm 2002.&nbsp;FPT sở hữu hơn 250&nbsp;giải ph&aacute;p phần mềm được cấp bản quyền trong c&aacute;c lĩnh vực chuy&ecirc;n biệt, mạng lưới hạ tầng internet phủ rộng khắp 63 tỉnh th&agrave;nh của cả nước. FPT tham gia v&agrave;o lĩnh vực gi&aacute;o dục đ&agrave;o tạo th&ocirc;ng qua Trường Đại học FPT, Trường Đại học Trực tuyến FUNiX - trường đại học trực tuyến đầu ti&ecirc;n của Việt Nam. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty đầu tư v&agrave;o c&aacute;c c&ocirc;ng ty li&ecirc;n kết trong lĩnh vực ph&acirc;n phối b&aacute;n lẻ c&aacute;c sản phẩm c&ocirc;ng nghệ, chứng kho&aacute;n v&agrave; quản l&yacute; quỹ đầu tư. Tr&ecirc;n lĩnh vực viễn th&ocirc;ng, FPT năm trong TOP 3 nh&agrave; cung cấp dịch vụ internet h&agrave;ng đầu Việt Nam.&nbsp;FPT được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2006.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -2400,
-  "percent_price_change": -0.02232558,
-  "volume": 22311517,
+  "price_change": -1100,
+  "percent_price_change": -0.01248581,
+  "volume": 14708215,
   "high_52w": 134505,
   "low_52w": 84324,
-  "pe": 20.6389293909,
-  "pb": 5.3758595912,
-  "roe": 0.2759814172,
-  "roa": 0.1167462286,
-  "eps": 1325.168082639321,
+  "pe": 18.1449151761,
+  "pb": 4.7267774097,
+  "roe": 0.2759904883,
+  "roa": 0.1168794787,
+  "eps": 1325.1852958488455,
   "revenue": 16658335760739,
-  "net_profit": 2257433265298,
-  "dividend": 0.0190294957,
+  "net_profit": 2257462588123,
+  "dividend": 0.0216450216,
   "shareholders": [
     {
       "shareholder_name": "Trương Gia Bình",
@@ -37,7 +37,7 @@
       "shareholder_percent": 0.0458
     },
     {
-      "shareholder_name": "Công ty TNHH Qt",
+      "shareholder_name": "Công ty TNHH QT",
       "shareholder_percent": 0.0369
     },
     {
@@ -185,11 +185,11 @@
       "shareholder_percent": 0.0019692828
     },
     {
-      "shareholder_name": "Nguyễn Khải Hoàn",
+      "shareholder_name": "Phạm Minh Tuấn",
       "shareholder_percent": 0.0017
     },
     {
-      "shareholder_name": "Phạm Minh Tuấn",
+      "shareholder_name": "Nguyễn Khải Hoàn",
       "shareholder_percent": 0.0017
     },
     {
@@ -217,15 +217,15 @@
       "shareholder_percent": 0.000919
     },
     {
-      "shareholder_name": "Nguyễn Thị Dư",
-      "shareholder_percent": 0.0007
-    },
-    {
       "shareholder_name": "Saigon Investments Limited",
       "shareholder_percent": 0.0007
     },
     {
       "shareholder_name": "Đỗ Thị Ngọc Mai",
+      "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Dư",
       "shareholder_percent": 0.0007
     },
     {
@@ -265,11 +265,11 @@
       "shareholder_percent": 0.0003476824
     },
     {
-      "shareholder_name": "Trương Ngọc Anh",
+      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
       "shareholder_percent": 0.0003
     },
     {
-      "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+      "shareholder_name": "Trương Ngọc Anh",
       "shareholder_percent": 0.0003
     },
     {
@@ -279,6 +279,10 @@
     {
       "shareholder_name": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
       "shareholder_percent": 0.0002905007
+    },
+    {
+      "shareholder_name": "Bùi Nguyễn Phương Châu",
+      "shareholder_percent": 0.0002
     },
     {
       "shareholder_name": "Nguyễn Thị Việt Nga",
@@ -339,6 +343,14 @@
     {
       "shareholder_name": "Bùi Ngọc Minh",
       "shareholder_percent": 2e-05
+    },
+    {
+      "shareholder_name": "Đỗ Hữu Binh",
+      "shareholder_percent": 6e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Đức Tiến",
+      "shareholder_percent": 6e-06
     },
     {
       "shareholder_name": "Mai Thị Lan Anh",
@@ -441,5 +453,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:11:50.227650"
+  "created_at": "2025-10-21T14:08:45.977135"
 }

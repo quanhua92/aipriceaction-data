@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2672282206900,
-  "current_price": 11950,
+  "market_cap": 2605195624300,
+  "current_price": 11650,
   "outstanding_shares": 223621942,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n APG (APG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Chứng kho&aacute;n An Ph&aacute;t được th&agrave;nh lập v&agrave;o năm 2007. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực&nbsp; m&ocirc;i giới chứng kho&aacute;n, hoạt động đầu tư, hoạt động tư vấn v&agrave; lưu k&yacute; chứng kho&aacute;n.&nbsp;<span style=\"font-size: 10pt;\">Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 23,43 tỷ đồng. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 11.58%, tăng 5.66%. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng -145.82 tỷ đồng. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức -6.27%, giảm 14.73%</span><span style=\"font-size: 10pt;\">.&nbsp;</span>APG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n APG (APG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Chứng kho&aacute;n An Ph&aacute;t được th&agrave;nh lập v&agrave;o năm 2007. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực&nbsp; m&ocirc;i giới chứng kho&aacute;n, hoạt động đầu tư, hoạt động tư vấn v&agrave; lưu k&yacute; chứng kho&aacute;n.&nbsp;<span style=\"font-size: 10pt;\">Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 23,43 tỷ đồng. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 11.58%, tăng 5.66%.&nbsp;</span>APG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2016.</div>",
   "website": null,
-  "price_change": 50,
-  "percent_price_change": 0.00420168,
-  "volume": 1179430,
+  "price_change": -50,
+  "percent_price_change": -0.0042735,
+  "volume": 796336,
   "high_52w": 13450,
   "low_52w": 5750,
-  "pe": -14.9882120658,
-  "pb": 1.1114435548,
-  "roe": -0.0738851589,
-  "roa": -0.0518245318,
-  "eps": -30.55583016536007,
-  "revenue": 161287771412,
-  "net_profit": -6832954081,
+  "pe": -238.9287489698,
+  "pb": 1.0822061217,
+  "roe": -0.0045313166,
+  "roa": -0.0026018823,
+  "eps": 86.35707185209938,
+  "revenue": 87245906320,
+  "net_profit": 19311336113,
   "dividend": 0,
   "shareholders": [
     {
@@ -199,5 +199,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:00:24.215087"
+  "created_at": "2025-10-21T14:01:09.563687"
 }

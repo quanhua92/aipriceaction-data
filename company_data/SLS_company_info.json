@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1871240689500,
-  "current_price": 191100,
+  "market_cap": 1627421259000,
+  "current_price": 166200,
   "outstanding_shares": 9791945,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần M&iacute;a đường Sơn La (SLS),&nbsp;tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Đường Sơn La được th&agrave;nh lập từ năm 1995. Năm 2008, C&ocirc;ng ty&nbsp;chuyển&nbsp;đổi m&ocirc; h&igrave;nh kinh doanh hoạt&nbsp;động l&agrave; C&ocirc;ng ty Cổ phần.&nbsp;C&ocirc;ng ty hoạt động kinh doanh ch&iacute;nh trong lĩnh vực chế biến v&agrave; kinh doanh đường, c&aacute;c sản phẩm sau đường (mật rỉ), Trong đ&oacute; hoạt động chế biến v&agrave; kinh doanh đường l&agrave; hoạt động ch&iacute;nh chiếm tỷ trọng lớn nhất trong tổng lợi nhuận của c&ocirc;ng ty (khoảng 88%). C&aacute;c sản phẩm chủ yếu l&agrave; đường A1, A2, B, C v&agrave; mật rỉ được ph&acirc;n phối trực tiếp cho c&aacute;c c&ocirc;ng ty b&aacute;nh kẹo như CTCP B&aacute;nh kẹo Hải h&agrave;, Hải Ch&acirc;u, C&ocirc;ng ty TNHH Kim H&agrave; Việt, C&ocirc;ng ty B&ograve; sữa Mộc Ch&acirc;u... Thị trường ti&ecirc;u thụ sản phẩm ch&iacute;nh của C&ocirc;ng ty l&agrave; H&agrave; Nội, chiếm 75% sản lượng. M&iacute;a đường Sơn La đ&atilde; ho&agrave;n th&agrave;nh dự &aacute;n x&acirc;y dựng d&acirc;y chuyền sản xuất đường RE chất lượng cao, trở th&agrave;nh doanh nghiệp duy nhất c&oacute; khả năng sản xuất đường RE tại miền Bắc v&agrave; cả nước cũng chỉ c&oacute; 5 doanh nghiệp c&oacute; khả năng sản xuất đường RE. Ng&agrave;y 16/10/2012, SLS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.00104767,
-  "volume": 6235,
-  "high_52w": 214000,
-  "low_52w": 171000,
-  "pe": 5.0005220608,
-  "pb": 1.0831999741,
+  "price_change": -4000,
+  "percent_price_change": -0.02350176,
+  "volume": 8805,
+  "high_52w": 197201,
+  "low_52w": 157577,
+  "pe": 4.5007315252,
+  "pb": 0.9749366591,
   "roe": 0.2361197415,
   "roa": 0.2032934091,
-  "eps": 9852.19533800486,
+  "eps": 9852.195337902735,
   "revenue": 371332690981,
-  "net_profit": 96472154879,
+  "net_profit": 96472154878,
   "dividend": 0,
   "shareholders": [
     {
@@ -39,6 +39,10 @@
     {
       "shareholder_name": "Tạ Ngọc Hương",
       "shareholder_percent": 0.0289311
+    },
+    {
+      "shareholder_name": "Trần Thị Liên",
+      "shareholder_percent": 0.0147
     },
     {
       "shareholder_name": "Trần Ngọc Hiếu",
@@ -103,23 +107,8 @@
       "officer_percent": 9.44e-05
     },
     {
-      "officer_name": "Nguyễn Văn Minh",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Trường Chinh",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Thái Văn Hùng",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Thị Bích Nhi",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -128,21 +117,36 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thị Thủy",
-      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_name": "Trần Thị Liên",
+      "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
-      "officer_name": "Trần Thị Liên",
-      "officer_position": "Người phụ trách quản trị công ty",
+      "officer_name": "Trần Thị Bích Nhi",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thủy",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
       "officer_name": "Nguyễn Khắc Chiến",
       "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Văn Minh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Trường Chinh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:12.761823"
+  "created_at": "2025-10-21T14:21:01.463058"
 }

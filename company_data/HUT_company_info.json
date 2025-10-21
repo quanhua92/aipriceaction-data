@@ -5,25 +5,29 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 18117992889500,
-  "current_price": 20300,
-  "outstanding_shares": 892511965,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Tasco (HUT) tiền th&acirc;n&nbsp;l&agrave; Đội cầu Nam H&agrave; được th&agrave;nh lập năm 1971,&nbsp;cung cấp một bộ dịch vụ &ocirc; t&ocirc; to&agrave;n diện v&agrave; cơ sở hạ tầng giao th&ocirc;ng th&ocirc;ng minh. HUT c&oacute; mối quan hệ hợp t&aacute;c chặt chẽ với 14 thương hiệu &ocirc; t&ocirc; nổi tiếng v&agrave; mạng lưới ph&acirc;n phối lớn nhất với hơn 90 showroom tr&ecirc;n to&agrave;n quốc. C&ocirc;ng ty cung cấp một loạt c&aacute;c dịch vụ vận tải th&ocirc;ng minh như thu ph&iacute; điện tử (ETC), th&ocirc;ng qua mạng lưới trạm rộng khắp, chiếm 70% thị phần. Tasco mong muốn n&acirc;ng cao trải nghiệm của kh&aacute;ch h&agrave;ng v&agrave; tận dụng c&aacute;c cơ hội mới nổi tr&ecirc;n thị trường &ocirc; t&ocirc; v&agrave; vận tải th&ocirc;ng minh của Việt Nam. Ng&agrave;y 04/04/2008, HUT ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
+  "market_cap": 16665255063600,
+  "current_price": 15600,
+  "outstanding_shares": 1068285581,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần Tasco (HUT) tiền th&acirc;n&nbsp;l&agrave; Đội cầu Nam H&agrave; được th&agrave;nh lập năm 1971,&nbsp;cung cấp một bộ dịch vụ &ocirc; t&ocirc; to&agrave;n diện v&agrave; cơ sở hạ tầng giao th&ocirc;ng th&ocirc;ng minh. HUT c&oacute; mối quan hệ hợp t&aacute;c chặt chẽ với 14 thương hiệu &ocirc; t&ocirc; nổi tiếng v&agrave; mạng lưới ph&acirc;n phối lớn nhất với hơn 90 showroom tr&ecirc;n to&agrave;n quốc. C&ocirc;ng ty cung cấp một loạt c&aacute;c dịch vụ vận tải th&ocirc;ng minh như thu ph&iacute; điện tử (ETC), th&ocirc;ng qua mạng lưới trạm rộng khắp, chiếm 70% thị phần. Tasco mong muốn n&acirc;ng cao trải nghiệm của kh&aacute;ch h&agrave;ng v&agrave; tận dụng c&aacute;c cơ hội mới nổi tr&ecirc;n thị trường &ocirc; t&ocirc; v&agrave; vận tải th&ocirc;ng minh của Việt Nam. Ng&agrave;y 04/04/2008, HUT ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>",
   "website": null,
-  "price_change": 1800,
-  "percent_price_change": 0.0972973,
-  "volume": 17060887,
-  "high_52w": 20300,
+  "price_change": -1700,
+  "percent_price_change": -0.0982659,
+  "volume": 22453142,
+  "high_52w": 21100,
   "low_52w": 10622,
-  "pe": 115.9487644641,
-  "pb": 2.0876307072,
-  "roe": 0.0184910556,
-  "roa": 0.0054089211,
-  "eps": 5.228410852919676,
-  "revenue": 8323067459645,
-  "net_profit": 5599703093,
+  "pe": 94.888048628,
+  "pb": 1.7162386677,
+  "roe": 0.0186165181,
+  "roa": 0.0054438297,
+  "eps": 6.020600297702605,
+  "revenue": 8389892271316,
+  "net_profit": 6431720487,
   "dividend": 0,
   "shareholders": [
+    {
+      "shareholder_name": "Công ty Cổ Phần Vii Holding",
+      "shareholder_percent": 0.3
+    },
     {
       "shareholder_name": "Phạm Quang Dũng",
       "shareholder_percent": 0.0746
@@ -113,6 +117,10 @@
       "shareholder_percent": 0.00364
     },
     {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán Quốc Gia",
+      "shareholder_percent": 0.003268
+    },
+    {
       "shareholder_name": "Trương Văn Thinh",
       "shareholder_percent": 0.00308
     },
@@ -181,15 +189,15 @@
       "shareholder_percent": 0.0001
     },
     {
+      "shareholder_name": "Công ty Cổ phần Bất động sản Hà Tây - TKV",
+      "shareholder_percent": 7.78787e-05
+    },
+    {
       "shareholder_name": "Bùi Trọng Tĩnh",
       "shareholder_percent": 7.78787e-05
     },
     {
       "shareholder_name": "Công ty Cổ phần Chứng khoán EuroCapital",
-      "shareholder_percent": 7.78787e-05
-    },
-    {
-      "shareholder_name": "Công ty Cổ phần Bất động sản Hà Tây - TKV",
       "shareholder_percent": 7.78787e-05
     },
     {
@@ -218,10 +226,6 @@
     },
     {
       "shareholder_name": "Phạm Đức Minh",
-      "shareholder_percent": 3.36e-05
-    },
-    {
-      "shareholder_name": "Nguyễn Văn Đoàn",
       "shareholder_percent": 3e-05
     },
     {
@@ -229,15 +233,19 @@
       "shareholder_percent": 3e-05
     },
     {
+      "shareholder_name": "Nguyễn Văn Đoàn",
+      "shareholder_percent": 3e-05
+    },
+    {
       "shareholder_name": "Nguyễn Thị Thuý Vinh",
       "shareholder_percent": 1.43296e-05
     },
     {
-      "shareholder_name": "Nguyễn Thế Minh",
+      "shareholder_name": "Nguyễn Hải Hà",
       "shareholder_percent": 1.12e-05
     },
     {
-      "shareholder_name": "Nguyễn Hải Hà",
+      "shareholder_name": "Nguyễn Thế Minh",
       "shareholder_percent": 1.12e-05
     },
     {
@@ -334,5 +342,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:13:27.130391"
+  "created_at": "2025-10-21T14:11:58.011739"
 }

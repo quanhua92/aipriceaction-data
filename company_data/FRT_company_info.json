@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 20191122049800,
-  "current_price": 148200,
-  "outstanding_shares": 136242389,
+  "market_cap": 22002990622000,
+  "current_price": 129200,
+  "outstanding_shares": 170301785,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ Phần B&aacute;n Lẻ Kỹ Thuật Số FPT (FRT)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH b&aacute;n lẻ FPT,&nbsp;được th&agrave;nh lập v&agrave;o năm 2007. C&ocirc;ng ty hoạt động trong lĩnh vưc ph&acirc;n phối&nbsp;b&aacute;n lẻ sản phẩm điện thoại, laptop, m&aacute;y t&iacute;nh bảng, phụ kiện&nbsp;v&agrave; c&aacute;c sản phẩm&nbsp;điện tử&nbsp;kh&aacute;c. FRT ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2012. T&iacute;nh đến thời điểm hiện tại, FPT Shop l&agrave; chuỗi b&aacute;n lẻ lớn thứ hai tr&ecirc;n thị trường b&aacute;n lẻ h&agrave;ng c&ocirc;ng nghệ, FPT Long Ch&acirc;u l&agrave; chuỗi b&aacute;n lẻ dược phẩm c&oacute; số lượng&nbsp;nh&agrave; thuốc lớn nhất Việt Nam.&nbsp;FRT được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối th&aacute;ng 04/2018.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -1800,
-  "percent_price_change": -0.012,
-  "volume": 772395,
+  "price_change": -9700,
+  "percent_price_change": -0.06983441,
+  "volume": 452229,
   "high_52w": 167520,
   "low_52w": 96880,
-  "pe": 46.8572870658,
-  "pb": 8.8047941121,
+  "pe": 44.9602309093,
+  "pb": 8.4483247148,
   "roe": 0.2486797878,
   "roa": 0.033009223,
   "eps": 696.7492821698845,
@@ -192,5 +192,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:11:56.677028"
+  "created_at": "2025-10-21T14:08:52.888524"
 }

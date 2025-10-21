@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 6006345960600,
-  "current_price": 63300,
+  "market_cap": 5123897028000,
+  "current_price": 54000,
   "outstanding_shares": 94886982,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dịch vụ H&agrave;ng h&oacute;a S&agrave;i G&ograve;n (SCS) được th&agrave;nh lập v&agrave;o ng&agrave;y 08/04/2008 với vốn điều lệ ban đầu l&agrave; 300 tỷ đồng. C&ocirc;ng ty chuy&ecirc;n cung cấp&nbsp;dịch vụ khai th&aacute;c h&agrave;ng h&oacute;a h&agrave;ng kh&ocirc;ng tại Cảng h&agrave;ng kh&ocirc;ng quốc tế T&acirc;n Sơn Nhất. C&ocirc;ng ty đang quản l&yacute; v&agrave; vận h&agrave;nh 143.000m2 nh&agrave; ga h&agrave;ng h&oacute;a SCSC nằm ở ph&iacute;a T&acirc;y Nam ga h&agrave;nh kh&aacute;ch &ndash; Cảng h&agrave;ng kh&ocirc;ng quốc tế T&acirc;n Sơn Nhất, bao gồm 52.421 m2 khu vực s&acirc;n đậu m&aacute;y bay c&oacute; sức chứa 3 m&aacute;y bay B747F hoặc 5 m&aacute;y bay A321 c&ugrave;ng l&uacute;c, 26.670m2 khu vực nh&agrave; ga h&agrave;ng h&oacute;a c&oacute; c&ocirc;ng suất thiết kế 200.000 tấn h&agrave;ng h&oacute;a trong giai đoạn 1 v&agrave; 350.000 tấn h&agrave;ng h&oacute;a trong giai đoạn 2, v&agrave; 64.000m2 khu vực nh&agrave; kho, b&atilde;i đậu xe, đường giao th&ocirc;ng, t&ograve;a nh&agrave; văn ph&ograve;ng v&agrave; c&ocirc;ng tr&igrave;nh phụ trợ. SCS được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 07/2017.</div>\r\n",
   "website": null,
-  "price_change": -600,
-  "percent_price_change": -0.00938967,
-  "volume": 1177705,
-  "high_52w": 85000,
-  "low_52w": 51900,
-  "pe": 9.0396408163,
-  "pb": 4.213434483,
-  "roe": 0.4808189654,
-  "roa": 0.3846091851,
-  "eps": 1990.387749723139,
-  "revenue": 291738736896,
-  "net_profit": 188861886581,
-  "dividend": 0.0473933649,
+  "price_change": -1300,
+  "percent_price_change": -0.02350814,
+  "volume": 348320,
+  "high_52w": 81099,
+  "low_52w": 49518,
+  "pe": 7.5180353048,
+  "pb": 3.1441240236,
+  "roe": 0.4858031234,
+  "roa": 0.3846442834,
+  "eps": 2149.581324959835,
+  "revenue": 311566893273,
+  "net_profit": 203967284489,
+  "dividend": 0.0555555556,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ phần Gemadept",
@@ -30,7 +30,7 @@
     },
     {
       "shareholder_name": "Tổng Công ty Cảng Hàng không Việt Nam - CTCP",
-      "shareholder_percent": 0.1472
+      "shareholder_percent": 0.1369
     },
     {
       "shareholder_name": "Công Ty TNHH Một Thành Viên Sửa Chữa Máy Bay 41",
@@ -50,7 +50,7 @@
     },
     {
       "shareholder_name": "Ngân hàng Thương mại Cổ phần Việt Á",
-      "shareholder_percent": 0.0437248691
+      "shareholder_percent": 0.04372487
     },
     {
       "shareholder_name": "Công ty Cổ phần Thương mại Dịch vụ Đầu tư Sài Gòn Hàng Không",
@@ -71,10 +71,6 @@
     {
       "shareholder_name": "Đỗ Tất Luận",
       "shareholder_percent": 0.0031
-    },
-    {
-      "shareholder_name": "Nguyễn Hoàng",
-      "shareholder_percent": 0.0016
     },
     {
       "shareholder_name": "Phạm Bích Vượng",
@@ -145,11 +141,11 @@
       "shareholder_percent": 0.00023
     },
     {
-      "shareholder_name": "Vũ Thị Hoàng Bắc",
+      "shareholder_name": "Nguyễn Ngọc Quý",
       "shareholder_percent": 6e-05
     },
     {
-      "shareholder_name": "Nguyễn Ngọc Quý",
+      "shareholder_name": "Vũ Thị Hoàng Bắc",
       "shareholder_percent": 6e-05
     },
     {
@@ -197,7 +193,7 @@
     },
     {
       "officer_name": "Tạ Thu Hà",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Người phụ trách quản trị công ty",
+      "officer_position": "Người phụ trách quản trị công ty/Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0.0004
     },
     {
@@ -237,5 +233,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:17:15.924871"
+  "created_at": "2025-10-21T14:20:17.206756"
 }

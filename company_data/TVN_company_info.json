@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 6034200000000,
-  "current_price": 8900,
+  "market_cap": 5085000000000,
+  "current_price": 7500,
   "outstanding_shares": 678000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng c&ocirc;ng ty Th&eacute;p Việt Nam (TVN)&nbsp;được th&agrave;nh lập tr&ecirc;n cơ sở hợp nhất những đơn vị sản xuất kinh doanh của ng&agrave;nh th&eacute;p Việt Nam l&agrave; Tổng c&ocirc;ng ty Kim kh&iacute; v&agrave; Tổng c&ocirc;ng ty Th&eacute;p. Hiện VNSTEEL đang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần với 6 đơn vị trực thuộc, 13&nbsp;c&ocirc;ng ty con v&agrave; 18&nbsp;c&ocirc;ng ty li&ecirc;n kết trực tiếp. Sản phẩm ch&iacute;nh của C&ocirc;ng ty gồm ph&ocirc;i th&eacute;p, th&eacute;p x&acirc;y dựng, th&eacute;p c&aacute;n dẹt. Hiện tại c&aacute;c doanh nghiệp trong hệ thống VNSTEEL cung cấp tr&ecirc;n 50% nhu cầu th&eacute;p x&acirc;y dựng v&agrave; khoảng 30% nhu cầu th&eacute;p c&aacute;n nguội trong nước.</div>\r\n",
   "website": null,
-  "price_change": -4,
-  "percent_price_change": -0.00045455,
-  "volume": 589261,
-  "high_52w": 10200,
+  "price_change": -277,
+  "percent_price_change": -0.03506329,
+  "volume": 492003,
+  "high_52w": 9700,
   "low_52w": 5200,
-  "pe": 14.4906867287,
-  "pb": 0.6952144989,
-  "roe": 0.0492010329,
-  "roa": 0.0162255779,
-  "eps": 377.5174259837758,
-  "revenue": 10736249235371,
-  "net_profit": 255956814817,
+  "pe": 13.0295349757,
+  "pb": 0.6331729262,
+  "roe": 0.049849087,
+  "roa": 0.0164480888,
+  "eps": 385.5710178864307,
+  "revenue": 11916432307123,
+  "net_profit": 261417150127,
   "dividend": 0,
   "shareholders": [
     {
@@ -112,7 +112,7 @@
     },
     {
       "officer_name": "Nguyễn Đình Phúc",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 5.5e-06
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "officer_name": "Phạm Công Thảo",
-      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -157,5 +157,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:16:23.097531"
+  "created_at": "2025-10-21T14:23:43.939452"
 }

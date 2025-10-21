@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 68583702174500,
-  "current_price": 29450,
+  "market_cap": 88844422341500,
+  "current_price": 38150,
   "outstanding_shares": 2328818410,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Vincom Retail (VRE) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Vincom Retail được th&agrave;nh lập v&agrave;o năm 2012.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực cho thu&ecirc; c&aacute;c trung t&acirc;m thương mại b&aacute;n lẻ v&agrave; c&aacute;c dịch vụ li&ecirc;n quan, cũng như đầu tư ph&aacute;t triển v&agrave; kinh doanh c&aacute;c loại h&igrave;nh bất động sản. Vincom l&agrave; thương hiệu bất động sản b&aacute;n lẻ h&agrave;ng đầu Việt Nam, giữ vị thế số 1 tại thị trường Việt Nam về mạng lưới v&agrave; độ phủ&nbsp;với 88&nbsp;trung t&acirc;m thương mại tại 48&nbsp;tỉnh th&agrave;nh, được ph&aacute;t triển theo bốn m&ocirc; h&igrave;nh sản phẩm: Vincom Center, Vincom Mega Mall, Vincom Plaza v&agrave; Vincom+.&nbsp;VRE được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối năm 2017.&nbsp;</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 7522241,
-  "high_52w": 31000,
+  "price_change": -2850,
+  "percent_price_change": -0.0695122,
+  "volume": 19008214,
+  "high_52w": 45200,
   "low_52w": 16100,
-  "pe": 15.200779958,
-  "pb": 1.5094821526,
-  "roe": 0.1034689096,
-  "roa": 0.0791122599,
-  "eps": 542.7324773555832,
+  "pe": 22.0656533383,
+  "pb": 2.1911837699,
+  "roe": 0.1034688861,
+  "roa": 0.079112242,
+  "eps": 542.7320372764132,
   "revenue": 2142630000000,
-  "net_profit": 1233261000000,
+  "net_profit": 1233260000000,
   "dividend": 0,
   "shareholders": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "shareholder_name": "RWC Global Emerging Equities",
-      "shareholder_percent": 0.0009
+      "shareholder_percent": 0.0007
     },
     {
       "shareholder_name": "SEI Global Emerging Markets",
@@ -218,5 +218,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:21:49.310323"
+  "created_at": "2025-10-21T14:26:50.887638"
 }

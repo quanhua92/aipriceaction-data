@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2881870141000,
-  "current_price": 8300,
+  "market_cap": 2222164928000,
+  "current_price": 6400,
   "outstanding_shares": 347213270,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần X&acirc;y dựng v&agrave; Kinh doanh Địa ốc Ho&agrave; B&igrave;nh (HBC) tiền th&acirc;n l&agrave; Văn ph&ograve;ng X&acirc;y dựng H&ograve;a B&igrave;nh được th&agrave;nh lập v&agrave;o năm 1987. C&ocirc;ng ty hoạt động kinh doanh ch&iacute;nh x&acirc;y dựng d&acirc;n dụng v&agrave; c&ocirc;ng nghiệp. Ngo&agrave;i ra C&ocirc;ng ty c&ograve;n sản xuất v&agrave; kinh doanh sơn Hodastone, th&agrave;nh phẩm mộc, trang tr&iacute; nội thất, nh&ocirc;m k&iacute;nh, kinh doanh mua b&aacute;n vật liệu x&acirc;y dựng v&agrave; địa ốc, x&acirc;y dựng v&agrave; thiết kế c&aacute;c c&ocirc;ng tr&igrave;nh cầu đường, cơ sở hạ tầng v&agrave; điện nươc. C&ocirc;ng ty được C&ocirc;ng ty Li&ecirc;n Doanh Ph&uacute; Mỹ Hưng, C&ocirc;ng ty Vạn Ph&aacute;t Hưng, C&ocirc;ng ty Bitexco Land, Tổng C&ocirc;ng ty Vật liệu X&acirc;y dựng Fico t&iacute;n nhiệm chọn l&agrave;m nh&agrave; thầu ch&iacute;nh. C&ocirc;ng ty đ&atilde; thi c&ocirc;ng c&aacute;c c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu như Saigon Sky Garden Apartments, Stamford Court, Riverside Apartment, Legend Hotel, Melinh Point Tower, Ocean Place. C&ocirc;ng ty&nbsp;l&agrave; nh&agrave; thầu ch&iacute;nh dự &aacute;n Vietinbank Tower (H&agrave; Nội) &ndash; c&ocirc;ng tr&igrave;nh cao nhất Việt Nam (cao 363m) v&agrave; dự &aacute;n Saigon Centre (TP.HCM) &ndash; c&ocirc;ng tr&igrave;nh s&acirc;u nhất Việt Nam với 6 tầng hầm (s&acirc;u 28m) tại thời điểm thi c&ocirc;ng. Ng&agrave;y 18/09/2024, HBC ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 59,
-  "percent_price_change": 0.00719512,
-  "volume": 5566295,
+  "price_change": -110,
+  "percent_price_change": -0.01666667,
+  "volume": 4011184,
   "high_52w": 8900,
   "low_52w": 4800,
-  "pe": 16.1096308028,
-  "pb": 1.6166917887,
-  "roe": 0.1041137172,
-  "roa": 0.0116278232,
-  "eps": 120.34082074685682,
-  "revenue": 935670340147,
-  "net_profit": 41783929886,
+  "pe": 13.0198964851,
+  "pb": 1.3870040194,
+  "roe": 0.1097009367,
+  "roa": 0.0122290507,
+  "eps": 146.45689533697833,
+  "revenue": 944732862266,
+  "net_profit": 50851777544,
   "dividend": 0,
   "shareholders": [
     {
@@ -349,5 +349,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:25.026844"
+  "created_at": "2025-10-21T14:10:24.828826"
 }

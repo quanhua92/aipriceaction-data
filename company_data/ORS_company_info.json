@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 4283996723250,
-  "current_price": 12750,
+  "market_cap": 4855196286350,
+  "current_price": 14450,
   "outstanding_shares": 335999743,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Ti&ecirc;n Phong (ORS) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Phương Đ&ocirc;ng&nbsp;được th&agrave;nh năm 2006. C&ocirc;ng ty hoạt động chủ yếu trong lĩnh vực m&ocirc;i giới chứng kho&aacute;n, tự doanh chứng kho&aacute;n, tư vấn đầu tư v&agrave; lưu k&yacute; chứng kho&aacute;n. Trong đ&oacute; hoạt động m&ocirc;i giới chứng kho&aacute;n l&agrave; một trong những nghiệp vụ chủ lực của C&ocirc;ng ty. C&ocirc;ng ty c&oacute; thị trường ph&acirc;n phối rộng khắp cả nước. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 61,32 tỷ đồng, tăng 46.57% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 72.36%, tăng 31.39%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 396,91 tỷ đồng v&agrave; đ&oacute;ng g&oacute;p 35.88% tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 481,45 tỷ đồng, tăng 69.85%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 11.74%, tăng 2.31%. ORS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ&nbsp;Ng&agrave;y 04/11/2021.</p>\r\n</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Ti&ecirc;n Phong (ORS) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Phương Đ&ocirc;ng&nbsp;được th&agrave;nh năm 2006. C&ocirc;ng ty hoạt động chủ yếu trong lĩnh vực m&ocirc;i giới chứng kho&aacute;n, tự doanh chứng kho&aacute;n, tư vấn đầu tư v&agrave; lưu k&yacute; chứng kho&aacute;n. Trong đ&oacute; hoạt động m&ocirc;i giới chứng kho&aacute;n l&agrave; một trong những nghiệp vụ chủ lực của C&ocirc;ng ty. C&ocirc;ng ty c&oacute; thị trường ph&acirc;n phối rộng khắp cả nước. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 61,32 tỷ đồng, tăng 46.57% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 72.36%, tăng 31.39%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 396,91 tỷ đồng v&agrave; đ&oacute;ng g&oacute;p 35.88% tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 481,45 tỷ đồng, tăng 69.85%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 11.74%, tăng 2.31%. ORS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ&nbsp;Ng&agrave;y 04/11/2021.</p>\r\n</div>",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.01593625,
-  "volume": 9056308,
-  "high_52w": 16200,
+  "price_change": -1050,
+  "percent_price_change": -0.06774194,
+  "volume": 3213890,
+  "high_52w": 17000,
   "low_52w": 7190,
-  "pe": 47.2302720514,
-  "pb": 1.1250802451,
-  "roe": 0.0234214031,
-  "roa": 0.0078674459,
-  "eps": -314.0869200724359,
-  "revenue": 291071945924,
-  "net_profit": -105533124424,
+  "pe": 53.5276416583,
+  "pb": 1.2750909444,
+  "roe": null,
+  "roa": null,
+  "eps": 397.2095479608745,
+  "revenue": 355756610881,
+  "net_profit": 133462306032,
   "dividend": 0,
   "shareholders": [
     {
@@ -90,11 +90,11 @@
     },
     {
       "shareholder_name": "Tạ Quang Lương",
-      "shareholder_percent": 0.000333
+      "shareholder_percent": 0.000298
     },
     {
       "shareholder_name": "Nguyễn Trát Minh Phương",
-      "shareholder_percent": 0.00016
+      "shareholder_percent": 0.000167
     },
     {
       "shareholder_name": "Trương Thị Hoàng Lan",
@@ -139,7 +139,7 @@
     },
     {
       "officer_name": "Nguyễn Thị Lệ Tùng",
-      "officer_position": "Giám đốc khối/Phụ trách Công bố thông tin/Giám đốc Tài chính/Người phụ trách quản trị công ty",
+      "officer_position": "Người phụ trách quản trị công ty/Giám đốc khối/Giám đốc Tài chính/Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
@@ -149,5 +149,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:11:47.427529"
+  "created_at": "2025-10-21T14:17:15.536136"
 }

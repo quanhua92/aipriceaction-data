@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 157438634602200,
-  "current_price": 25800,
-  "outstanding_shares": 6102272659,
+  "market_cap": 203388747702250,
+  "current_price": 25250,
+  "outstanding_shares": 8054999909,
   "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Qu&acirc;n đội (MBB) được th&agrave;nh lập từ năm 1994 với mục ti&ecirc;u ban đầu l&agrave; đ&aacute;p ứng nhu cầu dịch vụ t&agrave;i ch&iacute;nh cho c&aacute;c Doanh nghiệp Qu&acirc;n đội.&nbsp;Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động vốn, cấp t&iacute;n dụng v&agrave; c&aacute;c dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. B&ecirc;n cạnh thị trường truyền thống ban đầu, Ng&acirc;n h&agrave;ng&nbsp;đ&atilde; ph&aacute;t triển v&agrave; đa dạng h&oacute;a nhiều sản phẩm dịch vụ t&agrave;i ch&iacute;nh để đ&aacute;p ứng cho c&aacute;c đối tượng kh&aacute;ch h&agrave;ng kh&aacute;c nhau. TNăm 2024, so với c&ugrave;ng kỳ, bi&ecirc;n l&atilde;i thuần (NIM) ở mức 4.07%, giảm 0.71%. Tỷ lệ nợ xấu ở mức 1.62%, tăng 0.02%. Tỷ lệ bao phủ nợ xấu ở mức 92.25%, giảm 24.73%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 22,6 ngh&igrave;n tỷ đồng, tăng 9.46%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 22.09%, giảm 2.42%. MBB được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2001.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 1481,
-  "percent_price_change": 0.06089889,
-  "volume": 80144320,
-  "high_52w": 25800,
+  "price_change": -1850,
+  "percent_price_change": -0.06826568,
+  "volume": 74616456,
+  "high_52w": 29500,
   "low_52w": 14599,
-  "pe": 8.4706599103,
-  "pb": 1.6944986075,
+  "pe": 8.8810600998,
+  "pb": 1.7765964082,
   "roe": 0.2049440193,
   "roa": 0.0213020737,
   "eps": 729.6840554191494,
@@ -113,6 +113,10 @@
       "shareholder_percent": 0.0042995783
     },
     {
+      "shareholder_name": "Chi Nhánh Tổng Công Ty Trực Thăng Việt Nam - Công Ty Trách Nhiệm Hữu Hạn - Công Ty Trực Thăng Miền Nam",
+      "shareholder_percent": 0.0038
+    },
+    {
       "shareholder_name": "Công ty TNHH MTV Cơ điện Vật liệu nổ 31",
       "shareholder_percent": 0.0035760853
     },
@@ -202,7 +206,7 @@
     },
     {
       "shareholder_name": "Công Đoàn Cơ Sở Ngân Hàng TMCP Quân Đội",
-      "shareholder_percent": 0.000525
+      "shareholder_percent": 0.000531
     },
     {
       "shareholder_name": "Đặng Quốc Tiến",
@@ -357,10 +361,6 @@
       "shareholder_percent": 0.000133
     },
     {
-      "shareholder_name": "Nguyễn Thị Thủy",
-      "shareholder_percent": 0.00012
-    },
-    {
       "shareholder_name": "Vũ Hồng Phú",
       "shareholder_percent": 0.000118
     },
@@ -377,7 +377,7 @@
       "shareholder_percent": 0.0001036731
     },
     {
-      "shareholder_name": "Idris Ltd",
+      "shareholder_name": "Vũ Thái Huyền",
       "shareholder_percent": 0.0001
     },
     {
@@ -385,11 +385,7 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Quỹ Đầu Tư Japan Asia Mb Capital - Jambf",
-      "shareholder_percent": 0.0001
-    },
-    {
-      "shareholder_name": "Vũ Thái Huyền",
+      "shareholder_name": "Idris Ltd",
       "shareholder_percent": 0.0001
     },
     {
@@ -401,6 +397,10 @@
       "shareholder_percent": 9.3e-05
     },
     {
+      "shareholder_name": "Nguyễn Thị Thủy",
+      "shareholder_percent": 9e-05
+    },
+    {
       "shareholder_name": "Đỗ Kim Loan",
       "shareholder_percent": 9e-05
     },
@@ -409,11 +409,11 @@
       "shareholder_percent": 8.92418e-05
     },
     {
-      "shareholder_name": "Trần Thị Thoa",
+      "shareholder_name": "Lê Minh Hồng",
       "shareholder_percent": 8.9e-05
     },
     {
-      "shareholder_name": "Lê Minh Hồng",
+      "shareholder_name": "Trần Thị Thoa",
       "shareholder_percent": 8.9e-05
     },
     {
@@ -485,11 +485,11 @@
       "shareholder_percent": 3.35209e-05
     },
     {
-      "shareholder_name": "Nguyễn Thị Hải Lý",
+      "shareholder_name": "Đặng Thị Thuỷ",
       "shareholder_percent": 3e-05
     },
     {
-      "shareholder_name": "Đặng Thị Thuỷ",
+      "shareholder_name": "Nguyễn Thị Hải Lý",
       "shareholder_percent": 3e-05
     },
     {
@@ -537,14 +537,6 @@
       "shareholder_percent": 1.1e-05
     },
     {
-      "shareholder_name": "Trần Minh Tuấn",
-      "shareholder_percent": 1e-05
-    },
-    {
-      "shareholder_name": "Ngô Thị Xuyên",
-      "shareholder_percent": 1e-05
-    },
-    {
       "shareholder_name": "Trần Văn Đức",
       "shareholder_percent": 1e-05
     },
@@ -553,15 +545,23 @@
       "shareholder_percent": 1e-05
     },
     {
+      "shareholder_name": "Trần Minh Tuấn",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Ngô Thị Xuyên",
+      "shareholder_percent": 1e-05
+    },
+    {
       "shareholder_name": "Lê Công Sòa",
       "shareholder_percent": 9e-06
     },
     {
-      "shareholder_name": "Hà Trọng Khoa",
+      "shareholder_name": "Nguyễn Chí Thành",
       "shareholder_percent": 6e-06
     },
     {
-      "shareholder_name": "Nguyễn Chí Thành",
+      "shareholder_name": "Hà Trọng Khoa",
       "shareholder_percent": 6e-06
     },
     {
@@ -581,19 +581,19 @@
       "shareholder_percent": 1.29e-06
     },
     {
-      "shareholder_name": "Đặng Quốc Phán",
-      "shareholder_percent": 1e-06
-    },
-    {
-      "shareholder_name": "Nguyễn Hữu Bảo Khánh",
-      "shareholder_percent": 1e-06
-    },
-    {
       "shareholder_name": "Phạm Thanh Bình",
       "shareholder_percent": 1e-06
     },
     {
+      "shareholder_name": "Đặng Quốc Phán",
+      "shareholder_percent": 1e-06
+    },
+    {
       "shareholder_name": "Lê Trung",
+      "shareholder_percent": 1e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Hữu Bảo Khánh",
       "shareholder_percent": 1e-06
     },
     {
@@ -617,7 +617,7 @@
     },
     {
       "officer_name": "Lưu Trung Thái",
-      "officer_position": "Phụ trách Công bố thông tin/Tổng Giám đốc/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin/Tổng Giám đốc",
       "officer_percent": 0.0013
     },
     {
@@ -691,9 +691,9 @@
       "officer_percent": 0.000143
     },
     {
-      "officer_name": "Nguyễn Thị Thủy",
+      "officer_name": "Vũ Thái Huyền",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.00012
+      "officer_percent": 0.0001
     },
     {
       "officer_name": "Đỗ Thị Tuyết Mai",
@@ -701,9 +701,9 @@
       "officer_percent": 0.0001
     },
     {
-      "officer_name": "Vũ Thái Huyền",
+      "officer_name": "Nguyễn Thị Thủy",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0001
+      "officer_percent": 9e-05
     },
     {
       "officer_name": "Đặng Thúy Dung",
@@ -727,5 +727,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:21.684654"
+  "created_at": "2025-10-21T14:14:21.572397"
 }

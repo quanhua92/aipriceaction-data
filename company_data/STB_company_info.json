@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 101613127092400,
-  "current_price": 53900,
+  "market_cap": 103498342808400,
+  "current_price": 54900,
   "outstanding_shares": 1885215716,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần S&agrave;i G&ograve;n Thương T&iacute;n (STB) được th&agrave;nh lập&nbsp;v&agrave;o năm 1991&nbsp;tr&ecirc;n cơ sở hợp nhất Ng&acirc;n h&agrave;ng Ph&aacute;t triển Kinh tế G&ograve; Vấp c&ugrave;ng với 03 hợp t&aacute;c x&atilde; t&iacute;n dụng l&agrave; t&acirc;n B&igrave;nh, Th&agrave;nh C&ocirc;ng v&agrave; Lữ Gia.&nbsp;Sacombank l&agrave;&nbsp;ng&acirc;n h&agrave;ng Việt Nam ti&ecirc;n phong nhận được g&oacute;p vốn ủy th&aacute;c, t&agrave;i trợ v&agrave; hỗ trợ kỹ thuật từ c&aacute;c tổ chức t&agrave;i ch&iacute;nh quốc tế IFC, ADB, Proparco, FMO, ng&acirc;n h&agrave;ng TMCP Việt Nam đầu ti&ecirc;n x&acirc;y dựng v&agrave; đưa Trung t&acirc;m Dữ liệu (Data Center) hiện đại đạt ti&ecirc;u chuẩn quốc tế v&agrave;o hoạt động. Năm 2006, STB&nbsp;l&agrave; ng&acirc;n h&agrave;ng TMCP đầu ti&ecirc;n tại Việt Nam ti&ecirc;n phong ni&ecirc;m yết cổ phiếu tại HOSE. Năm 2024, so với c&ugrave;ng kỳ, bi&ecirc;n l&atilde;i thuần (NIM) ở mức 3.56%, giảm 0.14%. Tỷ lệ nợ xấu ở mức 2.4%, tăng 0.13%. Tỷ lệ bao phủ nợ xấu ở mức 68.43%, giảm 0.41%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 10,1 ngh&igrave;n tỷ đồng, tăng 30.69%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 20.03%, tăng 1.73%.</div>\r\n",
   "website": null,
-  "price_change": -100,
-  "percent_price_change": -0.00185185,
-  "volume": 10613133,
-  "high_52w": 55200,
-  "low_52w": 28750,
-  "pe": 8.7676575138,
-  "pb": 1.6986137891,
+  "price_change": -4100,
+  "percent_price_change": -0.06949153,
+  "volume": 13424719,
+  "high_52w": 61300,
+  "low_52w": 31300,
+  "pe": 9.8575147558,
+  "pb": 1.9097587314,
   "roe": 0.2070150941,
   "roa": 0.0153732279,
   "eps": 1534.889601991839,
@@ -26,7 +26,7 @@
   "shareholders": [
     {
       "shareholder_name": "PYN Elite Fund",
-      "shareholder_percent": 0.0577
+      "shareholder_percent": 0.0564
     },
     {
       "shareholder_name": "Trầm Trọng Ngân",
@@ -77,10 +77,6 @@
       "shareholder_percent": 0.0129781641
     },
     {
-      "shareholder_name": "Norges Bank",
-      "shareholder_percent": 0.0127
-    },
-    {
       "shareholder_name": "Phan Huy Khang",
       "shareholder_percent": 0.01192
     },
@@ -89,8 +85,12 @@
       "shareholder_percent": 0.0118
     },
     {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.0117
+    },
+    {
       "shareholder_name": "Amersham Industries Limited",
-      "shareholder_percent": 0.01
+      "shareholder_percent": 0.0101
     },
     {
       "shareholder_name": "VanEck Vietnam ETF",
@@ -149,7 +149,7 @@
       "shareholder_percent": 0.00182
     },
     {
-      "shareholder_name": "Công ty Cổ phần Chứng Khoán Beta",
+      "shareholder_name": "Công ty Cổ phần Chứng Khoán BETA",
       "shareholder_percent": 0.0013422
     },
     {
@@ -213,11 +213,11 @@
       "shareholder_percent": 0.00032
     },
     {
-      "shareholder_name": "Lưu Huỳnh",
+      "shareholder_name": "Phạm Duy Cường",
       "shareholder_percent": 0.0003136922
     },
     {
-      "shareholder_name": "Phạm Duy Cường",
+      "shareholder_name": "Lưu Huỳnh",
       "shareholder_percent": 0.0003136922
     },
     {
@@ -309,11 +309,11 @@
       "shareholder_percent": 4.99601e-05
     },
     {
-      "shareholder_name": "Nguyễn Đức Thạch Diễm",
+      "shareholder_name": "Hoàng Thanh Hải",
       "shareholder_percent": 4.05e-05
     },
     {
-      "shareholder_name": "Hoàng Thanh Hải",
+      "shareholder_name": "Nguyễn Đức Thạch Diễm",
       "shareholder_percent": 4.05e-05
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "shareholder_name": "Đào Nguyên Vũ",
-      "shareholder_percent": 2.78e-05
+      "shareholder_percent": 2.8e-05
     },
     {
       "shareholder_name": "Huỳnh Thanh Giang",
@@ -341,19 +341,19 @@
       "shareholder_percent": 1.04e-05
     },
     {
-      "shareholder_name": "Nguyễn Lê Ngọc Minh",
-      "shareholder_percent": 1e-05
-    },
-    {
       "shareholder_name": "Phạm Thị Luật",
       "shareholder_percent": 1e-05
     },
     {
-      "shareholder_name": "Đỗ Thị Mai Chi",
+      "shareholder_name": "Nguyễn Lê Ngọc Minh",
       "shareholder_percent": 1e-05
     },
     {
       "shareholder_name": "Nguyễn Thị Lệ An",
+      "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Đỗ Thị Mai Chi",
       "shareholder_percent": 1e-05
     },
     {
@@ -398,7 +398,7 @@
     },
     {
       "shareholder_name": "Dương Hoàng Anh Thy",
-      "shareholder_percent": 7.26e-07
+      "shareholder_percent": 7.3e-07
     },
     {
       "shareholder_name": "Nguyễn Xuân Vũ",
@@ -415,10 +415,6 @@
     {
       "shareholder_name": "Công ty Cổ phần Địa Ốc Sài Gòn Thương Tín",
       "shareholder_percent": 8.8e-09
-    },
-    {
-      "shareholder_name": "Hồ Doãn Thùy Nhi",
-      "shareholder_percent": 1.6e-09
     }
   ],
   "officers": [
@@ -453,19 +449,19 @@
       "officer_percent": 7e-05
     },
     {
+      "officer_name": "Nguyễn Đức Thạch Diễm",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 4.05e-05
+    },
+    {
       "officer_name": "Hoàng Thanh Hải",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 4.05e-05
     },
     {
-      "officer_name": "Nguyễn Đức Thạch Diễm",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 4.05e-05
-    },
-    {
       "officer_name": "Đào Nguyên Vũ",
       "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 2.78e-05
+      "officer_percent": 2.8e-05
     },
     {
       "officer_name": "Huỳnh Thanh Giang",
@@ -484,7 +480,7 @@
     },
     {
       "officer_name": "Hà Văn Trung",
-      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
       "officer_percent": 5.3e-06
     },
     {
@@ -508,12 +504,22 @@
       "officer_percent": 1e-07
     },
     {
-      "officer_name": "Lê Đức Thịnh",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Trần Minh Triết",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
-      "officer_name": "Lê Văn Ron",
+      "officer_name": "Lê Thị Hoa",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hà Tôn Trung Hạnh",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Bá Trị",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
@@ -523,31 +529,21 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Bá Trị",
+      "officer_name": "Lê Đức Thịnh",
       "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Hà Tôn Trung Hạnh",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Lê Thị Hoa",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Minh Triết",
-      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
       "officer_name": "Võ Anh Nhuệ",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Văn Ron",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:18:12.567340"
+  "created_at": "2025-10-21T14:21:24.241341"
 }

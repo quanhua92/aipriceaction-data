@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2271005440000,
-  "current_price": 48400,
+  "market_cap": 2134932800000,
+  "current_price": 45500,
   "outstanding_shares": 46921600,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty&nbsp;Cổ phần&nbsp;X&acirc;y dựng v&agrave; Sản xuất Vật liệu X&acirc;y dựng Bi&ecirc;n H&ograve;a (VLB) được th&agrave;nh lập năm 1983 với tiền th&acirc;n l&agrave; X&iacute; nghiệp Khai th&aacute;c Đất Bi&ecirc;n H&ograve;a. C&ocirc;ng ty đ&atilde; c&oacute; kinh nghiệm hơn 30 năm hoạt động trong lĩnh vực khai th&aacute;c, chế biến vật liệu x&acirc;y dựng. Tr&ecirc;n địa b&agrave;n tỉnh Đồng Nai, VLB đang quản l&yacute;, khai th&aacute;c v&agrave; kinh doanh 6 mỏ đ&aacute; v&agrave; hệ thống c&aacute;c bến thủy nội địa c&oacute; c&ocirc;ng suất bốc dỡ đ&aacute; tr&ecirc;n 2 triệu m3 đ&aacute; th&agrave;nh phẩm/năm để cung cấp vật liệu x&acirc;y dựng cho khu vực ph&iacute;a nam. VLB được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 09/2016.</div>\r\n",
   "website": null,
-  "price_change": 1065,
-  "percent_price_change": 0.02237395,
-  "volume": 114420,
-  "high_52w": 49500,
-  "low_52w": 29991,
-  "pe": 9.0604626939,
-  "pb": 3.1358450898,
-  "roe": 0.3561353041,
-  "roa": 0.2537114046,
-  "eps": 1694.8826561154233,
-  "revenue": 408502695417,
-  "net_profit": 79185866828,
-  "dividend": 0.0410972979,
+  "price_change": -1025,
+  "percent_price_change": -0.02130977,
+  "volume": 214167,
+  "high_52w": 49800,
+  "low_52w": 35020,
+  "pe": 8.7644360694,
+  "pb": 3.0333896559,
+  "roe": null,
+  "roa": null,
+  "eps": 1349.554980762217,
+  "revenue": 328018061990,
+  "net_profit": 63051964452,
+  "dividend": 0.0424853956,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Công Nghiệp Thực Phẩm Đồng Nai - MTV Công ty TNHH",
@@ -50,7 +50,7 @@
     },
     {
       "shareholder_name": "Nguyễn Văn Dũng",
-      "shareholder_percent": 0.0010377447
+      "shareholder_percent": 0.00103774
     },
     {
       "shareholder_name": "Trần Thị Thanh Bình",
@@ -58,11 +58,11 @@
     },
     {
       "shareholder_name": "Hứa Hồ Điệp",
-      "shareholder_percent": 0.0008391489
+      "shareholder_percent": 0.00083915
     },
     {
       "shareholder_name": "Nguyễn Thị Thuận Hiếu",
-      "shareholder_percent": 0.0006306383
+      "shareholder_percent": 0.00063064
     },
     {
       "shareholder_name": "Trần Quốc Triều",
@@ -90,7 +90,7 @@
     },
     {
       "shareholder_name": "Hồ Ngọc Liệp",
-      "shareholder_percent": 6.88889e-05
+      "shareholder_percent": 6.889e-05
     }
   ],
   "officers": [
@@ -146,5 +146,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:21:06.904147"
+  "created_at": "2025-10-21T14:25:53.612903"
 }

@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 52887340178100,
-  "current_price": 28300,
+  "market_cap": 44851454568000,
+  "current_price": 24000,
   "outstanding_shares": 1868810607,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Ng&acirc;n h&agrave;ng TMCP Xuất nhập khẩu Việt Nam (EIB) được th&agrave;nh lập v&agrave;o năm&nbsp;1989. Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động v&agrave; kinh doanh vốn, v&agrave; cung cấp c&aacute;c dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. EIB l&agrave; ng&acirc;n h&agrave;ng đầu ti&ecirc;n&nbsp;tại&nbsp;Việt&nbsp;Nam&nbsp;ph&aacute;t h&agrave;nh thẻ ghi nợ quốc tế Visa Debit.&nbsp;EIB được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2009. Năm 2024, so với c&ugrave;ng kỳ, Bi&ecirc;n l&atilde;i thuần (NIM) ở mức 2.78%, tăng 0.31%. Tỷ lệ nợ xấu ở mức 2.53%, giảm 0.12%. Tỷ lệ bao phủ nợ xấu ở mức 42.32%, tăng 1.11%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 3,3 ngh&igrave;n tỷ đồng, tăng 53.66%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 13.99%, tăng 3.91%.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 600,
-  "percent_price_change": 0.02166065,
-  "volume": 32425540,
-  "high_52w": 29600,
+  "price_change": -1800,
+  "percent_price_change": -0.06976744,
+  "volume": 12586065,
+  "high_52w": 31650,
   "low_52w": 15600,
-  "pe": 15.8710874955,
-  "pb": 2.0222879903,
+  "pe": 14.8616190329,
+  "pb": 1.8936618991,
   "roe": 0.1314119626,
   "roa": 0.0136822139,
   "eps": 271.77666800783936,
@@ -29,16 +29,16 @@
       "shareholder_percent": 0.1
     },
     {
+      "shareholder_name": "Công ty Cổ phần Chứng khoán VIX",
+      "shareholder_percent": 0.0455
+    },
+    {
       "shareholder_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
       "shareholder_percent": 0.0451
     },
     {
       "shareholder_name": "Sumitomo Mitsui Banking Corpration",
       "shareholder_percent": 0.0427
-    },
-    {
-      "shareholder_name": "Công ty Cổ phần Chứng khoán VIX",
-      "shareholder_percent": 0.0358
     },
     {
       "shareholder_name": "Công ty Cổ Phần Thắng Phương",
@@ -150,7 +150,7 @@
     },
     {
       "shareholder_name": "Đặng Phước Dừa",
-      "shareholder_percent": 7.73502e-05
+      "shareholder_percent": 7.735e-05
     },
     {
       "shareholder_name": "Đặng Hữu Tiến",
@@ -170,7 +170,7 @@
     },
     {
       "shareholder_name": "Bùi Đỗ Bích Vân",
-      "shareholder_percent": 4.25521e-05
+      "shareholder_percent": 4.255e-05
     },
     {
       "shareholder_name": "Đặng Anh Mai",
@@ -178,7 +178,7 @@
     },
     {
       "shareholder_name": "Nguyễn Quốc Hương",
-      "shareholder_percent": 3.38562e-05
+      "shareholder_percent": 3.386e-05
     },
     {
       "shareholder_name": "Nguyễn Thị Phương Thảo",
@@ -222,7 +222,7 @@
     },
     {
       "shareholder_name": "Trần Như Hoa",
-      "shareholder_percent": 4.758e-06
+      "shareholder_percent": 4.76e-06
     },
     {
       "shareholder_name": "Tô Nghị",
@@ -230,15 +230,15 @@
     },
     {
       "shareholder_name": "Nguyễn Quang Triết",
-      "shareholder_percent": 1.107e-06
+      "shareholder_percent": 1.11e-06
     },
     {
       "shareholder_name": "Nguyễn Ngọc Chung",
-      "shareholder_percent": 8.441e-07
+      "shareholder_percent": 8.4e-07
     },
     {
       "shareholder_name": "Nguyễn Thị Minh",
-      "shareholder_percent": 6.871e-07
+      "shareholder_percent": 6.9e-07
     },
     {
       "shareholder_name": "Nguyễn Khắc Tuân",
@@ -250,7 +250,7 @@
     },
     {
       "shareholder_name": "Bùi Đỗ Đan Thanh",
-      "shareholder_percent": 9.14e-08
+      "shareholder_percent": 9e-08
     },
     {
       "shareholder_name": "Nguyễn Hồng Long",
@@ -258,7 +258,7 @@
     },
     {
       "shareholder_name": "Nguyễn Văn Hào",
-      "shareholder_percent": 7.3e-09
+      "shareholder_percent": 1e-08
     }
   ],
   "officers": [
@@ -369,5 +369,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:05:39.822112"
+  "created_at": "2025-10-21T14:07:46.163595"
 }

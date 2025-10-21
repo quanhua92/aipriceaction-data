@@ -5,21 +5,21 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 23521925988000,
-  "current_price": 21400,
+  "market_cap": 27808632126000,
+  "current_price": 25300,
   "outstanding_shares": 1099155420,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Masan High-Tech Materials (MSR)&nbsp;được th&agrave;nh lập v&agrave;o năm 2010. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực khai th&aacute;c, chế biến v&agrave; kinh doanh&nbsp;kho&aacute;ng&nbsp;sản,&nbsp;kim loại m&agrave;u v&agrave; kim loại qu&yacute; hiếm. MSR đang quản l&yacute; v&agrave; khai th&aacute;c quặng N&uacute;i Ph&aacute;o tại huyện Đại Từ, tỉnh Th&aacute;i Nguy&ecirc;n với trữ lượng ước t&iacute;nh khoảng 66 triệu tấn. Sản&nbsp;phẩm ch&iacute;nh của&nbsp;C&ocirc;ng ty l&agrave; Vonfram, florit, bismuth v&agrave; đồng. MSR Ch&iacute;nh thức được giao dịch tr&ecirc;n thị trường UPCOM v&agrave;o th&aacute;ng 09/2015.</div>\r\n",
   "website": null,
-  "price_change": 207,
-  "percent_price_change": 0.00971831,
-  "volume": 2408970,
-  "high_52w": 25600,
+  "price_change": -2145,
+  "percent_price_change": -0.07371134,
+  "volume": 4387844,
+  "high_52w": 31800,
   "low_52w": 10400,
-  "pe": -30.4152512399,
-  "pb": 1.9786459486,
+  "pe": -42.2931372846,
+  "pb": 2.7530420853,
   "roe": -0.0645032474,
   "roa": -0.0263923701,
-  "eps": 5.134373990531748,
+  "eps": 5.131227065081869,
   "revenue": 1614307150000,
   "net_profit": 5643475000,
   "dividend": 0,
@@ -50,13 +50,13 @@
     },
     {
       "shareholder_name": "Lê Thanh Tùng",
-      "shareholder_percent": 1.918e-07
+      "shareholder_percent": 1.9e-07
     }
   ],
   "officers": [
     {
       "officer_name": "Nguyễn Thiều Nam",
-      "officer_position": "Thành viên Ban Kiểm toán nội bộ/Phó Chủ tịch Hội đồng Quản trị",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0.00099
     },
     {
@@ -121,5 +121,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:10:25.442413"
+  "created_at": "2025-10-21T14:15:22.859264"
 }

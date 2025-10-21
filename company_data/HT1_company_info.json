@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 6487028487000,
-  "current_price": 17000,
+  "market_cap": 6868618398000,
+  "current_price": 18000,
   "outstanding_shares": 381589911,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Xi măng VICEM H&agrave; Ti&ecirc;n (HT1) c&oacute; tiền th&acirc;n l&agrave; Nh&agrave; m&aacute;y Xi măng H&agrave; Ti&ecirc;n được khởi c&ocirc;ng x&acirc;y dựng từ năm 1960.&nbsp;C&ocirc;ng ty chuy&ecirc;n sản xuất v&agrave; kinh doanh Clinker CPC50, clinker bền sulfat, Xi măng PCB40, Xi măng hỗn hợp PCB40, Xi măng MS-PCB40, Xi măng x&aacute; v&agrave; jumbo. HT1 giữ vị thế&nbsp;l&agrave; đơn vị sản xuất xi măng h&agrave;ng đầu tại thị trường ph&iacute;a Nam Việt Nam. C&ocirc;ng ty c&oacute; 05 đơn vị sản xuất xi măng gồm c&oacute; 02 nh&agrave; m&aacute;y sản xuất clinker, xi măng v&agrave; 03 trạm nghiền xi măng với nhiệm vụ sản xuất, cung cấp v&agrave; ph&acirc;n phối xi măng cho c&aacute;c tỉnh, th&agrave;nh ở ph&iacute;a Nam, Đ&ocirc;ng Nam Bộ, T&acirc;y Nam Bộ, T&acirc;y Nguy&ecirc;n, Duy&ecirc;n hải Nam Trung Bộ đến Mũi C&agrave; Mau. HT1 được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -150,
-  "percent_price_change": -0.00874636,
-  "volume": 1842215,
-  "high_52w": 17450,
-  "low_52w": 9170,
-  "pe": 45.6354018268,
-  "pb": 1.3114554219,
-  "roe": 0.0291326118,
-  "roa": 0.0174342097,
-  "eps": 294.3783211291454,
-  "revenue": 2098265343733,
-  "net_profit": 112331797360,
-  "dividend": 0.0176470588,
+  "price_change": 350,
+  "percent_price_change": 0.01983003,
+  "volume": 2109221,
+  "high_52w": 19200,
+  "low_52w": 9120,
+  "pe": 33.4627362916,
+  "pb": 1.3753914581,
+  "roe": 0.0417573528,
+  "roa": 0.0252589198,
+  "eps": 224.48565015126934,
+  "revenue": 2037179231580,
+  "net_profit": 85661459262,
+  "dividend": 0.0166666667,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Xi măng Việt Nam",
@@ -126,7 +126,7 @@
     },
     {
       "shareholder_name": "Cái Hồng Thu",
-      "shareholder_percent": 6.94445e-05
+      "shareholder_percent": 6.944e-05
     },
     {
       "shareholder_name": "Trần Duy Sơn",
@@ -230,8 +230,23 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Phan Xuân Hiệu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Đinh Quang Dũng",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Nguyên Quỳnh",
+      "officer_position": "Kế toán trưởng/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Phạm Kiến Phương",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -245,26 +260,11 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Phạm Kiến Phương",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Bùi Nguyên Quỳnh",
-      "officer_position": "Kế toán trưởng/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Phan Xuân Hiệu",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Đặng Thị Phương Thơ",
       "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:13:22.094191"
+  "created_at": "2025-10-21T14:11:47.121542"
 }

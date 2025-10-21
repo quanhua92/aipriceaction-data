@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 73485000000000,
-  "current_price": 71000,
+  "market_cap": 64687500000000,
+  "current_price": 62500,
   "outstanding_shares": 1035000000,
-  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Tổng C&ocirc;ng ty Đầu tư v&agrave; Ph&aacute;t triển C&ocirc;ng nghiệp (BCM) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Thương Nghiệp Tổng Hợp Bến C&aacute;t (Becamex), được th&agrave;nh lập&nbsp;v&agrave;o năm 1976. Tổng c&ocirc;ng ty hoạt động trong lĩnh vực đầu tư ph&aacute;t triển c&ocirc;ng nghiệp - đ&ocirc; thị, x&acirc;y dựng d&acirc;n dụng - c&ocirc;ng nghiệp - giao th&ocirc;ng. BCM&nbsp;mang đến cho c&aacute;c nh&agrave; đầu tư m&ocirc; h&igrave;nh c&ocirc;ng nghiệp h&oacute;a ti&ecirc;n tiến th&ocirc;ng qua Khu c&ocirc;ng nghiệp Khoa học v&agrave; C&ocirc;ng nghệ (Science and Technology Industrial Park &ndash; STIP) 21 KCN, hiện diện tại 15 tỉnh th&agrave;nh cả nước, với mạng lưới 26 doanh nghiệp th&agrave;nh vi&ecirc;n trong nhiều lĩnh vực (Y tế, gi&aacute;o dục, viễn th&ocirc;ng, năng lượng, hạ tầng&hellip;). BCM được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối th&aacute;ng 07/2020.</div>\r\n",
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Tập đo&agrave;n Đầu tư v&agrave; Ph&aacute;t triển C&ocirc;ng nghiệp Becamex - CTCP (BCM) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Thương Nghiệp Tổng Hợp Bến C&aacute;t (Becamex), được th&agrave;nh lập&nbsp;v&agrave;o năm 1976. Tổng c&ocirc;ng ty hoạt động trong lĩnh vực đầu tư ph&aacute;t triển c&ocirc;ng nghiệp - đ&ocirc; thị, x&acirc;y dựng d&acirc;n dụng - c&ocirc;ng nghiệp - giao th&ocirc;ng. BCM&nbsp;mang đến cho c&aacute;c nh&agrave; đầu tư m&ocirc; h&igrave;nh c&ocirc;ng nghiệp h&oacute;a ti&ecirc;n tiến th&ocirc;ng qua Khu c&ocirc;ng nghiệp Khoa học v&agrave; C&ocirc;ng nghệ (Science and Technology Industrial Park &ndash; STIP) 21 KCN, hiện diện tại 15 tỉnh th&agrave;nh cả nước, với mạng lưới 26 doanh nghiệp th&agrave;nh vi&ecirc;n trong nhiều lĩnh vực (Y tế, gi&aacute;o dục, viễn th&ocirc;ng, năng lượng, hạ tầng&hellip;). BCM được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ cuối th&aacute;ng 07/2020.</div>",
   "website": null,
-  "price_change": -500,
-  "percent_price_change": -0.00699301,
-  "volume": 845721,
+  "price_change": -3400,
+  "percent_price_change": -0.05159332,
+  "volume": 233780,
   "high_52w": 82400,
   "low_52w": 49800,
-  "pe": 20.2988783951,
-  "pb": 3.4996164349,
-  "roe": 0.1817599141,
-  "roa": 0.0630101585,
-  "eps": 1416.6821808560387,
-  "revenue": 2524449424900,
-  "net_profit": 1466266057186,
-  "dividend": 0.014084507,
+  "pe": 18.478465594,
+  "pb": 3.1733750069,
+  "roe": 0.1819185573,
+  "roa": 0.0630892552,
+  "eps": 1425.7366573333334,
+  "revenue": 2919634610319,
+  "net_profit": 1475637440340,
+  "dividend": 0.0154320988,
   "shareholders": [
     {
       "shareholder_name": "Ủy Ban Nhân Dân Tỉnh Bình Dương",
@@ -126,7 +126,7 @@
     },
     {
       "officer_name": "Phạm Ngọc Thuận",
-      "officer_position": "Phụ trách Công bố thông tin/Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc/Phụ trách Công bố thông tin",
       "officer_percent": 0.0010657
     },
     {
@@ -175,16 +175,16 @@
       "officer_percent": 3e-06
     },
     {
-      "officer_name": "Nguyễn Văn Hoàng",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Huỳnh Vĩnh Thành",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
-      "officer_name": "Huỳnh Vĩnh Thành",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Nguyễn Văn Hoàng",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:09:17.828676"
+  "created_at": "2025-10-21T14:01:52.874880"
 }

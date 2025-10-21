@@ -5,21 +5,21 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 41990000000000,
-  "current_price": 16150,
-  "outstanding_shares": 2600000000,
-  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần H&agrave;ng Hải Việt Nam (MSB)&nbsp;được th&agrave;nh lập v&agrave;o năm 1991 theo Giấy ph&eacute;p hoạt động số 0001/NH-GP của Thống đốc Ng&acirc;n h&agrave;ng Nh&agrave; nước Việt Nam. Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động, cấp t&iacute;n dụng&nbsp;v&agrave; c&aacute;c&nbsp;dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. Tại Việt Nam, MSB l&agrave; ng&acirc;n h&agrave;ng&nbsp;đầu ti&ecirc;n&nbsp;xin được giấy ph&eacute;p thanh to&aacute;n quốc tế v&agrave; l&agrave; ng&acirc;n h&agrave;ng đầu ti&ecirc;n ứng dụng mạng m&aacute;y t&iacute;nh LAN v&agrave; WAN nhằm r&uacute;t ngắn thời gian chuyển tiền. MSB thuộc nh&oacute;m đầu ng&agrave;nh c&oacute; tỷ lệ tiền gửi kh&ocirc;ng kỳ hạn (CASA) tr&ecirc;n tổng tiền gửi cao nhất hệ thống, đặc biệt nguồn CASA được đ&oacute;ng g&oacute;p lớn từ tệp kh&aacute;ch h&agrave;ng chiến lược của ng&acirc;n h&agrave;ng (kh&aacute;ch h&agrave;ng b&aacute;n lẻ v&agrave; doanh nghiệp vừa v&agrave; nhỏ - SME).&nbsp;MSB&nbsp;ch&iacute;nh thức giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2020.&nbsp;</div>\r\n",
+  "market_cap": 38064000000000,
+  "current_price": 12200,
+  "outstanding_shares": 3120000000,
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần H&agrave;ng Hải Việt Nam (MSB)&nbsp;được th&agrave;nh lập v&agrave;o năm 1991 theo Giấy ph&eacute;p hoạt động số 0001/NH-GP của Thống đốc Ng&acirc;n h&agrave;ng Nh&agrave; nước Việt Nam. Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động, cấp t&iacute;n dụng&nbsp;v&agrave; c&aacute;c&nbsp;dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. Tại Việt Nam, MSB l&agrave; ng&acirc;n h&agrave;ng&nbsp;đầu ti&ecirc;n&nbsp;xin được giấy ph&eacute;p thanh to&aacute;n quốc tế v&agrave; l&agrave; ng&acirc;n h&agrave;ng đầu ti&ecirc;n ứng dụng mạng m&aacute;y t&iacute;nh LAN v&agrave; WAN nhằm r&uacute;t ngắn thời gian chuyển tiền. MSB thuộc nh&oacute;m đầu ng&agrave;nh c&oacute; tỷ lệ tiền gửi kh&ocirc;ng kỳ hạn (CASA) tr&ecirc;n tổng tiền gửi cao nhất hệ thống, đặc biệt nguồn CASA được đ&oacute;ng g&oacute;p lớn từ tệp kh&aacute;ch h&agrave;ng chiến lược của ng&acirc;n h&agrave;ng (kh&aacute;ch h&agrave;ng b&aacute;n lẻ v&agrave; doanh nghiệp vừa v&agrave; nhỏ - SME).&nbsp;MSB&nbsp;ch&iacute;nh thức giao dịch tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2020.&nbsp;</div>",
   "website": null,
-  "price_change": 650,
-  "percent_price_change": 0.04193548,
-  "volume": 53901605,
-  "high_52w": 16150,
-  "low_52w": 9500,
-  "pe": 8.2356586958,
-  "pb": 1.0681184599,
+  "price_change": -850,
+  "percent_price_change": -0.0651341,
+  "volume": 26303390,
+  "high_52w": 15624,
+  "low_52w": 7916,
+  "pe": 8.1081717191,
+  "pb": 1.0515841184,
   "roe": 0.1365232439,
   "roa": 0.0159715898,
-  "eps": 475.95846153846156,
+  "eps": 396.6320512820513,
   "revenue": 5107790000000,
   "net_profit": 1237492000000,
   "dividend": 0,
@@ -81,12 +81,16 @@
       "shareholder_percent": 0.0237
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Đầu Tư Xây Dựng Rox Cons Việt Nam",
-      "shareholder_percent": 0.0187
+      "shareholder_name": "Công ty Cổ Phần Đầu Tư Xây dựng Gen Cons Việt Nam",
+      "shareholder_percent": 0.0189
     },
     {
       "shareholder_name": "Công ty Cổ phần Rox Key Holdings",
       "shareholder_percent": 0.015
+    },
+    {
+      "shareholder_name": "Công ty Cổ Phần Sapphire Invest",
+      "shareholder_percent": 0.012
     },
     {
       "shareholder_name": "Công ty CP Đầu Tư Tiến An",
@@ -291,5 +295,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:10:19.669714"
+  "created_at": "2025-10-21T14:15:04.292018"
 }

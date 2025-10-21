@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1012624181250,
-  "current_price": 28850,
+  "market_cap": 917855193750,
+  "current_price": 26150,
   "outstanding_shares": 35099625,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">CNG VIệt Nam được th&agrave;nh lập năm 2007 với số vốn điều lệ l&agrave; 19,2 tỷ đồng tr&ecirc;n cơ sở vốn g&oacute;p của c&aacute;c cổ đ&ocirc;ng l&agrave;: Tổng c&ocirc;ng ty cổ phần dung dịch khoan v&agrave; h&oacute;a phẩm dầu kh&iacute; (DMC)- 51%, C&ocirc;ng ty IEV Energy Sdn.Bhd Malaysia- 42% v&agrave; c&ocirc;ng ty TNHH Sơn Anh- 7%, nhằm vận chuyển v&agrave; cung cấp kh&iacute; n&eacute;n thi&ecirc;n nhi&ecirc;n phục vụ nhu cầu sử dụng của c&aacute;c&nbsp;doanh nghiệp Việt Nam m&agrave; mạng lưới đường ống kh&iacute; thấp &aacute;p c&oacute; thể tiếp cận được. C&aacute;c kh&aacute;ch h&agrave;ng lớn của c&ocirc;ng ty l&agrave;: C&ocirc;ng ty TNHH URC VIệt Nam, C&ocirc;ng ty Cổ phần&nbsp;thực phẩm Masan, C&ocirc;ng ty TNHH Hyosung VIet Nam,...C&ocirc;ng ty l&agrave; doanh nghiệp ti&ecirc;n phong trong việc phổ biến sản phẩm CNG tại Việt Nam v&agrave; hiện l&agrave; doanh nghiệp lớn nhất trong ng&agrave;nh.&nbsp;C&ocirc;ng ty cung cấp trọng g&oacute;i nhi&ecirc;n liệu sạch CNG, LNG v&agrave; LPG cho kh&aacute;ch h&agrave;ng tr&ecirc;n to&agrave;n quốc như: Khu vực miền Bắc (H&agrave; Nội, Th&aacute;i Nguy&ecirc;n, Bắc Ninh, Hải Ph&ograve;ng,...), khu vực Trung Bộ (Huế, Đ&agrave; Nẵng, Quảng Nam, B&igrave;nh Định), khu vực Đ&ocirc;ng Nam Bộ v&agrave; c&aacute;c v&ugrave;ng miền kh&aacute;c (B&igrave;nh Dương, TP. Hồ Ch&iacute; Minh, B&agrave; Rịa- Vũng T&agrave;u,...).</div>\r\n",
   "website": null,
-  "price_change": -200,
-  "percent_price_change": -0.00688468,
-  "volume": 91910,
-  "high_52w": 36735,
-  "low_52w": 24750,
-  "pe": 12.1194204233,
-  "pb": 1.6343574005,
-  "roe": 0.1336390247,
-  "roa": 0.0621379559,
-  "eps": 1058.7201434342078,
-  "revenue": 1095137262001,
-  "net_profit": 37160333813,
-  "dividend": 0.0415944541,
+  "price_change": -150,
+  "percent_price_change": -0.00570342,
+  "volume": 17622,
+  "high_52w": 31784,
+  "low_52w": 23730,
+  "pe": 11.1399995129,
+  "pb": 1.4256493691,
+  "roe": 0.1304372998,
+  "roa": 0.0595280387,
+  "eps": 747.7377668066182,
+  "revenue": 1166042541874,
+  "net_profit": 26245070703,
+  "dividend": 0.0458891013,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần",
@@ -74,7 +74,7 @@
     },
     {
       "shareholder_name": "Trần Quang Đán",
-      "shareholder_percent": 2.82222e-05
+      "shareholder_percent": 2.822e-05
     },
     {
       "shareholder_name": "Trần Thị Thu Hiền",
@@ -165,5 +165,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:03:01.092945"
+  "created_at": "2025-10-21T14:04:13.671230"
 }

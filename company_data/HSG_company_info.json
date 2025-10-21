@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 12233351487300,
-  "current_price": 19700,
+  "market_cap": 10556699253000,
+  "current_price": 17000,
   "outstanding_shares": 620982309,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Hoa Sen (HSG), c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Hoa Sen,&nbsp;được&nbsp;th&agrave;nh lập năm 2001. Năm 2007 chuyển sang hoạt động theo m&ocirc; h&igrave;nh Tập đo&agrave;n. C&ocirc;ng ty c&oacute; hai nh&oacute;m sản phẩm ch&iacute;nh l&agrave; nh&oacute;m sản phẩm được sản xuất từ nguy&ecirc;n liệu th&eacute;p như t&ocirc;n mạ hợp kim nh&ocirc;m kẽm, t&ocirc;n mạ m&agrave;u, x&agrave; gồ th&eacute;p mạ kẽm, v&agrave; nh&oacute;m sản phẩm nhựa như ống nhựa PVC, hạt nhựa, tấm trần nhựa. Hiện nay,&nbsp;C&ocirc;ng ty cổ phần Tập đo&agrave;n Hoa Sen l&agrave; doanh nghiệp số 1 trong lĩnh vực sản xuất v&agrave; kinh doanh t&ocirc;n th&eacute;p ở Việt Nam v&agrave; l&agrave; nh&agrave; xuất khẩu t&ocirc;n th&eacute;p h&agrave;ng đầu khu vực Đ&ocirc;ng Nam &Aacute;. C&ocirc;ng ty&nbsp;ch&uacute; trọng đầu tư v&agrave;o chuỗi gi&aacute; trị của hoạt động sản xuất t&ocirc;n, th&eacute;p bằng việc đầu tư nhiều d&acirc;y chuyền sản xuất lớn, c&ocirc;ng nghệ hiện đại để n&acirc;ng cao gi&aacute; trị cho c&aacute;c sản phẩm b&aacute;n ra. C&ocirc;ng ty&nbsp; trực tiếp đầu tư, x&acirc;y dựng hệ thống ph&acirc;n phối rộng khắp cả nước gi&uacute;p&nbsp;c&ocirc;ng ty&nbsp;c&oacute; được lợi nhuận bi&ecirc;n cao hơn c&aacute;c doanh nghiệp c&ugrave;ng ng&agrave;nh. Hệ thống ph&acirc;n phối của c&ocirc;ng ty đến nay đ&atilde;&nbsp;hơn 400 chi nh&aacute;nh v&agrave; ph&aacute;t triển tới hơn&nbsp;90 quốc gia v&agrave; v&ugrave;ng l&atilde;nh thổ. HSG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2008.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -150,
-  "percent_price_change": -0.00755668,
-  "volume": 14647570,
-  "high_52w": 21375,
+  "price_change": -1250,
+  "percent_price_change": -0.06849315,
+  "volume": 13317812,
+  "high_52w": 21200,
   "low_52w": 12400,
-  "pe": 26.2226863882,
-  "pb": 1.0884282476,
+  "pe": 24.4257002652,
+  "pb": 1.013840525,
   "roe": 0.0418018618,
   "roa": 0.0244815576,
   "eps": 440.8747112874676,
@@ -181,16 +181,16 @@
       "shareholder_percent": 0.0003114841
     },
     {
+      "shareholder_name": "Vũ Văn Thanh",
+      "shareholder_percent": 0.0003
+    },
+    {
       "shareholder_name": "Nguyễn Minh Phúc",
       "shareholder_percent": 0.0003
     },
     {
       "shareholder_name": "Nguyễn Văn Luân",
-      "shareholder_percent": 0.0003
-    },
-    {
-      "shareholder_name": "Vũ Văn Thanh",
-      "shareholder_percent": 0.0003
+      "shareholder_percent": 0.00028
     },
     {
       "shareholder_name": "Trần Thành Nam",
@@ -282,7 +282,7 @@
     },
     {
       "shareholder_name": "Nguyễn Thị Lài",
-      "shareholder_percent": 1.299e-06
+      "shareholder_percent": 1.3e-06
     },
     {
       "shareholder_name": "Quỹ đầu tư chứng khoán Bản Việt",
@@ -297,7 +297,7 @@
     },
     {
       "officer_name": "Trần Quốc Trí",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0019
     },
     {
@@ -311,13 +311,13 @@
       "officer_percent": 0.0009
     },
     {
-      "officer_name": "Nguyễn Thị Ngọc Lan",
-      "officer_position": "Kế toán trưởng",
+      "officer_name": "Hoàng Đức Huy",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0008
     },
     {
-      "officer_name": "Hoàng Đức Huy",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Nguyễn Thị Ngọc Lan",
+      "officer_position": "Kế toán trưởng",
       "officer_percent": 0.0008
     },
     {
@@ -336,24 +336,19 @@
       "officer_percent": 0.0004
     },
     {
-      "officer_name": "Nguyễn Văn Luân",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0.0003
-    },
-    {
       "officer_name": "Vũ Văn Thanh",
       "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
       "officer_percent": 0.0003
     },
     {
+      "officer_name": "Nguyễn Văn Luân",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.00028
+    },
+    {
       "officer_name": "Trần Thành Nam",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0002
-    },
-    {
-      "officer_name": "Đinh Viết Duy",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0.0001
     },
     {
       "officer_name": "Nguyễn Tấn Hòa",
@@ -364,8 +359,13 @@
       "officer_name": "Bùi Thanh Tâm",
       "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0.0001
+    },
+    {
+      "officer_name": "Đinh Viết Duy",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0.0001
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:13:16.889864"
+  "created_at": "2025-10-21T14:11:41.629960"
 }

@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 3378616614900,
-  "current_price": 15900,
+  "market_cap": 3038630037300,
+  "current_price": 14300,
   "outstanding_shares": 212491611,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p style=\"text-align: justify;\">Tổng C&ocirc;ng ty Chăn nu&ocirc;i Việt Nam - CTCP (VLC), tiền thần l&agrave; một Doanh nghiệp Nh&agrave; nước được th&agrave;nh lập năm 1996. Năm 2013, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. Lĩnh vực kinh doanh ch&iacute;nh&nbsp;của C&ocirc;ng ty&nbsp;trong lĩnh vực: Chăn nu&ocirc;i gia s&uacute;c, gia cầm; B&aacute;n bu&ocirc;n thực phẩm; Xuất nhập khẩu c&aacute;c sản phẩm gia s&uacute;c, gia cầm, thực phẩm, nguy&ecirc;n liệu th&ocirc;, thức ăn chăn nu&ocirc;i, thuốc th&uacute; y v&agrave; vật tư th&uacute; &yacute;... VLC hiện đang điều h&agrave;nh C&ocirc;ng ty cổ phần giống b&ograve; sữa Mộc Ch&acirc;u, với quy m&ocirc; sản xuất chăn nu&ocirc;i lớn tại tỉnh Sơn La, g&oacute;p phần chủ lực cho doanh thu hiện c&oacute; của Tổng c&ocirc;ng ty. VLC l&agrave; đơn vị th&agrave;nh vi&ecirc;n của C&ocirc;ng ty Cổ phần GTNFOODS, do đ&oacute; VLC lu&ocirc;n nhận được sự gi&uacute;p đỡ kịp thời về vốn, chiến lược kinh doanh, hệ thống nh&agrave; cung cấp, k&ecirc;nh ph&acirc;n phối từ ph&iacute;a GTN.&nbsp;Ng&agrave;y 26/10/2015, VLC ch&iacute;nh thức được giao dịch tr&ecirc;n thị trường UPCOM</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -2,
-  "percent_price_change": -0.00012579,
-  "volume": 249389,
-  "high_52w": 19764,
+  "price_change": -250,
+  "percent_price_change": -0.01712329,
+  "volume": 153484,
+  "high_52w": 19300,
   "low_52w": 12700,
-  "pe": 60.4832251087,
-  "pb": 0.9548921699,
+  "pe": 56.54180976,
+  "pb": 0.8926662114,
   "roe": 0.015646516,
   "roa": 0.0081924589,
   "eps": 70.35909903285547,
@@ -91,11 +91,6 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Hoàng Thị Hà",
-      "officer_position": "Kế toán trưởng",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Nguyễn Đăng Khoa",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
@@ -107,7 +102,7 @@
     },
     {
       "officer_name": "Lê Huy Bích",
-      "officer_position": "Phụ trách Công bố thông tin/Giám đốc Tài chính",
+      "officer_position": "Giám đốc Tài chính/Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
@@ -124,8 +119,13 @@
       "officer_name": "Trịnh Công Sơn",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thị Hà",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:17:17.057171"
+  "created_at": "2025-10-21T14:25:58.938782"
 }

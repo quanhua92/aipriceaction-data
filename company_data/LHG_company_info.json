@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1675402335000,
-  "current_price": 33500,
+  "market_cap": 1445347089000,
+  "current_price": 28900,
   "outstanding_shares": 50012010,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Long Hậu (LHG) được th&agrave;nh lập v&agrave;o năm 2006 theo giấy chứng nhận đăng k&yacute; kinh doanh số&nbsp;5003000142&nbsp;cấp lần&nbsp;đầu bởi&nbsp;Sở Kế hoạch v&agrave; Đầu tư tỉnh Long An. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư, ph&aacute;t triển v&agrave; kinh doanh&nbsp;cơ sở hạ tầng v&agrave; dịch vụ tiện &iacute;ch khu c&ocirc;ng nghiệp.&nbsp;LHG được cấp ph&eacute;p x&acirc;y dựng khu c&ocirc;ng nghiệp Long Hậu từ năm 2006 v&agrave; bắt đầu cung cấp dịch vụ cho kh&aacute;ch h&agrave;ng v&agrave;o&nbsp;khu c&ocirc;ng nghiệp&nbsp;từ cuối năm 2007.&nbsp;C&ocirc;ng ty&nbsp;l&agrave; chủ đầu tư c&aacute;c dự &aacute;n Khu c&ocirc;ng nghiệp Long Hậu với tổng diện t&iacute;ch gần 500 ha,&nbsp;bao gồm:&nbsp;Khu c&ocirc;ng nghiệp Long Hậu, Khu c&ocirc;ng nghiệp Long Hậu mở rộng, Khu d&acirc;n cư &ndash; T&aacute;i định cư x&atilde; Long Hậu v&agrave; Khu c&ocirc;ng nghiệp Long Hậu 3 &ndash; giai đoạn 1. LHG được&nbsp;ni&ecirc;m yết&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -250,
-  "percent_price_change": -0.00740741,
-  "volume": 266839,
-  "high_52w": 38724,
+  "price_change": -750,
+  "percent_price_change": -0.02529511,
+  "volume": 116116,
+  "high_52w": 36215,
   "low_52w": 22771,
-  "pe": 5.7728166852,
-  "pb": 0.9607419781,
-  "roe": 0.1708603896,
-  "roa": 0.0931043003,
-  "eps": 1791.0077135472059,
-  "revenue": 223248858263,
-  "net_profit": 89571895680,
+  "pe": 4.9089248297,
+  "pb": 0.807366973,
+  "roe": 0.1689639501,
+  "roa": 0.0933036848,
+  "eps": 921.6624540785303,
+  "revenue": 112193862251,
+  "net_profit": 46094191870,
   "dividend": 0,
   "shareholders": [
     {
@@ -94,15 +94,11 @@
     },
     {
       "shareholder_name": "Nguyễn Bá Tùng",
-      "shareholder_percent": 0.0006710875
-    },
-    {
-      "shareholder_name": "Nguyễn Công Hiệp",
-      "shareholder_percent": 0.00062835
+      "shareholder_percent": 0.00067109
     },
     {
       "shareholder_name": "Trần Thị Mỹ Xuân",
-      "shareholder_percent": 0.0004273416
+      "shareholder_percent": 0.00042734
     },
     {
       "shareholder_name": "Nguyễn Việt Dũng",
@@ -114,11 +110,11 @@
     },
     {
       "shareholder_name": "Võ Thị Huyền Lan",
-      "shareholder_percent": 0.0001989785
+      "shareholder_percent": 0.00019898
     },
     {
       "shareholder_name": "Trần Thị Hồng Nhựt",
-      "shareholder_percent": 9.9976e-05
+      "shareholder_percent": 9.998e-05
     },
     {
       "shareholder_name": "Tô Hữu Duy",
@@ -144,9 +140,9 @@
       "officer_percent": 0.0046
     },
     {
-      "officer_name": "Nguyễn Công Hiệp",
-      "officer_position": "Giám đốc Tài chính",
-      "officer_percent": 0.00062835
+      "officer_name": "Nguyễn Anh Huy",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
     },
     {
       "officer_name": "Võ Tấn Thịnh",
@@ -194,16 +190,16 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Tấn Phong",
-      "officer_position": "Kế toán trưởng",
+      "officer_name": "Nguyễn Công Hiệp",
+      "officer_position": "Giám đốc Tài chính",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Anh Huy",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Nguyễn Tấn Phong",
+      "officer_position": "Kế toán trưởng",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:09:32.562967"
+  "created_at": "2025-10-21T14:13:53.568552"
 }

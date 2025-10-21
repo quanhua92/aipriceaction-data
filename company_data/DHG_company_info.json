@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 13414546884600,
-  "current_price": 102600,
+  "market_cap": 13205353171000,
+  "current_price": 101000,
   "outstanding_shares": 130746071,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Dược Hậu Giang (DHG) c&oacute; tiền th&acirc;n&nbsp;l&agrave; X&iacute; nghiệp&nbsp;quốc doanh&nbsp;Dược phẩm 2/9 trực thuộc Sở Y tế khu T&acirc;y Nam Bộ,&nbsp;được th&agrave;nh lập v&agrave;o năm 1974. C&ocirc;ng ty hoạt&nbsp;động ch&iacute;nh trong lĩnh vực sản&nbsp;xuất v&agrave; kinh doanh dược phẩm, vật tư, trang thiết bị, dụng cụ y tế, thực phẩm chức năng v&agrave; dược&nbsp;mỹ phẩm, v&agrave; cung cấp dịch vụ chăm s&oacute;c sức khỏe. DHG ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2004.&nbsp;DHG l&agrave; c&ocirc;ng ty&nbsp;Dược Generic lớn nhất Việt Nam giữ vững vị tr&iacute; dẫn đầu về&nbsp;doanh thu v&agrave;&nbsp;thị phần, Top 3&nbsp;doanh nghiệp dược c&oacute; thị phần lớn nhất Ng&agrave;nh Dược Việt Nam. C&ocirc;ng ty c&oacute; hệ thống ph&acirc;n phối s&acirc;u rộng v&agrave; lớn nhất cả nước, với 34&nbsp;chi nh&aacute;nh ph&acirc;n phối h&agrave;ng h&oacute;a tr&ecirc;n khắp cả nước từ th&agrave;nh thị đến n&ocirc;ng th&ocirc;n. DHG được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2006.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -800,
-  "percent_price_change": -0.00773694,
-  "volume": 18462,
+  "price_change": -400,
+  "percent_price_change": -0.00394477,
+  "volume": 11406,
   "high_52w": 104468,
   "low_52w": 82102,
-  "pe": 15.5187851359,
-  "pb": 3.5412842546,
+  "pe": 15.4280320064,
+  "pb": 3.5205749899,
   "roe": 0.2076236644,
   "roa": 0.1473646995,
   "eps": 1811.8698585367051,
   "revenue": 1368781191853,
   "net_profit": 236894865167,
-  "dividend": 0.0974658869,
+  "dividend": 0.0980392157,
   "shareholders": [
     {
       "shareholder_name": "TAISHO PHARMACEUTICAL CO., LTD.",
@@ -193,7 +193,7 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Hà Mỹ Dung",
+      "shareholder_name": "Frontier Markets Equity (Master) Fund, Ltd.",
       "shareholder_percent": 0.0001
     },
     {
@@ -201,7 +201,11 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Frontier Markets Equity (Master) Fund, Ltd.",
+      "shareholder_name": "Lê Thị Hồng Gấm",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Hà Mỹ Dung",
       "shareholder_percent": 0.0001
     },
     {
@@ -210,7 +214,7 @@
     },
     {
       "shareholder_name": "Nguyễn Ngọc Diệp",
-      "shareholder_percent": 2.432e-05
+      "shareholder_percent": 2.43e-05
     },
     {
       "shareholder_name": "Lê Chánh Đạo",
@@ -230,19 +234,19 @@
     },
     {
       "shareholder_name": "Hồ Bửu Huân",
-      "shareholder_percent": 7.11e-06
+      "shareholder_percent": 7.1e-06
     },
     {
       "shareholder_name": "Phạm Việt Thắng",
-      "shareholder_percent": 6.684e-06
+      "shareholder_percent": 6.68e-06
     },
     {
       "shareholder_name": "Đinh Đức Minh",
-      "shareholder_percent": 1.495e-07
+      "shareholder_percent": 1.5e-07
     },
     {
       "shareholder_name": "Dương Kim Loan",
-      "shareholder_percent": 7e-08
+      "shareholder_percent": 1e-07
     },
     {
       "shareholder_name": "Đoàn Đình Tuấn Huy",
@@ -257,26 +261,31 @@
     {
       "officer_name": "Nguyễn Ngọc Diệp",
       "officer_position": "Phó Tổng Giám đốc/Giám đốc Sản xuất",
-      "officer_percent": 2.432e-05
+      "officer_percent": 2.43e-05
     },
     {
       "officer_name": "Hồ Bửu Huân",
       "officer_position": "Kế toán trưởng",
-      "officer_percent": 7.11e-06
+      "officer_percent": 7.1e-06
     },
     {
       "officer_name": "Dương Kim Loan",
       "officer_position": "Người phụ trách quản trị công ty",
-      "officer_percent": 7e-08
+      "officer_percent": 1e-07
     },
     {
       "officer_name": "Đoàn Đình Duy Khương",
-      "officer_position": "Phụ trách Công bố thông tin/Tổng Giám đốc điều hành/Thành viên Hội đồng Quản trị",
+      "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị/Tổng Giám đốc điều hành",
       "officer_percent": 5e-08
     },
     {
-      "officer_name": "Jun Kuroda",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Vũ Thị Hương Lan",
+      "officer_position": "Giám đốc Nhân sự",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Võ Văn Kim Y",
+      "officer_position": "Giám đốc Kỹ thuật",
       "officer_percent": 0
     },
     {
@@ -285,23 +294,18 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Đặng Thị Thu Hà",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Đỗ Lê Hùng",
       "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
     {
-      "officer_name": "Tomoyuki Kawata",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Thị Việt Thanh",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Vũ Thị Hương Lan",
-      "officer_position": "Giám đốc Nhân sự",
+      "officer_name": "Jun Kuroda",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -310,8 +314,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Võ Văn Kim Y",
-      "officer_position": "Giám đốc Kỹ thuật",
+      "officer_name": "Tomoyuki Kawata",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -325,11 +329,11 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Đặng Thị Thu Hà",
-      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_name": "Nguyễn Thị Việt Thanh",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:11:12.463960"
+  "created_at": "2025-10-21T14:06:06.796166"
 }

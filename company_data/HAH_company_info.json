@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 8209327217600,
-  "current_price": 63200,
-  "outstanding_shares": 129894418,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty cổ phần Vận tải v&agrave; Xếp dỡ Hải An (HAH)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Vận tải v&agrave; Xếp dỡ Hải An được th&agrave;nh lập năm 2009. C&ocirc;ng ty hoạt động ch&iacute;nh tr&ecirc;n lĩnh khai th&aacute;c cảng v&agrave; vận tải. C&ocirc;ng ty hiện đang sở hữu đội t&agrave;u với sức chứa gần 16.000 TEUs.&nbsp;Địa b&agrave;n kinh doanh của c&ocirc;ng ty bao gồm c&aacute;c tỉnh, th&agrave;nh phố lớn như H&agrave; Nội, Hải Ph&ograve;ng, Th&agrave;nh phố Hồ Ch&iacute; Minh, Đ&agrave; Nẵng, B&agrave; Rịa- Vũng T&agrave;u.&nbsp;Cảng Hải An được đ&aacute;nh gi&aacute; l&agrave; c&oacute; lợi thế cạnh tranh do vị tr&iacute; của cảng nằm ở hạ lưu s&ocirc;ng Cấm, mớn nước s&acirc;u hơn, n&ecirc;n đường v&agrave;o cảng rất rộng, mực nước s&acirc;u n&ecirc;n c&oacute; lợi thế trong việc đ&oacute;n c&aacute;c t&agrave;u c&oacute; trọng tải lớn l&ecirc;n tới 20.000DWT. Năm 2015, c&ocirc;ng ty ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "market_cap": 9017188720800,
+  "current_price": 53400,
+  "outstanding_shares": 168861212,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty cổ phần Vận tải v&agrave; Xếp dỡ Hải An (HAH)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Vận tải v&agrave; Xếp dỡ Hải An được th&agrave;nh lập năm 2009. C&ocirc;ng ty hoạt động ch&iacute;nh tr&ecirc;n lĩnh khai th&aacute;c cảng v&agrave; vận tải. C&ocirc;ng ty hiện đang sở hữu đội t&agrave;u với sức chứa gần 16.000 TEUs.&nbsp;Địa b&agrave;n kinh doanh của c&ocirc;ng ty bao gồm c&aacute;c tỉnh, th&agrave;nh phố lớn như H&agrave; Nội, Hải Ph&ograve;ng, Th&agrave;nh phố Hồ Ch&iacute; Minh, Đ&agrave; Nẵng, B&agrave; Rịa- Vũng T&agrave;u.&nbsp;Cảng Hải An được đ&aacute;nh gi&aacute; l&agrave; c&oacute; lợi thế cạnh tranh do vị tr&iacute; của cảng nằm ở hạ lưu s&ocirc;ng Cấm, mớn nước s&acirc;u hơn, n&ecirc;n đường v&agrave;o cảng rất rộng, mực nước s&acirc;u n&ecirc;n c&oacute; lợi thế trong việc đ&oacute;n c&aacute;c t&agrave;u c&oacute; trọng tải lớn l&ecirc;n tới 20.000DWT. Năm 2015, c&ocirc;ng ty ch&iacute;nh thức được ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.0031746,
-  "volume": 3591581,
+  "price_change": -2200,
+  "percent_price_change": -0.03956835,
+  "volume": 2986913,
   "high_52w": 68319,
-  "low_52w": 29415,
-  "pe": 9.571657587,
-  "pb": 2.6508201842,
+  "low_52w": 31199,
+  "pe": 8.3448318082,
+  "pb": 2.3110580362,
   "roe": 0.3065258304,
   "roa": 0.1437099614,
-  "eps": 2141.4902602464535,
+  "eps": 2141.5096763192723,
   "revenue": 1274665190278,
   "net_profit": 361617919453,
-  "dividend": 0.0158227848,
+  "dividend": 0.0181488203,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ Phần Đầu Tư Và Vận Tải Hải Hà",
@@ -272,5 +272,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:12:36.353276"
+  "created_at": "2025-10-21T14:10:03.265020"
 }

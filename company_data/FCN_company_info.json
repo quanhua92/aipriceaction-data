@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2865389891000,
-  "current_price": 18200,
+  "market_cap": 2558383831250,
+  "current_price": 16250,
   "outstanding_shares": 157439005,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần FECON (FECON)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Kỹ thuật nền m&oacute;ng v&agrave; C&ocirc;ng tr&igrave;nh ngầm FECON được th&agrave;nh lập v&agrave;o&nbsp;năm 2004. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;thi c&ocirc;ng x&acirc;y dựng nền m&oacute;ng v&agrave; c&ocirc;ng tr&igrave;nh ngầm phục vụ x&acirc;y dựng nh&agrave; cao tầng, c&ocirc;ng tr&igrave;nh c&ocirc;ng nghiệp, c&ocirc;ng tr&igrave;nh giao th&ocirc;ng, c&ocirc;ng tr&igrave;nh thủy lợi, thi c&ocirc;ng hạ tầng kỹ thuật khu c&ocirc;ng nghiệp v&agrave; đ&ocirc; thị.&nbsp;FECON được ghi nhận l&agrave; nh&agrave; thầu chuy&ecirc;n nghiệp h&agrave;ng đầu Việt Nam về kỹ thuật nền m&oacute;ng c&ocirc;ng tr&igrave;nh, với h&agrave;ng loạt c&ocirc;ng&nbsp;nghệ sản xuất, thi c&ocirc;ng mang t&iacute;nh đột ph&aacute; v&agrave; hiệu quả cao. FECON&nbsp;đ&atilde; tham gia tại hơn 500 dự &aacute;n triển khai tr&ecirc;n to&agrave;n quốc, trong đ&oacute; c&oacute; nhiều dự &aacute;n FDI lớn v&agrave; trọng điểm quốc gia&nbsp;như: Nh&agrave; m&aacute;y gang th&eacute;p Formosa (H&agrave; Tĩnh), Tổ hợp khu c&ocirc;ng nghệ cao Samsung (Th&aacute;i Nguy&ecirc;n), Nh&agrave; m&aacute;y sản xuất, lắp r&aacute;p sản phẩm điển tử c&ocirc;ng nghệ cao LG (Hải Ph&ograve;ng), Nh&agrave; m&aacute;y lọc h&oacute;a dầu Nghi Sơn...với tư c&aacute;ch l&agrave; nh&agrave; thầu chủ đạo c&aacute;c hạng mục nền m&oacute;ng. FECON ch&iacute;nh thức ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n s&agrave;n giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)&nbsp;từ th&aacute;ng 7 năm 2012.</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 4052467,
-  "high_52w": 19300,
+  "price_change": -1200,
+  "percent_price_change": -0.06876791,
+  "volume": 2340543,
+  "high_52w": 20600,
   "low_52w": 11050,
-  "pe": 142.3432386347,
-  "pb": 1.1406919642,
-  "roe": 0.0080367543,
-  "roa": 0.0020632354,
-  "eps": 137.71162954186607,
+  "pe": 136.0884331836,
+  "pb": 1.0905517915,
+  "roe": 0.008036634,
+  "roa": 0.0020631604,
+  "eps": 137.70971269794293,
   "revenue": 1326314982713,
-  "net_profit": 21681181932,
-  "dividend": 0.0274725275,
+  "net_profit": 21680880146,
+  "dividend": 0.0287356322,
   "shareholders": [
     {
       "shareholder_name": "Công ty Cổ Phần Raito Kogyo",
@@ -69,20 +69,12 @@
       "shareholder_percent": 0.0179120927
     },
     {
-      "shareholder_name": "Công ty Tài chính Cổ phần Điện Lực",
+      "shareholder_name": "Công ty Tài chính Tổng hợp Cổ phần Điện Lực",
       "shareholder_percent": 0.0114601332
-    },
-    {
-      "shareholder_name": "Hà Thế Phương",
-      "shareholder_percent": 0.00887
     },
     {
       "shareholder_name": "Nguyễn Chí Công",
       "shareholder_percent": 0.00825
-    },
-    {
-      "shareholder_name": "Trần Trọng Thắng",
-      "shareholder_percent": 0.003298
     },
     {
       "shareholder_name": "Bùi Thanh Tùng",
@@ -97,6 +89,10 @@
       "shareholder_percent": 0.0021
     },
     {
+      "shareholder_name": "Nguyễn Văn Thanh",
+      "shareholder_percent": 0.0016
+    },
+    {
       "shareholder_name": "Hà Thị Hương",
       "shareholder_percent": 0.00152
     },
@@ -106,6 +102,10 @@
     },
     {
       "shareholder_name": "Hà Thế Lộng",
+      "shareholder_percent": 0.0014
+    },
+    {
+      "shareholder_name": "Trần Trọng Thắng",
       "shareholder_percent": 0.0014
     },
     {
@@ -129,11 +129,11 @@
       "shareholder_percent": 0.0004
     },
     {
-      "shareholder_name": "Muôn Văn Chiến",
+      "shareholder_name": "Hà Thị Giang",
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Hà Thị Giang",
+      "shareholder_name": "Muôn Văn Chiến",
       "shareholder_percent": 0.0002
     },
     {
@@ -217,11 +217,6 @@
       "officer_percent": 0.00887
     },
     {
-      "officer_name": "Trần Trọng Thắng",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.003298
-    },
-    {
       "officer_name": "Phạm Quốc Hùng",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0021
@@ -234,6 +229,11 @@
     {
       "officer_name": "Hà Thế Lộng",
       "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0.0014
+    },
+    {
+      "officer_name": "Trần Trọng Thắng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0.0014
     },
     {
@@ -282,8 +282,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Hữu Thái Hòa",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_name": "TẠ CÔNG THANH VINH",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -302,23 +302,23 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thanh Tùng",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Nguyễn Công Thành",
       "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
     },
     {
-      "officer_name": "TẠ CÔNG THANH VINH",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Nguyễn Thị Nghiên",
+      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thị Nghiên",
-      "officer_position": "Giám đốc Tài chính/Kế toán trưởng",
+      "officer_name": "Nguyễn Hữu Thái Hòa",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thanh Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -328,5 +328,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:06:18.551401"
+  "created_at": "2025-10-21T14:08:18.422952"
 }

@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 771373285200,
-  "current_price": 11600,
+  "market_cap": 664976970000,
+  "current_price": 10000,
   "outstanding_shares": 66497697,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần T&agrave;u Cao tốc Superdong - Ki&ecirc;n Giang (SKG) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH T&agrave;u cao tốc Superdong - Ki&ecirc;n Giang được th&agrave;nh lập v&agrave;o năm 2007.&nbsp;C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực vận chuyển h&agrave;nh kh&aacute;ch v&agrave; h&agrave;ng h&oacute;a giữa đất liền v&agrave; c&aacute;c đảo du lịch Việt Nam.&nbsp;SKG ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2010.&nbsp;SKG hiện quản l&yacute; vận h&agrave;nh 16 t&agrave;u cao tốc v&agrave; 02 ph&agrave; chuy&ecirc;n chở h&agrave;nh kh&aacute;ch, h&agrave;ng h&oacute;a giữa đất liền, Ph&uacute; Quốc, Nam Du, Ph&uacute; Qu&yacute;&nbsp;v&agrave; C&ocirc;n Đảo.&nbsp;C&ocirc;ng ty&nbsp;tiếp tục duy tr&igrave; vị tr&iacute; dẫn đầu tại thị trường vận chuyển h&agrave;nh kh&aacute;ch bằng t&agrave;u cao tốc tại Ki&ecirc;n Giang. B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty c&ograve;n cung cấp c&aacute;c dịch vụ đi k&egrave;m&nbsp;như xe trung chuyển, dịch vụ ăn uống v&agrave; lưu tr&uacute;&nbsp;để tối ưu h&oacute;a tiện &iacute;ch cho kh&aacute;ch h&agrave;ng.&nbsp;SKG được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2014.</p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 661797,
-  "high_52w": 12454,
+  "price_change": -400,
+  "percent_price_change": -0.03846154,
+  "volume": 143327,
+  "high_52w": 12358,
   "low_52w": 8551,
-  "pe": 21.5360287014,
-  "pb": 0.856528152,
-  "roe": 0.0400217474,
-  "roa": 0.0393140268,
-  "eps": 508.5740949194075,
-  "revenue": 138044749815,
-  "net_profit": 33819006066,
-  "dividend": 0.0431034483,
+  "pe": 14.3707576067,
+  "pb": 0.7324100318,
+  "roe": 0.0515165583,
+  "roa": 0.0505292841,
+  "eps": 110.50830065588588,
+  "revenue": 98690964887,
+  "net_profit": 7348547493,
+  "dividend": 0.05,
   "shareholders": [
     {
       "shareholder_name": "Ting Chek Hua",
@@ -133,7 +133,7 @@
     },
     {
       "officer_name": "Puan Kwong Siing",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0.1283
     },
     {
@@ -188,5 +188,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:06.095894"
+  "created_at": "2025-10-21T14:20:56.141493"
 }

@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 746577027840,
-  "current_price": 6720,
+  "market_cap": 722135518000,
+  "current_price": 6500,
   "outstanding_shares": 111097772,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần Hapaco (HAP)&nbsp;tiền th&acirc;n l&agrave; X&iacute; nghiệp giấy b&igrave;a Đồng Tiến th&agrave;nh lập v&agrave;o năm 1960. Năm 1999 chuyển sang hoạt động theo m&ocirc; h&igrave;nh cổ phần.&nbsp;Tập đo&agrave;n Hapaco chuy&ecirc;n sản xuất kinh doanh v&agrave; gia c&ocirc;ng c&aacute;c sản phẩm giấy ti&ecirc;u d&ugrave;ng trong nước v&agrave; xuất khẩu, sản phẩm chế biến từ l&acirc;m sản, sản phẩm bao b&igrave;. Ngo&agrave;i ra c&ocirc;ng ty c&ograve;n xuất nhập khẩu c&aacute;c sản phẩm v&agrave; thiết bị m&aacute;y m&oacute;c, vật tư, nguy&ecirc;n liệu v&agrave; ho&aacute; chất. Khoảng 80% sản phẩm của C&ocirc;ng ty sản xuất ra d&ugrave;ng để xuất khẩu, chiếm thị phần cao nhất l&agrave; xuất khẩu giấy đế sang thị trường Đ&agrave;i Loan (chiếm 70% thị phần giấy đế xuất khẩu). Tập đo&agrave;n Hapaco l&agrave;&nbsp;doanh nghiệp sản xuất giấy lớn thứ 2 trong ng&agrave;nh c&ocirc;ng nghiệp giấy miền Bắc c&oacute; tổng c&ocirc;ng suất tr&ecirc;n 60.000 tấn/năm. HAP được&nbsp;giao dịch tr&ecirc;n Sở giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ ng&agrave;y 06/09/2021.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 120,
-  "percent_price_change": 0.01818182,
-  "volume": 245812,
+  "price_change": 240,
+  "percent_price_change": 0.03833866,
+  "volume": 125056,
   "high_52w": 7070,
-  "low_52w": 4000,
-  "pe": 8.9033097316,
-  "pb": 0.5797161771,
-  "roe": 0.0658978072,
-  "roa": 0.0523120349,
-  "eps": -37.32208863847083,
-  "revenue": 151342087194,
-  "net_profit": -4140598429,
-  "dividend": 0.0892857143,
+  "low_52w": 4100,
+  "pe": 8.3404374451,
+  "pb": 0.539223533,
+  "roe": 0.0654267212,
+  "roa": 0.0519396054,
+  "eps": -42.736408002422735,
+  "revenue": 154648197135,
+  "net_profit": -4741275483,
+  "dividend": 0.096,
   "shareholders": [
     {
       "shareholder_name": "Vũ Dương Hiền",
@@ -74,7 +74,7 @@
     },
     {
       "shareholder_name": "Đoàn Đức Luyện",
-      "shareholder_percent": 0.0017955
+      "shareholder_percent": 0.0017
     },
     {
       "shareholder_name": "NGUYỄN ĐỨC HẬU",
@@ -162,7 +162,7 @@
     },
     {
       "officer_name": "Vũ Xuân Thịnh",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 0.0430773
     },
     {
@@ -173,11 +173,11 @@
     {
       "officer_name": "Đoàn Đức Luyện",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0017955
+      "officer_percent": 0.0017
     },
     {
       "officer_name": "NGUYỄN ĐỨC HẬU",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 0.001349
     },
     {
@@ -217,5 +217,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:11.606485"
+  "created_at": "2025-10-21T14:10:08.726503"
 }

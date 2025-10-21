@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 6376454042350,
-  "current_price": 22150,
+  "market_cap": 6261303630750,
+  "current_price": 21750,
   "outstanding_shares": 287876029,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Điện lực Dầu kh&iacute; Nhơn Trạch 2 (NT2) được th&agrave;nh lập năm 2007 để thực hiện đầu tư x&acirc;y dựng dự &aacute;n Nh&agrave; m&aacute;y&nbsp;Nhiệt&nbsp;điện&nbsp;Nhơn Trạch 2 tại Khu C&ocirc;ng nghiệp &Ocirc;ng K&egrave;o, ấp 3, x&atilde; Phước Kh&aacute;nh, huyện Nhơn Trạch, Đồng Nai. Nh&agrave; m&aacute;y điện Nhơn Trạch 2 với c&ocirc;ng suất thiết kế 750MW đi v&agrave;o hoạt động từ năm 2011. Trong năm 2017, Nh&agrave; m&aacute;y ho&agrave;n th&agrave;nh c&ocirc;ng t&aacute;c đại tu v&agrave; n&acirc;ng c&ocirc;ng suất&nbsp;l&ecirc;n 774MW. NT2 được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 06/2015.</div>\r\n",
   "website": null,
-  "price_change": -300,
-  "percent_price_change": -0.01336303,
-  "volume": 2679089,
-  "high_52w": 22850,
-  "low_52w": 16000,
-  "pe": 13.2269790532,
-  "pb": 1.4850233127,
-  "roe": 0.1162114415,
-  "roa": 0.0547856781,
-  "eps": 1133.2920233938617,
-  "revenue": 2081257647143,
-  "net_profit": 326247607392,
-  "dividend": 0.0451467269,
+  "price_change": -700,
+  "percent_price_change": -0.0311804,
+  "volume": 1420394,
+  "high_52w": 24001,
+  "low_52w": 15485,
+  "pe": 12.9881171289,
+  "pb": 1.458205736,
+  "roe": null,
+  "roa": null,
+  "eps": 744.1854008761528,
+  "revenue": 1928237075948,
+  "net_profit": 214233138044,
+  "dividend": 0.0459770115,
   "shareholders": [
     {
       "shareholder_name": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP",
@@ -54,11 +54,11 @@
     },
     {
       "shareholder_name": "Norges Bank",
-      "shareholder_percent": 0.0175420661
+      "shareholder_percent": 0.01754207
     },
     {
       "shareholder_name": "Amersham Industries Limited",
-      "shareholder_percent": 0.0167904958
+      "shareholder_percent": 0.0167905
     },
     {
       "shareholder_name": "Panah Master Fund",
@@ -102,7 +102,7 @@
     },
     {
       "shareholder_name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
-      "shareholder_percent": 0.0007556955
+      "shareholder_percent": 0.0007557
     },
     {
       "shareholder_name": "Hoàng Xuân Quốc",
@@ -217,5 +217,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:15:17.816050"
+  "created_at": "2025-10-21T14:16:36.217811"
 }

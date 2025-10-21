@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 524429676900,
-  "current_price": 6900,
-  "outstanding_shares": 76004301,
+  "market_cap": 476544054000,
+  "current_price": 5700,
+  "outstanding_shares": 83604220,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty cổ phần&nbsp;Đầu tư&nbsp;MST&nbsp;(MST) được th&agrave;nh lập v&agrave;o năm 2009. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực x&acirc;y dựng, đầu tư v&agrave; kinh doanh bất động sản.&nbsp;MST trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ năm 2015. Một&nbsp;số&nbsp;c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu C&ocirc;ng ty đ&atilde; tham gia thi c&ocirc;ng x&acirc;y lắp: khu phức hợp c&ocirc;ng vi&ecirc;n hải dương học v&agrave; vui chơi giải tr&iacute; Sầm Sơn, Tower Quy Nhơn, trung t&acirc;m thương mại- dịch vụ- logistics Nội B&agrave;i. MST được ni&ecirc;m yết&nbsp;v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2016.</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 2189733,
-  "high_52w": 7600,
-  "low_52w": 4500,
-  "pe": 24.7186483339,
-  "pb": 0.6103013628,
-  "roe": 0.0249051988,
-  "roa": 0.0101758635,
-  "eps": 44.2896687123009,
+  "price_change": -200,
+  "percent_price_change": -0.03389831,
+  "volume": 1822943,
+  "high_52w": 6909,
+  "low_52w": 4091,
+  "pe": 23.6437808427,
+  "pb": 0.5837629522,
+  "roe": 0.0249051979,
+  "roa": 0.0101758631,
+  "eps": 40.263571767071085,
   "revenue": 367275644875,
-  "net_profit": 3366205312,
-  "dividend": 0.1449275362,
+  "net_profit": 3366204512,
+  "dividend": 0.1666666667,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Thanh Tuyên",
@@ -121,7 +121,7 @@
     },
     {
       "officer_name": "Phan Duy Dũng",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0024
     },
     {
@@ -171,5 +171,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:10:31.108971"
+  "created_at": "2025-10-21T14:15:28.107193"
 }

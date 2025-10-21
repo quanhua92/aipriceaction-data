@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 4258015498950,
-  "current_price": 18650,
+  "market_cap": 3652989168000,
+  "current_price": 16000,
   "outstanding_shares": 228311823,
-  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n AGRIBANK (AGR) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Chứng kho&aacute;n Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;ng Việt Nam trực thuộc Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;ng Việt Nam được th&agrave;nh lập v&agrave;o năm 2000.&nbsp;C&ocirc;ng ty ch&iacute;nh thức hoạt động theo h&igrave;nh thức c&ocirc;ng ty cổ phần từ th&aacute;ng 07/2009. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 70.83 tỷ đồng, tăng 20.86% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 65.28%, tăng 11.49%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 19.39 tỷ đồng, tăng 36.27% v&agrave; đ&oacute;ng g&oacute;p 6.44 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 168.54 tỷ đồng, giảm 8.75%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 5.47%, giảm 0.46%.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+  "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n AGRIBANK (AGR) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Chứng kho&aacute;n Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;ng Việt Nam trực thuộc Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;ng Việt Nam được th&agrave;nh lập v&agrave;o năm 2000. AGR hoạt động ch&iacute;nh trong lĩnh vực m&ocirc;i giới, tự doanh chứng kho&aacute;n, bảo l&atilde;nh ph&aacute;t h&agrave;nh, lưu k&yacute; chứng kho&aacute;n, tư vấn đầu tư, tư vấn t&agrave;i ch&iacute;nh, nhận uỷ th&aacute;c v&agrave; c&aacute;c dịch vụ t&agrave;i ch&iacute;nh kh&aacute;c. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 70.83 tỷ đồng, tăng 20.86% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 65.28%, tăng 11.49%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 19.39 tỷ đồng, tăng 36.27% v&agrave; đ&oacute;ng g&oacute;p 6.44 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 168.54 tỷ đồng, giảm 8.75%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 5.47%, giảm 0.46%.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.01084011,
-  "volume": 3497358,
-  "high_52w": 19200,
+  "price_change": -1200,
+  "percent_price_change": -0.06976744,
+  "volume": 1504073,
+  "high_52w": 20800,
   "low_52w": 12783,
-  "pe": 35.8490555226,
-  "pb": 1.7227342518,
-  "roe": 0.0485029291,
-  "roa": 0.0372225532,
-  "eps": 51.45121892442377,
-  "revenue": 97968845732,
-  "net_profit": 11746919170,
-  "dividend": 0.0321715818,
+  "pe": 30.755221896,
+  "pb": 1.4779489559,
+  "roe": null,
+  "roa": null,
+  "eps": 300.50398533976625,
+  "revenue": 156899568846,
+  "net_profit": 68608598588,
+  "dividend": 0.0375,
   "shareholders": [
     {
       "shareholder_name": "Ngân Hàng Nông Nghiệp Và Phát Triển Nông Thôn Việt Nam",
@@ -30,7 +30,7 @@
     },
     {
       "shareholder_name": "Hà Huy Toàn",
-      "shareholder_percent": 0.0168236543
+      "shareholder_percent": 0.01682365
     },
     {
       "shareholder_name": "Nguyễn Kim Hậu",
@@ -42,7 +42,7 @@
     },
     {
       "shareholder_name": "Phạm Văn Thành",
-      "shareholder_percent": 0.0002367424
+      "shareholder_percent": 0.00023674
     },
     {
       "shareholder_name": "Phan Văn Hiệp",
@@ -70,7 +70,7 @@
     },
     {
       "shareholder_name": "Ngô Thị Hoàng Nga",
-      "shareholder_percent": 5.8238e-06
+      "shareholder_percent": 5.82e-06
     },
     {
       "shareholder_name": "Dương Sơn Tùng",
@@ -79,10 +79,6 @@
     {
       "shareholder_name": "Lê Bích Thảo",
       "shareholder_percent": 5e-08
-    },
-    {
-      "shareholder_name": "Nguyễn Thanh Bình",
-      "shareholder_percent": 4.7e-09
     }
   ],
   "officers": [
@@ -132,6 +128,11 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Lê Sơn Tùng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Phan Văn Tuấn",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0
@@ -142,8 +143,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Lê Sơn Tùng",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Tăng Thị Trinh",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán",
       "officer_percent": 0
     },
     {
@@ -155,13 +156,8 @@
       "officer_name": "Lê Hương Giang",
       "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
-    },
-    {
-      "officer_name": "Tăng Thị Trinh",
-      "officer_position": "Trưởng phòng Tài chính - Kế toán",
-      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:00:17.123079"
+  "created_at": "2025-10-21T14:00:58.727526"
 }

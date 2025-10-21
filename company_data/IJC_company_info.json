@@ -5,27 +5,27 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 5458464148800,
-  "current_price": 14450,
+  "market_cap": 4684079961600,
+  "current_price": 12400,
   "outstanding_shares": 377748384,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&aacute;t triển Hạ tầng Kỹ thuật (IJC) được th&agrave;nh lập v&agrave;o năm 2007 theo&nbsp;phương &aacute;n cổ phần h&oacute;a Dự &aacute;n quốc lộ 13 thuộc C&ocirc;ng ty Đầu tư v&agrave; Ph&aacute;t triển C&ocirc;ng nghiệp (Becamex IDC Corp) v&agrave;o năm 2006. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực cung cấp dịch vụ, kinh doanh bất động sản v&agrave; x&acirc;y dựng. C&aacute;c dự &aacute;n bất động sản của IJC&nbsp;tập trung chủ yếu tại Th&agrave;nh phố mới B&igrave;nh Dương ti&ecirc;u biểu như: Khu biệt thự Sunflower, Chung cư IJC Aroma, Khu đ&ocirc; thị IJC&hellip;Ngo&agrave;i ra, c&ocirc;ng ty&nbsp;c&ograve;n triển khai c&aacute;c dự &aacute;n kh&aacute;c tại c&aacute;c khu vực l&acirc;n cận Th&agrave;nh phố&nbsp;Thủ Dầu Một như: Thị x&atilde; Bến C&aacute;t, T&acirc;n Uy&ecirc;n&hellip;. IJC được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 04/2010.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -150,
-  "percent_price_change": -0.01027397,
-  "volume": 4072484,
-  "high_52w": 16200,
-  "low_52w": 10550,
-  "pe": 13.1908444707,
-  "pb": 1.0276375505,
-  "roe": 0.0800461084,
-  "roa": 0.0525079715,
-  "eps": 336.07123280770935,
-  "revenue": 194819331377,
-  "net_profit": 126950365102,
-  "dividend": 0.0346020761,
+  "price_change": -900,
+  "percent_price_change": -0.06766917,
+  "volume": 10601321,
+  "high_52w": 14650,
+  "low_52w": 8674,
+  "pe": 8.7010025694,
+  "pb": 1.4546025326,
+  "roe": 0.1050787989,
+  "roa": 0.0694551768,
+  "eps": 404.05118359420965,
+  "revenue": 708582403591,
+  "net_profit": 254382802760,
+  "dividend": 0.0403225806,
   "shareholders": [
     {
-      "shareholder_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP",
+      "shareholder_name": "Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP",
       "shareholder_percent": 0.4976
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "shareholder_name": "Dương Thị Hồng Tỵ",
-      "shareholder_percent": 2.2845e-05
+      "shareholder_percent": 2.285e-05
     },
     {
       "shareholder_name": "Phan Trần Thùy Linh",
@@ -141,18 +141,23 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Võ Thị Huyền Trang",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_name": "Đỗ Quang Ngôn",
+      "officer_position": "Tổng Giám đốc",
       "officer_percent": 0
     },
     {
-      "officer_name": "Lê Thị Thùy Dương",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Võ Thị Huyền Trang",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Quảng Văn Viết Cương",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
       "officer_name": "Trịnh Thanh Hùng",
-      "officer_position": "Phó Tổng Giám đốc/Giám đốc Tài chính/Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_position": "Người phụ trách quản trị công ty/Phó Tổng Giám đốc/Giám đốc Tài chính/Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
@@ -161,18 +166,13 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Lê Thị Thùy Dương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Trần Nguyên Thảo",
       "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Đỗ Quang Ngôn",
-      "officer_position": "Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Thiện Thể",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
     {
@@ -181,11 +181,11 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Quảng Văn Viết Cương",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_name": "Trần Thiện Thể",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:08:31.261049"
+  "created_at": "2025-10-21T14:12:31.506956"
 }

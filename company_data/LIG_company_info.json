@@ -5,25 +5,29 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 465914388100,
-  "current_price": 4900,
+  "market_cap": 418372103600,
+  "current_price": 4400,
   "outstanding_shares": 95084569,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Licogi 13 (LIG), tiền th&acirc;n l&agrave; Đội thi c&ocirc;ng cơ giới số 57,&nbsp;được th&agrave;nh lập năm 1960. Năm 2005&nbsp;c&ocirc;ng ty&nbsp;được cổ phần h&oacute;a v&agrave;&nbsp;được&nbsp;đổi&nbsp;t&ecirc;n th&agrave;nh C&ocirc;ng ty Cổ phần Licogi 13. C&aacute;c nh&oacute;m sản phẩm, dịch vụ kinh doanh của c&ocirc;ng ty gồm: hoạt động x&acirc;y lắp, cho thu&ecirc; văn ph&ograve;ng, cho thu&ecirc; m&aacute;y, b&aacute;n h&agrave;ng h&oacute;a, th&agrave;nh phẩm trong đ&oacute; hoạt động thi c&ocirc;ng x&acirc;y lắp l&agrave; mảng hoạt động kinh doanh ch&iacute;nh của c&ocirc;ng ty. C&ocirc;ng ty c&oacute; hơn 1,8ha đất tại khu c&ocirc;ng nghiệp Quang Minh để l&agrave;m xưởng sửa chữa, b&atilde;i tập kết thiết bị, vật liệu đảm bảo chủ động trong sản xuất v&agrave; thi c&ocirc;ng. Licogi 13 đ&atilde; tham gia ph&aacute;t triển v&agrave; lắp đặt nhiều dự &aacute;n trọng điểm như (i) Kỹ thuật nền tảng: Nh&agrave; m&aacute;y tuabin gi&oacute; tại Hải Ph&ograve;ng (tổng vốn đầu tư 1.200 tỷ đồng), Nh&agrave; m&aacute;y Xi măng Thăng Long (64 tỷ đồng), Nh&agrave; m&aacute;y Xi măng Ho&agrave;ng Mai , (ii) X&acirc;y dựng cơ sở hạ tầng: Dự &aacute;n cụm từ A5, Nội B&agrave;i - L&agrave;o Cai, Khu c&ocirc;ng nghiệp Bắc Thăng Long v&agrave; nh&agrave; m&aacute;y thủy điện S&ocirc;ng Tranh II. Doanh thu từ hoạt động n&agrave;y lu&ocirc;n chiếm tỷ trọng tr&ecirc;n 90% trong cơ cấu doanh thu của c&ocirc;ng ty. C&aacute;c đối thủ cạnh tranh trực tiếp của c&ocirc;ng ty l&agrave; c&aacute;c doanh nghiệp trực thuộc Tổng C&ocirc;ng ty S&ocirc;ng Đ&agrave;, Tổng C&ocirc;ng ty Vinaconex, Tổng C&ocirc;ng ty X&acirc;y dựng số 1, Tổng C&ocirc;ng ty X&acirc;y dựng v&agrave; Ph&aacute;t triển Hạ tầng - LICOGI. Ng&agrave;y 22/04/2010, LIG&nbsp;ch&iacute;nh thức Giao dịch tại Sở Giao dịch chứng kho&aacute;n H&agrave; Nội (HNX).</div>\r\n",
   "website": null,
-  "price_change": 400,
-  "percent_price_change": 0.08888889,
-  "volume": 4162953,
-  "high_52w": 4900,
+  "price_change": -400,
+  "percent_price_change": -0.08333333,
+  "volume": 1012125,
+  "high_52w": 5800,
   "low_52w": 2400,
-  "pe": 98.1627849276,
-  "pb": 0.4738374941,
-  "roe": 0.0048582847,
-  "roa": 0.0007641091,
-  "eps": 36.54051663891426,
-  "revenue": 1588293773916,
-  "net_profit": 3442871631,
-  "dividend": 0.0612244898,
+  "pe": 201.5842345247,
+  "pb": 0.4675823616,
+  "roe": 0.0023217597,
+  "roa": 0.0003643547,
+  "eps": 10.434818346264839,
+  "revenue": 1510991539778,
+  "net_profit": 983175482,
+  "dividend": 0.0625,
   "shareholders": [
+    {
+      "shareholder_name": "Đinh Quang Chiến",
+      "shareholder_percent": 0.1015
+    },
     {
       "shareholder_name": "Công ty Cổ phần Đầu tư Tài chính Giáo dục",
       "shareholder_percent": 0.0825146818
@@ -41,7 +45,7 @@
       "shareholder_percent": 0.050002
     },
     {
-      "shareholder_name": "Lâm Thị Kiều Oanh",
+      "shareholder_name": "LÂM THỊ KIỀU OANH",
       "shareholder_percent": 0.0499
     },
     {
@@ -57,7 +61,7 @@
       "shareholder_percent": 0.0287351161
     },
     {
-      "shareholder_name": "Tạ Quỳnh Mai",
+      "shareholder_name": "TẠ QUỲNH MAI",
       "shareholder_percent": 0.0275
     },
     {
@@ -171,7 +175,7 @@
     },
     {
       "officer_name": "Đỗ Thanh Hà",
-      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0007827
     },
     {
@@ -211,5 +215,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:09:38.210559"
+  "created_at": "2025-10-21T14:13:58.863722"
 }

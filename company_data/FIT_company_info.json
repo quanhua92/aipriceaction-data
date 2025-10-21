@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1811843071220,
-  "current_price": 5330,
+  "market_cap": 1461712046200,
+  "current_price": 4300,
   "outstanding_shares": 339933034,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n F.I.T (FIT) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư F.I.T được th&agrave;nh lập&nbsp;v&agrave;o năm 2007. Tập đo&agrave;n F.I.T hoạt động ch&iacute;nh trong lĩnh vực tư vấn&nbsp;đầu tư&nbsp;v&agrave; trực tiếp tham gia đầu tư&nbsp;cổ phiếu, tr&aacute;i phiếu, đầu tư v&agrave;o c&ocirc;ng ty con, c&ocirc;ng ty li&ecirc;n kết,&nbsp;đầu tư ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản. FIT tham gia&nbsp;v&agrave;o c&aacute;c lĩnh vực&nbsp;dược phẩm, trang thiết bị y tế, thực phẩm, ng&agrave;nh h&agrave;ng ti&ecirc;u d&ugrave;ng, n&ocirc;ng nghiệp th&ocirc;ng qua hệ thống c&aacute;c c&ocirc;ng ty con v&agrave; c&ocirc;ng ty li&ecirc;n kết trực thuộc. FIT được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n F.I.T (FIT) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư F.I.T được th&agrave;nh lập&nbsp;v&agrave;o năm 2007. Tập đo&agrave;n F.I.T hoạt động ch&iacute;nh trong lĩnh vực tư vấn&nbsp;đầu tư&nbsp;v&agrave; trực tiếp tham gia đầu tư&nbsp;cổ phiếu, tr&aacute;i phiếu, đầu tư v&agrave;o c&ocirc;ng ty con, c&ocirc;ng ty li&ecirc;n kết,&nbsp;đầu tư ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản. FIT tham gia&nbsp;v&agrave;o c&aacute;c lĩnh vực&nbsp;dược phẩm, trang thiết bị y tế, thực phẩm, ng&agrave;nh h&agrave;ng ti&ecirc;u d&ugrave;ng, n&ocirc;ng nghiệp th&ocirc;ng qua hệ thống c&aacute;c c&ocirc;ng ty con v&agrave; c&ocirc;ng ty li&ecirc;n kết trực thuộc. FIT được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2015.</div>",
   "website": null,
-  "price_change": -80,
-  "percent_price_change": -0.01478743,
-  "volume": 2806259,
+  "price_change": -240,
+  "percent_price_change": -0.05286344,
+  "volume": 1693125,
   "high_52w": 5590,
   "low_52w": 3840,
-  "pe": 31.1183725833,
-  "pb": 0.4691398233,
+  "pe": 26.8563815916,
+  "pb": 0.4048861514,
   "roe": 0.0151253314,
   "roa": 0.0073703678,
   "eps": 38.15237599414948,
@@ -110,6 +110,11 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Kiều Hữu Dũng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Cao Trọng Hoan",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
@@ -125,26 +130,21 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Lê Xuân Vũ",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Bùi Hồng Hạnh",
       "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Kiều Hữu Dũng",
-      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
       "officer_name": "Đỗ Văn Khá",
       "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Xuân Vũ",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:11:39.051793"
+  "created_at": "2025-10-21T14:08:29.151686"
 }

@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 17541362843000,
-  "current_price": 36700,
+  "market_cap": 13478649378000,
+  "current_price": 28200,
   "outstanding_shares": 477966290,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty Cổ phần Dịch vụ Kỹ thuật Dầu kh&iacute; Việt Nam (PVS), tiền th&acirc;n l&agrave; C&ocirc;ng ty Dịch vụ Kỹ thuật Dầu kh&iacute; được th&agrave;nh lập năm 1993. Năm 2006, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. Vốn điều lệ hiện tại của C&ocirc;ng ty l&agrave; 4.779,66 tỷ đồng. Lĩnh vực kinh doanh ch&iacute;nh l&agrave;: Cung cấp T&agrave;u dịch vụ chuy&ecirc;n ng&agrave;nh dầu kh&iacute;; Căn cứ Cảng dịch vụ dầu kh&iacute;; Dịch vụ kho nổi chứa, xử l&yacute; v&agrave; xuất dầu th&ocirc; (FSO/FPSO)...PVS một đơn vị th&agrave;nh vi&ecirc;n của Tập đo&agrave;n Dầu kh&iacute; Quốc gia Việt Nam, PVS lu&ocirc;n nhận được sự quan t&acirc;m, chỉ đạo của Tập đo&agrave;n trong c&ocirc;ng t&aacute;c sản xuất kinh doanh, đặc biệt được c&oacute; cơ hội tham gia đấu thầu cung cấp dịch vụ kỹ thuật dầu kh&iacute; tại Việt Nam.&nbsp;PVS sở hữu&nbsp;xưởng cơ kh&iacute; bảo dưỡng Diện t&iacute;ch 11.462 m&sup2; với c&aacute;c trang thiết bị, m&aacute;y m&oacute;c hiện đại, c&oacute; thể sửa chữa, bảo dưỡng v&agrave; cung cấp c&aacute;c dịch vụ ho&aacute;n cải, n&acirc;ng cấp, chế tạo c&aacute;c cấu kiện c&oacute; kết cấu l&ecirc;n đến 500 tấn...Ng&agrave;y 20/09/2007, PVS ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX)</div>\r\n",
   "website": null,
-  "price_change": -1200,
-  "percent_price_change": -0.03166227,
-  "volume": 13367952,
-  "high_52w": 41906,
+  "price_change": -2200,
+  "percent_price_change": -0.07236842,
+  "volume": 5509680,
+  "high_52w": 39000,
   "low_52w": 21400,
-  "pe": 13.8562863611,
-  "pb": 1.2526179665,
-  "roe": 0.0926182003,
-  "roa": 0.0382609944,
-  "eps": 754.9651282708661,
-  "revenue": 7383155933336,
-  "net_profit": 360847881439,
-  "dividend": 0.0190735695,
+  "pe": 11.8763386273,
+  "pb": 1.0718943106,
+  "roe": 0.0924574822,
+  "roa": 0.0381895779,
+  "eps": 750.2602989449318,
+  "revenue": 7359775491155,
+  "net_profit": 358599131621,
+  "dividend": 0.0222929936,
   "shareholders": [
     {
       "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
@@ -149,6 +149,10 @@
       "shareholder_percent": 0.00026
     },
     {
+      "shareholder_name": "Lê Cự Tân",
+      "shareholder_percent": 0.0002517929
+    },
+    {
       "shareholder_name": "Templeton ASEAN Consumer Fund Ltd.",
       "shareholder_percent": 0.00024625
     },
@@ -209,11 +213,11 @@
       "shareholder_percent": 2.2e-05
     },
     {
-      "shareholder_name": "Đoàn Thị Kim Hồng",
+      "shareholder_name": "Nguyễn Hữu Dũng",
       "shareholder_percent": 2e-05
     },
     {
-      "shareholder_name": "Nguyễn Hữu Dũng",
+      "shareholder_name": "Đoàn Thị Kim Hồng",
       "shareholder_percent": 2e-05
     },
     {
@@ -222,7 +226,7 @@
     },
     {
       "shareholder_name": "Nguyễn Văn Dân",
-      "shareholder_percent": 1.55719e-05
+      "shareholder_percent": 1.557e-05
     },
     {
       "shareholder_name": "Phạm Văn Hùng",
@@ -262,15 +266,11 @@
     },
     {
       "shareholder_name": "Nguyễn Tấn Hòa",
-      "shareholder_percent": 4.902e-07
+      "shareholder_percent": 4.9e-07
     },
     {
       "shareholder_name": "Triệu Văn Nghị",
       "shareholder_percent": 3.9e-07
-    },
-    {
-      "shareholder_name": "Nguyễn Hữu Quyết",
-      "shareholder_percent": 3e-07
     },
     {
       "shareholder_name": "Phạm Văn Hà",
@@ -288,7 +288,7 @@
   "officers": [
     {
       "officer_name": "Lê Mạnh Cường",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0.000116
     },
     {
@@ -363,5 +363,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:16:37.857109"
+  "created_at": "2025-10-21T14:19:07.760175"
 }

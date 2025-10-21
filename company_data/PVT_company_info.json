@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 8787714094500,
-  "current_price": 18700,
+  "market_cap": 7800858501000,
+  "current_price": 16600,
   "outstanding_shares": 469931235,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Vận tải Dầu kh&iacute; (PVT)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải Dầu kh&iacute; được th&agrave;nh lập v&agrave;o năm 2002. Tổng C&ocirc;ng ty hoạt động trong lĩnh vực cung cấp dịch vụ t&agrave;u vận tải dầu kh&iacute;, h&oacute;a chất v&agrave; c&aacute;c loại h&agrave;ng h&oacute;a kh&aacute;c, cho thu&ecirc; v&agrave; quản l&yacute; kho nổi, v&agrave; c&aacute;c dịch vụ hỗ trợ kh&aacute;c. PVT&nbsp;đ&atilde; ph&aacute;t triển&nbsp;đội t&agrave;u vận chuyển c&oacute; quy m&ocirc;&nbsp;58 chiếc với tổng trọng tải gần&nbsp;1,7 triệu&nbsp;DWT, bao gồm 03 t&agrave;u dầu th&ocirc;, 06&nbsp;t&agrave;u dầu sản phẩm, 18 t&agrave;u ho&aacute; chất,&nbsp;01&nbsp;t&agrave;u FSO/FPSO, 12 t&agrave;u h&agrave;ng rời v&agrave; 18 t&agrave;u LPG. Ng&agrave;y 10/12/2007, PVT ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Tổng C&ocirc;ng ty Cổ phần Vận tải Dầu kh&iacute; (PVT)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải Dầu kh&iacute; được th&agrave;nh lập v&agrave;o năm 2002. Tổng C&ocirc;ng ty hoạt động trong lĩnh vực cung cấp dịch vụ t&agrave;u vận tải dầu kh&iacute;, h&oacute;a chất v&agrave; c&aacute;c loại h&agrave;ng h&oacute;a kh&aacute;c, cho thu&ecirc; v&agrave; quản l&yacute; kho nổi, v&agrave; c&aacute;c dịch vụ hỗ trợ kh&aacute;c. PVT&nbsp;đ&atilde; ph&aacute;t triển&nbsp;đội t&agrave;u vận chuyển c&oacute; quy m&ocirc;&nbsp;58 chiếc với tổng trọng tải gần&nbsp;1,7 triệu&nbsp;DWT, bao gồm 03 t&agrave;u dầu th&ocirc;, 06&nbsp;t&agrave;u dầu sản phẩm, 18 t&agrave;u ho&aacute; chất,&nbsp;01&nbsp;t&agrave;u FSO/FPSO, 12 t&agrave;u h&agrave;ng rời v&agrave; 18 t&agrave;u LPG. Ng&agrave;y 10/12/2007, PVT ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>",
   "website": null,
-  "price_change": -250,
-  "percent_price_change": -0.01319261,
-  "volume": 6509123,
-  "high_52w": 22370,
+  "price_change": -750,
+  "percent_price_change": -0.04322767,
+  "volume": 2771605,
+  "high_52w": 22046,
   "low_52w": 14091,
-  "pe": 8.1158832957,
-  "pb": 1.0876171196,
-  "roe": 0.1386083734,
-  "roa": 0.0545096329,
-  "eps": 624.9568168266151,
-  "revenue": 4351967763919,
-  "net_profit": 293686728753,
-  "dividend": 0.0534759358,
+  "pe": 7.5874025998,
+  "pb": 1.0081331017,
+  "roe": 0.1384045842,
+  "roa": 0.0545816464,
+  "eps": 627.2876485258529,
+  "revenue": 4312626017100,
+  "net_profit": 294782059372,
+  "dividend": 0.0571428571,
   "shareholders": [
     {
       "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
@@ -86,7 +86,7 @@
     },
     {
       "shareholder_name": "Phạm Việt Anh",
-      "shareholder_percent": 0.00055892
+      "shareholder_percent": 0.0005589
     },
     {
       "shareholder_name": "Nguyễn Phùng Hưng",
@@ -118,15 +118,11 @@
     },
     {
       "shareholder_name": "Trần Tuấn Nam",
-      "shareholder_percent": 7.9966e-06
+      "shareholder_percent": 8e-06
     },
     {
       "shareholder_name": "Nguyễn Thị Hiên",
       "shareholder_percent": 5.6e-06
-    },
-    {
-      "shareholder_name": "Lê Mạnh Tuấn",
-      "shareholder_percent": 2.13e-06
     },
     {
       "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
@@ -137,12 +133,12 @@
     {
       "officer_name": "Phạm Việt Anh",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.00055892
+      "officer_percent": 0.0005589
     },
     {
-      "officer_name": "Lê Mạnh Tuấn",
+      "officer_name": "Phạm Anh Tuấn",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 2.13e-06
+      "officer_percent": 0
     },
     {
       "officer_name": "Nguyễn Quốc Phương",
@@ -160,31 +156,6 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Duyên Hiếu",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị/Phụ trách Công bố thông tin",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Đình Thanh",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Quốc Thịnh",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Viết Long",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Đỗ Đức Hùng",
-      "officer_position": "Kế toán trưởng",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Đoàn Đình Hiếu",
       "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
       "officer_percent": 0
@@ -195,21 +166,46 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Đặng Khắc Đô",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Trương Thị Anh Đào",
       "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
-      "officer_name": "Phạm Anh Tuấn",
+      "officer_name": "Nguyễn Duyên Hiếu",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Đình Thanh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đỗ Đức Hùng",
+      "officer_position": "Kế toán trưởng",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Viết Long",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Quốc Thịnh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đặng Khắc Đô",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Mạnh Tuấn",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:16:47.792416"
+  "created_at": "2025-10-21T14:19:14.084055"
 }

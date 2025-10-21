@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 69761241360000,
-  "current_price": 22500,
+  "market_cap": 79992890092800,
+  "current_price": 25800,
   "outstanding_shares": 3100499616,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần&nbsp;Lọc &ndash; H&oacute;a dầu B&igrave;nh Sơn (BSR)&nbsp;được th&agrave;nh lập năm 2008. BSR ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ&nbsp;năm 2018. C&ocirc;ng ty l&agrave; đơn vị quản l&yacute; vận&nbsp;h&agrave;nh&nbsp;Nh&agrave; m&aacute;y lọc dầu Dung Quất l&agrave; c&ocirc;ng tr&igrave;nh trọng điểm quốc gia c&oacute; tổng vốn đầu tư tr&ecirc;n 3 tỷ USD, c&ocirc;ng suất chế biến 6,5 triệu tấn dầu th&ocirc;/năm, tương đương 148.000 th&ugrave;ng/ng&agrave;y, c&ocirc;ng ty hiện chiếm khoảng&nbsp;30% nhu cầu năng lượng của Việt Nam. Ng&agrave;y 17/01/2025, BSR ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": -450,
-  "percent_price_change": -0.01960784,
-  "volume": 15384923,
-  "high_52w": 23150,
+  "price_change": -1900,
+  "percent_price_change": -0.06859206,
+  "volume": 13291898,
+  "high_52w": 31450,
   "low_52w": 14550,
-  "pe": -1405.0921083378,
-  "pb": 1.2343619819,
-  "roe": -0.0008885016,
-  "roa": -0.0005864649,
-  "eps": 272.82345302441735,
-  "revenue": 36772242585394,
-  "net_profit": 845889011338,
-  "dividend": 0.0044444444,
+  "pe": -1740.6750619732,
+  "pb": 1.5361010229,
+  "roe": -0.0008925268,
+  "roa": -0.0005891313,
+  "eps": 272.75092481224164,
+  "revenue": 36771954932170,
+  "net_profit": 845664137644,
+  "dividend": 0.0035714286,
   "shareholders": [
     {
       "shareholder_name": "Tập Đoàn Công Nghiệp – Năng Lượng Quốc Gia Việt Nam",
@@ -70,7 +70,7 @@
     },
     {
       "shareholder_name": "Nguyễn Quang Hòa",
-      "shareholder_percent": 1.1934e-06
+      "shareholder_percent": 1.19e-06
     },
     {
       "shareholder_name": "Nguyễn Hải Âu",
@@ -164,5 +164,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:09:48.512571"
+  "created_at": "2025-10-21T14:02:45.384006"
 }

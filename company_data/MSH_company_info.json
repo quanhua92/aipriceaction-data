@@ -5,28 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 4281424811000,
-  "current_price": 38050,
+  "market_cap": 3724445762000,
+  "current_price": 33100,
   "outstanding_shares": 112521020,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Được th&agrave;nh lập v&agrave;o năm 1988, C&ocirc;ng ty May S&ocirc;ng Hồng Cổ phần (MSH) l&agrave; một doanh nghiệp lớn trong ng&agrave;nh c&ocirc;ng nghiệp dệt may Việt Nam. Hoạt động kinh doanh chủ yếu của MSH gồm: (i) sản xuất, xuất khẩu c&aacute;c sản phẩm may mặc v&agrave; c&aacute;c sản phẩm chăn, ga, gối đệm với thương hiệu S&ocirc;ng Hồng v&agrave; (ii) gia c&ocirc;ng sản phẩm cho c&aacute;c thương hiệu nổi tiếng. C&ocirc;ng ty l&agrave; nh&agrave; sản xuất theo hợp đồng của c&aacute;c thương hiệu h&agrave;ng đầu quốc tế như GAP, NYCO, Brinkman, Fleet Street v&agrave; Columbia. Sản phẩm dệt may với t&ecirc;n thương hiệu S&ocirc;ng Hồng đ&atilde; được c&ocirc;ng nhận ở cả hai thị trường trong nước v&agrave; quốc tế. Ng&agrave;y 28/11/2018, MSH ch&iacute;nh thức giao dịch tr&ecirc;n s&agrave;n HOSE.</div>\r\n",
   "website": null,
-  "price_change": -950,
-  "percent_price_change": -0.02435897,
-  "volume": 1071545,
+  "price_change": -1150,
+  "percent_price_change": -0.03357664,
+  "volume": 156795,
   "high_52w": 41869,
   "low_52w": 25168,
-  "pe": 7.8204104348,
-  "pb": 2.1484595831,
-  "roe": 0.2890995165,
-  "roa": 0.1215594626,
-  "eps": 1599.3135760589444,
+  "pe": 7.4154665185,
+  "pb": 1.9536583857,
+  "roe": 0.2772425414,
+  "roa": 0.1165738869,
+  "eps": 1399.763609981495,
   "revenue": 1466807524314,
-  "net_profit": 179956394878,
-  "dividend": 0.1182654402,
+  "net_profit": 157502829154,
+  "dividend": 0.1300578035,
   "shareholders": [
     {
       "shareholder_name": "Bùi Đức Thịnh",
-      "shareholder_percent": 0.23909999
+      "shareholder_percent": 0.2391
     },
     {
       "shareholder_name": "Công ty Cổ phần Chứng khoán FPT",
@@ -46,7 +46,7 @@
     },
     {
       "shareholder_name": "Bùi Thu Hà",
-      "shareholder_percent": 0.07
+      "shareholder_percent": 0.0772
     },
     {
       "shareholder_name": "Bùi Hải Yến",
@@ -86,7 +86,7 @@
     },
     {
       "shareholder_name": "Lê Anh Thái",
-      "shareholder_percent": 0.0015
+      "shareholder_percent": 0.0012
     },
     {
       "shareholder_name": "Lê Văn Quang",
@@ -97,7 +97,7 @@
     {
       "officer_name": "Bùi Đức Thịnh",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.23909999
+      "officer_percent": 0.2391
     },
     {
       "officer_name": "Phạm Văn Dương",
@@ -125,6 +125,16 @@
       "officer_percent": 3e-05
     },
     {
+      "officer_name": "Trần Chí Dũng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đinh Tràng Thi",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Nguyễn Thị Ninh",
       "officer_position": "Người phụ trách quản trị công ty",
       "officer_percent": 0
@@ -138,18 +148,8 @@
       "officer_name": "NGUYỄN THỊ HẠNH",
       "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Chí Dũng",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Đinh Tràng Thi",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:42.450682"
+  "created_at": "2025-10-21T14:15:09.670703"
 }

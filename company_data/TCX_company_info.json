@@ -1,0 +1,175 @@
+{
+  "symbol": "TCX",
+  "exchange": null,
+  "industry": "Dịch vụ tài chính",
+  "company_type": null,
+  "established_year": null,
+  "employees": null,
+  "market_cap": null,
+  "current_price": null,
+  "outstanding_shares": 2311308021,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Kỹ Thương (TCX), tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Chứng kho&aacute;n Kỹ Thương, được th&agrave;nh lập v&agrave;o năm 2008. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực m&ocirc;i giới, tự doanh chứng kho&aacute;n, cung cấp dịch vụ tư vấn đầu tư chứng kho&aacute;n v&agrave; bảo l&atilde;nh ph&aacute;t h&agrave;nh chứng kho&aacute;n.&nbsp;Trong năm 2024, C&ocirc;ng ty xếp ở vị tr&iacute; 3 với 7.18% thị phần m&ocirc;i giới cổ phiếu ni&ecirc;m yết tại HOSE, thứ 2 với 7.93% thị phần m&ocirc;i giới cổ phiếu ni&ecirc;m yết tại HNX,&nbsp;thứ 3 với 5.89% thị phần m&ocirc;i giới cổ phiếu đăng k&yacute; giao dịch tr&ecirc;n thị trường UPCOM v&agrave;&nbsp;đứng vị tr&iacute; thứ 4 thị phần m&ocirc;i giới chứng kho&aacute;n ph&aacute;i sinh với 4.98%. Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 600,92 tỷ đồng, tăng 26.02% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 97.37%, tăng 28.55%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 2.245,29 tỷ đồng, tăng 53.32% v&agrave; đ&oacute;ng g&oacute;p 32.45 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 4.802,11 tỷ đồng, tăng 58.57%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 15.42%, tăng 1.54%.&nbsp;Ng&agrave;y 21/10/2025, TCX&nbsp;ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
+  "website": null,
+  "shareholders": [
+    {
+      "shareholder_name": "Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam",
+      "shareholder_percent": 0.7982
+    },
+    {
+      "shareholder_name": "NGUYỄN XUÂN MINH",
+      "shareholder_percent": 0.080949
+    },
+    {
+      "shareholder_name": "Công ty TNHH Quản Lý Tài Sản Việt Nam",
+      "shareholder_percent": 0.009745
+    },
+    {
+      "shareholder_name": "Trần Ngọc Như An",
+      "shareholder_percent": 0.00614
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Hùng",
+      "shareholder_percent": 0.00216
+    },
+    {
+      "shareholder_name": "Nguyễn Xuân Dũng",
+      "shareholder_percent": 0.00206
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Huy",
+      "shareholder_percent": 0.00087
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Hoạt",
+      "shareholder_percent": 0.000245
+    },
+    {
+      "shareholder_name": "Phạm Diệu Linh",
+      "shareholder_percent": 0.00023
+    },
+    {
+      "shareholder_name": "Ngô Hoàng Hà",
+      "shareholder_percent": 0.00014
+    },
+    {
+      "shareholder_name": "Nguyễn Đăng Minh",
+      "shareholder_percent": 0.00011
+    },
+    {
+      "shareholder_name": "Quách Thuỳ Linh",
+      "shareholder_percent": 0.000106
+    },
+    {
+      "shareholder_name": "Bùi Thị Thu Hằng",
+      "shareholder_percent": 8e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Cường",
+      "shareholder_percent": 7e-05
+    },
+    {
+      "shareholder_name": "Đặng Văn Khải",
+      "shareholder_percent": 6e-05
+    },
+    {
+      "shareholder_name": "Ninh Thị Hương",
+      "shareholder_percent": 4.82e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Tuấn Hiệp",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Phùng Thị Huệ",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Tạ Đình Thắng",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Tạ Quỳnh Anh",
+      "shareholder_percent": 4e-05
+    },
+    {
+      "shareholder_name": "Lê Thị Thu Hương",
+      "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Duy Anh",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Nguyễn Lê Nam Anh",
+      "shareholder_percent": 4e-06
+    },
+    {
+      "shareholder_name": "Phạm Thuý Vân",
+      "shareholder_percent": 2e-06
+    }
+  ],
+  "officers": [
+    {
+      "officer_name": "Phạm Diệu Linh",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00023
+    },
+    {
+      "officer_name": "Đặng Văn Khải",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 6e-05
+    },
+    {
+      "officer_name": "Phan Thanh Sơn",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Hoàng Thị Kim Cúc",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Trịnh Bằng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Huy Hoàng",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lee Boon Huat",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Bùi Thị Thu Hằng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Đào Kiên Trung",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thị Thu Hiền",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nhâm Hà Hải",
+      "officer_position": "Phụ trách Công bố thông tin/Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Minh",
+      "officer_position": "Chủ tịch Hội đồng Quản trị",
+      "officer_percent": 0
+    }
+  ],
+  "data_source": "VCI",
+  "created_at": "2025-10-21T14:22:15.368157"
+}

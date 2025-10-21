@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 40446493959000,
-  "current_price": 106500,
+  "market_cap": 33040797882000,
+  "current_price": 87000,
   "outstanding_shares": 379779286,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n H&oacute;a chất Đức Giang (DGC)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty H&oacute;a chất Đức Giang được th&agrave;nh lập năm 1963. Năm 2004 chuyển sang hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. Phốt pho v&agrave;ng v&agrave; bột giặt, chất tẩy rửa l&agrave; c&aacute;c sản phẩm kinh doanh c&ocirc;t l&otilde;i của C&ocirc;ng ty, mang lại nguồn doanh thu ch&iacute;nh. Ngo&agrave;i ra, C&ocirc;ng ty c&ograve;n sản xuất v&agrave; kinh doanh thương mại nhiều sản phẩm h&oacute;a chất cơ bản kh&aacute;c. Nằm trong chiến lược d&agrave;i hạn, C&ocirc;ng ty c&ograve;n triển khai mở rộng sản xuất sang lĩnh vực h&oacute;a chất n&ocirc;ng nghiệp, ph&acirc;n b&oacute;n. DGC giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 07/2020.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -1400,
-  "percent_price_change": -0.01297498,
-  "volume": 3395610,
+  "price_change": -6200,
+  "percent_price_change": -0.06652361,
+  "volume": 2423753,
   "high_52w": 119200,
   "low_52w": 73100,
-  "pe": 12.9796374996,
-  "pb": 2.7260329013,
-  "roe": 0.2228640145,
-  "roa": 0.1870637914,
-  "eps": 2247.4183924561294,
+  "pe": 11.7669005257,
+  "pb": 2.4640465199,
+  "roe": 0.2220973775,
+  "roa": 0.1860894008,
+  "eps": 2217.7334880116,
   "revenue": 2895497270172,
-  "net_profit": 853520990434,
-  "dividend": 0.0281690141,
+  "net_profit": 842247304534,
+  "dividend": 0.0311850312,
   "shareholders": [
     {
       "shareholder_name": "Đào Hữu Huyền",
@@ -46,27 +46,27 @@
     },
     {
       "shareholder_name": "Vietnam Enterprise Investments Limited",
-      "shareholder_percent": 0.018244
+      "shareholder_percent": 0.017585
     },
     {
       "shareholder_name": "Amersham Industries Limited",
-      "shareholder_percent": 0.01539
-    },
-    {
-      "shareholder_name": "Norges Bank",
-      "shareholder_percent": 0.014868
-    },
-    {
-      "shareholder_name": "Hanoi Investments Holdings Limited",
-      "shareholder_percent": 0.014308
+      "shareholder_percent": 0.014548
     },
     {
       "shareholder_name": "Đào Hồng Hạnh",
       "shareholder_percent": 0.013525
     },
     {
+      "shareholder_name": "Norges Bank",
+      "shareholder_percent": 0.013078
+    },
+    {
       "shareholder_name": "CTBC Vietnam Equity Fund",
       "shareholder_percent": 0.012376
+    },
+    {
+      "shareholder_name": "Hanoi Investments Holdings Limited",
+      "shareholder_percent": 0.008803
     },
     {
       "shareholder_name": "Đào Thị Quyên",
@@ -82,7 +82,7 @@
     },
     {
       "shareholder_name": "Wareham Group Limited",
-      "shareholder_percent": 0.003819
+      "shareholder_percent": 0.003556
     },
     {
       "shareholder_name": "Phan Thị Nhung",
@@ -97,16 +97,16 @@
       "shareholder_percent": 0.002890583
     },
     {
-      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
-      "shareholder_percent": 0.002307
-    },
-    {
       "shareholder_name": "Vũ Minh Thuyết",
       "shareholder_percent": 0.0023
     },
     {
       "shareholder_name": "Đào Thị Huyên",
       "shareholder_percent": 0.00200803
+    },
+    {
+      "shareholder_name": "DC Developing Markets Strategies Public Limited Company",
+      "shareholder_percent": 0.001964
     },
     {
       "shareholder_name": "Đào Hữu Tu",
@@ -161,12 +161,12 @@
       "shareholder_percent": 0.0003237
     },
     {
-      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
-      "shareholder_percent": 0.000248
-    },
-    {
       "shareholder_name": "Nguyễn Văn Thất",
       "shareholder_percent": 0.00022987
+    },
+    {
+      "shareholder_name": "Samsung Vietnam Securities Master Investment Trust",
+      "shareholder_percent": 0.000205
     },
     {
       "shareholder_name": "Vũ Quốc Tuấn",
@@ -228,7 +228,7 @@
   "officers": [
     {
       "officer_name": "Đào Hữu Huyền",
-      "officer_position": "Phụ trách Công bố thông tin/Chủ tịch Hội đồng Quản trị",
+      "officer_position": "Chủ tịch Hội đồng Quản trị/Phụ trách Công bố thông tin",
       "officer_percent": 0.1838
     },
     {
@@ -273,5 +273,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:11:01.074174"
+  "created_at": "2025-10-21T14:05:43.531448"
 }

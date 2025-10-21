@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1238718112900,
-  "current_price": 13900,
+  "market_cap": 845714740390,
+  "current_price": 9490,
   "outstanding_shares": 89116411,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Hưng Thịnh Incons (HTN) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thiết kế - X&acirc;y dựng Hưng Thịnh được th&agrave;nh lập v&agrave;o năm 2007.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực thiết kế v&agrave; x&acirc;y dựng c&ocirc;ng tr&igrave;nh,&nbsp;cung ứng vật tư, thiết bị x&acirc;y dựng. HTN ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2010. Với năng lực của m&igrave;nh, Hưng Thịnh Incons thường tham gia v&agrave;o c&aacute;c dự &aacute;n x&acirc;y dựng c&oacute; quy m&ocirc; lớn với vai tr&ograve; tổng thầu. Một số c&ocirc;ng tr&igrave;nh ti&ecirc;u biểu C&ocirc;ng ty đ&atilde; tham gia thực hiện như C&ocirc;ng tr&igrave;nh Thi&ecirc;n Nam Apartment - Quận 10 - Th&agrave;nh phố Hồ Ch&iacute; Minh, Căn hộ 27 Trường Chinh - Phường T&acirc;n Thới Nhất - Quận 12 - Th&agrave;nh phố Hồ Ch&iacute; Minh, Chung cư cao tầng tại 91 Phạm Văn Hai, Căn hộ 8X Plus - Trường Ch&iacute;nh - Quận 12 - Th&agrave;nh phố Hồ Ch&iacute; Minh. HTN được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2018.</div>\r\n",
   "website": null,
-  "price_change": 900,
-  "percent_price_change": 0.06923077,
-  "volume": 3575249,
-  "high_52w": 13900,
+  "price_change": -710,
+  "percent_price_change": -0.06960784,
+  "volume": 840145,
+  "high_52w": 14300,
   "low_52w": 7060,
-  "pe": 22.0905552056,
-  "pb": 0.7956034809,
+  "pe": 15.8448083022,
+  "pb": 0.5706594752,
   "roe": 0.0366556902,
   "roa": 0.0076614342,
   "eps": 186.61526017918294,
@@ -167,5 +167,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:08:07.535951"
+  "created_at": "2025-10-21T14:11:52.486966"
 }

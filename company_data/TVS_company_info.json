@@ -5,28 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 3465151935500,
-  "current_price": 20750,
+  "market_cap": 2755422021000,
+  "current_price": 16500,
   "outstanding_shares": 166995274,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\" style=\"text-align: justify;\">C&ocirc;ng ty Cổ phần chứng kho&aacute;n Thi&ecirc;n Việt (TVS)&nbsp;được th&agrave;nh lập năm 2007 với vốn&nbsp;điều lệ ban&nbsp;đầu&nbsp;l&agrave; 43 tỷ&nbsp;đồng.&nbsp;C&ocirc;ng ty chuy&ecirc;n cung cấp dịch vụ tư vấn t&agrave;i ch&iacute;nh, đầu tư chứng kho&aacute;n, dịch vụ ng&acirc;n h&agrave;ng đầu tư v&agrave; m&ocirc;i giới chứng kho&aacute;n. Năm 2024, Doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 22,52 tỷ đồng, tăng 23.46% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 17.82%, tăng 8.57%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 331,31 tỷ đồng, tăng 16.53% v&agrave; đ&oacute;ng g&oacute;p 40.92 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 343,79 tỷ đồng, tăng 9.87%. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 12.81%, giảm 0.35%.&nbsp;Ng&agrave;y 15/01/2015, TVS&nbsp;ch&iacute;nh thức giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 50,
-  "percent_price_change": 0.00241546,
-  "volume": 523425,
-  "high_52w": 24100,
-  "low_52w": 14750,
-  "pe": 13.9117636194,
-  "pb": 1.4349849155,
+  "price_change": -1150,
+  "percent_price_change": -0.06515581,
+  "volume": 380284,
+  "high_52w": 22056,
+  "low_52w": 13527,
+  "pe": 12.0712687451,
+  "pb": 1.297684882,
   "roe": 0.1065316843,
   "roa": 0.0356870965,
-  "eps": 313.5982856796295,
+  "eps": 261.33190577629523,
   "revenue": 225430068297,
   "net_profit": 52369431643,
-  "dividend": 0.0481927711,
+  "dividend": 0.0561797753,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Trung Hà",
-      "shareholder_percent": 0.31119999
+      "shareholder_percent": 0.3112
     },
     {
       "shareholder_name": "Đinh Thị Hoa",
@@ -45,10 +45,6 @@
       "shareholder_percent": 0.0187
     },
     {
-      "shareholder_name": "Phạm Ngọc Quỳnh",
-      "shareholder_percent": 0.0156
-    },
-    {
       "shareholder_name": "Nguyễn Thanh Thảo",
       "shareholder_percent": 0.0117
     },
@@ -58,7 +54,7 @@
     },
     {
       "shareholder_name": "Bùi Thị Kim Oanh",
-      "shareholder_percent": 0.0097
+      "shareholder_percent": 0.0094
     },
     {
       "shareholder_name": "Phan Thanh Liêm",
@@ -69,11 +65,11 @@
       "shareholder_percent": 0.00473963
     },
     {
-      "shareholder_name": "Lê Quang Tiến",
+      "shareholder_name": "Nguyễn Trường Giang",
       "shareholder_percent": 0.004
     },
     {
-      "shareholder_name": "Nguyễn Trường Giang",
+      "shareholder_name": "Lê Quang Tiến",
       "shareholder_percent": 0.004
     },
     {
@@ -98,7 +94,7 @@
     },
     {
       "shareholder_name": "Ngô Nhật Minh",
-      "shareholder_percent": 0.0016
+      "shareholder_percent": 0.001564
     },
     {
       "shareholder_name": "Nguyễn Nam Sơn",
@@ -117,7 +113,7 @@
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Bùi Thế Toàn",
+      "shareholder_name": "Đỗ Việt Hùng",
       "shareholder_percent": 0.0001
     },
     {
@@ -129,12 +125,16 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Đỗ Việt Hùng",
+      "shareholder_name": "Bùi Thế Toàn",
       "shareholder_percent": 0.0001
     },
     {
       "shareholder_name": "Đỗ Minh Tiến",
       "shareholder_percent": 3e-05
+    },
+    {
+      "shareholder_name": "Bùi Thị Trang",
+      "shareholder_percent": 1e-05
     },
     {
       "shareholder_name": "Đinh Hùng",
@@ -145,7 +145,7 @@
     {
       "officer_name": "Nguyễn Trung Hà",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.31119999
+      "officer_percent": 0.3112
     },
     {
       "officer_name": "Đinh Thị Hoa",
@@ -154,13 +154,13 @@
     },
     {
       "officer_name": "Nguyễn Thanh Thảo",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0.0117
     },
     {
       "officer_name": "Bùi Thị Kim Oanh",
       "officer_position": "Thành viên Hội đồng Quản trị độc lập",
-      "officer_percent": 0.0097
+      "officer_percent": 0.0094
     },
     {
       "officer_name": "Lê Quang Tiến",
@@ -169,7 +169,7 @@
     },
     {
       "officer_name": "Trần Thị Hồng Nhung",
-      "officer_position": "Thành viên Ban kiểm soát/Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
+      "officer_position": "Người phụ trách quản trị công ty/Thành viên Ban kiểm soát/Phụ trách Công bố thông tin",
       "officer_percent": 0.0033
     },
     {
@@ -183,13 +183,8 @@
       "officer_percent": 0.0001
     },
     {
-      "officer_name": "Đồng Thị Phương Liên",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Terence Ting",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_name": "Phan Minh Tâm",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
     {
@@ -198,11 +193,16 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Phan Minh Tâm",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_name": "Đồng Thị Phương Liên",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Terence Ting",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:16:29.546564"
+  "created_at": "2025-10-21T14:23:49.405104"
 }

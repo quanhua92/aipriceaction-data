@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 7226689250000,
-  "current_price": 27100,
+  "market_cap": 7933358125000,
+  "current_price": 29750,
   "outstanding_shares": 266667500,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Nam Việt (ANV) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Nam Việt được th&agrave;nh lập v&agrave;o&nbsp;năm 1993. C&ocirc;ng ty hoạt động trong lĩnh vực nu&ocirc;i<strong> </strong>trồng, chế biến&nbsp;thủy sản, xuất khẩu thủy sản, sản xuất thức ăn thủy sản. ANV ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2006. Sản phẩm của C&ocirc;ng ty đ&atilde; c&oacute; mặt tr&ecirc;n 100 quốc gia tr&ecirc;n thế giới như Nga, EU, Trung quốc, &Uacute;c. ANV hiện đang sở hữu vận h&agrave;nh 04&nbsp;nh&agrave; m&aacute;y chế biến thủy sản với tổng c&ocirc;ng suất 1.050 tấn nguy&ecirc;n vật liệu/ng&agrave;y. C&ocirc;ng ty đ&atilde; ho&agrave;n th&agrave;nh việc x&acirc;y dựng chuỗi sản xuất kh&eacute;p k&iacute;n từ con giống, thức ăn, nu&ocirc;i trồng thủy sản tới chế biến với&nbsp;08 d&acirc;y chuyền sản xuất thức ăn chăn nu&ocirc;i&nbsp;với tổng c&ocirc;ng suất l&ecirc;n đến 800 tấn/ng&agrave;y v&agrave; 250 ha v&ugrave;ng nu&ocirc;i c&aacute; nguy&ecirc;n liệu. ANV ch&iacute;nh thức ni&ecirc;m yết tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)&nbsp;từ năm 2007.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 0,
-  "percent_price_change": 0,
-  "volume": 6392098,
-  "high_52w": 28200,
+  "price_change": -2200,
+  "percent_price_change": -0.06885759,
+  "volume": 3866639,
+  "high_52w": 34500,
   "low_52w": 12400,
-  "pe": 14.487690064,
-  "pb": 2.2123194682,
-  "roe": 0.1681855852,
-  "roa": 0.1009643382,
-  "eps": 1249.9744789361357,
-  "revenue": 1744793066685,
-  "net_profit": 332812892370,
-  "dividend": 0.036900369,
+  "pe": 10.5159474789,
+  "pb": 2.2366197168,
+  "roe": 0.2404911764,
+  "roa": 0.1478653558,
+  "eps": 1063.18009689556,
+  "revenue": 2007871771210,
+  "net_profit": 283077814084,
+  "dividend": 0.0336134454,
   "shareholders": [
     {
       "shareholder_name": "Doãn Tới",
@@ -30,7 +30,7 @@
     },
     {
       "shareholder_name": "Doãn Chí Thanh",
-      "shareholder_percent": 0.1108
+      "shareholder_percent": 0.1107
     },
     {
       "shareholder_name": "Ngân hàng Deutsche Aktiengesellschaft",
@@ -115,6 +115,10 @@
     {
       "shareholder_name": "Nguyễn Thanh Ngọc",
       "shareholder_percent": 7e-06
+    },
+    {
+      "shareholder_name": "Dương Thị Kim Loan",
+      "shareholder_percent": 4e-07
     }
   ],
   "officers": [
@@ -175,5 +179,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:09:12.818857"
+  "created_at": "2025-10-21T14:01:04.210305"
 }

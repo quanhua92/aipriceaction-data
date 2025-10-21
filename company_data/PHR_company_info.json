@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 8644848832400,
-  "current_price": 63800,
+  "market_cap": 6592035982700,
+  "current_price": 48650,
   "outstanding_shares": 135499198,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Cao su Phước H&ograve;a (PHR) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Đồn điền Cao su Phước H&ograve;a được th&agrave;nh lập sau ng&agrave;y miền Nam ho&agrave;n to&agrave;n giải ph&oacute;ng. C&ocirc;ng ty&nbsp;hoạt động trong lĩnh vực trồng, khai th&aacute;c, chế biến mủ cao su v&agrave; chế biến gỗ cao su.&nbsp;PHR ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2008. C&ocirc;ng ty&nbsp;l&agrave; một trong những c&ocirc;ng ty c&oacute; diện t&iacute;ch cao su lớn của ng&agrave;nh, nằm trong Top 5 đơn vị quản l&yacute; diện t&iacute;ch v&agrave; sản lượng cao su lớn nhất ng&agrave;nh. C&ocirc;ng ty c&oacute; diện t&iacute;ch đất trồng cao su l&agrave; 15.227 ha v&agrave; 3 nh&agrave; m&aacute;y chế biến mủ cao su với tổng c&ocirc;ng suất 27.000 tấn/năm. PHR được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 08/2009.</div>\r\n",
   "website": null,
-  "price_change": 1000,
-  "percent_price_change": 0.01592357,
-  "volume": 1275540,
-  "high_52w": 69000,
-  "low_52w": 39000,
-  "pe": 17.010630615,
-  "pb": 2.2689136182,
-  "roe": 0.1325199804,
-  "roa": 0.0848294154,
-  "eps": 666.3348115905453,
+  "price_change": -3650,
+  "percent_price_change": -0.06978967,
+  "volume": 331056,
+  "high_52w": 67358,
+  "low_52w": 38072,
+  "pe": 14.4583006064,
+  "pb": 1.9307204524,
+  "roe": 0.1326918879,
+  "roa": 0.0849403313,
+  "eps": 671.3670938258986,
   "revenue": 367973217032,
-  "net_profit": 90287832570,
-  "dividend": 0.0206269592,
+  "net_profit": 90969702777,
+  "dividend": 0.0242357274,
   "shareholders": [
     {
       "shareholder_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
@@ -93,6 +93,10 @@
       "shareholder_percent": 0.000618
     },
     {
+      "shareholder_name": "Công ty TNHH Bảo hiểm nhân thọ CHUBB Việt Nam",
+      "shareholder_percent": 0.000618
+    },
+    {
       "shareholder_name": "Kiwoom Vietnam Tomorrow Securities Master Fund",
       "shareholder_percent": 0.0005
     },
@@ -148,7 +152,7 @@
   "officers": [
     {
       "officer_name": "Nguyễn Văn Tược",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.0032
     },
     {
@@ -173,7 +177,7 @@
     },
     {
       "officer_name": "Trần Hoàng Giang",
-      "officer_position": "Kế toán trưởng/Phụ trách Công bố thông tin",
+      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng",
       "officer_percent": 0
     },
     {
@@ -203,5 +207,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:15:59.888292"
+  "created_at": "2025-10-21T14:17:56.213897"
 }

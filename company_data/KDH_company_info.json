@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 40624179343800,
-  "current_price": 36200,
+  "market_cap": 35405880063450,
+  "current_price": 31550,
   "outstanding_shares": 1122214899,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư v&agrave; Kinh doanh nh&agrave; Khang Điền (KDH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Đầu tư v&agrave; Kinh doanh Nh&agrave; Khang Điền&nbsp;được th&agrave;nh lập v&agrave;o năm 2001. C&ocirc;ng ty hoạt&nbsp;động trong lĩnh vực&nbsp;đầu tư ph&aacute;t triển v&agrave; kinh doanh bất&nbsp;động sản nh&agrave; ở. KDH&nbsp;ch&iacute;nh&nbsp;thức hoạt&nbsp;động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2007. Địa b&agrave;n hoạt động kinh doanh ch&iacute;nh của KDH l&agrave; Th&agrave;nh phố Hồ Ch&iacute; Minh với c&aacute;c dự &aacute;n ti&ecirc;u biểu như c&aacute;c dự &aacute;n&nbsp;nh&agrave; thấp&nbsp;tầng (biệt thự, liền kế)&nbsp;Goldora Villa, Mega Ruby, Mega Village, The Venica, Lucasta v&agrave; dự &aacute;n căn hộ Jamila. KDH được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2010.</div>",
   "website": null,
-  "price_change": 2000,
-  "percent_price_change": 0.05847953,
-  "volume": 12050225,
-  "high_52w": 36550,
+  "price_change": -2350,
+  "percent_price_change": -0.06932153,
+  "volume": 13402433,
+  "high_52w": 38100,
   "low_52w": 22046,
-  "pe": 50.4937346261,
-  "pb": 2.2825049409,
-  "roe": 0.0454985714,
-  "roa": 0.0254960771,
-  "eps": 177.09293930876603,
-  "revenue": 1051812657000,
-  "net_profit": 198736335000,
-  "dividend": 0.0276243094,
+  "pe": 44.5474047082,
+  "pb": 2.0113449482,
+  "roe": 0.0455155753,
+  "roa": 0.0255050075,
+  "eps": 177.358788568356,
+  "revenue": 1054368668000,
+  "net_profit": 199034675000,
+  "dividend": 0.0313479624,
   "shareholders": [
     {
       "shareholder_name": "Vinacapital Vietnam Opportunity Fund Ltd.",
@@ -85,8 +85,8 @@
       "shareholder_percent": 0.012808
     },
     {
-      "shareholder_name": "Vietnam Investment Limited",
-      "shareholder_percent": 0.012
+      "shareholder_name": "Vương Văn Minh",
+      "shareholder_percent": 0.0087
     },
     {
       "shareholder_name": "Hanoi Investments Holdings Limited",
@@ -117,12 +117,12 @@
       "shareholder_percent": 0.0042
     },
     {
-      "shareholder_name": "Vương Văn Minh",
-      "shareholder_percent": 0.004
-    },
-    {
       "shareholder_name": "Nguyễn Thùy Trang",
       "shareholder_percent": 0.0038
+    },
+    {
+      "shareholder_name": "Vietnam Investment Limited",
+      "shareholder_percent": 0.00361
     },
     {
       "shareholder_name": "Longwoods Worldwide Limited",
@@ -135,6 +135,14 @@
     {
       "shareholder_name": "Nguyễn Thị Cẩm Vân",
       "shareholder_percent": 0.0026
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Kinh tế hiện đại VinaCapital",
+      "shareholder_percent": 0.002327
+    },
+    {
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
+      "shareholder_percent": 0.001738
     },
     {
       "shareholder_name": "Aquila Spc Ltd",
@@ -151,14 +159,6 @@
     {
       "shareholder_name": "Nguyễn Thuỳ Dương",
       "shareholder_percent": 0.00163
-    },
-    {
-      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Kinh tế hiện đại VinaCapital",
-      "shareholder_percent": 0.001622
-    },
-    {
-      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Tiếp Cận Thị Trường VinaCapital",
-      "shareholder_percent": 0.00162
     },
     {
       "shareholder_name": "Nguyễn Trần Cẩm Hiền",
@@ -233,16 +233,16 @@
       "shareholder_percent": 0.000372
     },
     {
-      "shareholder_name": "Huỳnh Chí Tâm",
-      "shareholder_percent": 0.00032
-    },
-    {
       "shareholder_name": "Công ty TNHH Bảo hiểm nhân thọ Generali Việt Nam",
       "shareholder_percent": 0.0003
     },
     {
       "shareholder_name": "Phạm Thị Thu Thủy",
       "shareholder_percent": 0.00028
+    },
+    {
+      "shareholder_name": "Huỳnh Chí Tâm",
+      "shareholder_percent": 0.00027
     },
     {
       "shareholder_name": "Nguyễn Minh Hải",
@@ -404,14 +404,14 @@
       "officer_percent": 0.001
     },
     {
-      "officer_name": "Huỳnh Chí Tâm",
-      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
-      "officer_percent": 0.00032
-    },
-    {
       "officer_name": "Phạm Thị Thu Thủy",
       "officer_position": "Kế toán trưởng",
       "officer_percent": 0.00028
+    },
+    {
+      "officer_name": "Huỳnh Chí Tâm",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_percent": 0.00027
     },
     {
       "officer_name": "Bùi Quang Huy",
@@ -455,5 +455,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:14:10.175526"
+  "created_at": "2025-10-21T14:13:10.424951"
 }

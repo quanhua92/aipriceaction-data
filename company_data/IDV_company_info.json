@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1142258722900,
-  "current_price": 27700,
+  "market_cap": 1092774590500,
+  "current_price": 26500,
   "outstanding_shares": 41236777,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Ph&aacute;t triển Hạ tầng Vĩnh Ph&uacute;c (IDV)&nbsp;l&agrave; doanh nghiệp chuy&ecirc;n kinh doanh cơ sở hạ tầng khu c&ocirc;ng nghiệp được th&agrave;nh lập năm 2003. C&ocirc;ng ty l&agrave; chủ đầu tư ph&aacute;t triển kinh doanh hạ tầng của 2 khu c&ocirc;ng nghiệp l&agrave; khu c&ocirc;ng nghiệp Khai Quang tại th&agrave;nh phố Vĩnh Y&ecirc;n, tỉnh Vĩnh Ph&uacute;c v&agrave; khu c&ocirc;ng nghiệp Ch&acirc;u Sơn&nbsp;tại th&agrave;nh phố&nbsp;Phủ L&yacute;, tỉnh H&agrave; Nam. Doanh thu của c&ocirc;ng ty đến từ 3 nguồn ch&iacute;nh l&agrave; ph&iacute; sử dụng hạ tầng, ph&iacute; quản l&yacute; khu c&ocirc;ng nghiệp v&agrave; ph&iacute; xử l&yacute; nước thải. C&ocirc;ng ty l&agrave; một doanh nghiệp c&oacute; uy t&iacute;n trong lĩnh vực x&acirc;y dựng v&agrave; kinh doanh hạ tầng kỹ thuật khu c&ocirc;ng nghiệp. IDV được ni&ecirc;m yết v&agrave; giao dịch&nbsp;tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX) từ năm 2010.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -200,
-  "percent_price_change": -0.00716846,
-  "volume": 40137,
+  "price_change": 300,
+  "percent_price_change": 0.01145038,
+  "volume": 34974,
   "high_52w": 35500,
   "low_52w": 22600,
-  "pe": 10.3926580221,
-  "pb": 1.2867342631,
+  "pe": 9.8298787068,
+  "pb": 1.2170555124,
   "roe": 0.1266961383,
   "roa": 0.0580806117,
   "eps": 390.55969454159816,
   "revenue": 27782116972,
   "net_profit": 16105423029,
-  "dividend": 0.0541516245,
+  "dividend": 0.0572519084,
   "shareholders": [
     {
       "shareholder_name": "America Limited Liability Company",
@@ -125,11 +125,11 @@
       "shareholder_percent": 0.0023687081
     },
     {
-      "shareholder_name": "Nguyễn Ngọc Phương Trinh",
+      "shareholder_name": "Văn Thị Bông",
       "shareholder_percent": 0.0022
     },
     {
-      "shareholder_name": "Văn Thị Bông",
+      "shareholder_name": "Nguyễn Ngọc Phương Trinh",
       "shareholder_percent": 0.0022
     },
     {
@@ -165,8 +165,16 @@
       "shareholder_percent": 0.0006
     },
     {
+      "shareholder_name": "Nguyễn Vũ Hà Linh",
+      "shareholder_percent": 0.0006
+    },
+    {
       "shareholder_name": "Phùng Tiến Nghĩa",
       "shareholder_percent": 0.0004
+    },
+    {
+      "shareholder_name": "Đỗ Ngọc Hoa",
+      "shareholder_percent": 0.0002
     },
     {
       "shareholder_name": "Đỗ Minh Hòa",
@@ -181,11 +189,11 @@
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Phùng Thị Vụ",
+      "shareholder_name": "Vũ Anh Tuấn",
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Đỗ Ngọc Hoa",
+      "shareholder_name": "Phùng Thị Vụ",
       "shareholder_percent": 0.0002
     },
     {
@@ -193,12 +201,8 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Nguyễn Vũ Hà Linh",
-      "shareholder_percent": 0.0001
-    },
-    {
       "shareholder_name": "Phan Văn Vinh",
-      "shareholder_percent": 9.7078e-06
+      "shareholder_percent": 9.71e-06
     }
   ],
   "officers": [
@@ -259,5 +263,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:08:24.858462"
+  "created_at": "2025-10-21T14:12:26.104798"
 }

@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 249592518400000,
-  "current_price": 82000,
+  "market_cap": 208196686080000,
+  "current_price": 68400,
   "outstanding_shares": 3043811200,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormalCxSpFirst\">Tổng C&ocirc;ng ty Cổ phần Đầu tư Quốc tế Viettel (VGI) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đầu tư Quốc tế Viettel&nbsp;được th&agrave;nh lập&nbsp;v&agrave;o năm 2007. VGI&nbsp;được chuyển sang hoạt&nbsp;động theo m&ocirc; h&igrave;nh&nbsp;tổng c&ocirc;ng ty từ năm 2013.&nbsp;Tổng C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực đầu tư ph&aacute;t triển mạng&nbsp;viễn th&ocirc;ng tại c&aacute;c thị&nbsp;trường nước ngo&agrave;i. VGI&nbsp;c&oacute; 9 mạng viễn th&ocirc;ng tại 9 quốc gia với hơn 65 triệu kh&aacute;ch h&agrave;ng, thuộc top 30 c&ocirc;ng ty viễn th&ocirc;ng tr&ecirc;n Thế giới.&nbsp;VGI được giao dịch tr&ecirc;n thị trường UPCOM từ cuối th&aacute;ng 09/2018.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 1104,
-  "percent_price_change": 0.01381727,
-  "volume": 1764698,
-  "high_52w": 97700,
-  "low_52w": 51800,
-  "pe": 42.1580789501,
-  "pb": 6.5814833326,
-  "roe": 0.1665778766,
-  "roa": 0.0910064608,
-  "eps": 784.9091911791376,
-  "revenue": 10514402488929,
-  "net_profit": 2389115387094,
+  "price_change": 4380,
+  "percent_price_change": 0.06707504,
+  "volume": 1042553,
+  "high_52w": 96733,
+  "low_52w": 51287,
+  "pe": 35.1126502575,
+  "pb": 5.460851665,
+  "roe": 0.1658762802,
+  "roa": 0.090614585,
+  "eps": 776.5171123606484,
+  "revenue": 10602989400202,
+  "net_profit": 2363571483595,
   "dividend": 0,
   "shareholders": [
     {
@@ -51,6 +51,10 @@
     {
       "shareholder_name": "Nguyễn Thanh Nam",
       "shareholder_percent": 1e-05
+    },
+    {
+      "shareholder_name": "Hoàng Văn Ngọc",
+      "shareholder_percent": 8.8e-06
     },
     {
       "shareholder_name": "Nguyễn Hoài Thanh",
@@ -111,7 +115,7 @@
     },
     {
       "officer_name": "Nguyễn Cao Lợi",
-      "officer_position": "Kế toán trưởng/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Kế toán trưởng",
       "officer_percent": 1.8e-06
     },
     {
@@ -161,10 +165,10 @@
     },
     {
       "officer_name": "Nguyễn Đạt",
-      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:19:54.978234"
+  "created_at": "2025-10-21T14:24:45.048882"
 }

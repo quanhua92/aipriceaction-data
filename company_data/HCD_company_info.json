@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 291235470080,
-  "current_price": 7880,
+  "market_cap": 288278764800,
+  "current_price": 7800,
   "outstanding_shares": 36958816,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đầu tư Sản xuất v&agrave; Thương mại HCD (HCD), tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Luyện kim HCD, được th&agrave;nh lập ng&agrave;y 06/12/2011. Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty l&agrave; xuất nhập khẩu, cung ứng v&agrave; ph&acirc;n phối hạt nhựa nguy&ecirc;n sinh, v&agrave; kinh doanh th&eacute;p x&acirc;y dựng, th&eacute;p h&igrave;nh. B&ecirc;n cạnh đ&oacute;, để mở rộng lĩnh vực kinh doanh v&agrave; tận dụng lợi thế cạnh tranh, C&ocirc;ng ty đang đầu tư x&acirc;y dựng nh&agrave; m&aacute;y sản xuất bao b&igrave; nhựa tự hủy với tổng c&ocirc;ng suất đạt 7.200 &ndash; 8.000 tấn/năm dự kiến sẽ đi v&agrave;o hoạt động v&agrave;o năm 2017. Trong lĩnh vực kinh doanh hạt nhựa, C&ocirc;ng ty l&agrave; đối t&aacute;c của nhiều Tập đo&agrave;n cung cấp hạt nhựa nổi tiếng từ c&aacute;c nước tr&ecirc;n thế giới như H&agrave;n Quốc, Nhật Bản, v&agrave; Th&aacute;i Lan.B&ecirc;n cạnh đ&oacute;, C&ocirc;ng ty cũng l&agrave; đại l&yacute; ph&acirc;n phối th&eacute;p cấp I của nhiều doanh nghiệp sản xuất th&eacute;p lớn trong nước như Th&eacute;p H&ograve;a Ph&aacute;p, POMINA v&agrave; c&aacute;c nh&agrave; nhập khẩu th&eacute;p kh&aacute;c.&nbsp;Ng&agrave;y 04/07/2016, HCD ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": 200,
-  "percent_price_change": 0.02604167,
-  "volume": 185823,
-  "high_52w": 10600,
+  "price_change": -350,
+  "percent_price_change": -0.04294479,
+  "volume": 14311,
+  "high_52w": 9830,
   "low_52w": 6150,
-  "pe": 10.7632143622,
-  "pb": 0.5874461576,
-  "roe": 0.055661096,
-  "roa": 0.0325192392,
-  "eps": 159.0538022646613,
+  "pe": 11.2377425815,
+  "pb": 0.6121180383,
+  "roe": 0.0555449262,
+  "roa": 0.0324799756,
+  "eps": 157.5042770850668,
   "revenue": 186221563913,
-  "net_profit": 5878440212,
-  "dividend": 0.1269035533,
+  "net_profit": 5821171596,
+  "dividend": 0.1218026797,
   "shareholders": [
     {
       "shareholder_name": "NGUYỄN ĐỨC DŨNG",
@@ -31,6 +31,10 @@
     {
       "shareholder_name": "Nguyễn Phương Đông",
       "shareholder_percent": 0.1315
+    },
+    {
+      "shareholder_name": "Đinh Quang Chiến",
+      "shareholder_percent": 0.0804
     },
     {
       "shareholder_name": "Phùng Chí Công",
@@ -81,7 +85,7 @@
       "shareholder_percent": 0.0005
     },
     {
-      "shareholder_name": "Đoàn Thị Hoài",
+      "shareholder_name": "Nguyễn Thị Thanh Phương",
       "shareholder_percent": 0.00018
     },
     {
@@ -89,7 +93,7 @@
       "shareholder_percent": 0.00018
     },
     {
-      "shareholder_name": "Nguyễn Thị Thanh Phương",
+      "shareholder_name": "Đoàn Thị Hoài",
       "shareholder_percent": 0.00018
     },
     {
@@ -150,5 +154,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:07:31.080961"
+  "created_at": "2025-10-21T14:10:30.186965"
 }

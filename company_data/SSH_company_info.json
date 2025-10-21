@@ -5,28 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 35700000000000,
-  "current_price": 95200,
+  "market_cap": 31875000000000,
+  "current_price": 85000,
   "outstanding_shares": 375000000,
   "company_profile": "<p>C&ocirc;ng ty Cổ phần Ph&aacute;t triển Sunshine Homes (SSH),&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần X&acirc;y dựng Sunshine Việt Nam được th&agrave;nh lập, hoạt động chủ yếu trong lĩnh vực kinh doanh, tư vấn v&agrave; cho thu&ecirc; bất động sản, x&acirc;y dựng nh&agrave; ở, hạ tầng x&atilde; hội , lắp đặt hệ thống x&acirc;y dựng.&nbsp;Sunshine Homes đ&atilde; v&agrave; đang ph&aacute;t triển một số dự &aacute;n lơn như&nbsp;Sunshine Center , Sunshine City H&agrave; Nội,&nbsp;Sunshine Diamond River, Sunshine Wonder Villas...Ngo&agrave;i ra,&nbsp;<em>Sunshine Group</em>&nbsp;đ&atilde;&nbsp;lọt &ldquo;Top 10 Doanh nghiệp ti&ecirc;u biểu Ch&acirc;u &Aacute;&rdquo; v&agrave; &ldquo;Top 10 thương hiệu được tin d&ugrave;ng nhất Ch&acirc;u &Aacute; (2019). Ng&agrave;y 04/08/2021, SSH ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n",
   "website": null,
-  "price_change": -1018,
-  "percent_price_change": -0.01060417,
-  "volume": 24767,
+  "price_change": 0,
+  "percent_price_change": 0,
+  "volume": 3,
   "high_52w": 134200,
   "low_52w": 66000,
-  "pe": 157.7989691,
-  "pb": 6.2585697372,
-  "roe": 0.0389689513,
-  "roa": 0.0164403755,
-  "eps": -667.7623903546666,
+  "pe": 135.4549135637,
+  "pb": 5.637236012,
+  "roe": 0.0409531048,
+  "roa": 0.0172826105,
+  "eps": -636.797964904,
   "revenue": 138124287735,
-  "net_profit": -250410896383,
+  "net_profit": -238799236839,
   "dividend": 0,
   "shareholders": [
     {
       "shareholder_name": "Đỗ Anh Tuấn",
-      "shareholder_percent": 0.64999998
+      "shareholder_percent": 0.65
     },
     {
       "shareholder_name": "Đỗ Văn Trường",
@@ -43,10 +43,6 @@
     {
       "shareholder_name": "Đỗ Văn Bắc",
       "shareholder_percent": 0.01
-    },
-    {
-      "shareholder_name": "Công ty Cổ phần Chứng khoán SmartMind",
-      "shareholder_percent": 0.0067
     },
     {
       "shareholder_name": "Bùi Văn Tư",
@@ -89,11 +85,11 @@
     {
       "officer_name": "Đỗ Anh Tuấn",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.64999998
+      "officer_percent": 0.65
     },
     {
       "officer_name": "Đỗ Thị Định",
-      "officer_position": "Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+      "officer_position": "Tổng Giám đốc/Thành viên Hội đồng Quản trị",
       "officer_percent": 0.01795533
     },
     {
@@ -117,18 +113,8 @@
       "officer_percent": 8e-05
     },
     {
-      "officer_name": "Lê Thị Hoàng Phương",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Nguyễn Thị Thu Thuỷ",
       "officer_position": "Trưởng Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Xuân Anh",
-      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -139,6 +125,16 @@
     {
       "officer_name": "Dương Thị Thu Hiền",
       "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Lê Thị Hoàng Phương",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Xuân Anh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -153,5 +149,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:17:53.131577"
+  "created_at": "2025-10-21T14:21:12.241504"
 }

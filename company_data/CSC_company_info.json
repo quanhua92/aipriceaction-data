@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1012271894400,
-  "current_price": 24600,
+  "market_cap": 744801678400,
+  "current_price": 18100,
   "outstanding_shares": 41149264,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n COTANA (CSC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH X&acirc;y dựng Th&agrave;nh Nam được th&agrave;nh lập ng&agrave;y 01/06/1993.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực đầu tư dự &aacute;n, kinh doanh bất động sản với địa b&agrave;n kinh doanh tại cả 3 miền tr&ecirc;n to&agrave;n quốc. C&aacute;c dự &aacute;n đ&atilde; ho&agrave;n th&agrave;nh của c&ocirc;ng ty bao gồm: T&ograve;a nh&agrave; Hud Tower - L&ecirc; Văn Lương, H&agrave; Nội với tổng đầu tư 160 tỷ đồng; Khu đ&ocirc; thị mới Đặng X&aacute;, Gia L&acirc;m, H&agrave; Nội với tổng gi&aacute; trị 100 tỷ đồng; K&yacute; t&uacute;c x&aacute; Trường Cao đăng x&acirc;y dựng số 1, H&agrave; Đ&ocirc;ng với tổng gi&aacute; trị dự &aacute;n 23 tỷ đồng...</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Tập đo&agrave;n COTANA (CSC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH X&acirc;y dựng Th&agrave;nh Nam được th&agrave;nh lập ng&agrave;y 01/06/1993.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực đầu tư dự &aacute;n, kinh doanh bất động sản với địa b&agrave;n kinh doanh tại cả 3 miền tr&ecirc;n to&agrave;n quốc. C&aacute;c dự &aacute;n đ&atilde; ho&agrave;n th&agrave;nh của c&ocirc;ng ty bao gồm: T&ograve;a nh&agrave; Hud Tower - L&ecirc; Văn Lương, H&agrave; Nội với tổng đầu tư 160 tỷ đồng; Khu đ&ocirc; thị mới Đặng X&aacute;, Gia L&acirc;m, H&agrave; Nội với tổng gi&aacute; trị 100 tỷ đồng; K&yacute; t&uacute;c x&aacute; Trường Cao đăng x&acirc;y dựng số 1, H&agrave; Đ&ocirc;ng với tổng gi&aacute; trị dự &aacute;n 23 tỷ đồng...</div>",
   "website": null,
-  "price_change": 400,
-  "percent_price_change": 0.01652893,
-  "volume": 187804,
+  "price_change": -1400,
+  "percent_price_change": -0.07179487,
+  "volume": 47931,
   "high_52w": 28182,
   "low_52w": 15546,
-  "pe": 59.6903725341,
-  "pb": 1.7087467682,
-  "roe": 0.0279449508,
-  "roa": 0.00743873,
-  "eps": 154.35578152746547,
-  "revenue": 249553852855,
-  "net_profit": 6351626804,
-  "dividend": 0.0406504065,
+  "pe": 50.222922312,
+  "pb": 1.3394036532,
+  "roe": 0.0267593744,
+  "roa": 0.0071831578,
+  "eps": 140.4535560830444,
+  "revenue": 249817297183,
+  "net_profit": 5779560459,
+  "dividend": 0.05,
   "shareholders": [
     {
       "shareholder_name": "Đào Ngọc Thanh",
@@ -97,10 +97,6 @@
       "shareholder_percent": 0.0016008
     },
     {
-      "shareholder_name": "Đinh Văn Nghiệp",
-      "shareholder_percent": 0.00078
-    },
-    {
       "shareholder_name": "Nguyễn Mạnh Lân",
       "shareholder_percent": 0.00078
     },
@@ -109,8 +105,16 @@
       "shareholder_percent": 0.00078
     },
     {
+      "shareholder_name": "Đinh Văn Nghiệp",
+      "shareholder_percent": 0.00078
+    },
+    {
       "shareholder_name": "Nguyễn Đỗ Lăng",
       "shareholder_percent": 0.0007
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thu Hương",
+      "shareholder_percent": 0.000597
     },
     {
       "shareholder_name": "Nguyễn Thị Ngọc Diệp",
@@ -137,11 +141,11 @@
       "shareholder_percent": 0.00025
     },
     {
-      "shareholder_name": "Trần Quang Quyền",
+      "shareholder_name": "Bùi Đình Toản",
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Bùi Đình Toản",
+      "shareholder_name": "Trần Quang Quyền",
       "shareholder_percent": 0.0002
     },
     {
@@ -233,5 +237,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:10:14.967823"
+  "created_at": "2025-10-21T14:04:24.277954"
 }

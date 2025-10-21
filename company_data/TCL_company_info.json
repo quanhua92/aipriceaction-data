@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1093243305000,
-  "current_price": 36250,
+  "market_cap": 1026894745800,
+  "current_price": 34050,
   "outstanding_shares": 30158436,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Đại l&yacute; Giao nhận Vận tải Xếp dỡ T&acirc;n Cảng (TCL) được th&agrave;nh lập năm 2007, l&agrave; một đơn vị th&agrave;nh vi&ecirc;n của c&ocirc;ng ty T&acirc;n Cảng S&agrave;i G&ograve;n, hoạt động chủ yếu trong lĩnh vực vận tải đường bộ&nbsp;v&agrave;&nbsp;đường thủy, xếp dỡ containers, dịch vụ đại l&yacute; hải quan v&agrave; khai th&aacute;c depots chứa containers rỗng. Hiện nay, c&ocirc;ng ty đang sử dụng nhiều phương tiện kỹ thuật hiện đại bao gồm: cẩu Kocks, cẩu xếp dỡ RTG6+1; cẩu Mijack3+1; xe n&acirc;ng container rỗng, xe n&acirc;ng container h&agrave;ng tại cả T&acirc;n Cảng Logistic v&agrave; T&acirc;n Cảng Hải Ph&ograve;ng. Ng&agrave;y 24/12/2009, TCL thực hiện giao dịch đầu ti&ecirc;n tr&ecirc;n s&agrave;n chứng kho&aacute;n th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)</div>\r\n",
   "website": null,
   "price_change": -450,
-  "percent_price_change": -0.01226158,
-  "volume": 72903,
+  "percent_price_change": -0.01304348,
+  "volume": 26593,
   "high_52w": 42037,
   "low_52w": 31423,
-  "pe": 7.2452928533,
-  "pb": 1.7554786036,
-  "roe": 0.242510335,
-  "roa": 0.1402868288,
-  "eps": 1659.5965634292177,
-  "revenue": 508095951800,
-  "net_profit": 50050836744,
-  "dividend": 0.0686068966,
+  "pe": 6.7242928147,
+  "pb": 1.6679575187,
+  "roe": 0.2496606241,
+  "roa": 0.1444411406,
+  "eps": 1816.7421023756006,
+  "revenue": 508297218378,
+  "net_profit": 54790100423,
+  "dividend": 0.0716714697,
   "shareholders": [
     {
       "shareholder_name": "Công ty TNHH MTV Tổng Công ty Tân Cảng Sài Gòn",
@@ -82,7 +82,7 @@
     },
     {
       "shareholder_name": "Phùng Ngọc Minh",
-      "shareholder_percent": 0.0006899863
+      "shareholder_percent": 0.00068999
     },
     {
       "shareholder_name": "Đỗ Thanh Trường",
@@ -125,10 +125,6 @@
       "shareholder_percent": 0.000148
     },
     {
-      "shareholder_name": "Vũ Ngọc Hướng",
-      "shareholder_percent": 8.59916e-05
-    },
-    {
       "shareholder_name": "Lê Hoàng Linh",
       "shareholder_percent": 2.43e-05
     },
@@ -142,7 +138,7 @@
     },
     {
       "shareholder_name": "Bùi Hải Dương",
-      "shareholder_percent": 1.909e-07
+      "shareholder_percent": 1.9e-07
     },
     {
       "shareholder_name": "Lê Văn Cường",
@@ -176,6 +172,11 @@
       "officer_percent": 1e-07
     },
     {
+      "officer_name": "Hoàng Đức Thịnh",
+      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Châu  Thanh Hải",
       "officer_position": "Phó Giám đốc",
       "officer_percent": 0
@@ -191,7 +192,7 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Lê Thị Kim Chung",
+      "officer_name": "Nguyễn Thị Nhu",
       "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
@@ -201,21 +202,16 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Thị Nhu",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Đặng Thanh Sơn",
       "officer_position": "Phó Giám đốc",
       "officer_percent": 0
     },
     {
-      "officer_name": "Hoàng Đức Thịnh",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Lê Thị Kim Chung",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:53.609282"
+  "created_at": "2025-10-21T14:22:04.536199"
 }

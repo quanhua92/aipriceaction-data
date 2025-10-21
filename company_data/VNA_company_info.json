@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 669799212000,
-  "current_price": 19700,
+  "market_cap": 581399316000,
+  "current_price": 17100,
   "outstanding_shares": 33999960,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Vận tải biển Vinaship (VNA),&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải biển III th&agrave;nh lập năm 1984. Năm 2006, C&ocirc;ng ty chuyển đổi m&ocirc; h&igrave;nh kinh doanh hoạt động l&agrave; C&ocirc;ng ty Cổ phần. Nguồn thu của C&ocirc;ng ty chủ yếu vẫn từ hoạt động kinh doanh vận tải biển quốc tế v&agrave; một phần từ hoạt động kinh doanh dịch vụ vận tải, bốc xếp, khai th&aacute;c b&atilde;i container. Hiện tại, Vinaship đang quản l&yacute; khai th&aacute;c 01 b&atilde;i Container, 01 b&atilde;i CFS v&agrave; đang x&acirc;y dựng 01 b&atilde;i Container hậu phương c&oacute; vị tr&iacute; địa l&yacute; rất thuận lợi. Năng lực vận chuyển v&agrave; vận chuyển đa phương thức của Vinaship l&agrave; h&agrave;ng ng&agrave;n container mỗi th&aacute;ng. Vinaship hiện đang quản l&yacute; v&agrave; khai th&aacute;c s&acirc;n container, s&acirc;n CFS v&agrave; x&acirc;y dựng s&acirc;n container ph&iacute;a sau. Kh&aacute;ch h&agrave;ng của c&ocirc;ng ty l&agrave; c&aacute;c tập đo&agrave;n lớn, nh&agrave; nhập khẩu trong khu vực như VinaFOOD II, Thoresen Đ&ocirc;ng Dương SA, Bulog, NFA, Toepfer, Cargill, Samsung Logistic, Chayaporn Rice Co., Ltd, Anthracite Than Co. , DIC, ITC, Tập đo&agrave;n Lee Metal Singapore, Green Pacific Jakarta, Tập đo&agrave;n ph&acirc;n b&oacute;n Phosphata Philippine, Mekatrade Asia Pte Ltd, MITCO Petronas Malaysia. Ng&agrave;y 03/05/2017, VNA ch&iacute;nh thức giao dịch tr&ecirc;n thị trường UPCOM.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 695,
-  "percent_price_change": 0.03716578,
-  "volume": 4160,
-  "high_52w": 26960,
-  "low_52w": 15808,
-  "pe": 17.2567967729,
-  "pb": 1.1622411202,
+  "price_change": 478,
+  "percent_price_change": 0.02747126,
+  "volume": 6403,
+  "high_52w": 25991,
+  "low_52w": 15700,
+  "pe": 16.1935396374,
+  "pb": 1.0906310074,
   "roe": 0.0677181123,
   "roa": 0.0510806433,
   "eps": 7.15279282681509,
@@ -53,6 +53,10 @@
       "shareholder_percent": 0.005475
     },
     {
+      "shareholder_name": "Vương Ngọc Sơn",
+      "shareholder_percent": 0.0038
+    },
+    {
       "shareholder_name": "Lã Đức Trọng",
       "shareholder_percent": 0.001905
     },
@@ -69,10 +73,6 @@
       "shareholder_percent": 0.0008
     },
     {
-      "shareholder_name": "Công ty Cổ phần Phát triển Hàng Hải",
-      "shareholder_percent": 0.00075
-    },
-    {
       "shareholder_name": "Tô Hanh",
       "shareholder_percent": 0.000665
     },
@@ -83,10 +83,6 @@
     {
       "shareholder_name": "Trần Thị Kim Lan",
       "shareholder_percent": 0.0005
-    },
-    {
-      "shareholder_name": "Vương Ngọc Sơn",
-      "shareholder_percent": 0.0004
     },
     {
       "shareholder_name": "Mai Xuân Ngoạt",
@@ -128,7 +124,7 @@
     },
     {
       "officer_name": "Trần Dũng Chiến",
-      "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
+      "officer_position": "Thành viên Hội đồng Quản trị/Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
@@ -183,5 +179,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:17:23.260454"
+  "created_at": "2025-10-21T14:26:04.411208"
 }

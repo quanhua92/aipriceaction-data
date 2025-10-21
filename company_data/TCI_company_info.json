@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1127304399000,
-  "current_price": 9750,
+  "market_cap": 1156209640000,
+  "current_price": 10000,
   "outstanding_shares": 115620964,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Chứng Kho&aacute;n Th&agrave;nh C&ocirc;ng (TCI) được th&agrave;nh lập v&agrave;o năm 2008. C&ocirc;ng ty hoạt động trong lĩnh vực cung cấp c&aacute;c dịch vụ m&ocirc;i giới chứng kho&aacute;n, tư vấn kinh doanh v&agrave; tự doanh. TCI&nbsp;đủ điều kiện để trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ năm 2009. Năm 2024, doanh thu nghiệp vụ m&ocirc;i giới chứng kho&aacute;n c&oacute; gi&aacute; trị bằng 30,17 tỷ đồng, tăng 21.69% so với c&ugrave;ng kỳ. Nợ vay k&yacute; quỹ/Vốn chủ sở hữu ở mức 47.96%, giảm 5.04%. Lợi nhuận từ FVTPL c&oacute; gi&aacute; trị bằng 35,89 tỷ đồng, tăng 63.4% v&agrave; đ&oacute;ng g&oacute;p 23.52 % tổng lợi nhuận hoạt động. Lợi nhuận trước thuế c&oacute; gi&aacute; trị bằng 58,77 tỷ đồng. Tỷ lệ sinh lời tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 4.42%, giảm 0.19%. Ng&agrave;y 26/01/2024, TCI ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 100,
-  "percent_price_change": 0.01036269,
-  "volume": 899427,
-  "high_52w": 10700,
+  "price_change": -750,
+  "percent_price_change": -0.06976744,
+  "volume": 899523,
+  "high_52w": 13550,
   "low_52w": 7490,
-  "pe": 17.7996004742,
-  "pb": 0.8880250853,
+  "pe": 20.5380005472,
+  "pb": 1.0246443292,
   "roe": 0.0506775828,
   "roa": 0.026568339,
   "eps": 149.9668353828982,
   "revenue": 74494611475,
   "net_profit": 17339310075,
-  "dividend": 0.0512820513,
+  "dividend": 0.0444444444,
   "shareholders": [
     {
       "shareholder_name": "Công ty TNHH Đầu tư Sài Gòn 3 Capital",
@@ -38,11 +38,11 @@
     },
     {
       "shareholder_name": "Công ty TNHH Ngọc Phong",
-      "shareholder_percent": 0.0277777777
+      "shareholder_percent": 0.02777778
     },
     {
       "shareholder_name": "Công ty TNHH Đầu tư Bảo Kim Lân",
-      "shareholder_percent": 0.0004621111
+      "shareholder_percent": 0.00046211
     },
     {
       "shareholder_name": "Trương Gia Bảo",
@@ -113,5 +113,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:47.444276"
+  "created_at": "2025-10-21T14:21:59.234568"
 }

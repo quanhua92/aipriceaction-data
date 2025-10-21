@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 14915217523200,
-  "current_price": 27600,
-  "outstanding_shares": 540406432,
+  "market_cap": 16341582960000,
+  "current_price": 28800,
+  "outstanding_shares": 567416075,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Đầu tư C.E.O (CEO) tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Thương mại, X&acirc;y dựng v&agrave; C&ocirc;ng nghệ Việt Nam (VITECO) được th&agrave;nh lập v&agrave;o năm 2001.&nbsp;C&ocirc;ng ty&nbsp;ch&iacute;nh&nbsp;thức chuyển sang hoạt&nbsp;động&nbsp;theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ th&aacute;ng 03/2007.&nbsp;CEO Group l&agrave; một tập đo&agrave;n kinh doanh đa ng&agrave;nh, trong đ&oacute; Bất động sản&nbsp;v&agrave; gi&aacute;o dục đ&agrave;o tạo gắn với xuất khẩu lao động l&agrave; hai trụ cột kinh doanh ch&iacute;nh. CEO Group&nbsp;đang sở hữu 16 dự &aacute;n BĐS tại H&agrave; Nội, Ph&uacute; Quốc v&agrave; nhiều địa phương kh&aacute;c với quy m&ocirc; đất l&ecirc;n đến hơn 700 ha, như t&ograve;a th&aacute;p văn ph&ograve;ng CEO (Phạm H&ugrave;ng, H&agrave; Nội), khu đ&ocirc; thị Sunny Garden City (Quốc Oai, H&agrave; Nội), khu đ&ocirc; thị River Silk City (H&agrave; Nam)&hellip; B&ecirc;n cạnh đ&oacute;, CEO cũng đang mở rộng sang lĩnh vực bất động sản nghỉ dưỡng tại Ph&uacute; Quốc. Ng&agrave;y 29/09/2014, CEO ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n H&agrave; Nội (HNX).</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 1600,
-  "percent_price_change": 0.06153846,
-  "volume": 35124676,
-  "high_52w": 28100,
+  "price_change": -3100,
+  "percent_price_change": -0.09717868,
+  "volume": 48819809,
+  "high_52w": 32900,
   "low_52w": 9810,
-  "pe": 74.7758378451,
-  "pb": 2.5385854149,
-  "roe": 0.0342780064,
-  "roa": 0.0236208544,
-  "eps": 105.87161333579208,
-  "revenue": 421000757283,
-  "net_profit": 60074385790,
-  "dividend": 0.018115942,
+  "pe": 85.7615774876,
+  "pb": 2.8117949612,
+  "roe": 0.0329650626,
+  "roa": 0.0227189624,
+  "eps": 91.23456519098441,
+  "revenue": 421278877877,
+  "net_profit": 51767958885,
+  "dividend": 0.0164473684,
   "shareholders": [
     {
       "shareholder_name": "Đoàn Văn Bình",
@@ -81,10 +81,6 @@
       "shareholder_percent": 0.00032
     },
     {
-      "shareholder_name": "Thái Thị Tươi",
-      "shareholder_percent": 0.0003
-    },
-    {
       "shareholder_name": "Bùi Đức Thuyên",
       "shareholder_percent": 0.00029
     },
@@ -97,19 +93,19 @@
       "shareholder_percent": 0.00027
     },
     {
-      "shareholder_name": "Tạ Văn Tố",
-      "shareholder_percent": 0.00025
-    },
-    {
-      "shareholder_name": "Cao Văn Kiên",
-      "shareholder_percent": 0.00023
-    },
-    {
       "shareholder_name": "Trần Đạo Đức",
       "shareholder_percent": 0.00021
     },
     {
       "shareholder_name": "Đỗ Thị Thơm",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Tạ Văn Tố",
+      "shareholder_percent": 0.0002
+    },
+    {
+      "shareholder_name": "Cao Văn Kiên",
       "shareholder_percent": 0.0002
     },
     {
@@ -123,6 +119,10 @@
     {
       "shareholder_name": "Tạ Văn Tuân",
       "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Trần Thị Giang",
+      "shareholder_percent": 4.6e-05
     },
     {
       "shareholder_name": "Đoàn Thị Thảo",
@@ -161,19 +161,29 @@
       "officer_percent": 0.00027
     },
     {
+      "officer_name": "Trần Đạo Đức",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.00021
+    },
+    {
       "officer_name": "Tạ Văn Tố",
-      "officer_position": "Phụ trách Công bố thông tin/Tổng Giám đốc",
-      "officer_percent": 0.00025
+      "officer_position": "Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_percent": 0.0002
     },
     {
       "officer_name": "Cao Văn Kiên",
       "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.00023
+      "officer_percent": 0.0002
     },
     {
-      "officer_name": "Trần Đạo Đức",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.00021
+      "officer_name": "Trần Thị Thùy Linh",
+      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Nguyễn Thu Phương",
+      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_percent": 0
     },
     {
       "officer_name": "Lưu Đức Quang",
@@ -184,18 +194,8 @@
       "officer_name": "Nguyễn Doãn Dũng",
       "officer_position": "Kế toán trưởng",
       "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Thu Phương",
-      "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Trần Thị Thùy Linh",
-      "officer_position": "Trưởng Ban kiểm soát",
-      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:02:27.556033"
+  "created_at": "2025-10-21T14:03:35.747517"
 }

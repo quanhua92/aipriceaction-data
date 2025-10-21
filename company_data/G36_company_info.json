@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1161944750400,
-  "current_price": 11200,
+  "market_cap": 871458562800,
+  "current_price": 8400,
   "outstanding_shares": 103745067,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty 36 (G36) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp x&acirc;y dựng C&ocirc;ng tr&igrave;nh 36, được th&agrave;nh lập v&agrave;o&nbsp;ng&agrave;y 04/04/1996. G36 hoạt động trong lĩnh vực&nbsp;thi c&ocirc;ng x&acirc;y lắp c&ocirc;ng tr&igrave;nh, đầu tư ph&aacute;t triển dự &aacute;n bất động sản, dự &aacute;n BOT. B&ecirc;n cạnh&nbsp;đ&oacute;, Tổng C&ocirc;ng ty c&ograve;n tham gia sản xuất vật liệu x&acirc;y dựng v&agrave;&nbsp;d&ograve; t&igrave;m, xử l&yacute; bom m&igrave;n.&nbsp;G36 ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần&nbsp;từ th&aacute;ng 07/2016. Tổng C&ocirc;ng ty 36&nbsp;đ&atilde; tham gia thi c&ocirc;ng x&acirc;y dựng&nbsp;nhiều dự &aacute;n lớn mang tầm cỡ quốc gia như: Đập thủy lợi M&ocirc;n Sơn, Kh&aacute;ch sạn 5 sao Bộ Quốc ph&ograve;ng, Đường Đ&ocirc;ng Trường Sơn. G36 đang ph&aacute;t triển một số dự &aacute;n c&ocirc;ng tr&igrave;nh nh&agrave; cao tầng&nbsp;v&agrave; tham gia đầu tư dự &aacute;n BOT quốc lộ 6 v&agrave; Dự &aacute;n BOT quốc lộ 19. G36 c&oacute; 10 trạm sản xuất b&ecirc; t&ocirc;ng tươi với tổng c&ocirc;ng suất 800m3/giờ. G36 được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 12/2016</div>\r\n",
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tổng C&ocirc;ng ty 36 (G36) c&oacute; tiền th&acirc;n l&agrave; X&iacute; nghiệp x&acirc;y dựng C&ocirc;ng tr&igrave;nh 36, được th&agrave;nh lập v&agrave;o&nbsp;ng&agrave;y 04/04/1996. G36 hoạt động trong lĩnh vực&nbsp;thi c&ocirc;ng x&acirc;y lắp c&ocirc;ng tr&igrave;nh, đầu tư ph&aacute;t triển dự &aacute;n bất động sản, dự &aacute;n BOT. B&ecirc;n cạnh&nbsp;đ&oacute;, Tổng C&ocirc;ng ty c&ograve;n tham gia sản xuất vật liệu x&acirc;y dựng v&agrave;&nbsp;d&ograve; t&igrave;m, xử l&yacute; bom m&igrave;n.&nbsp;G36 ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần&nbsp;từ th&aacute;ng 07/2016. Tổng C&ocirc;ng ty 36&nbsp;đ&atilde; tham gia thi c&ocirc;ng x&acirc;y dựng&nbsp;nhiều dự &aacute;n lớn mang tầm cỡ quốc gia như: Đập thủy lợi M&ocirc;n Sơn, Kh&aacute;ch sạn 5 sao Bộ Quốc ph&ograve;ng, Đường Đ&ocirc;ng Trường Sơn. G36 đang ph&aacute;t triển một số dự &aacute;n c&ocirc;ng tr&igrave;nh nh&agrave; cao tầng&nbsp;v&agrave; tham gia đầu tư dự &aacute;n BOT quốc lộ 6 v&agrave; Dự &aacute;n BOT quốc lộ 19. G36 c&oacute; 10 trạm sản xuất b&ecirc; t&ocirc;ng tươi với tổng c&ocirc;ng suất 800m3/giờ. G36 được giao dịch tr&ecirc;n thị trường UPCOM từ th&aacute;ng 12/2016</div>",
   "website": null,
-  "price_change": -177,
-  "percent_price_change": -0.01580357,
-  "volume": 1793781,
-  "high_52w": 12500,
+  "price_change": -402,
+  "percent_price_change": -0.04417582,
+  "volume": 615973,
+  "high_52w": 12700,
   "low_52w": 4600,
-  "pe": 52.0922394858,
-  "pb": 1.0035143561,
-  "roe": 0.0194944521,
-  "roa": 0.0050339946,
-  "eps": 51.292587559849956,
+  "pe": 43.0116889417,
+  "pb": 0.8412143846,
+  "roe": 0.0197960166,
+  "roa": 0.005123533,
+  "eps": 54.582243876713676,
   "revenue": 625780460491,
-  "net_profit": 5321352933,
+  "net_profit": 5662638548,
   "dividend": 0,
   "shareholders": [
     {
@@ -101,6 +101,10 @@
       "shareholder_percent": 3.6e-05
     },
     {
+      "shareholder_name": "Vũ Thị Thanh Huyền",
+      "shareholder_percent": 3.56e-05
+    },
+    {
       "shareholder_name": "Trần Ngọc Lanh",
       "shareholder_percent": 5.3e-06
     },
@@ -151,10 +155,10 @@
     },
     {
       "officer_name": "Nguyễn Hồng Kiên",
-      "officer_position": "Kế toán trưởng/Trưởng phòng Tài chính - Kế toán",
+      "officer_position": "Trưởng phòng Tài chính - Kế toán/Kế toán trưởng",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:06:37.708969"
+  "created_at": "2025-10-21T14:09:03.663657"
 }

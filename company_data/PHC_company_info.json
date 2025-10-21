@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 312214919980,
-  "current_price": 6170,
+  "market_cap": 250480365300,
+  "current_price": 4950,
   "outstanding_shares": 50602094,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần X&acirc;y dựng Phục Hưng Holdings (PHC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH x&acirc;y dựng Phục Hưng được th&agrave;nh lập v&agrave;o năm 2001. Năm 2004, C&ocirc;ng ty chuyển&nbsp;đổi m&ocirc; h&igrave;nh kinh doanh hoạt&nbsp;động l&agrave;&nbsp;một C&ocirc;ng ty Cổ phần.&nbsp;C&ocirc;ng ty hoạt động trong lĩnh vực&nbsp;thi c&ocirc;ng&nbsp;x&acirc;y dựng&nbsp;c&aacute;c c&ocirc;ng tr&igrave;nh&nbsp;d&acirc;n dụng, đầu tư bất động sản, kinh doanh vật tư x&acirc;y dựng, v&agrave; cho thu&ecirc; m&aacute;y m&oacute;c thiết bị. Một số dự &aacute;n nổi bật m&agrave; PHC tham gia thi c&ocirc;ng như Dự &aacute;n Golden Land tại quận&nbsp;Thanh Xu&acirc;n - H&agrave; Nội, dự&nbsp;&aacute;n Kenton Node tại huyện Nh&agrave; B&egrave; - Th&agrave;nh phố Hồ Ch&iacute; Minh, dự &aacute;n Lideco Hạ Long tại th&agrave;nh phố Hạ Long - Quảng Ninh, dự &aacute;n Chung cư CT1 Gamuda Garden tại quận Ho&agrave;ng Mai - H&agrave; Nội. Ng&agrave;y 03/10/2018, PHC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n",
   "website": null,
-  "price_change": 400,
-  "percent_price_change": 0.06932409,
-  "volume": 1215804,
-  "high_52w": 6170,
+  "price_change": -220,
+  "percent_price_change": -0.04255319,
+  "volume": 118040,
+  "high_52w": 6600,
   "low_52w": 4360,
-  "pe": 43.9257854119,
-  "pb": 0.4968070263,
-  "roe": 0.0113537272,
-  "roa": 0.0022724215,
-  "eps": 33.731224308026015,
-  "revenue": 327158657654,
-  "net_profit": 1709563448,
+  "pe": 38.5557485069,
+  "pb": 0.436413106,
+  "roe": 0.0113627108,
+  "roa": 0.0022742542,
+  "eps": 33.8426966677885,
+  "revenue": 326976091819,
+  "net_profit": 1715213082,
   "dividend": 0,
   "shareholders": [
     {
@@ -158,7 +158,7 @@
     },
     {
       "shareholder_name": "Nguyễn Như Phi",
-      "shareholder_percent": 0.00059
+      "shareholder_percent": 0.00065
     },
     {
       "shareholder_name": "Nguyễn Văn Đức",
@@ -173,8 +173,16 @@
       "shareholder_percent": 0.00029596
     },
     {
+      "shareholder_name": "Tô Thị Hồng Điệp",
+      "shareholder_percent": 0.0001
+    },
+    {
       "shareholder_name": "Nguyễn Duy Hòa",
       "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Lã Đức Thọ",
+      "shareholder_percent": 3e-05
     },
     {
       "shareholder_name": "Cao Xuân Dũng",
@@ -240,7 +248,7 @@
     {
       "officer_name": "Nguyễn Như Phi",
       "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0.00059
+      "officer_percent": 0.00065
     },
     {
       "officer_name": "Cao Xuân Dũng",
@@ -259,5 +267,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:12:00.964143"
+  "created_at": "2025-10-21T14:17:44.179975"
 }

@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 69001283951600,
-  "current_price": 127400,
-  "outstanding_shares": 541611334,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần H&agrave;ng kh&ocirc;ng Vietjet (VJC) l&agrave; h&atilde;ng h&agrave;ng kh&ocirc;ng tư nh&acirc;n đầu ti&ecirc;n của Việt Nam được th&agrave;nh lập năm 2007 với 3 cổ đ&ocirc;ng ch&iacute;nh l&agrave; Tập&nbsp;đo&agrave;n T&amp;C, Sovico Holdings v&agrave; HD&nbsp;Bank. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực vận tải h&agrave;ng kh&ocirc;ng.&nbsp;Vietjet c&oacute; mạng lưới đường bay rộng khắp tới c&aacute;c khu vực Đ&ocirc;ng Nam &Aacute; v&agrave; Đ&ocirc;ng Bắc &Aacute; với 125 đường bay nội địa v&agrave; quốc tế.&nbsp;VJC trở th&agrave;nh h&atilde;ng h&agrave;ng kh&ocirc;ng đầu ti&ecirc;n c&oacute; đường bay kết nối Việt Nam với 5 th&agrave;nh phố lớn nhất của Australia. H&atilde;ng cũng l&agrave; h&atilde;ng bay khai th&aacute;c nhiều đường bay nhất giữa Việt Nam v&agrave; Ấn Độ. VJC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 02/2017.</p>\r\n\r\n<p class=\"MsoNormal\"><!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p>&nbsp;</p>\r\n</div>\r\n",
+  "market_cap": 103236177783000,
+  "current_price": 174500,
+  "outstanding_shares": 591611334,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần H&agrave;ng kh&ocirc;ng Vietjet (VJC) l&agrave; h&atilde;ng h&agrave;ng kh&ocirc;ng tư nh&acirc;n đầu ti&ecirc;n của Việt Nam được th&agrave;nh lập năm 2007 với 3 cổ đ&ocirc;ng ch&iacute;nh l&agrave; Tập&nbsp;đo&agrave;n T&amp;C, Sovico Holdings v&agrave; HD&nbsp;Bank. C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực vận tải h&agrave;ng kh&ocirc;ng.&nbsp;Vietjet c&oacute; mạng lưới đường bay rộng khắp tới c&aacute;c khu vực Đ&ocirc;ng Nam &Aacute; v&agrave; Đ&ocirc;ng Bắc &Aacute; với 125 đường bay nội địa v&agrave; quốc tế.&nbsp;VJC trở th&agrave;nh h&atilde;ng h&agrave;ng kh&ocirc;ng đầu ti&ecirc;n c&oacute; đường bay kết nối Việt Nam với 5 th&agrave;nh phố lớn nhất của Australia. H&atilde;ng cũng l&agrave; h&atilde;ng bay khai th&aacute;c nhiều đường bay nhất giữa Việt Nam v&agrave; Ấn Độ. VJC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 02/2017.</p>\r\n\r\n<p class=\"MsoNormal\"><!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--><o:p></o:p>&nbsp;</p>\r\n</div>",
   "website": null,
-  "price_change": 400,
-  "percent_price_change": 0.00314961,
-  "volume": 4792002,
-  "high_52w": 131900,
+  "price_change": -500,
+  "percent_price_change": -0.00285714,
+  "volume": 5695073,
+  "high_52w": 180000,
   "low_52w": 77100,
-  "pe": 37.1619378013,
-  "pb": 3.159719713,
-  "roe": 0.0988804494,
-  "roa": 0.0184594692,
-  "eps": 1102.8048595701853,
+  "pe": 44.4846251119,
+  "pb": 3.809508958,
+  "roe": 0.0991021783,
+  "roa": 0.0184667962,
+  "eps": 1102.7237917656257,
   "revenue": 17885303707141,
-  "net_profit": 652431854112,
+  "net_profit": 652383893480,
   "dividend": 0,
   "shareholders": [
     {
@@ -78,7 +78,7 @@
     },
     {
       "shareholder_name": "Đinh Việt Phương",
-      "shareholder_percent": 0.0007
+      "shareholder_percent": 0.0006
     },
     {
       "shareholder_name": "Nguyễn Thanh Hà",
@@ -133,12 +133,12 @@
       "shareholder_percent": 0.0001
     },
     {
-      "shareholder_name": "Phạm Văn Đẩu",
-      "shareholder_percent": 0.0001
-    },
-    {
       "shareholder_name": "Quỹ ETF SSIAM VNX50",
       "shareholder_percent": 9.535e-05
+    },
+    {
+      "shareholder_name": "Phạm Văn Đẩu",
+      "shareholder_percent": 9.1e-05
     },
     {
       "shareholder_name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
@@ -150,7 +150,7 @@
     },
     {
       "shareholder_name": "Lê Việt Anh",
-      "shareholder_percent": 3.36e-07
+      "shareholder_percent": 3.4e-07
     }
   ],
   "officers": [
@@ -177,7 +177,7 @@
     {
       "officer_name": "Đinh Việt Phương",
       "officer_position": "Phó Tổng Giám đốc/Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.0007
+      "officer_percent": 0.0006
     },
     {
       "officer_name": "Nguyễn Thanh Hà",
@@ -185,12 +185,12 @@
       "officer_percent": 0.0005
     },
     {
-      "officer_name": "Nguyễn Thị Thúy Bình",
+      "officer_name": "Trần Hoài Nam",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0003
     },
     {
-      "officer_name": "Trần Hoài Nam",
+      "officer_name": "Nguyễn Thị Thúy Bình",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0003
     },
@@ -205,13 +205,13 @@
       "officer_percent": 0.00012555
     },
     {
-      "officer_name": "Hoàng Mạnh Hà",
-      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
+      "officer_name": "Nguyễn Thanh Sơn",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0001
     },
     {
-      "officer_name": "Nguyễn Thanh Sơn",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Hoàng Mạnh Hà",
+      "officer_position": "Trưởng Ban Kiểm toán nội bộ ",
       "officer_percent": 0.0001
     },
     {
@@ -220,8 +220,8 @@
       "officer_percent": 3.74e-05
     },
     {
-      "officer_name": "Donal Joseph Boylan",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Hồ Ngọc Yến Phương",
+      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
@@ -235,11 +235,11 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Hồ Ngọc Yến Phương",
-      "officer_position": "Phó Tổng Giám đốc/Phụ trách Công bố thông tin",
+      "officer_name": "Donal Joseph Boylan",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:21:00.730146"
+  "created_at": "2025-10-21T14:25:48.277595"
 }

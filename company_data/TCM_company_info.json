@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 3616489361250,
-  "current_price": 32250,
+  "market_cap": 3139897740000,
+  "current_price": 28000,
   "outstanding_shares": 112139205,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">C&ocirc;ng ty Cổ phần Dệt May Th&agrave;nh C&ocirc;ng (TCM) c&oacute;&nbsp;tiền th&acirc;n l&agrave; H&atilde;ng T&aacute;i Th&agrave;nh Kỹ Nghệ Dệt được th&agrave;nh lập năm 1967. C&ocirc;ng ty ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm&nbsp;2006.&nbsp;C&ocirc;ng ty chuy&ecirc;n sản xuất v&agrave; kinh doanh sợi, vải, quần &aacute;o dệt may, h&oacute;a chất, thuốc nhuộm, m&aacute;y m&oacute;c v&agrave; nguy&ecirc;n phụ liệu ng&agrave;nh may. C&ocirc;ng ty l&agrave; một trong những&nbsp;doanh nghiệp h&agrave;ng đầu trong ng&agrave;nh dệt may tại Việt Nam. C&ocirc;ng ty hiện&nbsp;c&oacute; 4 nh&agrave; m&aacute;y sợi với tổng c&ocirc;ng suất l&agrave; 21.000 tấn/năm, nh&agrave; m&aacute;y dệt với c&ocirc;ng suất 7 triệu m&eacute;t/năm. Ngo&agrave;i ra, c&ocirc;ng ty c&ograve;n c&oacute; nh&agrave; m&aacute;y đan với c&ocirc;ng suất 7.000 tấn/năm, nh&agrave; m&aacute;y nhuộm v&agrave; nh&agrave; m&aacute;y may với c&ocirc;ng suất 18 triệu sản phẩm/năm.</div>\r\n",
   "website": null,
-  "price_change": -400,
-  "percent_price_change": -0.01225115,
-  "volume": 1668339,
+  "price_change": -800,
+  "percent_price_change": -0.02777778,
+  "volume": 776632,
   "high_52w": 44501,
   "low_52w": 24546,
-  "pe": 11.9745361404,
-  "pb": 1.5530407309,
+  "pe": 10.7492347679,
+  "pb": 1.3941249352,
   "roe": 0.1329806943,
   "roa": 0.075867977,
   "eps": 726.7705977721727,
   "revenue": 872993088895,
   "net_profit": 81426472945,
-  "dividend": 0.0465116279,
+  "dividend": 0.0518134715,
   "shareholders": [
     {
       "shareholder_name": "E-land Asia Holdings Pte., Ltd",
@@ -110,11 +110,11 @@
     },
     {
       "shareholder_name": "Nguyễn Tự Lực",
-      "shareholder_percent": 2.2403e-06
+      "shareholder_percent": 2.24e-06
     },
     {
       "shareholder_name": "Tập đoàn Dệt May Việt Nam",
-      "shareholder_percent": 1.829e-07
+      "shareholder_percent": 1.8e-07
     },
     {
       "shareholder_name": "Công ty Cổ phần Chứng khoán VNDIRECT",
@@ -133,7 +133,7 @@
     },
     {
       "officer_name": "Trần Như Tùng",
-      "officer_position": "Chủ tịch Hội đồng Quản trị/Phó Tổng Giám đốc",
+      "officer_position": "Phó Tổng Giám đốc/Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0.0009
     },
     {
@@ -149,7 +149,7 @@
     {
       "officer_name": "Nguyễn Tự Lực",
       "officer_position": "Trưởng Ban kiểm soát",
-      "officer_percent": 2.2403e-06
+      "officer_percent": 2.24e-06
     },
     {
       "officer_name": "Lee Eun Hong",
@@ -172,8 +172,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Đinh Tấn Tưởng",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_name": "Kim II Kyu",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
@@ -192,21 +192,21 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Kim II Kyu",
-      "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0
-    },
-    {
       "officer_name": "Kim Myeong Rae",
       "officer_position": "Giám đốc Chi nhánh",
       "officer_percent": 0
     },
     {
+      "officer_name": "Đinh Tấn Tưởng",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập/Trưởng Ban Kiểm toán nội bộ ",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Huỳnh Thị Thu Sa",
-      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_position": "Phụ trách Công bố thông tin/Người phụ trách quản trị công ty",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:14:59.540241"
+  "created_at": "2025-10-21T14:22:09.992087"
 }

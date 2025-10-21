@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 8611923989100,
-  "current_price": 83100,
+  "market_cap": 8187027619000,
+  "current_price": 79000,
   "outstanding_shares": 103633261,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần X&acirc;y dựng Coteccons (CTD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần X&acirc;y dựng Cotec được th&agrave;nh lập&nbsp;v&agrave;o năm 2004. C&ocirc;ng ty&nbsp;hoạt động&nbsp;trong lĩnh vực thi c&ocirc;ng, x&acirc;y lắp c&aacute;c c&ocirc;ng tr&igrave;nh d&acirc;n dụng, c&ocirc;ng nghiệp,&nbsp;cơ sở hạ tầng. C&ocirc;ng ty đ&atilde; tham gia thi c&ocirc;ng c&aacute;c c&ocirc;ng tr&igrave;nh lớn như: Nh&agrave; m&aacute;y bia S&agrave;i G&ograve;n - Củ Chi, trung t&acirc;m hội chợ triển l&atilde;m S&agrave;i G&ograve;n, Khu nghỉ dưỡng v&agrave; kh&aacute;ch sạn cao cấp Nam Hải Resort, Life Resort Quy Nhơn, Life Resort Hội An, Sanctuary Hồ Tr&agrave;m Resort, c&ocirc;ng tr&igrave;nh Khu căn hộ cao cấp Avalon, Khu căn hộ c&ocirc;ng vi&ecirc;n Nguyễn Du, The Manor TP HCM, The Manor H&agrave; Nội, Chung cư cao cấp Everrich, chung cư cao cấp River Garden, cao ốc văn ph&ograve;ng Center Point, cao ốc văn ph&ograve;ng Gemadept... Hiện tại c&ocirc;ng ty đang triển khai g&oacute;p vốn c&ugrave;ng một số đối t&aacute;c để thực hiện c&aacute;c dự &aacute;n đầu tư kinh doanh bất động sản như The Ocean Villas (Đ&agrave; Nẵng), Khu căn hộ cao cấp BOTANIC II, Khu phức hợp Saigon Airport Plaza, Khu căn hộ phức hợp tại quận 2 v&agrave; quận B&igrave;nh Thạnh, Khu du lịch Quảng Trọng. CTD được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2009.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": 400,
-  "percent_price_change": 0.00483676,
-  "volume": 1631177,
+  "price_change": -4500,
+  "percent_price_change": -0.05389222,
+  "volume": 1566953,
   "high_52w": 97800,
-  "low_52w": 56452,
-  "pe": 18.4183409938,
-  "pb": 0.9404811332,
-  "roe": 0.0514151378,
-  "roa": 0.0169232245,
-  "eps": 1934.4871115269686,
-  "revenue": 8350715108201,
-  "net_profit": 196215054805,
+  "low_52w": 62265,
+  "pe": 18.4007049111,
+  "pb": 0.9504179662,
+  "roe": 0.0520183123,
+  "roa": 0.0171040294,
+  "eps": 1986.9353304732858,
+  "revenue": 8237240542216,
+  "net_profit": 201534878387,
   "dividend": 0,
   "shareholders": [
     {
@@ -86,7 +86,7 @@
     },
     {
       "shareholder_name": "Talgat  Turumbayev",
-      "shareholder_percent": 0.02121685
+      "shareholder_percent": 0.0204
     },
     {
       "shareholder_name": "Norges Bank",
@@ -98,7 +98,7 @@
     },
     {
       "shareholder_name": "Bolat  Duisenov",
-      "shareholder_percent": 0.01630074
+      "shareholder_percent": 0.0157
     },
     {
       "shareholder_name": "Trần Quang Quân",
@@ -110,7 +110,7 @@
     },
     {
       "shareholder_name": "PXP Vietnam Emerging Equity Fund",
-      "shareholder_percent": 0.0114548109
+      "shareholder_percent": 0.01145481
     },
     {
       "shareholder_name": "Phan Huy Vĩnh",
@@ -309,12 +309,12 @@
     {
       "officer_name": "Talgat  Turumbayev",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.02121685
+      "officer_percent": 0.0204
     },
     {
       "officer_name": "Bolat  Duisenov",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.01630074
+      "officer_percent": 0.0157
     },
     {
       "officer_name": "Võ Hoàng Lâm",
@@ -322,13 +322,13 @@
       "officer_percent": 0.002
     },
     {
-      "officer_name": "Võ Thanh Liêm",
-      "officer_position": "Tổng Giám đốc",
+      "officer_name": "Trần Văn Chính",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0019
     },
     {
-      "officer_name": "Trần Văn Chính",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Võ Thanh Liêm",
+      "officer_position": "Tổng Giám đốc",
       "officer_percent": 0.0019
     },
     {
@@ -347,18 +347,18 @@
       "officer_percent": 0.0003
     },
     {
-      "officer_name": "Trần Văn  Thức",
-      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_name": "Tống Văn Nga",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
-      "officer_name": "Nguyễn Anh Vũ",
-      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
+      "officer_name": "Herwig Guido H. Van Hove",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
-      "officer_name": "Chris  Senekki",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Tan Ching Tiong",
+      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
       "officer_percent": 0
     },
     {
@@ -367,8 +367,8 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Phan  Hữu Duy Quốc",
-      "officer_position": "Phó Tổng Giám đốc",
+      "officer_name": "Trần Văn  Thức",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -392,21 +392,21 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Herwig Guido H. Van Hove",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Nguyễn Anh Vũ",
+      "officer_position": "Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
       "officer_percent": 0
     },
     {
-      "officer_name": "Tống Văn Nga",
-      "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_name": "Chris  Senekki",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     },
     {
-      "officer_name": "Tan Ching Tiong",
-      "officer_position": "Thành viên Hội đồng Quản trị độc lập",
+      "officer_name": "Phan  Hữu Duy Quốc",
+      "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:10:24.996317"
+  "created_at": "2025-10-21T14:04:40.869411"
 }

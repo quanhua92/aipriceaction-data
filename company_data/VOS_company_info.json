@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 2275000000000,
-  "current_price": 16250,
+  "market_cap": 1687000000000,
+  "current_price": 12050,
   "outstanding_shares": 140000000,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Vận tải Biển Việt Nam (VOS) tiền th&acirc;n l&agrave; C&ocirc;ng ty Vận tải biển Việt Nam được th&agrave;nh lập năm 1970. Hoạt động kinh doanh ch&iacute;nh của C&ocirc;ng ty bao gồm vận tải đường biển v&agrave; c&aacute;c dịch vụ h&agrave;ng hải kh&aacute;c như: đại k&yacute; t&agrave;u biển, đại l&yacute; vận tải đa phương thức, huấn luyện - đ&agrave;o tạo, cung ứng xuất khẩu thuyền vi&ecirc;n. C&ocirc;ng ty&nbsp;sở hữu đội t&agrave;u 11&nbsp;chiếc với tổng tải trọng 358.101 DWT. Vận tải h&agrave;ng kh&ocirc; l&agrave; sở trường v&agrave; thế mạnh của C&ocirc;ng ty. Mặt h&agrave;ng chuy&ecirc;n chở của C&ocirc;ng ty bao&nbsp;gồm gạo, than, n&ocirc;ng sản, xi măng, clinker, ph&acirc;n b&oacute;n, vật tư sắt th&eacute;p xuất khẩu của Việt Nam v&agrave; thế giới, đặc biệt l&agrave; c&aacute;c nước Đ&ocirc;ng Nam &Aacute;, Trung Đ&ocirc;ng v&agrave; Ch&acirc;u Phi. VOS ch&iacute;nh thức được ni&ecirc;m yết v&agrave; giao dịch tại Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh từ năm 2010.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -700,
-  "percent_price_change": -0.04129794,
-  "volume": 5986277,
-  "high_52w": 18300,
-  "low_52w": 11200,
-  "pe": -34.1026542926,
-  "pb": 1.2871778258,
+  "price_change": -800,
+  "percent_price_change": -0.06225681,
+  "volume": 1255700,
+  "high_52w": 17034,
+  "low_52w": 10425,
+  "pe": -27.9117108979,
+  "pb": 1.0535055436,
   "roe": -0.0347027009,
   "roa": -0.0214551806,
   "eps": 73.46392305,
@@ -42,7 +42,7 @@
     },
     {
       "shareholder_name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
-      "shareholder_percent": 0.0192857142
+      "shareholder_percent": 0.01928571
     },
     {
       "shareholder_name": "Quỹ Đầu Tư Chứng Khoán Bảo Việt",
@@ -65,8 +65,12 @@
       "shareholder_percent": 0.00071
     },
     {
+      "shareholder_name": "Cao Minh Tuấn",
+      "shareholder_percent": 0.0005357
+    },
+    {
       "shareholder_name": "Nguyễn Hoàng Dũng",
-      "shareholder_percent": 0.0005014285
+      "shareholder_percent": 0.00050143
     },
     {
       "shareholder_name": "Lê Thị Thanh Hưng",
@@ -266,5 +270,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:17:35.321304"
+  "created_at": "2025-10-21T14:26:26.925364"
 }

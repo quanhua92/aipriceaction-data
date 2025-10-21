@@ -5,24 +5,24 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 50534341088000,
-  "current_price": 56000,
+  "market_cap": 51617219825600,
+  "current_price": 57200,
   "outstanding_shares": 902398948,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>Được th&agrave;nh lập từ năm 1990, C&ocirc;ng ty Cổ phần Tập đo&agrave;n Gelex (GEX) l&agrave; doanh nghiệp h&agrave;ng đầu của Việt Nam trong lĩnh vực chế tạo Thiết bị đo điện. C&aacute;c&nbsp;hoạt&nbsp;động&nbsp;ch&iacute;nh của Gelex bao gồm: (i) sản xuất thiết bị điện, (ii) x&acirc;y dựng v&agrave; lắp đặt m&aacute;y biến &aacute;p điện &aacute;p cao, (iii) kinh doanh bất động sản. Năm 2010 Gelex được cổ phần h&oacute;a v&agrave; ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần. Gelex sở hữu&nbsp;c&aacute;c thương&nbsp;hiệu c&oacute; uy t&iacute;n như GELEX, CADIVI, THIBIDI, HEM, VIHEM, VINAKIP. Gelex đ&atilde; x&acirc;y dựng được một mạng lưới kh&aacute;ch h&agrave;ng rộng lớn bao gồm c&aacute;c tập đo&agrave;n lớn như: EVN, PetroVietnam, Vinacomin, Vicem, VNSteel, Vinaconex. GEX ch&iacute;nh thức được giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ Ng&agrave;y 18/01/2018.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -2800,
-  "percent_price_change": -0.04761905,
-  "volume": 33070420,
-  "high_52w": 61700,
-  "low_52w": 15981,
-  "pe": 32.0910666669,
-  "pb": 3.4587909469,
-  "roe": 0.1113928781,
-  "roa": 0.0281826943,
-  "eps": 737.32499906128,
-  "revenue": 10200378726078,
-  "net_profit": 665361303487,
-  "dividend": 0.0178571429,
+  "price_change": -4300,
+  "percent_price_change": -0.0699187,
+  "volume": 34378979,
+  "high_52w": 65700,
+  "low_52w": 15734,
+  "pe": 33.878546838,
+  "pb": 3.6346408178,
+  "roe": 0.1108143729,
+  "roa": 0.0280405585,
+  "eps": 727.9163255950516,
+  "revenue": 10189022391629,
+  "net_profit": 656870926449,
+  "dividend": 0.0170068027,
   "shareholders": [
     {
       "shareholder_name": "Nguyễn Văn Tuấn",
@@ -41,6 +41,10 @@
       "shareholder_percent": 0.0461
     },
     {
+      "shareholder_name": "Đào Thị Lơ",
+      "shareholder_percent": 0.04374
+    },
+    {
       "shareholder_name": "Công ty Cổ phần Đầu tư ICAPITAL",
       "shareholder_percent": 0.0377
     },
@@ -55,10 +59,6 @@
     {
       "shareholder_name": "Công ty Cổ phần Chứng khoán Vietcap",
       "shareholder_percent": 0.0324
-    },
-    {
-      "shareholder_name": "Đào Thị Lơ",
-      "shareholder_percent": 0.0307224
     },
     {
       "shareholder_name": "Công ty Cổ phần Quản lý quỹ đầu tư MB",
@@ -261,13 +261,13 @@
       "officer_percent": 0.0131
     },
     {
-      "officer_name": "Lương Thanh Tùng",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
+      "officer_name": "Nguyễn Trọng Hiền",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0.003
     },
     {
-      "officer_name": "Nguyễn Trọng Hiền",
-      "officer_position": "Phó Chủ tịch Hội đồng Quản trị/Thành viên Ban Kiểm toán nội bộ",
+      "officer_name": "Lương Thanh Tùng",
+      "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0.003
     },
     {
@@ -311,6 +311,11 @@
       "officer_percent": 0
     },
     {
+      "officer_name": "Nguyễn Việt Trung",
+      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
+      "officer_percent": 0
+    },
+    {
       "officer_name": "Nguyễn Hoàng Việt",
       "officer_position": "Thành viên Ban Kiểm toán nội bộ",
       "officer_percent": 0
@@ -319,13 +324,8 @@
       "officer_name": "Trần Thị Phương",
       "officer_position": "Phụ trách Công bố thông tin",
       "officer_percent": 0
-    },
-    {
-      "officer_name": "Nguyễn Việt Trung",
-      "officer_position": "Thành viên Ban Kiểm toán nội bộ",
-      "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:12:12.251947"
+  "created_at": "2025-10-21T14:09:33.631646"
 }

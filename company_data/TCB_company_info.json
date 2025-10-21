@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 264931940212500,
-  "current_price": 37500,
+  "market_cap": 267404638321150,
+  "current_price": 37850,
   "outstanding_shares": 7064851739,
   "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Kỹ thương Việt Nam (TCB) được th&agrave;nh lập v&agrave;o năm 1993. Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động v&agrave; kinh doanh vốn, v&agrave; cung cấp c&aacute;c dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. Techcombank trở th&agrave;nh c&ocirc;ng ty đại ch&uacute;ng từ năm 2007. Năm 2024, so với c&ugrave;ng kỳ, Bi&ecirc;n l&atilde;i thuần (NIM) ở mức 4.21%, tăng 0.19%. Tỷ lệ nợ xấu ở mức 1.12%, giảm 0.03%. Tỷ lệ bao phủ nợ xấu ở mức 113.94%, tăng 11.79%. Lợi nhuận sau thuế c&ocirc;ng ty mẹ c&oacute; gi&aacute; trị bằng 21,5 ngh&igrave;n tỷ đồng, tăng 19.55%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 15.61%, tăng 0.77%. Ng&agrave;y 04/06/2018, TCB ch&iacute;nh thức giao dịch tr&ecirc;n Sở giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE).</div>\r\n<quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal><quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": -200,
-  "percent_price_change": -0.00530504,
-  "volume": 33518059,
-  "high_52w": 39000,
-  "low_52w": 20900,
-  "pe": 12.4224368074,
-  "pb": 1.683694841,
+  "price_change": -2800,
+  "percent_price_change": -0.06888069,
+  "volume": 38371235,
+  "high_52w": 42000,
+  "low_52w": 21627,
+  "pe": 13.5226658764,
+  "pb": 1.831859987,
   "roe": 0.1401370303,
   "roa": 0.0216683928,
   "eps": 881.6189735331777,
@@ -62,7 +62,7 @@
     },
     {
       "shareholder_name": "Nguyễn Hương Liên",
-      "shareholder_percent": 0.01977
+      "shareholder_percent": 0.0197121
     },
     {
       "shareholder_name": "Morgan Stanley And Co. International Plc",
@@ -121,10 +121,6 @@
       "shareholder_percent": 0.0006415554
     },
     {
-      "shareholder_name": "Phạm Quang Thắng",
-      "shareholder_percent": 0.000485
-    },
-    {
       "shareholder_name": "Phan Thanh Sơn",
       "shareholder_percent": 0.0004604
     },
@@ -139,6 +135,10 @@
     {
       "shareholder_name": "Đỗ Tuấn Anh",
       "shareholder_percent": 0.000424
+    },
+    {
+      "shareholder_name": "Phạm Quang Thắng",
+      "shareholder_percent": 0.0004103
     },
     {
       "shareholder_name": "Công ty Cổ phần Eurowindow Holding",
@@ -170,7 +170,7 @@
     },
     {
       "shareholder_name": "Tập đoàn Dệt May Việt Nam",
-      "shareholder_percent": 0.0001727209
+      "shareholder_percent": 0.00017272
     },
     {
       "shareholder_name": "Nguyễn Thị Lam Hương",
@@ -249,7 +249,7 @@
       "shareholder_percent": 3.93e-05
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Eurofinance",
+      "shareholder_name": "Công ty Cổ phần Eurofinance",
       "shareholder_percent": 3.91e-05
     },
     {
@@ -285,12 +285,8 @@
       "shareholder_percent": 7.4e-06
     },
     {
-      "shareholder_name": "Phùng Thị Mai Hương",
-      "shareholder_percent": 6e-06
-    },
-    {
       "shareholder_name": "Nguyễn Nhị Hà",
-      "shareholder_percent": 4.289e-06
+      "shareholder_percent": 4.29e-06
     }
   ],
   "officers": [
@@ -325,11 +321,6 @@
       "officer_percent": 0.000878
     },
     {
-      "officer_name": "Phạm Quang Thắng",
-      "officer_position": "Phó Tổng Giám đốc",
-      "officer_percent": 0.000485
-    },
-    {
       "officer_name": "Phan Thanh Sơn",
       "officer_position": "Phó Tổng Giám đốc",
       "officer_percent": 0.0004604
@@ -338,6 +329,11 @@
       "officer_name": "Đỗ Tuấn Anh",
       "officer_position": "Phó Chủ tịch Hội đồng Quản trị",
       "officer_percent": 0.000424
+    },
+    {
+      "officer_name": "Phạm Quang Thắng",
+      "officer_position": "Phó Tổng Giám đốc",
+      "officer_percent": 0.0004103
     },
     {
       "officer_name": "Nguyễn Nhân Nghĩa",
@@ -370,13 +366,18 @@
       "officer_percent": 1e-05
     },
     {
-      "officer_name": "Bùi Thị Hồng Mai",
-      "officer_position": "Thành viên Ban kiểm soát",
+      "officer_name": "Saurabh Narayan Agarwal",
+      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     },
     {
-      "officer_name": "Saurabh Narayan Agarwal",
+      "officer_name": "Lee Boon Huat",
       "officer_position": "Thành viên Hội đồng Quản trị",
+      "officer_percent": 0
+    },
+    {
+      "officer_name": "Mag Rer Soc Oec Romauch Hannes",
+      "officer_position": "Thành viên Ban kiểm soát",
       "officer_percent": 0
     },
     {
@@ -390,16 +391,11 @@
       "officer_percent": 0
     },
     {
-      "officer_name": "Mag Rer Soc Oec Romauch Hannes",
+      "officer_name": "Bùi Thị Hồng Mai",
       "officer_position": "Thành viên Ban kiểm soát",
-      "officer_percent": 0
-    },
-    {
-      "officer_name": "Lee Boon Huat",
-      "officer_position": "Thành viên Hội đồng Quản trị",
       "officer_percent": 0
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:18:20.760654"
+  "created_at": "2025-10-21T14:21:43.143952"
 }

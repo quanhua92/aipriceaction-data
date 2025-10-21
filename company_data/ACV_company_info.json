@@ -5,25 +5,29 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 140427673722000,
-  "current_price": 64500,
-  "outstanding_shares": 2177173236,
+  "market_cap": 181650369416100,
+  "current_price": 50700,
+  "outstanding_shares": 3582847523,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">Tổng C&ocirc;ng ty Cảng H&agrave;ng kh&ocirc;ng Việt Nam (ACV) được th&agrave;nh lập v&agrave;o năm 2012 tr&ecirc;n cơ sở hợp nhất Tổng&nbsp;C&ocirc;ng ty Cảng H&agrave;ng kh&ocirc;ng Miền Bắc, Tổng C&ocirc;ng ty Cảng H&agrave;ng kh&ocirc;ng miền Trung v&agrave;&nbsp;Tổng C&ocirc;ng ty Cảng H&agrave;ng kh&ocirc;ng Miền Nam. Tổng C&ocirc;ng ty ch&iacute;nh thức hoạt động theo m&ocirc; h&igrave;nh c&ocirc;ng ty cổ phần từ năm 2016. ACV l&agrave; đơn vị duy nhất quản l&yacute;, vận h&agrave;nh v&agrave; khai th&aacute;c to&agrave;n bộ hệ thống 22 Cảng h&agrave;ng kh&ocirc;ng quốc tế v&agrave; quốc nội tr&ecirc;n to&agrave;n l&atilde;nh thổ Việt Nam. Giai đoạn trước cổ phần h&oacute;a, mỗi năm c&ocirc;ng ty phục vụ tr&ecirc;n 1,006 triệu lượt chuyến bay, 132,61 triệu lượt kh&aacute;ch v&agrave; vận chuyển 2,3 triệu tấn h&agrave;ng h&oacute;a, tăng trung b&igrave;nh 16%/năm.Giai đoạn sau cổ phần, ACV c&oacute; kế hoạch đầu tư x&acirc;y dựng cơ sở hạ tầng tại cảng h&agrave;ng kh&ocirc;ng Quốc tế Nội B&agrave;i, Cảng h&agrave;ng kh&ocirc;ng Quốc t&ecirc; T&acirc;n Sơn Nhất, đầu tư nh&agrave; ga h&agrave;nh kh&aacute;ch quốc tế tại cảng h&agrave;ng kh&ocirc;ng quốc tế Đ&agrave; Nẵng, v&agrave; nh&agrave; ga h&agrave;nh kh&aacute;ch&nbsp;cảng h&agrave;ng kh&ocirc;ng C&aacute;t Bi, Đồng Hới&nbsp;v&agrave; Cảng h&agrave;ng kh&ocirc;ng quốc tế Long Th&agrave;nh đạt cấp 4F, c&ocirc;ng suất 100 triệu h&agrave;ng kh&aacute;ch/năm, 5 triệu tấn h&agrave;ng h&oacute;a/năm.</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -695,
-  "percent_price_change": -0.01062691,
-  "volume": 1414012,
+  "price_change": -1049,
+  "percent_price_change": -0.01982987,
+  "volume": 1054042,
   "high_52w": 78320,
   "low_52w": 45266,
-  "pe": 23.5258928773,
-  "pb": 3.6241341813,
-  "roe": 0.1617370368,
-  "roa": 0.1272017682,
-  "eps": 617.0062449423003,
+  "pe": 19.631608294,
+  "pb": 3.0245868285,
+  "roe": 0.1617590145,
+  "roa": 0.127218514,
+  "eps": 617.3967845454163,
   "revenue": 6358904727276,
-  "net_profit": 2210320065357,
+  "net_profit": 2211715333000,
   "dividend": 0,
   "shareholders": [
+    {
+      "shareholder_name": "Bộ Tài Chính",
+      "shareholder_percent": 0.954
+    },
     {
       "shareholder_name": "Ủy Ban Quản Lý Vốn Nhà Nước Tại Doanh Nghiệp",
       "shareholder_percent": 0.954
@@ -34,7 +38,7 @@
     },
     {
       "shareholder_name": "Vinacapital Vietnam Opportunity Fund Ltd.",
-      "shareholder_percent": 0.0101571364
+      "shareholder_percent": 0.01015714
     },
     {
       "shareholder_name": "PYN Elite Fund",
@@ -143,5 +147,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:09:07.805130"
+  "created_at": "2025-10-21T14:00:42.624744"
 }

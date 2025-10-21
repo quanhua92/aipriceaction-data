@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 443544741076000,
-  "current_price": 116000,
-  "outstanding_shares": 3823661561,
-  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tập đo&agrave;n Vingroup - C&ocirc;ng ty Cổ phần (VIC) c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Cổ phần Thương mại Tổng hợp Việt Nam được th&agrave;nh lập v&agrave;o năm 2002. Tập đo&agrave;n hoạt động trong lĩnh vực bất động sản, du lịch nghỉ dưỡng - vui chơi giải tr&iacute;, b&aacute;n lẻ, c&ocirc;ng nghiệp v&agrave; hạ tầng x&atilde; hội.&nbsp;VIC&nbsp;đ&atilde;&nbsp;đưa v&agrave;o vận h&agrave;nh 27&nbsp;dự &aacute;n với&nbsp;gần 97,200 căn hộ, biệt thự, nh&agrave; phố thương mại&nbsp;được b&agrave;n giao. Về bất động sản b&aacute;n lẻ, Tập đo&agrave;n&nbsp;đ&atilde; ph&aacute;t triển, sở hữu v&agrave; vận h&agrave;nh 80&nbsp;trung t&acirc;m thương mại. Trong lĩnh vực sản xuất &ocirc; t&ocirc;,&nbsp;VinFast l&agrave; thương hiệu &ocirc; t&ocirc; đầu ti&ecirc;n của Việt Nam&nbsp;đạt đẳng cấp chất lượng v&agrave; mọi ti&ecirc;u chuẩn để xuất khẩu sang Hoa Kỳ.&nbsp;Ngo&agrave;i ra, VIC c&ograve;n tham gia đầu tư ph&aacute;t triển hạ tầng x&atilde; hội trong c&aacute;c lĩnh vực y tế, gi&aacute;o dục. VIC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 09/2007.</div>\r\n",
+  "market_cap": 750952723288800,
+  "current_price": 194900,
+  "outstanding_shares": 3853015512,
+  "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">Tập đo&agrave;n Vingroup - C&ocirc;ng ty Cổ phần (VIC) c&oacute; tiền th&acirc;n l&agrave;&nbsp;C&ocirc;ng ty Cổ phần Thương mại Tổng hợp Việt Nam được th&agrave;nh lập v&agrave;o năm 2002. Tập đo&agrave;n hoạt động trong lĩnh vực bất động sản, du lịch nghỉ dưỡng - vui chơi giải tr&iacute;, b&aacute;n lẻ, c&ocirc;ng nghiệp v&agrave; hạ tầng x&atilde; hội.&nbsp;VIC&nbsp;đ&atilde;&nbsp;đưa v&agrave;o vận h&agrave;nh 27&nbsp;dự &aacute;n với&nbsp;gần 97,200 căn hộ, biệt thự, nh&agrave; phố thương mại&nbsp;được b&agrave;n giao. Về bất động sản b&aacute;n lẻ, Tập đo&agrave;n&nbsp;đ&atilde; ph&aacute;t triển, sở hữu v&agrave; vận h&agrave;nh 80&nbsp;trung t&acirc;m thương mại. Trong lĩnh vực sản xuất &ocirc; t&ocirc;,&nbsp;VinFast l&agrave; thương hiệu &ocirc; t&ocirc; đầu ti&ecirc;n của Việt Nam&nbsp;đạt đẳng cấp chất lượng v&agrave; mọi ti&ecirc;u chuẩn để xuất khẩu sang Hoa Kỳ.&nbsp;Ngo&agrave;i ra, VIC c&ograve;n tham gia đầu tư ph&aacute;t triển hạ tầng x&atilde; hội trong c&aacute;c lĩnh vực y tế, gi&aacute;o dục. VIC được ni&ecirc;m yết v&agrave; giao dịch tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 09/2007.</div>",
   "website": null,
-  "price_change": 500,
-  "percent_price_change": 0.004329,
-  "volume": 4117115,
-  "high_52w": 124700,
+  "price_change": -9100,
+  "percent_price_change": -0.04460784,
+  "volume": 5696503,
+  "high_52w": 219700,
   "low_52w": 39700,
-  "pe": 32.4026925203,
-  "pb": 3.0641264087,
-  "roe": 0.0989310292,
-  "roa": 0.0162599509,
-  "eps": -151.94493307824428,
-  "revenue": 46325273000000,
-  "net_profit": -580986000000,
+  "pe": 60.7703103506,
+  "pb": 5.6558778117,
+  "roe": 0.0964351479,
+  "roa": 0.0158672857,
+  "eps": -244.20067790269513,
+  "revenue": 46435488000000,
+  "net_profit": -940909000000,
   "dividend": 0,
   "shareholders": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "shareholder_name": "Phạm Nhật Vượng",
-      "shareholder_percent": 0.116
+      "shareholder_percent": 0.1004
     },
     {
       "shareholder_name": "Công Ty Cổ Phần Quản Lý Và Đầu Tư Bất Động Sản Vmi",
@@ -45,6 +45,10 @@
       "shareholder_percent": 0.044
     },
     {
+      "shareholder_name": "Công ty Cổ phần Năng lượng Vinenergo",
+      "shareholder_percent": 0.0427
+    },
+    {
       "shareholder_name": "Công ty Cổ phần Đầu tư và Phát triển Đường sắt Cao tốc VINSPEED",
       "shareholder_percent": 0.035
     },
@@ -55,10 +59,6 @@
     {
       "shareholder_name": "Phạm Thúy Hằng",
       "shareholder_percent": 0.02985
-    },
-    {
-      "shareholder_name": "Công ty Cổ phần Năng lượng Vinenergo",
-      "shareholder_percent": 0.0272
     },
     {
       "shareholder_name": "Công ty CP Đầu Tư Và Phát Triển Địa Ốc Thành Phố Hoàng Gia",
@@ -79,6 +79,10 @@
     {
       "shareholder_name": "Phan Thu Hương",
       "shareholder_percent": 0.0125279
+    },
+    {
+      "shareholder_name": "Công ty TNHH Bất Động Sản Hoa Phượng",
+      "shareholder_percent": 0.0076
     },
     {
       "shareholder_name": "Công ty TNHH MTV Vinpearl Hội An",
@@ -173,7 +177,7 @@
       "shareholder_percent": 4.454e-05
     },
     {
-      "shareholder_name": "Nguyễn Thế Anh",
+      "shareholder_name": "Mai Hương Nội",
       "shareholder_percent": 4e-05
     },
     {
@@ -181,19 +185,19 @@
       "shareholder_percent": 4e-05
     },
     {
+      "shareholder_name": "Nguyễn Thế Anh",
+      "shareholder_percent": 4e-05
+    },
+    {
       "shareholder_name": "Mai Thu Thủy",
       "shareholder_percent": 4e-05
     },
     {
-      "shareholder_name": "Mai Hương Nội",
-      "shareholder_percent": 4e-05
-    },
-    {
-      "shareholder_name": "Bế Thị Thuần",
+      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
       "shareholder_percent": 2e-05
     },
     {
-      "shareholder_name": "Quỹ Đầu tư Cổ phiếu Manulife",
+      "shareholder_name": "Bế Thị Thuần",
       "shareholder_percent": 2e-05
     },
     {
@@ -229,7 +233,7 @@
     {
       "officer_name": "Phạm Nhật Vượng",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.116
+      "officer_percent": 0.1004
     },
     {
       "officer_name": "Phạm Thu Hương",
@@ -267,13 +271,13 @@
       "officer_percent": 4e-05
     },
     {
-      "officer_name": "Nguyễn Thị Thu Hiền",
-      "officer_position": "Kế toán trưởng",
+      "officer_name": "Nguyễn Thế Anh",
+      "officer_position": "Trưởng Ban kiểm soát",
       "officer_percent": 4e-05
     },
     {
-      "officer_name": "Nguyễn Thế Anh",
-      "officer_position": "Trưởng Ban kiểm soát",
+      "officer_name": "Nguyễn Thị Thu Hiền",
+      "officer_position": "Kế toán trưởng",
       "officer_percent": 4e-05
     },
     {
@@ -323,5 +327,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-14T09:20:41.266772"
+  "created_at": "2025-10-21T14:25:21.007726"
 }

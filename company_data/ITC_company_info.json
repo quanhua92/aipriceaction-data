@@ -5,23 +5,23 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 1715482280200,
-  "current_price": 17800,
+  "market_cap": 1281792939700,
+  "current_price": 13300,
   "outstanding_shares": 96375409,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p>C&ocirc;ng ty Cổ phần Đầu tư - Kinh doanh nh&agrave; (ITC) tiền th&acirc;n l&agrave; Doanh nghiệp nh&agrave; nước Đầu tư - Kinh doanh nh&agrave; thuộc Tổng C&ocirc;ng ty Địa ốc S&agrave;i G&ograve;n. C&ocirc;ng ty ch&iacute;nh thức đi v&agrave;o hoạt động theo h&igrave;nh thức C&ocirc;ng ty Cổ phần v&agrave;o th&aacute;ng 01/2001 với vốn điều lệ l&agrave; 25 tỷ đồng. Hoạt động kinh doanh của c&ocirc;ng ty tập trung v&agrave;o: Đầu tư kinh doanh bất động sản; Thực hiện c&aacute;c dịch vụ về bất động sản; Tư vấn lập dự &aacute;n đầu tư, thiết kế qui hoạch; Khảo s&aacute;t thiết kế c&ocirc;ng tr&igrave;nh x&acirc;y dựng.&nbsp;C&ocirc;ng ty c&oacute;&nbsp;quỹ đất lớn, hiện nắm giữ khoảng 1.000 ha (t&iacute;nh theo tỷ lệ sở hữu của c&ocirc;ng ty), trong đ&oacute; diện t&iacute;ch đất của c&aacute;c dự &aacute;n đang triển khai khoảng 600 ha. Quỹ đất sạch của C&ocirc;ng ty hiện c&oacute; khoảng 100 ha, phần lớn tập trung ở c&aacute;c Quận 2, Quận 9 v&agrave;&nbsp;huyện Nh&agrave; B&egrave;. C&aacute;c c&ocirc;ng tr&igrave;nh c&ocirc;ng ty đ&atilde; thực hiện được như: Cao ốc Cao An&nbsp;nằm trong&nbsp;khu&ocirc;n vi&ecirc;n 3.969m2 cao 17 tầng v&agrave; 1 tầng hầm với 122 căn hộ; Cao Ốc Thịnh Vượng với diện t&iacute;ch khu&ocirc;n vi&ecirc;n 3.549m2, quy m&ocirc; 15 tầng gồm 182 căn hộ...c&ugrave;ng với nhiều tiện &iacute;ch c&oacute; sẵn như: chợ, si&ecirc;u thị, bệnh viện, trường học, trung t&acirc;m văn h&oacute;a.....Ng&agrave;y 19/10/2019, ITC ch&iacute;nh thức giao dịch tr&ecirc;n Sở Giao dịch chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE)</p>\r\n</div>\r\n",
   "website": null,
-  "price_change": -200,
-  "percent_price_change": -0.01111111,
-  "volume": 593520,
+  "price_change": -1000,
+  "percent_price_change": -0.06993007,
+  "volume": 307172,
   "high_52w": 18100,
   "low_52w": 8910,
-  "pe": 45.9655664527,
-  "pb": 0.778396789,
-  "roe": 0.0170570035,
-  "roa": 0.0091100984,
-  "eps": 108.80487418107224,
-  "revenue": 187718007642,
-  "net_profit": 10438200936,
+  "pe": 40.4859645606,
+  "pb": 0.6111764554,
+  "roe": 0.0151841065,
+  "roa": 0.0081446179,
+  "eps": 66.12233151619071,
+  "revenue": 187690734915,
+  "net_profit": 6343449114,
   "dividend": 0,
   "shareholders": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "shareholder_name": "Dương Thanh Thủy",
-      "shareholder_percent": 0.0103641668
+      "shareholder_percent": 0.01036417
     },
     {
       "shareholder_name": "Trương Minh Thuận",
@@ -90,11 +90,11 @@
     },
     {
       "shareholder_name": "Nguyễn Thúc Quang",
-      "shareholder_percent": 0.0069417114
+      "shareholder_percent": 0.00694171
     },
     {
       "shareholder_name": "Lê Thị Khánh Xương",
-      "shareholder_percent": 0.0064422382
+      "shareholder_percent": 0.00644224
     },
     {
       "shareholder_name": "Nguyễn Thị Xuân Trang",
@@ -214,5 +214,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:08:37.789821"
+  "created_at": "2025-10-21T14:12:47.652522"
 }

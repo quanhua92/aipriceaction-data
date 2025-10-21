@@ -5,18 +5,18 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 32548416806400,
-  "current_price": 13200,
-  "outstanding_shares": 2465789152,
+  "market_cap": 31956627408000,
+  "current_price": 12000,
+  "outstanding_shares": 2663052284,
   "company_profile": "<div style=\"font-family: Arial; font-size: 10pt; text-align: justify;\">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Phương Đ&ocirc;ng (OCB) được th&agrave;nh lập v&agrave;o năm 1996. Ng&acirc;n h&agrave;ng hoạt động trong lĩnh vực huy động, cấp t&iacute;n dụng&nbsp;v&agrave; c&aacute;c&nbsp;dịch vụ t&agrave;i ch&iacute;nh li&ecirc;n quan. OCB được ni&ecirc;m yết tr&ecirc;n Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ th&aacute;ng 12/2020.&nbsp;Năm 2024, so với c&ugrave;ng kỳ, Bi&ecirc;n l&atilde;i thuần (NIM) ở mức 3.45%, tăng 0.15%. Tỷ lệ nợ xấu ở mức 3.17%, tăng 0.51%. Tỷ lệ bao phủ nợ xấu ở mức 47.14%, giảm 16.96%. Lợi nhuận sau thuế c&oacute; gi&aacute; trị bằng 3,2 ngh&igrave;n tỷ đồng, giảm 3.93%. Tỷ suất lợi nhuận tr&ecirc;n vốn chủ sở hữu (ROE) ở mức 10.54%, giảm 1.74%.</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 500,
-  "percent_price_change": 0.03937008,
-  "volume": 13623417,
-  "high_52w": 13400,
+  "price_change": -900,
+  "percent_price_change": -0.06976744,
+  "volume": 6979522,
+  "high_52w": 15400,
   "low_52w": 7799,
-  "pe": 11.640335665,
-  "pb": 1.0615622806,
+  "pe": 11.4198747622,
+  "pb": 1.0414569344,
   "roe": 0.0942532094,
   "roa": 0.0105167177,
   "eps": 297.75225799847647,
@@ -29,7 +29,7 @@
       "shareholder_percent": 0.15
     },
     {
-      "shareholder_name": "Công ty Cổ Phần Greenwave Capital",
+      "shareholder_name": "Công ty Cổ phần Greenwave Capital",
       "shareholder_percent": 0.04966
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "shareholder_name": "Trịnh Văn Tuấn",
-      "shareholder_percent": 0.0443
+      "shareholder_percent": 0.04434
     },
     {
       "shareholder_name": "Công ty Cổ phần Đầu tư HVR",
@@ -101,16 +101,16 @@
       "shareholder_percent": 0.0184
     },
     {
-      "shareholder_name": "Trịnh Mai Vân",
-      "shareholder_percent": 0.0119
-    },
-    {
-      "shareholder_name": "Công Ty TNHH Đầu Tư Tqa",
+      "shareholder_name": "Công Ty TNHH Đầu Tư TQA",
       "shareholder_percent": 0.01132
     },
     {
+      "shareholder_name": "Trịnh Mai Vân",
+      "shareholder_percent": 0.010077
+    },
+    {
       "shareholder_name": "Công ty Cổ phần Đầu Tư Xây Dựng Kinh Doanh Nhà Bến Thành",
-      "shareholder_percent": 0.0087051493
+      "shareholder_percent": 0.00870515
     },
     {
       "shareholder_name": "Ngô Hà Bắc",
@@ -129,6 +129,10 @@
       "shareholder_percent": 0.0023
     },
     {
+      "shareholder_name": "Nguyễn Văn Tuấn",
+      "shareholder_percent": 0.00183
+    },
+    {
       "shareholder_name": "Nguyễn Việt Triều",
       "shareholder_percent": 0.00167
     },
@@ -145,11 +149,11 @@
       "shareholder_percent": 0.0003
     },
     {
-      "shareholder_name": "Nguyễn Văn Hương",
+      "shareholder_name": "Trương Đình Long",
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Trương Đình Long",
+      "shareholder_name": "Nguyễn Văn Hương",
       "shareholder_percent": 0.0002
     },
     {
@@ -157,12 +161,8 @@
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Huỳnh Lê Mai",
-      "shareholder_percent": 0.0001
-    },
-    {
-      "shareholder_name": "Nguyễn Thị Thúy Minh",
-      "shareholder_percent": 0.0001
+      "shareholder_name": "Nguyễn Thị Yên",
+      "shareholder_percent": 0.000136
     },
     {
       "shareholder_name": "Đào Minh Anh",
@@ -170,6 +170,14 @@
     },
     {
       "shareholder_name": "Trương Thành Nam",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Huỳnh Lê Mai",
+      "shareholder_percent": 0.0001
+    },
+    {
+      "shareholder_name": "Nguyễn Thị Thúy Minh",
       "shareholder_percent": 0.0001
     },
     {
@@ -181,11 +189,11 @@
       "shareholder_percent": 1e-05
     },
     {
-      "shareholder_name": "Nguyễn Văn Hải",
+      "shareholder_name": "Hoàng Thị Tuyết Hạnh",
       "shareholder_percent": 6e-06
     },
     {
-      "shareholder_name": "Hoàng Thị Tuyết Hạnh",
+      "shareholder_name": "Nguyễn Văn Hải",
       "shareholder_percent": 6e-06
     }
   ],
@@ -193,7 +201,7 @@
     {
       "officer_name": "Trịnh Văn Tuấn",
       "officer_position": "Chủ tịch Hội đồng Quản trị",
-      "officer_percent": 0.0443
+      "officer_percent": 0.04434
     },
     {
       "officer_name": "Trịnh Thị Mai Anh",
@@ -287,5 +295,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:11:35.185553"
+  "created_at": "2025-10-21T14:17:04.332014"
 }

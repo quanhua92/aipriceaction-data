@@ -5,32 +5,28 @@
   "company_type": null,
   "established_year": null,
   "employees": null,
-  "market_cap": 11848821957300,
-  "current_price": 31650,
+  "market_cap": 9415414604300,
+  "current_price": 25150,
   "outstanding_shares": 374370362,
   "company_profile": "<div style=\"FONT-FAMILY: Arial; FONT-SIZE: 10pt;\">\r\n<p class=\"MsoNormal\">C&ocirc;ng ty Cổ phần Container Việt Nam (VSC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Container Việt Nam, được th&agrave;nh lập v&agrave;o&nbsp;năm 1985. C&ocirc;ng ty&nbsp;được cổ phần h&oacute;a năm 2002.&nbsp;C&ocirc;ng ty hoạt động ch&iacute;nh trong lĩnh vực&nbsp;vận h&agrave;nh kinh doanh cảng,&nbsp;kho b&atilde;i. VSC hiện đang khai th&aacute;c&nbsp;02 cảng tại Hải Ph&ograve;ng l&agrave; cảng Green Port v&agrave; cảng VIP Green.&nbsp;B&ecirc;n cạnh&nbsp;đ&oacute;, C&ocirc;ng ty hiện c&oacute; 278.550 m2 kho b&atilde;i v&agrave; kho CFS tại Hải Ph&ograve;ng, Đ&agrave; Nẵng v&agrave; th&agrave;nh phố Hồ Ch&iacute; Minh. VSC được ni&ecirc;m yết tr&ecirc;n&nbsp;Sở Giao dịch Chứng kho&aacute;n Th&agrave;nh phố Hồ Ch&iacute; Minh (HOSE) từ năm 2007.</p>\r\n</div>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
   "website": null,
-  "price_change": 2050,
-  "percent_price_change": 0.06925676,
-  "volume": 18402574,
-  "high_52w": 31650,
+  "price_change": -1850,
+  "percent_price_change": -0.06851852,
+  "volume": 14505154,
+  "high_52w": 38650,
   "low_52w": 10826,
-  "pe": 27.569284811,
-  "pb": 2.5402513777,
+  "pe": 24.2156751263,
+  "pb": 2.2312476556,
   "roe": 0.0924873554,
   "roa": 0.0523748039,
   "eps": 310.47778987910374,
   "revenue": 806901150183,
   "net_profit": 116233682590,
-  "dividend": 0.0315955766,
+  "dividend": 0.035971223,
   "shareholders": [
     {
       "shareholder_name": "Thái Thị Nga",
       "shareholder_percent": 0.1067
-    },
-    {
-      "shareholder_name": "Công ty TNHH MTV Quản Lý Quỹ Ngân Hàng Thương Mại Cổ phần Công Thương Việt Nam",
-      "shareholder_percent": 0.0682
     },
     {
       "shareholder_name": "Lê Thị Thu Trang",
@@ -46,7 +42,7 @@
     },
     {
       "shareholder_name": "Forum One-vcg Partners Vietnam Fund",
-      "shareholder_percent": 0.0491680011
+      "shareholder_percent": 0.049168
     },
     {
       "shareholder_name": "Vietnam Holding Ltd",
@@ -57,12 +53,12 @@
       "shareholder_percent": 0.0453
     },
     {
-      "shareholder_name": "PXP Vietnam Emerging Equity Fund",
-      "shareholder_percent": 0.0423165747
+      "shareholder_name": "Công ty TNHH Đầu tư TM",
+      "shareholder_percent": 0.0433
     },
     {
-      "shareholder_name": "Công ty TNHH Đầu tư TM",
-      "shareholder_percent": 0.0365
+      "shareholder_name": "PXP Vietnam Emerging Equity Fund",
+      "shareholder_percent": 0.04231657
     },
     {
       "shareholder_name": "Công ty Cổ phần Sao Á",
@@ -87,6 +83,10 @@
     {
       "shareholder_name": "Đoàn Quang Huy",
       "shareholder_percent": 0.02824
+    },
+    {
+      "shareholder_name": "Công ty TNHH MTV Quản Lý Quỹ Ngân Hàng Thương Mại Cổ phần Công Thương Việt Nam",
+      "shareholder_percent": 0.028
     },
     {
       "shareholder_name": "Norges Bank",
@@ -181,16 +181,16 @@
       "shareholder_percent": 0.0022
     },
     {
-      "shareholder_name": "Nguyễn Đức Dũng",
-      "shareholder_percent": 0.00218
+      "shareholder_name": "Nguyễn Hoàng Linh",
+      "shareholder_percent": 0.0019
     },
     {
       "shareholder_name": "Tạ Công Thông",
-      "shareholder_percent": 0.00192
+      "shareholder_percent": 0.00183
     },
     {
-      "shareholder_name": "Nguyễn Hoàng Linh",
-      "shareholder_percent": 0.0019
+      "shareholder_name": "Nguyễn Đức Dũng",
+      "shareholder_percent": 0.0016
     },
     {
       "shareholder_name": "Franklin Templeton Frontier Markets Equity Master Fund",
@@ -205,11 +205,11 @@
       "shareholder_percent": 0.0013617187
     },
     {
-      "shareholder_name": "Nguyễn Văn Tiến",
+      "shareholder_name": "Lê Thế Trung",
       "shareholder_percent": 0.0012
     },
     {
-      "shareholder_name": "Lê Thế Trung",
+      "shareholder_name": "Nguyễn Văn Tiến",
       "shareholder_percent": 0.0012
     },
     {
@@ -250,7 +250,7 @@
     },
     {
       "shareholder_name": "Ninh Văn Hiến",
-      "shareholder_percent": 0.00051
+      "shareholder_percent": 0.0005
     },
     {
       "shareholder_name": "Đặng Trần Gia Thoại",
@@ -281,6 +281,14 @@
       "shareholder_percent": 0.000235416
     },
     {
+      "shareholder_name": "Nguyễn Thế Trọng",
+      "shareholder_percent": 0.00021
+    },
+    {
+      "shareholder_name": "Dương  Tiến Dũng",
+      "shareholder_percent": 0.0002
+    },
+    {
       "shareholder_name": "Cáp Trọng Cường",
       "shareholder_percent": 0.0002
     },
@@ -289,19 +297,15 @@
       "shareholder_percent": 0.0002
     },
     {
-      "shareholder_name": "Dương  Tiến Dũng",
-      "shareholder_percent": 0.0002
-    },
-    {
-      "shareholder_name": "Đặng Thanh Tâm",
-      "shareholder_percent": 0.00017
-    },
-    {
       "shareholder_name": "Phan Thị Trung Hiếu",
       "shareholder_percent": 0.00017
     },
     {
       "shareholder_name": "Trần Thị Diệu Hương",
+      "shareholder_percent": 0.00017
+    },
+    {
+      "shareholder_name": "Đặng Thanh Tâm",
       "shareholder_percent": 0.00017
     },
     {
@@ -362,11 +366,11 @@
     {
       "officer_name": "Tạ Công Thông",
       "officer_position": "Thành viên Hội đồng Quản trị",
-      "officer_percent": 0.00192
+      "officer_percent": 0.00183
     },
     {
       "officer_name": "Lê Thế Trung",
-      "officer_position": "Phụ trách Công bố thông tin/Kế toán trưởng/Người phụ trách quản trị công ty",
+      "officer_position": "Kế toán trưởng/Người phụ trách quản trị công ty/Phụ trách Công bố thông tin",
       "officer_percent": 0.0012
     },
     {
@@ -416,5 +420,5 @@
     }
   ],
   "data_source": "VCI",
-  "created_at": "2025-08-15T07:17:53.423394"
+  "created_at": "2025-10-21T14:27:01.852645"
 }
