@@ -171,6 +171,10 @@
     "company_name": "Các khách hàng lớn của công ty là: Công ty TNHH URC VIệt Nam, Công ty Cổ phần thực phẩm Masan, Công ty TNHH Hyosung VIet Nam,",
     "market_cap": 1012624181250
   },
+  "CRV": {
+    "company_name": "CRV",
+    "market_cap": null
+  },
   "CSC": {
     "company_name": "Công ty Cổ phần Tập đoàn COTANA",
     "market_cap": 1012271894400
@@ -922,6 +926,10 @@
   "TCM": {
     "company_name": "Công ty Cổ phần Dệt May Thành Công",
     "market_cap": 3616489361250
+  },
+  "TCX": {
+    "company_name": "TCX",
+    "market_cap": null
   },
   "TDC": {
     "company_name": "Công ty Cổ phần Kinh doanh và Phát triển B&igrave;nh Dương",

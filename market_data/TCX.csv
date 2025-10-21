@@ -1,0 +1,2 @@
+ticker,time,open,high,low,close,volume,ma10,ma20,ma50,ma10_score,ma20_score,ma50_score,money_flow,dollar_flow,trend_score
+TCX,2025-10-21,49.8,51.0,48.45,48.95,14668000,,,,,,,-1.1571,-1.8873,0.1157
